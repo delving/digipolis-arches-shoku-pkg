@@ -147,6 +147,22 @@
             "export": true
         },
         {
+            "arches_nodeid": "760c9eae-e538-11ed-94ee-00163e71351b",
+            "arches_node_name": "DAMS Manifest Type",
+            "file_field_name": "DAMS Manifest Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "760c9d32-e538-11ed-94ee-00163e71351b",
+            "arches_node_name": "DAMS URL Type",
+            "file_field_name": "DAMS URL Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
             "arches_nodeid": "64756bb6-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Dimension Measurement Unit",
             "file_field_name": "Dimension Measurement Unit",
@@ -254,7 +270,14 @@
             "export": true
         },
         {
-            "arches_nodeid": "6475845c-ac0f-11ec-b19f-9cf387da2c40",
+            "arches_nodeid": "760c9256-e538-11ed-94ee-00163e71351b",
+            "arches_node_name": "Image Manifest",
+            "file_field_name": "Image Manifest",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "760c9b84-e538-11ed-94ee-00163e71351b",
             "arches_node_name": "Image URL",
             "file_field_name": "Image URL",
             "data_type": "url",
