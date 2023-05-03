@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3044,https://data.rubenianum.be//ark:/86530/fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,Handschriften,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3037,Verwijzing naar Grossmann object,,d77be55e-7f94-5cf9-b765-f3dd22af376c,"[{""resourceId"": ""d77be55e-7f94-5cf9-b765-f3dd22af376c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""604c8833-da57-4f68-ba98-0d40e93e31ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3096778c-7d2d-4bdb-bb98-34cdd3390afc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97f90486-698c-4f8e-9f67-533c61c5388f"", ""inverseOntologyProperty"": """"}]"
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 62. Ad Bruegel's Heide. Denucé, Inv. 1932., p. 88 Nicolas Rockox + 12 Dec. 1640 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rockox, Nicolaas",,,,,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003044,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5268</priref>
+			<number>AFG_089_044</number>
+			<part_of_reference>AFG_089_037</part_of_reference>
+			<content>Ad [Addendum] 62. Ad Bruegel's Heide. Denuc&#233;, Inv. 1932., p. 88 Nicolas Rockox + 12 Dec. 1640 [...]</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Heidelandschaft. Going to the Market. [doorstreept] 52a. My N&#176; 62.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<keyword>Rockox, Nicolaas</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<input.date>2014-04-25</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-25</edit.date>
+			<edit.date>2014-04-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:38:00</edit.time>
+			<edit.time>16:33:38</edit.time>
+			<edit.time>16:32:36</edit.time>
+			<input.time>16:32:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3044,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3044/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c4be6619-8244-561f-9f8d-c95c1bafd77f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""42460725-4553-4134-ac13-db769268c425"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_044,repository numbers,,,,,,,,,,,,,,
+fd44fd5d-5b09-5b09-80a9-1b648f7bbf3d,tg:rubgr:3044,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_044,titles proper,Dutch (language),,,,,,,,,,,

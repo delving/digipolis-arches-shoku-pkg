@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3470,https://data.rubenianum.be//ark:/86530/3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,Handschriften,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c5cf4bba-40d7-48bf-9621-39c166e34014"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3469,Verwijzing naar Grossmann object,,6eb3bcdf-9516-5dd4-bcae-ed063b724290,"[{""resourceId"": ""6eb3bcdf-9516-5dd4-bcae-ed063b724290"", ""ontologyProperty"": """", ""resourceXresourceId"": ""df4f7fe3-c10b-4737-8330-23eaa14674c0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ed44f728-8904-415f-8d71-53029bc5486e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e431ef5d-5d01-48cd-859c-743f9f8d14de"", ""inverseOntologyProperty"": """"}]"
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] John Shearman, Andrea del Sarto, 2 vols., Oxford 1965, vol. I, p. 57; vol. II, pp. 295, 294, 297.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13259394,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Franciabigio,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sarto, Andrea del",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Shearman, John",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003470,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5723</priref>
+			<number>AFG_094_034</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<part_of_reference>AFG_094_033</part_of_reference>
+			<content>[3 bladen] John Shearman, Andrea del Sarto, 2 vols., Oxford 1965, vol. I, p. 57; vol. II, pp. 295, 294, 297.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<part_of.title>Ad [Addendum] [verso] Bruegel: Icarus. Korte inhoud: Vraagt advies over een tekening (coll. Manfred Selig)diie verband staat met Franciabigio, Chiostro dello Scalzo, fresco, Meeting of the Holy Family with St. John; stuurt 2 foto's [scan]; 1 zw/w foto: 'Manfred Selig' [sic]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Franciabigio</keyword>
+			<keyword>Sarto, Andrea del</keyword>
+			<keyword>Shearman, John</keyword>
+			<object.creator/>
+			<documentation.author>Shearman, John</documentation.author>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2018-05-30</edit.date>
+			<edit.date>2014-09-25</edit.date>
+			<edit.date>2014-09-25</edit.date>
+			<edit.date>2014-06-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Andrea del Sarto</documentation.title>
+			<edit.time>11:28:02</edit.time>
+			<edit.time>10:50:40</edit.time>
+			<edit.time>10:50:25</edit.time>
+			<edit.time>14:25:03</edit.time>
+			<input.time>14:23:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3470,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3470/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""286fc720-db44-5c4a-93ff-6bb3fac695b4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dd02602d-854b-4c32-b32f-0fde01f3512e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_034,repository numbers,,,,,,,,,,,,,,
+3e924fe7-3757-59bf-8b4a-9861b5fb9a0a,tg:rubgr:3470,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_034,titles proper,Dutch (language),,,,,,,,,,,

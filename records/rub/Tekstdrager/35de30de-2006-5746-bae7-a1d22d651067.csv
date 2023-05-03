@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4966,https://data.rubenianum.be//ark:/86530/35de30de-2006-5746-bae7-a1d22d651067,Handschriften,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f64c4ce6-a486-4b8d-a635-fbed1ae12e2f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ccdebc49-b74a-46bd-a652-c4947112b889"", ""inverseOntologyProperty"": """"}]"
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18 bladen referenties; 3 krantenknipsels met boekbesprekingen; 15 bibiotheekformulieren d.d. april 1954, januari 1955.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004966,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7222</priref>
+			<number>AFG_137_001</number>
+			<content>18 bladen referenties; 3 krantenknipsels met boekbesprekingen; 15 bibiotheekformulieren d.d. april 1954, januari 1955.</content>
+			<object.object_number>AFG_137</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Ortelius: Religion</object.title>
+			<object.creator/>
+			<input.date>2014-08-07</input.date>
+			<edit.date>2014-08-07</edit.date>
+			<edit.date>2014-08-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:26:06</edit.time>
+			<edit.time>09:42:16</edit.time>
+			<input.time>09:09:56</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4966,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4966/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""631e81d4-a49d-50d5-918f-ace31df70d38"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cac8657d-925e-40cc-8eb1-3c18de5cb781"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_001,repository numbers,,,,,,,,,,,,,,
+35de30de-2006-5746-bae7-a1d22d651067,tg:rubgr:4966,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_001,titles proper,Dutch (language),,,,,,,,,,,

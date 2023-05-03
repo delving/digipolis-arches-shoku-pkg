@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5116,https://data.rubenianum.be//ark:/86530/29c175ec-4dde-50df-a7ed-ffa0cba65bc3,Handschriften,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5113,Verwijzing naar Grossmann object,,001907f7-464a-5fa9-b9b1-2ef619e34788,"[{""resourceId"": ""001907f7-464a-5fa9-b9b1-2ef619e34788"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33930d48-0816-42db-9eb6-430a30f9eff8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9fdef240-177c-4be1-8283-94ca8cc2e490"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8a68b0b-6d34-4db9-a169-04e1bf58a3c2"", ""inverseOntologyProperty"": """"}]"
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ask Stridbeck, p. 287: Addendum 'Mann in Sommer' Abbildung von Antiken Torso Pasquino.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,torso Pasquino,,,,,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stridbeck, Carl Gustav",,,,,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005116,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7372</priref>
+			<number>AFG_142_033</number>
+			<part_of_reference>AFG_142_030</part_of_reference>
+			<content>Ask Stridbeck, p. 287: Addendum 'Mann in Sommer' Abbildung von Antiken Torso Pasquino.</content>
+			<object.object_number>AFG_142</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[vouwblad] Zur Disputation:  1) Nemo; 2) Coornhert Verfasser der Unterschriften bei Tugenden und (oder) Lasten; 3) 'Kirche' f&#252;r Haus Gottes, Gott, Religion, nicht die Justitia, katholische Kirche; 4) Kreuz bei verschiedenen Lasten?; 5) Seesturm; zueine weiterer Emblemata; Positive Sachen [...][scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Stridbeck, Disputation, Sweden</object.title>
+			<keyword>tekenkunst</keyword>
+			<keyword>torso Pasquino</keyword>
+			<keyword>Stridbeck, Carl Gustav</keyword>
+			<object.creator/>
+			<input.date>2014-08-13</input.date>
+			<edit.date>2014-08-13</edit.date>
+			<edit.date>2014-08-13</edit.date>
+			<edit.date>2014-08-13</edit.date>
+			<edit.date>2014-08-13</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:20:42</edit.time>
+			<edit.time>10:18:45</edit.time>
+			<edit.time>10:09:39</edit.time>
+			<edit.time>10:08:35</edit.time>
+			<input.time>10:06:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5116,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5116/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""988aa925-b34e-52f2-92cd-adcd1abb73c5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a0c4d91b-50c9-4657-8ebd-79b2dae393a1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_142_033,repository numbers,,,,,,,,,,,,,,
+29c175ec-4dde-50df-a7ed-ffa0cba65bc3,tg:rubgr:5116,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_142_033,titles proper,Dutch (language),,,,,,,,,,,

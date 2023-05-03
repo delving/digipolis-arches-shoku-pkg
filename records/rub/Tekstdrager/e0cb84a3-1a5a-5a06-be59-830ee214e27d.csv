@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1873,https://data.rubenianum.be//ark:/86530/e0cb84a3-1a5a-5a06-be59-830ee214e27d,Handschriften,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""32cb3e2e-b415-46d0-a676-2dc77d61d745"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11f9dea9-111d-4323-99f8-82917aeb912f"", ""inverseOntologyProperty"": """"}]"
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Storm at Sea. Th. von Frimmel, Kleine Galeriestudien, Neue Folge, II Lieferung. Von dem Niederländen in der Kaiserl. Gemälde Slg. zu Wien, Wien 1895, citaat p. 37; [verso] Geschichte der Wiener Gemäldesammlungen, 1899, citaat p. 512.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13268264,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_ExternalRelationsExtras,a::rub.49,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,57129,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frimmel, Theodor von",,,,,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001873,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4124</priref>
+			<number>AFG_050_026</number>
+			<content>[recto] Storm at Sea. Th. von Frimmel, Kleine Galeriestudien, Neue Folge, II Lieferung. Von dem Niederl&#228;nden in der Kaiserl. Gem&#228;lde Slg. zu Wien, Wien 1895, citaat p. 37; [verso] Geschichte der Wiener Gem&#228;ldesammlungen, 1899, citaat p. 512.</content>
+			<object.object_number>AFG_050</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Storm at Sea</object.title>
+			<keyword>Frimmel, Theodor von</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Frimmel, Theodor von</documentation.author>
+			<input.date>2013-02-11</input.date>
+			<edit.date>2014-10-09</edit.date>
+			<edit.date>2013-03-29</edit.date>
+			<edit.date>2013-03-29</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Kleine Galeriestudien : neue Folge :</documentation.title>
+			<edit.time>13:26:48</edit.time>
+			<edit.time>12:13:58</edit.time>
+			<edit.time>12:13:06</edit.time>
+			<edit.time>11:07:03</edit.time>
+			<edit.time>11:06:27</edit.time>
+			<edit.time>11:01:58</edit.time>
+			<input.time>10:58:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1873,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1873/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""afb9c166-9d5b-5e23-b127-9e39973f8c4a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""231e9fe6-a52d-4e07-8c35-abfbd4bcb45d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_050_026,repository numbers,,,,,,,,,,,,,,
+e0cb84a3-1a5a-5a06-be59-830ee214e27d,tg:rubgr:1873,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_050_026,titles proper,Dutch (language),,,,,,,,,,,

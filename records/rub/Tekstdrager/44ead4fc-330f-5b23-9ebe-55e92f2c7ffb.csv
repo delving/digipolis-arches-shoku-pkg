@@ -1,0 +1,87 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1039,https://data.rubenianum.be//ark:/86530/44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,Handschriften,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_AssociatedArchives,2,,,,,,AFG_017,isad:rub:2947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_AssociatedArchives,3,,,,,,AFG_018,isad:rub:2948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1031,Verwijzing naar Grossmann object,,97a244bc-9922-5a75-a7ea-959b808d017a,"[{""resourceId"": ""97a244bc-9922-5a75-a7ea-959b808d017a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""193695fa-b25b-425c-b433-6ee6237bb29e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""419d9e59-8c91-4278-80ea-e84f718c11f6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""34348bc5-23a6-470d-bf04-3a3cb2fee296"", ""inverseOntologyProperty"": """"}]"
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denucé, Inv. p. 268 Joannes van Hove (+) 1676 Seven bruyloften, wesende copyen van Breugel; Beachte Provenienz des Turms v. Babel!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:221516,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_ExternalRelationsExtras,a::rub.22,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,26043,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001039,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3293</priref>
+			<number>AFG_022_072</number>
+			<part_of_reference>AFG_022_064</part_of_reference>
+			<content>Denuc&#233;, Inv. p. 268 Joannes van Hove (+) 1676 Seven bruyloften, wesende copyen van Breugel; Beachte Provenienz des Turms v. Babel!</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_number>AFG_018</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel: voorbereiding van een artikel bestemd voor The Art Bulletin: niet gepubliceerd.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<object.title>The Tower of Babel</object.title>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Denuc&#233;, Jan</documentation.author>
+			<input.date>2012-04-02</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Bronnen voor de geschiedenis van de Vlaamse kunst</documentation.title>
+			<edit.time>15:57:53</edit.time>
+			<edit.time>15:33:12</edit.time>
+			<edit.time>15:32:50</edit.time>
+			<edit.time>11:30:43</edit.time>
+			<edit.time>14:07:19</edit.time>
+			<edit.time>14:05:26</edit.time>
+			<edit.time>15:49:24</edit.time>
+			<edit.time>09:56:31</edit.time>
+			<edit.time>09:56:22</edit.time>
+			<input.time>09:24:12</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1039,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1039/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9bccc798-aabc-59a1-94a6-401a4531bf77"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4e48bdfc-628e-44e0-b510-215c5e3ce6f0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_072,repository numbers,,,,,,,,,,,,,,
+44ead4fc-330f-5b23-9ebe-55e92f2c7ffb,tg:rubgr:1039,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_072,titles proper,Dutch (language),,,,,,,,,,,

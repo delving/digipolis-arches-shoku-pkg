@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2624,https://data.rubenianum.be//ark:/86530/0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,Brieven,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2623,Verwijzing naar Grossmann object,,5ebc1af1-6741-5c19-8989-feb3ccfbe05e,"[{""resourceId"": ""5ebc1af1-6741-5c19-8989-feb3ccfbe05e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""042b1076-812b-4cab-9db2-97d0e9ed68a3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""784d80b8-d497-4a79-bcaf-3c954ecf450c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c744c61c-8c83-4f54-bfe7-9d0f74e5a87d"", ""inverseOntologyProperty"": """"}]"
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Correspondence,1,,,,,,,,,,,,,,,,White Christopher,recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19631228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1963-12-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: Dankt voor de overdruk. Stelt de vraag of White met hem van mening is dat de tekening aan de linkerzijde en bovenaan is ingekort.Is er zeker van dat de Louvretekening een kopie is naar een verloren tekening, zoals White suggereerde in een voetnoot. Verwijst voor de datering naar Münz, Tolnay, Glück Denkt dat de tekening dateert van 1555 of kort daarna.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Christopher,,,,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002624,referentienummer,False,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4866</priref>
+			<recipient>White Christopher</recipient>
+			<number>AFG_084_038</number>
+			<part_of_reference>AFG_084_037</part_of_reference>
+			<date.precise>1963-12-28</date.precise>
+			<content>Korte inhoud: Dankt voor de overdruk. Stelt de vraag of White met hem van mening is dat de tekening aan de linkerzijde en bovenaan is ingekort.Is er zeker van dat de Louvretekening een kopie is naar een verloren tekening, zoals White suggereerde in een voetnoot. Verwijst voor de datering naar M&#252;nz, Tolnay, Gl&#252;ck Denkt dat de tekening dateert van 1555 of kort daarna.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Christopher White, Pieter Bruegel the Elder: A New Alpine Landscape Drawing, The Burlington Magazine  CV (Dec. 1963): 'With kind regards Christopher White.'[scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>White Christopher</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-02-10</input.date>
+			<edit.date>2014-02-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:26:55</edit.time>
+			<input.time>16:25:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2624,brocade id,False,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2624/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""70f72cab-a406-5c89-bdeb-49f59e59b0d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2ce76c19-d494-4f21-91ce-57424138a6ba"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,,,rub,,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,,,rub,,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_038,repository numbers,,,,,,,,,,,
+0a29270b-6c2e-5b0b-a9c6-5f039e0f246a,tg:rubgr:2624,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_038,titles proper,Dutch (language),,,,,,,,

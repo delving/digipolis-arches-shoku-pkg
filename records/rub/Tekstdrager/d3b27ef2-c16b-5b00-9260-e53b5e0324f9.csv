@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3266,https://data.rubenianum.be//ark:/86530/d3b27ef2-c16b-5b00-9260-e53b5e0324f9,Handschriften,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3261,Verwijzing naar Grossmann object,,7482a7f3-105c-512d-aeb3-8a321b7815ae,"[{""resourceId"": ""7482a7f3-105c-512d-aeb3-8a321b7815ae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1837f370-8baa-4e4a-b7a3-af2f37d46135"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7d7ec109-7189-40d9-a35b-2415d4713b60"", ""ontologyProperty"": """", ""resourceXresourceId"": ""614728f5-ee71-4711-84bc-a363cb5480d4"", ""inverseOntologyProperty"": """"}]"
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 111. Witt Library. P. Balten. Photographer of M%assacre of Innocents (the second composition) inscribed on mount: 'P.BALTEN (?).' Old Photograph by Cooper & Humphreys.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003266,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5380</priref>
+			<number>AFG_091_070</number>
+			<part_of_reference>AFG_091_065</part_of_reference>
+			<content>Ad [Addendum] 111. Witt Library. P. Balten. Photographer of M%assacre of Innocents (the second composition) inscribed on mount: 'P.BALTEN (?).' Old Photograph by Cooper &amp; Humphreys.</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>66. Kirmes von Hoboken. [doorstreept]: 'Neu 79. My N&#176;'; Mention at end after Gate of St. George.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-10</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>13:22:17</edit.time>
+			<input.time>16:58:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3266,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3266/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9eed1013-7efc-5644-8b55-e8d6b9683353"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ee5b59c-09cb-4638-8171-50de73df206a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_070,repository numbers,,,,,,,,,,,,,,
+d3b27ef2-c16b-5b00-9260-e53b5e0324f9,tg:rubgr:3266,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_070,titles proper,Dutch (language),,,,,,,,,,,

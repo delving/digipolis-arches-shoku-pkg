@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4927,https://data.rubenianum.be//ark:/86530/03b0ff97-f4cd-5ffe-977c-5d90707e2853,Handschriften,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_AssociatedArchives,2,,,,,,AFG_013,isad:rub:2943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d661edeb-9e35-4b86-9ba7-d00a1c18c42a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3d11dd84-ebad-4ecb-b1ff-fac5278f22df"", ""inverseOntologyProperty"": """"}]"
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Death of Virgin. Held, Review of Panofsky, Early Netherlandish Painting, Art Bulletin, Sept. 1955, vol. XXXVII, citaat p. 206.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_ExternalRelationsExtras,a::rub.17,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,64155,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Christus, Petrus",,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Held, Julius S.",,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Panofsky, Erwin",,,,,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004927,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7183</priref>
+			<number>AFG_136_055</number>
+			<content>Death of Virgin. Held, Review of Panofsky, Early Netherlandish Painting, Art Bulletin, Sept. 1955, vol. XXXVII, citaat p. 206.</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_number>AFG_013</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel</object.title>
+			<object.title>The Death of the Virgin</object.title>
+			<keyword>Christus, Petrus</keyword>
+			<keyword>Held, Julius S.</keyword>
+			<keyword>Panofsky, Erwin</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-08-06</input.date>
+			<edit.date>2014-08-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:34:01</edit.time>
+			<input.time>10:33:24</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4927,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4927/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""14a33a4f-5d41-583d-8794-7bf396f2c846"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6928364e-e8f6-41f6-b659-6b79b94e724c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_055,repository numbers,,,,,,,,,,,,,,
+03b0ff97-f4cd-5ffe-977c-5d90707e2853,tg:rubgr:4927,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_055,titles proper,Dutch (language),,,,,,,,,,,

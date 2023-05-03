@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1313,https://data.rubenianum.be//ark:/86530/641504bf-f05c-54d0-a6ec-6a3d5768ac70,Handschriften,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73ce6e5b-c88d-485a-bd49-1de5983fe14e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""24248973-8ef3-46d5-b4a9-5b75c0522746"", ""inverseOntologyProperty"": """"}]"
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19690713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969-07-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Charles de Tolnay, 'Das aufgefundene Original des ""Hochzeittanzes im Freien"" von Pieter Bruegel d.Ae.', in: Neue Zürcher Zeitung, d.d. 13/07/1969, nr.  421, pp. 49-50.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,219317,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001313,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3562</priref>
+			<number>AFG_034_028</number>
+			<date.precise>1969-07-13</date.precise>
+			<content>Charles de Tolnay, 'Das aufgefundene Original des ""Hochzeittanzes im Freien"" von Pieter Bruegel d.Ae.', in: Neue Z&#252;rcher Zeitung, d.d. 13/07/1969, nr.  421, pp. 49-50.</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Florence, Galleria degli Uffizi</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-07</input.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-08-07</edit.date>
+			<edit.date>2012-08-07</edit.date>
+			<edit.date>2012-08-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:52:06</edit.time>
+			<edit.time>09:39:54</edit.time>
+			<edit.time>14:24:22</edit.time>
+			<edit.time>11:41:05</edit.time>
+			<edit.time>11:40:51</edit.time>
+			<edit.time>11:40:44</edit.time>
+			<input.time>11:36:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1313,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1313/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca5ebfe5-0bb3-526a-b61e-c66e224da940"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c8e60108-98ab-410a-8f71-e0702dd07735"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_OriginalBrocade,,,au::32545,,,,,,,,,,,,,,rub,7ca6beec-144b-5524-bf1d-309f064c1574,kw,,au::32545:1,au::32545g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3482315"",""au::32545"",""au::32545:1"",""ark:/83110/x0/7ca6beec-144b-5524-bf1d-309f064c1574"",""Galleria Degli Uffizi [Florence (I)]""],""name"":""Galleria Degli Uffizi [Florence (I)]"",""ark"":""ark:/83110/x0/7ca6beec-144b-5524-bf1d-309f064c1574"",""uri"":""/agents/corporate_entities/3482315"",""id"":""au::32545:1"",""isCapacity"":false}",ark:/83110/x0/7ca6beec-144b-5524-bf1d-309f064c1574,agent,,,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_028,repository numbers,,,,,,,,,,,,,,
+641504bf-f05c-54d0-a6ec-6a3d5768ac70,tg:rubgr:1313,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_028,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,77 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1049,https://data.rubenianum.be//ark:/86530/c2a0d99f-f5e6-59aa-b806-0a7cee31e072,Handschriften,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1050,Verwijzing naar Grossmann object,,4c0fcc95-9511-5652-aa04-ac455ac07222,"[{""resourceId"": ""4c0fcc95-9511-5652-aa04-ac455ac07222"", ""ontologyProperty"": """", ""resourceXresourceId"": ""381e2e46-8e46-43ab-8b36-aa11f0405377"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1051,Verwijzing naar Grossmann object,,a3e0d7ce-96f9-5f1d-a08e-19ae764a397f,"[{""resourceId"": ""a3e0d7ce-96f9-5f1d-a08e-19ae764a397f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9f650a75-2660-4d8b-8e7d-003a57b917ba"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1052,Verwijzing naar Grossmann object,,ed50cbf0-3cd7-5b70-b567-3981214cf5a4,"[{""resourceId"": ""ed50cbf0-3cd7-5b70-b567-3981214cf5a4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d4b15b95-7750-4cf9-8c71-a52f97d6e303"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d5ca6f50-b6b2-4b0e-ad7d-0832471fee60"", ""ontologyProperty"": """", ""resourceXresourceId"": ""53a77935-0e51-45b5-97a8-af00ca07678d"", ""inverseOntologyProperty"": """"}]"
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_082 t/m 085: los bewaard in archiefdoos: volgorde bewaard.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001049,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3303</priref>
+			<number>AFG_022_082</number>
+			<content>AFG_022_082 t/m 085: los bewaard in archiefdoos: volgorde bewaard.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title>Ad [Addendum] Bruegel: Months. 2 months in one painting in Metrop[olitan] Mus[eum] New York, by a [onderstreept] Follower of Watteau, Metropol[itan] Mus[eum] Art. C. [Charles] Sterling, A Catalogue of French Paintings XV- XVIII Century [in the Metropolitan Museum of Art, Cambridge, MA: Metropolitan Museum of Art, Harvard University Press], 1955, pp. 108-112 (always with signs of zodiac): 22.225.6 Jan. &amp; Feb.; 22.225.4 March &amp; April; (no numbers: should probably be 22.225.2?) May &amp; June; 22.225.1 July &amp; August; 22.225.3 Sept. &amp; Oct; 22.225.5 Nov. &amp; Dec.; Detailed description each time in addition to decorative framework &amp; zodiac signs, 2 separate scenes.</parts.title>
+			<parts.title>[Briefhoofd The Burrell Collection, Glasgow] Korte inhoud: Zending foto's van tapijten (Januari, April, September) uit The Burrell Collection, Glasgow. Heeft geen informatie over herkomst. Verwijst naar de tentoonstelling in Glasgow 1901 waar ze te zien waren in de collectie van Sir William Burrell, [= Glasgow International Exhibition, 1901]</parts.title>
+			<parts.title>3 zw/w foto's Januari, April, September uit The Burrell Collection, Glasgow.</parts.title>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-23</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2013-07-05</edit.date>
+			<edit.date>2012-05-02</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_022_083</parts_reference>
+			<parts_reference>AFG_022_084</parts_reference>
+			<parts_reference>AFG_022_085</parts_reference>
+			<edit.time>16:02:54</edit.time>
+			<edit.time>15:25:22</edit.time>
+			<edit.time>10:22:03</edit.time>
+			<edit.time>11:39:12</edit.time>
+			<edit.time>11:38:54</edit.time>
+			<edit.time>11:38:23</edit.time>
+			<edit.time>11:35:02</edit.time>
+			<edit.time>11:00:20</edit.time>
+			<edit.time>10:55:35</edit.time>
+			<edit.time>10:45:14</edit.time>
+			<input.time>10:42:33</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1049,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1049/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""93584544-19d1-5648-9861-6df9c2160240"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08aa2c76-76ac-4770-bc79-14bc2b1584a2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_082,repository numbers,,,,,,,,,,,,,,
+c2a0d99f-f5e6-59aa-b806-0a7cee31e072,tg:rubgr:1049,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_082,titles proper,Dutch (language),,,,,,,,,,,

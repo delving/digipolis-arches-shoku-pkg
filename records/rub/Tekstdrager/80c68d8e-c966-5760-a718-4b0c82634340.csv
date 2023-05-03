@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3570,https://data.rubenianum.be//ark:/86530/80c68d8e-c966-5760-a718-4b0c82634340,Handschriften,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3bb9ad20-fb2c-4b28-bb5b-4fc766ef4337"", ""ontologyProperty"": """", ""resourceXresourceId"": ""85f97597-5bd3-4720-9be1-ae77c70f0c71"", ""inverseOntologyProperty"": """"}]"
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Naer het Leven, cf. Head of Dulle Griet, Lent, and Munich Peasant Woman with Münz, cat. N° 97  [...] F. Panse & H.J. Schmidt, Pieter Bruegels Dulle Griet, Leverkusen 1967, p. 56, Abb. 21",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:435360,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Panse, Fr.",,,,,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Schmidt, H.J.",,,,,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003570,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5823</priref>
+			<number>AFG_097_016</number>
+			<content>Ad [Addendum] Naer het Leven, cf. Head of Dulle Griet, Lent, and Munich Peasant Woman with M&#252;nz, cat. N&#176; 97  [...] F. Panse &amp; H.J. Schmidt, Pieter Bruegels Dulle Griet, Leverkusen 1967, p. 56, Abb. 21</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<keyword>Panse, Fr.</keyword>
+			<keyword>Schmidt, H.J.</keyword>
+			<object.creator/>
+			<documentation.author>Panse, Fr.</documentation.author>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegels Dulle Griet : Bildnis einer psychisch Kranken</documentation.title>
+			<edit.time>11:02:31</edit.time>
+			<edit.time>10:02:04</edit.time>
+			<edit.time>10:01:46</edit.time>
+			<edit.time>10:01:30</edit.time>
+			<edit.time>10:01:09</edit.time>
+			<edit.time>10:00:44</edit.time>
+			<edit.time>10:00:33</edit.time>
+			<input.time>14:15:08</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3570,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3570/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1b251527-ae4f-5af8-b797-ca4b1bc4203f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9cee5965-8a0c-4940-ae70-bfb5c8a477c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_016,repository numbers,,,,,,,,,,,,,,
+80c68d8e-c966-5760-a718-4b0c82634340,tg:rubgr:3570,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_016,titles proper,Dutch (language),,,,,,,,,,,

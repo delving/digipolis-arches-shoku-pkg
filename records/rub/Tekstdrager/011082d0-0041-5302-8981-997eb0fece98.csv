@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5020,https://data.rubenianum.be//ark:/86530/011082d0-0041-5302-8981-997eb0fece98,Handschriften,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e1c37f5a-7f09-4fef-87fd-5c90e32f78e2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1f81a3cb-0301-425a-ade2-679662c4bd61"", ""inverseOntologyProperty"": """"}]"
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Platen F. Grossmann, Bruegel, London: Phaidon, 1955.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005020,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7265</priref>
+			<number>AFG_138_002</number>
+			<content>Platen F. Grossmann, Bruegel, London: Phaidon, 1955.</content>
+			<object.object_number>AFG_138</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>beeldmateriaal</editorial_form>
+			<object.title>Bruegel: General</object.title>
+			<keyword>Grossmann, F.</keyword>
+			<object.creator/>
+			<input.date>2014-08-07</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>16:52:56</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5020,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5020/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""21324c2e-360c-51c3-9827-7fafc0d2f285"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a44b6637-1b9f-4299-b974-a48b6e23c2e3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_OriginalBrocade,,,au::111146,,,,,,,,,,,,,,rub,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,kw,,au::111146:1,au::111146g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,agent,,,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_138_002,repository numbers,,,,,,,,,,,,,,
+011082d0-0041-5302-8981-997eb0fece98,tg:rubgr:5020,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_138_002,titles proper,Dutch (language),,,,,,,,,,,

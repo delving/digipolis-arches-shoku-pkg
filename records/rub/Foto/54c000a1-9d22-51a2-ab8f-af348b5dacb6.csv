@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1756,https://data.rubenianum.be//ark:/86530/54c000a1-9d22-51a2-ab8f-af348b5dacb6,Foto's,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,gerelateerd object,tg:rubgr:1701,Verwijzing naar Grossmann object,,f31d4849-6785-5466-a7ea-6ec760ae9548,"[{""resourceId"": ""f31d4849-6785-5466-a7ea-6ec760ae9548"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2debfd29-0a3c-4c38-a733-831f7fb2bb24"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_AssociatedRecords,2,,,,,,,,,rubgr_foto,gerelateerd object,tg:rubgr:1770,Verwijzing naar Grossmann object,,42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,"[{""resourceId"": ""42c4f857-578a-5bd1-8bcc-1bd0285a8f9e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""05d12233-7610-4459-9130-ac7fc12469cf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cab7c768-0777-45f2-b7e7-9de91bd011e0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""26c8a665-0e5c-40d0-8016-64d0e87876b8"", ""inverseOntologyProperty"": """"}]"
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,Goede herder.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001756,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4007</priref>
+			<number>AFG_046_059</number>
+			<content>Goede herder.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<related_object.title>Korte inhoud: [Georges] Marlier gaf brief van FG (17/12/1966) door. 'The Good Sheperd' zal van het buitenverblijf (Kappelen, 'Wolvenbosch') overgebracht worden naar Brussel. Geeft toestemming om het werk te publiceren. Foto's werden verstuurd door Dhr. Leegenhoek en ingesloten wordt daar een transparant aantoegevoegd.</related_object.title>
+			<related_object.title>Good Shepherd (Gl&#252;ck 44 &amp; 80). Transparency: Paint apparently very thin (overcleaned?) white [?] the [?] of the wolf. The greenish landscape on left too soft for P.B.I. Underpainting only? (but the landscape with bird trap was a similar heavy background). The path on the right typical of late lost ? pictures. The brushes cf. Spencer Churchill Wedding Procession. Unfinished? The delicacy of the execution Jan B.? This version certainly not by P.B.II.</related_object.title>
+			<class>AFG</class>
+			<editorial_form>transparant</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<object.creator/>
+			<input.date>2013-01-17</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<related_object.reference>AFG_046_004</related_object.reference>
+			<related_object.reference>AFG_046_073</related_object.reference>
+			<edit.time>16:19:35</edit.time>
+			<edit.time>16:19:18</edit.time>
+			<edit.time>10:06:56</edit.time>
+			<edit.time>10:06:45</edit.time>
+			<edit.time>10:06:07</edit.time>
+			<input.time>10:05:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1756,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1756/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d3ba2f6f-9e6c-5d75-9fdd-4bf6f1cb057d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""05ebe199-4435-4e06-8b9d-f282c3f5a335"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_059,repository numbers,,,,,,,,,,,
+54c000a1-9d22-51a2-ab8f-af348b5dacb6,tg:rubgr:1756,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_059,titles proper,Dutch (language),,,,,,,,

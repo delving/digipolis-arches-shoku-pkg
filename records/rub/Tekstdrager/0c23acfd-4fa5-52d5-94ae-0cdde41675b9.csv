@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1246,https://data.rubenianum.be//ark:/86530/0c23acfd-4fa5-52d5-94ae-0cdde41675b9,Handschriften,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7985dc3a-19b5-42e5-b4a0-d85a11679c00"", ""ontologyProperty"": """", ""resourceXresourceId"": ""02a0784c-fcc3-45d9-b1dc-9d0a5f76da07"", ""inverseOntologyProperty"": """"}]"
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Massacre of the Innocents. Good copies after Vienna version (with ""Alba"") by P.B.II extenting on the right and below with additional wall (on right) and small wall bottom right in Brussels and 'Property of a Gentleman'. Sale Sotheby's, 21/3/1973, lot 82 (panel, 47 1/2 x 66 1/2 in= 121 x 169 cm) (repr. Cat adest), ex [Émile] Grisar, repr. (Sold to [onleesbaar] L? [sic]) for £ 90/m.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_ExternalRelationsExtras,a::rub.31,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221184,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Alba, Fernando Alvarez de Toledo",,,,,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001246,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3503</priref>
+			<number>AFG_030_010</number>
+			<content>Massacre of the Innocents. Good copies after Vienna version (with ""Alba"") by P.B.II extenting on the right and below with additional wall (on right) and small wall bottom right in Brussels and 'Property of a Gentleman'. Sale Sotheby's, 21/3/1973, lot 82 (panel, 47 1/2 x 66 1/2 in= 121 x 169 cm) (repr. Cat adest), ex [&#201;mile] Grisar, repr. (Sold to [onleesbaar] L? [sic]) for &#163; 90/m.</content>
+			<object.object_number>AFG_030</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Massacre of Innocents</object.title>
+			<keyword>Alba, Fernando Alvarez de Toledo</keyword>
+			<keyword>Brueghel, Pieter II</keyword>
+			<object.creator>Bruegel, Pieter I (atelier van)</object.creator>
+			<input.date>2012-07-24</input.date>
+			<edit.date>2012-12-11</edit.date>
+			<edit.date>2012-08-01</edit.date>
+			<edit.date>2012-07-31</edit.date>
+			<edit.date>2012-07-26</edit.date>
+			<edit.date>2012-07-24</edit.date>
+			<edit.date>2012-07-24</edit.date>
+			<edit.date>2012-07-24</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:59:31</edit.time>
+			<edit.time>15:46:46</edit.time>
+			<edit.time>15:56:37</edit.time>
+			<edit.time>12:24:13</edit.time>
+			<edit.time>14:52:54</edit.time>
+			<edit.time>14:36:54</edit.time>
+			<edit.time>14:28:28</edit.time>
+			<input.time>14:28:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1246,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1246/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2ab7a383-e73b-5820-96f1-ec28868b7436"", ""ontologyProperty"": """", ""resourceXresourceId"": ""05caac4d-4832-46e1-b68e-fb8401d7312b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_010,repository numbers,,,,,,,,,,,,,,
+0c23acfd-4fa5-52d5-94ae-0cdde41675b9,tg:rubgr:1246,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_010,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,95 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:605,https://data.rubenianum.be//ark:/86530/39d336a8-b149-5131-9c1c-82e659b05fa3,Handschriften,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dd7c8887-13d2-4c8c-9b69-74b8f42d1055"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6a012035-a5b3-43b2-8e23-753343776096"", ""inverseOntologyProperty"": """"}]"
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1, recto] Ad [Addendum] 17. Witt Library. Death of the Virgin: 1) Photograph (too dark) Cutting from Burl.Mag. LVI, 1930, June, p.982; 2) Repr. of Galle's engraving from [Heinrich] Weizsäcker, Elsheimer [= Adam Elsheimer : der Maler von Frankfurt : des Künstlers Leben und Werke : I : Text : Tafeln : II : beschreibende Verzeichnisse und geschichtliche Quellen, Berlin: Deutscher Verein für Kunstwissenschaft, 1936], N° 116; 3) Fétis Sale, Brussels Nov. 1909, N° 11, Bois 84 x 111 cm [...]; [blad 2, recto] Ad 17 Witt Coll. Death of Virgin 1) Lee; 2) Print by Galle; 3) Fétis [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13258786,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_ExternalRelationsExtras,a::rub.17,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,64155,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Galle, Philips",,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Weizsäcker, Heinrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000605,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2855</priref>
+			<number>AFG_013_008</number>
+			<content>[2 bladen] [blad 1, recto] Ad [Addendum] 17. Witt Library. Death of the Virgin: 1) Photograph (too dark) Cutting from Burl.Mag. LVI, 1930, June, p.982; 2) Repr. of Galle's engraving from [Heinrich] Weizs&#228;cker, Elsheimer [= Adam Elsheimer : der Maler von Frankfurt : des K&#252;nstlers Leben und Werke : I : Text : Tafeln : II : beschreibende Verzeichnisse und geschichtliche Quellen, Berlin: Deutscher Verein f&#252;r Kunstwissenschaft, 1936], N&#176; 116; 3) F&#233;tis Sale, Brussels Nov. 1909, N&#176; 11, Bois 84 x 111 cm [...]; [blad 2, recto] Ad 17 Witt Coll. Death of Virgin 1) Lee; 2) Print by Galle; 3) F&#233;tis [...]</content>
+			<object.object_number>AFG_013</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Death of the Virgin</object.title>
+			<keyword>Galle, Philips</keyword>
+			<keyword>prentkunst</keyword>
+			<keyword>Weizs&#228;cker, Heinrich</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Weizs&#228;cker, Heinrich</documentation.author>
+			<input.date>2012-01-11</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-02-06</edit.date>
+			<edit.date>2012-02-06</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Adam Elsheimer : der Maler von Frankfurt : des K&#252;nstlers Leben und Werke : I : Text : Tafeln : II : beschreibende Verzeichnisse und geschichtliche Quellen</documentation.title>
+			<edit.time>10:34:24</edit.time>
+			<edit.time>10:31:42</edit.time>
+			<edit.time>10:45:05</edit.time>
+			<edit.time>10:09:04</edit.time>
+			<edit.time>10:07:09</edit.time>
+			<edit.time>10:06:35</edit.time>
+			<edit.time>09:57:55</edit.time>
+			<edit.time>09:57:38</edit.time>
+			<edit.time>10:05:18</edit.time>
+			<edit.time>09:33:02</edit.time>
+			<edit.time>12:20:05</edit.time>
+			<edit.time>12:17:27</edit.time>
+			<edit.time>12:15:48</edit.time>
+			<input.time>12:14:49</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:605,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:605/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""229f17f8-90a5-5ae7-850d-f509a5255e93"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e2ef2b6b-6abe-42bc-9fa6-1de52c27888f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_008,repository numbers,,,,,,,,,,,,,,
+39d336a8-b149-5131-9c1c-82e659b05fa3,tg:rubgr:605,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_008,titles proper,Dutch (language),,,,,,,,,,,

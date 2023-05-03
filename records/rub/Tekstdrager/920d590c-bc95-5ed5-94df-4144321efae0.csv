@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2919,https://data.rubenianum.be//ark:/86530/920d590c-bc95-5ed5-94df-4144321efae0,Handschriften,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2917,Verwijzing naar Grossmann object,,64e99a2b-619d-5f20-9b3f-f45c0ceef5d4,"[{""resourceId"": ""64e99a2b-619d-5f20-9b3f-f45c0ceef5d4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7fa9a2a0-f507-4f2e-8a8f-9f12e3f21ebd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16bea602-f586-4ead-814a-704e7f5235b0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""58d00d18-f45d-46d3-8dfb-9830674d1dde"", ""inverseOntologyProperty"": """"}]"
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 vouwbladen [vouwblad 1]] B.M. [plaatskenmerk] Reggio. G. Braun & F. Hogenberg, [Civitates orbis terrarum] Theatri praecipuarum totius mundi urbium liber sextus. Anno 1618 Dedication signed by Antonius Heirat & Abraham Hogenberg, pl. 58 [...]; [toegevoegde vermelding]: 'F.G. Nothing of Bruegel's charcter preserved - whereas Huys has really done so. Like in Huys Reggio on left Messina  [...] Reggio; [vouwblad 2] Reggio II. Many views of Austria and Bohemian towns bear the remark: Depinxit et communicavit Georgius Houfnaglius Delineatur a folio R° 1617 [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002919,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5161</priref>
+			<number>AFG_086_177</number>
+			<part_of_reference>AFG_086_175</part_of_reference>
+			<content>[2 vouwbladen [vouwblad 1]] B.M. [plaatskenmerk] Reggio. G. Braun &amp; F. Hogenberg, [Civitates orbis terrarum] Theatri praecipuarum totius mundi urbium liber sextus. Anno 1618 Dedication signed by Antonius Heirat &amp; Abraham Hogenberg, pl. 58 [...]; [toegevoegde vermelding]: 'F.G. Nothing of Bruegel's charcter preserved - whereas Huys has really done so. Like in Huys Reggio on left Messina  [...] Reggio; [vouwblad 2] Reggio II. Many views of Austria and Bohemian towns bear the remark: Depinxit et communicavit Georgius Houfnaglius Delineatur a folio R&#176; 1617 [...][scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Stay in Italy. For longer stay in Italy speeks the fact that Clovio was in Rome only 1553-1556 so Bruegel workinbg with him may well have stayed in Rome into 1554. From Rome he may have made the trip to Naples. Itinary can be partly reconstructed by works. Journey through France proved by 'Leon in France'. Stay in Italy: 2 prints 1553, Tivoli, Fondi drawing, Ripa Grande (?), Naples Harbour, Battle of Messina (Reggio), Palermo, Triumph of Death. Return: Tyrol, Martinswand, Walterspurg.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-11</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:16:22</edit.time>
+			<edit.time>11:55:43</edit.time>
+			<edit.time>11:53:45</edit.time>
+			<edit.time>11:45:57</edit.time>
+			<input.time>11:43:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2919,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2919/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""79e2967c-ec8c-51e8-9e41-5db5c922db6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""27ecda67-f2a0-4609-977b-ef4b03cbd707"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_177,repository numbers,,,,,,,,,,,,,,
+920d590c-bc95-5ed5-94df-4144321efae0,tg:rubgr:2919,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_177,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1788,https://data.rubenianum.be//ark:/86530/bf9df334-9f8a-52b4-8780-ccb6fc4796bb,Brieven,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_AssociatedArchives,2,,,,,,AFG_113,isad:rub:3034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,gerelateerd object,tg:rubgr:1787,Verwijzing naar Grossmann object,,6aa459bf-c5ea-548f-a364-5ff435aaaeab,"[{""resourceId"": ""6aa459bf-c5ea-548f-a364-5ff435aaaeab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""393e0313-56d9-46a2-bcb6-a5fc84b1eac7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_AssociatedRecords,2,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:1781,Verwijzing naar Grossmann object,,2357af76-c1d6-541b-986a-f5dfb6182aac,"[{""resourceId"": ""2357af76-c1d6-541b-986a-f5dfb6182aac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5d127ecb-2ee5-4a12-a643-3cbbc82f92c5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_AssociatedRecords,3,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:1789,Verwijzing naar Grossmann object,,2c84467b-8d5a-5f9b-9320-985992ccffd5,"[{""resourceId"": ""2c84467b-8d5a-5f9b-9320-985992ccffd5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e3f9d907-0e79-4a26-a14c-cf20f22b5da9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8dfa1276-862a-4acc-8549-cd4541fd6808"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e15266df-3f3b-4961-a651-f793a7184544"", ""inverseOntologyProperty"": """"}]"
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_Correspondence,1,,,,,,,,,,,,,,,,"Peissel, Jean-Claude",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19731108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1973-11-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd Phaidon Press London] Korte inhoud: Terugzenden van 2 foto's van 'The Faithful Shepherd'.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001788,referentienummer,False,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4039</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_046_091</number>
+			<part_of_reference>AFG_046_084</part_of_reference>
+			<date.precise>1973-11-08</date.precise>
+			<content>[Briefhoofd Phaidon Press London] Korte inhoud: Terugzenden van 2 foto's van 'The Faithful Shepherd'.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_number>AFG_113</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Good Shepherd: Stridbeck, fig. 54, probably developed from Bruegel's engraving late 16th century, Stridbeck, fig. 54. See also Stridbeck, p. 256 for Unfaithful Shepherd.</part_of.title>
+			<parts.title>2 zw/w foto's van Faithful Shepherd, [1 van het geheel] 'After cleaning', 1 detail hoofd herder.</parts.title>
+			<related_object.title>[4 bladen, blad 4 dubbel] Korte inhoud: Antwoord op brief van Marlier (d.d. 13/12/1966). Meldt dat hij The Good Shepherd kon bestuderen in Parijs. Herziet zijn vorige opvatting (P.B.II). Is van mening dat het werk begonnen werd door P.B.I en afgewerkt door Jan Brueghel. De inventie is zonder twijfel van P.B.I. Het werk geeft niet dez indruk een kopie te zijn. De ondertekening is zichtbaar in het hoofd van de herder en het lijkt alsof P.B.I dit opzette. De lijnvoering is vergelijkbaar met het gelaat van de doedelzakspeler in Wenen (Peasant Dance). Wil het werk opnemen in zijn te verschijnen catalogue raisonn&#233;. [scan]</related_object.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<object.title>Bruegel: Paintings. 3rd edition</object.title>
+			<sender>Peissel, Jean-Claude</sender>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2013-02-06</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2014-07-14</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_046_092</parts_reference>
+			<related_object.reference>AFG_046_090</related_object.reference>
+			<edit.time>16:29:56</edit.time>
+			<edit.time>16:24:06</edit.time>
+			<edit.time>11:59:40</edit.time>
+			<edit.time>10:43:55</edit.time>
+			<edit.time>10:43:13</edit.time>
+			<edit.time>10:42:00</edit.time>
+			<input.time>10:39:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1788,brocade id,False,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1788/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""79242d8e-e8ee-51ac-8a3f-73cfdaf114e0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c4e62f54-17c7-4585-ac47-e6f98a6981cc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_091,repository numbers,,,,,,,,,,,
+bf9df334-9f8a-52b4-8780-ccb6fc4796bb,tg:rubgr:1788,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_091,titles proper,Dutch (language),,,,,,,,

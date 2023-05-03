@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4506,https://data.rubenianum.be//ark:/86530/f87709f6-b00c-5043-88c4-b5ab015c2f90,Handschriften,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b4132c22-2bb9-435d-98fb-ff0ef897587f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2c57b734-2266-42b5-b4e2-5f5fb36bee26"", ""inverseOntologyProperty"": """"}]"
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Crowds: [Wilhelm] Hausenstein, Der Bauern-Bruegel, [(Klassische Illustratoren; 6), München: Piper], 1910, citaten pp. 88, 93",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257363,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hausenstein, Wilhelm",,,,,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004506,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6759</priref>
+			<number>AFG_115_022</number>
+			<content>Crowds: [Wilhelm] Hausenstein, Der Bauern-Bruegel, [(Klassische Illustratoren; 6), M&#252;nchen: Piper], 1910, citaten pp. 88, 93</content>
+			<object.object_number>AFG_115</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Principles of Composition. Form &amp; Origin Influences. Italy. Biography</object.title>
+			<keyword>Hausenstein, Wilhelm</keyword>
+			<object.creator/>
+			<documentation.author>Hausenstein, Wilhelm</documentation.author>
+			<input.date>2014-07-15</input.date>
+			<edit.date>2014-07-15</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Bauern-Bruegel</documentation.title>
+			<edit.time>12:15:51</edit.time>
+			<input.time>12:13:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Der</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4506,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4506/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f074d36c-fa26-5f22-97e5-67dfb2a118bf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a97029a-5c2c-470b-9a9d-1ba6b8e424e6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_115_022,repository numbers,,,,,,,,,,,,,,
+f87709f6-b00c-5043-88c4-b5ab015c2f90,tg:rubgr:4506,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_115_022,titles proper,Dutch (language),,,,,,,,,,,

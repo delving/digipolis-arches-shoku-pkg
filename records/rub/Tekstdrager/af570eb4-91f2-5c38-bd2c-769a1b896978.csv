@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4837,https://data.rubenianum.be//ark:/86530/af570eb4-91f2-5c38-bd2c-769a1b896978,Handschriften,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4830,Verwijzing naar Grossmann object,,05c866c6-a5eb-5840-a222-7b41465a79f7,"[{""resourceId"": ""05c866c6-a5eb-5840-a222-7b41465a79f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""736084f3-1a23-43bd-ade2-194cf2e66ffe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d1f7bb32-bb44-4c74-a8f3-5a943d61da59"", ""ontologyProperty"": """", ""resourceXresourceId"": ""82279bf7-8da8-436f-b097-cd6782b30948"", ""inverseOntologyProperty"": """"}]"
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[5 bladen] Otto Benesch, The art of the renaissance in northern Europe : its relation to the contemporary spiritual and intellectual movements, Cambridge (Mass.), 1945, passim.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13259761,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Benesch, Otto",,,,,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004837,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7090</priref>
+			<number>AFG_134_021</number>
+			<part_of_reference>AFG_134_014</part_of_reference>
+			<content>[5 bladen] Otto Benesch, The art of the renaissance in northern Europe : its relation to the contemporary spiritual and intellectual movements, Cambridge (Mass.), 1945, passim.</content>
+			<object.object_number>AFG_134</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Main books on Bruegel + Catalogues: Hymans; Friedl&#228;nder, Van Eyck bis Bruegel 1921, Bruegel 1921, Bruegel 1937; Conway; Michel; Benesch, Northern Renaissance.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Literature</object.title>
+			<keyword>Benesch, Otto</keyword>
+			<object.creator/>
+			<documentation.author>Benesch, Otto</documentation.author>
+			<input.date>2014-07-30</input.date>
+			<edit.date>2014-07-30</edit.date>
+			<edit.date>2014-07-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>art of the renaissance in northern Europe : its relation to the contemporary spiritual and intellectual movements</documentation.title>
+			<edit.time>14:10:35</edit.time>
+			<edit.time>14:08:30</edit.time>
+			<input.time>14:07:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>The</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4837,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4837/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""19fe3aa0-50ed-540d-9b82-7cc8ed023dde"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea26a002-45d8-4185-9d2c-f623cf886b0e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_021,repository numbers,,,,,,,,,,,,,,
+af570eb4-91f2-5c38-bd2c-769a1b896978,tg:rubgr:4837,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_021,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2431,https://data.rubenianum.be//ark:/86530/89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,Handschriften,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:2432,Verwijzing naar Grossmann object,,22292a2d-27b0-529f-8b30-7cbcb86d78ea,"[{""resourceId"": ""22292a2d-27b0-529f-8b30-7cbcb86d78ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f16f6056-5f09-4d16-bfd4-722bb7d7d958"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:2433,Verwijzing naar Grossmann object,,a92134b5-0ae2-5049-83e8-8a59785c8357,"[{""resourceId"": ""a92134b5-0ae2-5049-83e8-8a59785c8357"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4b9424f7-fce2-4514-bf82-33cf4adafcfb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2496e0b4-de30-4feb-a661-8e0ebf00b1d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""308b44fd-4768-4d20-be44-eee1a9128b1b"", ""inverseOntologyProperty"": """"}]"
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[vouwblad] [Notitie FG]: 'Jan BRVEGHEL'; William Hallsborough Gallery, 12 Piccadilly Arcade, London, Exhibition of Fine Paintings of Four Centuries, 18th April-23rd June, 1956: nr. 10 Jan (Velours) Brueghel (1568-1625) Village scene [Notities FG]: 'Arrival at the Inn; BRVEGHEL 1602; nr. 11 Jan (Velours) Brueghel (1568-1625) Port scene; [Notitie FG]: 'BRVEGHE [sic] 1602 or 1652 (?).'; [los blad beeldmateriaal] William Hallsborough Exhibition][afb.]: Jan (Velours) Brueghel (1568-1625): Village scene, signed and dated; [Notitie FG]: '1602'; Copper 61/2 x 91/4 in. (16,5 x 23,5 cm), Collection: Bernard Falk, Esq. of Hove, Sussex; [afb.] Jan (Velours) Brueghel 1568-1625): Port scene, Signed and dated;  [Notitie FG]: '1602'; Panel, 71/4 x 125/8 in. (18,5 x 32 cm), Collection: Bernard Falk, Esq. of Hove, Sussex.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13271155,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002431,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>4674</priref>
+<number>AFG_082_004</number>
+<content>[vouwblad] [Notitie FG]: 'Jan BRVEGHEL'; William Hallsborough Gallery, 12 Piccadilly Arcade, London, Exhibition of Fine Paintings of Four Centuries, 18th April-23rd June, 1956: nr. 10 Jan (Velours) Brueghel (1568-1625) Village scene [Notities FG]: 'Arrival at the Inn; BRVEGHEL 1602; nr. 11 Jan (Velours) Brueghel (1568-1625) Port scene; [Notitie FG]: 'BRVEGHE [sic] 1602 or 1652 (?).'; [los blad beeldmateriaal] William Hallsborough Exhibition][afb.]: Jan (Velours) Brueghel (1568-1625): Village scene, signed and dated; [Notitie FG]: '1602'; Copper 61/2 x 91/4 in. (16,5 x 23,5 cm), Collection: Bernard Falk, Esq. of Hove, Sussex; [afb.] Jan (Velours) Brueghel 1568-1625): Port scene, Signed and dated;  [Notitie FG]: '1602'; Panel, 71/4 x 125/8 in. (18,5 x 32 cm), Collection: Bernard Falk, Esq. of Hove, Sussex.</content>
+<object.object_number>AFG_082</object.object_number>
+<object.object_name>Losse stukken</object.object_name>
+<parts.title>1 zw/w foto: [Notitie in onbekend handschrift]: ' (Jan) BRVEGHEL 1607'; [Notitie FG]: ' Copper 6 1/2 x 9 1/2 (16,5 x 23,5 cm), Joseph & Mary refused admission to the Inn; Hallsborough May 1956.'</parts.title>
+<parts.title>1 zw/w foto: [Notitie in onbekend handschrift]: ' Jan Brueghel de Velours, signed in full and dated 16..[sic]; [Notitie FG]: ' 'A Village scene', [datering aangevuld]: '15', copper, 85/16 x 10 7/8, Exhibition Slatter 1947, N° 32.'</parts.title>
+<class>AFG</class>
+<editorial_form>Notitie</editorial_form>
+<editorial_form>verkoopcatalogus</editorial_form>
+<object.title/>
+<keyword>Brueghel, Jan I</keyword>
+<object.creator>Breughel, Jan I</object.creator>
+<input.date>2013-08-29</input.date>
+<edit.date>2015-01-09</edit.date>
+<edit.date>2013-08-29</edit.date>
+<edit.date>2013-08-29</edit.date>
+<edit.date>2013-08-29</edit.date>
+<edit.date>2013-08-29</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<parts_reference>AFG_082_005</parts_reference>
+<parts_reference>AFG_082_006</parts_reference>
+<edit.time>11:37:25</edit.time>
+<edit.time>09:51:39</edit.time>
+<edit.time>09:42:03</edit.time>
+<edit.time>09:36:10</edit.time>
+<edit.time>09:33:22</edit.time>
+<input.time>09:31:05</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2431,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2431/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bfaca36b-4af5-5f52-8cbc-29545482af62"", ""ontologyProperty"": """", ""resourceXresourceId"": ""db5a803c-51b3-420d-ae74-166304863087"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_082_004,repository numbers,,,,,,,,,,,,,,
+89466eea-17ed-5f7c-a0db-ee9c85d1a0eb,tg:rubgr:2431,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_082_004,titles proper,Dutch (language),,,,,,,,,,,

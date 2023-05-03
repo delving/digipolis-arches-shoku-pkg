@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2112,https://data.rubenianum.be//ark:/86530/b317bb19-5b26-56b4-8025-40b695e26603,Handschriften,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2107,Verwijzing naar Grossmann object,,77dd6158-e29c-5488-be58-1861fdaec7db,"[{""resourceId"": ""77dd6158-e29c-5488-be58-1861fdaec7db"", ""ontologyProperty"": """", ""resourceXresourceId"": ""25ebc62b-fc30-4992-ad79-a80e5036154f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""64b38fe1-c8fa-4a4e-8818-51b517d6c744"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2eada087-dc78-4bbf-ae21-c080602ea205"", ""inverseOntologyProperty"": """"}]"
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 79. Denucé, Forchoudt, citaat p. 56: 1654, 13 Maart -Per schepen van Ghendt ghesonden aan Peter Buick (?)[sic] 2. Rondekens van Brughel syn N° 115 a 7g.stuck g.14; 1654, 15 Juli - Per schepe gesonden aen Joffrou Barbara de Groet: 115.2 Rondekens van Peter Brughel a 6g. stuck g.12, N° 6.6 verlichterykens van Brughel op parchement a 6g. stuck g.36.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:221516,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002112,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4346</priref>
+			<number>AFG_058_026</number>
+			<part_of_reference>AFG_058_021</part_of_reference>
+			<content>Ad [Addendum] 79. Denuc&#233;, Forchoudt, citaat p. 56: 1654, 13 Maart -Per schepen van Ghendt ghesonden aan Peter Buick (?)[sic] 2. Rondekens van Brughel syn N&#176; 115 a 7g.stuck g.14; 1654, 15 Juli - Per schepe gesonden aen Joffrou Barbara de Groet: 115.2 Rondekens van Peter Brughel a 6g. stuck g.12, N&#176; 6.6 verlichterykens van Brughel op parchement a 6g. stuck g.36.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>60-61: 2 K&#246;pfe (rund) Neu 64-65. My N&#176; 79.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<documentation.author>Denuc&#233;, Jan</documentation.author>
+			<input.date>2013-03-21</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Bronnen voor de geschiedenis van de Vlaamse kunst</documentation.title>
+			<edit.time>12:08:30</edit.time>
+			<edit.time>15:35:19</edit.time>
+			<edit.time>14:12:44</edit.time>
+			<input.time>14:08:17</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2112,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2112/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5a27d400-1218-5a16-b7a0-e46763a7e181"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b9adb229-0ba3-407b-92a6-c6a25e5ee38c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_026,repository numbers,,,,,,,,,,,,,,
+b317bb19-5b26-56b4-8025-40b695e26603,tg:rubgr:2112,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_026,titles proper,Dutch (language),,,,,,,,,,,

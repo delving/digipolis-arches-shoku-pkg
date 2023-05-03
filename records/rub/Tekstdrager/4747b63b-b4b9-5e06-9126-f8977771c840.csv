@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:269,https://data.rubenianum.be//ark:/86530/4747b63b-b4b9-5e06-9126-f8977771c840,Handschriften,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6530e668-9495-4468-9ad9-2b7f9b69d2c3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""16199a2f-0096-48e6-a19c-66317b184a38"", ""inverseOntologyProperty"": """"}]"
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 vouwbladen,1 los blad] Bruegel: Fight betw. Carnival & Lent, Vienna, [Wolfgang] Mössner (Farbe bei Bruegel) [Studien zur Farbe bei Pieter Brueghel d.Ä., Würzburg, Univ.Diss.] 1975, citaten pp. 14-16, 18-19, 25, 28, 30, 43, 45-46, 48-50; [los blad][recto] BRUEGEL: Fight betw. Carnival & Lent, Vienna, W. MÖSSNER, [o.c.] (Kapittel I, pp. 11-51); citaten pp.188, note 14, 189; [verso] pp. 13-14.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:6827168,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mössner, Wolfgang",,,,,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000269,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2517</priref>
+			<number>AFG_005_033</number>
+			<content>[2 vouwbladen,1 los blad] Bruegel: Fight betw. Carnival &amp; Lent, Vienna, [Wolfgang] M&#246;ssner (Farbe bei Bruegel) [Studien zur Farbe bei Pieter Brueghel d.&#196;., W&#252;rzburg, Univ.Diss.] 1975, citaten pp. 14-16, 18-19, 25, 28, 30, 43, 45-46, 48-50; [los blad][recto] BRUEGEL: Fight betw. Carnival &amp; Lent, Vienna, W. M&#214;SSNER, [o.c.] (Kapittel I, pp. 11-51); citaten pp.188, note 14, 189; [verso] pp. 13-14.</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>M&#246;ssner, Wolfgang</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>M&#246;ssner, Wolfgang</documentation.author>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Studien zur Farbe bei Pieter Brueghel d.&#196;.</documentation.title>
+			<edit.time>12:04:02</edit.time>
+			<edit.time>10:55:20</edit.time>
+			<edit.time>15:14:40</edit.time>
+			<edit.time>15:14:28</edit.time>
+			<edit.time>16:11:15</edit.time>
+			<edit.time>16:07:59</edit.time>
+			<edit.time>16:04:27</edit.time>
+			<edit.time>16:02:19</edit.time>
+			<edit.time>16:08:32</edit.time>
+			<edit.time>16:08:07</edit.time>
+			<edit.time>16:07:16</edit.time>
+			<input.time>16:06:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:269,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:269/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4648bdc1-e508-50b6-9d15-77ff2c3021ba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""14d0b0ed-93cf-4cf3-b36d-79c1a6790f7e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_033,repository numbers,,,,,,,,,,,,,,
+4747b63b-b4b9-5e06-9126-f8977771c840,tg:rubgr:269,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_033,titles proper,Dutch (language),,,,,,,,,,,

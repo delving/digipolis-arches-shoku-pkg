@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2497,https://data.rubenianum.be//ark:/86530/4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,Brieven,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:2499,Verwijzing naar Grossmann object,,f09b19b2-346b-592d-bd29-c14d0d6e3fb6,"[{""resourceId"": ""f09b19b2-346b-592d-bd29-c14d0d6e3fb6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""48c35533-dc4c-4a2c-ac89-56208fb5251b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_AssociatedRecords,2,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:2500,Verwijzing naar Grossmann object,,a8ed8dbf-6daf-54fe-8713-6e75f2253f3c,"[{""resourceId"": ""a8ed8dbf-6daf-54fe-8713-6e75f2253f3c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1358f1fa-79ee-42e3-ba8a-b633844c84a5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""58a18a71-0e72-4f58-8335-b186200ad490"", ""ontologyProperty"": """", ""resourceXresourceId"": ""35cb3113-f7a1-462f-9157-42c33086b20e"", ""inverseOntologyProperty"": """"}]"
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_Correspondence,1,,,,,,,,,,,,,,,,"Roberts, Keith",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19711004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1971-10-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Bewaard in briefomslag met notitie FG: Bruegel & Followers]. [Briefhoofd: Phaidon Press, London]. Korte inhoud: Stuurt een foto van Isaac Willaerts, River Landscape, gezien bij Alan Jacobs Gallery, London. De figuren zijn geïnspireerd op Pietr Brueghel [sic].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Willaerts, Isaac",,,,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002497,referentienummer,False,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4739</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_083_047</number>
+			<date.precise>1971-10-04</date.precise>
+			<content>[Bewaard in briefomslag met notitie FG: Bruegel &amp; Followers]. [Briefhoofd: Phaidon Press, London]. Korte inhoud: Stuurt een foto van Isaac Willaerts, River Landscape, gezien bij Alan Jacobs Gallery, London. De figuren zijn ge&#239;nspireerd op Pietr Brueghel [sic].</content>
+			<object.object_number>AFG_083</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title>[1 blad] Korte inhoud: Oud studente uit Seattle informeert over haar werk in San Diego, Fine Arts Gallery.</parts.title>
+			<parts.title>[2 bladen] Korte inhoud: Informeert FG over haar werkzaamheden in San Diego. Signaleert dat een tekening toegeschreven aan Bruegel niet langer deeluitmaakt van de collectie; [Notitie FG]: 'Where is it?'; Maakt duidelijk dat FG erg geliefd was in Seattle.</parts.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Cleve, Marten van</object.title>
+			<keyword>Willaerts, Isaac</keyword>
+			<sender>Roberts, Keith</sender>
+			<object.creator/>
+			<input.date>2013-09-06</input.date>
+			<edit.date>2013-09-06</edit.date>
+			<edit.date>2013-09-06</edit.date>
+			<edit.date>2013-09-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_083_049</parts_reference>
+			<parts_reference>AFG_083_050</parts_reference>
+			<edit.time>16:19:17</edit.time>
+			<edit.time>16:05:13</edit.time>
+			<edit.time>16:02:05</edit.time>
+			<input.time>16:01:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2497,brocade id,False,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2497/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""60487f9d-f17b-5bcb-a524-2358f98d534f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8bec7713-9147-4e4b-a3bc-27f15783018c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_047,repository numbers,,,,,,,,,,,
+4008d6f9-d4a0-5ef2-a53d-9ce695327a4d,tg:rubgr:2497,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_047,titles proper,Dutch (language),,,,,,,,

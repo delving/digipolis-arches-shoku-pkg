@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3478,https://data.rubenianum.be//ark:/86530/58b638e5-9245-5a53-ae62-8b2f4381d510,Handschriften,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a98f7243-f448-4717-96e4-754cddd353dc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fc4fecc2-028e-4214-8dfb-c1ee026a95cc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""47770513-db79-4416-bf22-7cfb166ade25"", ""inverseOntologyProperty"": """"}]"
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bruegel-Dürer: Clouds & Sarto-engraved [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sarto, Andrea del",,,,,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003478,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5731</priref>
+			<number>AFG_094_042</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<content>Bruegel-D&#252;rer: Clouds &amp; Sarto-engraved [...]</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>D&#252;rer, Albrecht</keyword>
+			<keyword>Sarto, Andrea del</keyword>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>14:52:17</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3478,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3478/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3498ef5c-61d7-5d91-b423-2810dd9dcb78"", ""ontologyProperty"": """", ""resourceXresourceId"": ""65a27fcc-53f0-4c91-8575-7f1aee75985e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_OriginalBrocade,,,au::5988,,,,,,,,,,,,,,rub,0c4d1392-1949-53c5-b9fa-dbd486d50089,kw,,au::5988:1,au::5988g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/640716"",""au::5988"",""au::5988:1"",""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""Albrecht Dürer""],""name"":""Albrecht Dürer"",""ark"":""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""uri"":""/agents/people/640716"",""id"":""au::5988:1"",""isCapacity"":false}",ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089,agent,,,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_042,repository numbers,,,,,,,,,,,,,,
+58b638e5-9245-5a53-ae62-8b2f4381d510,tg:rubgr:3478,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_042,titles proper,Dutch (language),,,,,,,,,,,

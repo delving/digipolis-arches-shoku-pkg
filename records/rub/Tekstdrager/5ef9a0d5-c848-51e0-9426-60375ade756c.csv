@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3577,https://data.rubenianum.be//ark:/86530/5ef9a0d5-c848-51e0-9426-60375ade756c,Handschriften,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""44424a3d-a661-4cc0-b86a-394f05f27b6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ff7f682-c617-4530-8420-05dfa8dc2d34"", ""inverseOntologyProperty"": """"}]"
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] Joaneath Ann Spicer, 'The 'Naer het Leven' Drawings by Pieter Bruegel or Reolandt Savery', Master Drawings, VIII, 1, 1970, pp. 3-30, plates 1-20; [toegevoegde vermelding]: 'F.G. [...]'[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003577,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5830</priref>
+			<number>AFG_097_023</number>
+			<content>[3 bladen] Joaneath Ann Spicer, 'The 'Naer het Leven' Drawings by Pieter Bruegel or Reolandt Savery', Master Drawings, VIII, 1, 1970, pp. 3-30, plates 1-20; [toegevoegde vermelding]: 'F.G. [...]'[scan]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:02:54</edit.time>
+			<edit.time>14:32:03</edit.time>
+			<input.time>14:30:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3577,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3577/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""be927429-39a6-5e36-9aab-5ccb53b15416"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8fd01e98-768e-47d7-8eb3-d2f2ea9d831b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_023,repository numbers,,,,,,,,,,,,,,
+5ef9a0d5-c848-51e0-9426-60375ade756c,tg:rubgr:3577,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_023,titles proper,Dutch (language),,,,,,,,,,,

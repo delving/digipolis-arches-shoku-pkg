@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3695,https://data.rubenianum.be//ark:/86530/276c7834-6849-5845-a0eb-a7f1219f95b7,Handschriften,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3694,Verwijzing naar Grossmann object,,24e2a0ca-3c02-586b-8edb-8b60afc7d05e,"[{""resourceId"": ""24e2a0ca-3c02-586b-8edb-8b60afc7d05e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""509c66cc-b9a5-478e-a3d9-24e8c8b1d90f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""41474fb7-c308-44af-81c0-98663512bcab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4775a93-a7cf-47be-a6af-9d6f6b787f69"", ""inverseOntologyProperty"": """"}]"
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Edward Heawood, Watermarks of the 17th and 18th Centuries (Monumenta chartae papyraceae historiam illustrantia I), 1950, citaten pp. 31, 40, 41, 150 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003695,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5948</priref>
+			<number>AFG_098_003</number>
+			<part_of_reference>AFG_098_002</part_of_reference>
+			<content>Edward Heawood, Watermarks of the 17th and 18th Centuries (Monumenta chartae papyraceae historiam illustrantia I), 1950, citaten pp. 31, 40, 41, 150 [...]</content>
+			<object.object_number>AFG_098</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Joaneath Ann Spicer, 'The 'Naer het Leven' Drawings: By Pieter Bruegel or Roelandt Savery?', Master Drawings VIII (1970)[geannoteerd][Opdracht van Spicer]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Watermarks. Costume</object.title>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:38:13</edit.time>
+			<edit.time>12:31:50</edit.time>
+			<edit.time>14:28:37</edit.time>
+			<input.time>14:15:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3695,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3695/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""86548088-3088-5348-b502-8fdd55f8af03"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4977b389-74a5-4c13-97b1-a62f5cddcb13"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_003,repository numbers,,,,,,,,,,,,,,
+276c7834-6849-5845-a0eb-a7f1219f95b7,tg:rubgr:3695,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_003,titles proper,Dutch (language),,,,,,,,,,,

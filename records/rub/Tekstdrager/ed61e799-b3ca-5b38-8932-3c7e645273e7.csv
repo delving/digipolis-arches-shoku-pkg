@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4553,https://data.rubenianum.be//ark:/86530/ed61e799-b3ca-5b38-8932-3c7e645273e7,Handschriften,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7be8bb9-a966-4469-8944-ada91dd90aff"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a6bb41eb-d418-4f6e-837c-0bba3371f62c"", ""inverseOntologyProperty"": """"}]"
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Friedrich III. Profilporträt mit Haube als KOpf des knienden Königs (nach rechts) auf Anbetung der König, Wien, Kaiserl. Galerie, Aufnahme Bruckmann 1905, damls Gal. N° 648 'Niederländisch um 1500'.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004553,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6806</priref>
+			<number>AFG_116_040</number>
+			<content>Friedrich III. Profilportr&#228;t mit Haube als KOpf des knienden K&#246;nigs (nach rechts) auf Anbetung der K&#246;nig, Wien, Kaiserl. Galerie, Aufnahme Bruckmann 1905, damls Gal. N&#176; 648 'Niederl&#228;ndisch um 1500'.</content>
+			<object.object_number>AFG_116</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Miscellanea Bruegel &amp; others not needed at present</object.title>
+			<object.creator/>
+			<input.date>2014-07-16</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>14:33:37</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4553,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4553/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb8914a1-e27a-5e33-8a69-b91ced4d0021"", ""ontologyProperty"": """", ""resourceXresourceId"": ""25378a5e-6d40-4e36-8a62-1e0a33a25153"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_040,repository numbers,,,,,,,,,,,,,,
+ed61e799-b3ca-5b38-8932-3c7e645273e7,tg:rubgr:4553,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_040,titles proper,Dutch (language),,,,,,,,,,,

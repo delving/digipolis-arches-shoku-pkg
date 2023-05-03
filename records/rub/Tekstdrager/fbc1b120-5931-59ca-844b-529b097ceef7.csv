@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:934,https://data.rubenianum.be//ark:/86530/fbc1b120-5931-59ca-844b-529b097ceef7,Handschriften,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9c426df6-ac25-477b-b73d-9c7665d9bd12"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c23e5cfc-047e-460c-b184-96831fad0147"", ""inverseOntologyProperty"": """"}]"
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Adulteress. Maurice Vaes, Le Journal de Jean Brueghel II,  Bull[etin] de l'Institut historique belge de Rome, Fasc. 6, 1926, [pp. 163-224], citaat p. 180, n. 3, 4, 5.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:6885976,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vaes, Maurice",,,,,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000934,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3187</priref>
+			<number>AFG_021_018</number>
+			<content>Adulteress. Maurice Vaes, Le Journal de Jean Brueghel II,  Bull[etin] de l'Institut historique belge de Rome, Fasc. 6, 1926, [pp. 163-224], citaat p. 180, n. 3, 4, 5.</content>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Vaes, Maurice</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Vaes, Maurice</documentation.author>
+			<input.date>2012-03-02</input.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-22</edit.date>
+			<edit.date>2012-03-02</edit.date>
+			<edit.date>2012-03-02</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>journal de Jean Brueghel II*</documentation.title>
+			<edit.time>12:10:35</edit.time>
+			<edit.time>14:01:13</edit.time>
+			<edit.time>14:44:47</edit.time>
+			<edit.time>14:36:39</edit.time>
+			<input.time>14:36:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Le</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:934,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:934/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""43048f46-c8e9-5ae0-8da5-5dceb8b912b0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4ebec0dd-73bd-4751-b533-8e90284ee8a1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_018,repository numbers,,,,,,,,,,,,,,
+fbc1b120-5931-59ca-844b-529b097ceef7,tg:rubgr:934,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_018,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3254,https://data.rubenianum.be//ark:/86530/fb66627a-dd7d-50f1-921b-32d572c2cd38,Handschriften,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3253,Verwijzing naar Grossmann object,,63274b2b-8a51-51af-840e-419f03b93bf9,"[{""resourceId"": ""63274b2b-8a51-51af-840e-419f03b93bf9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e25539cc-0ccc-48d0-8033-c949e1134cd8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4d052bbe-32cc-4e1a-bb93-151f9beccd50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""19415d00-cd5d-4cfc-b275-387d43fa395d"", ""inverseOntologyProperty"": """"}]"
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Addendum] 109. Witt Library. P.B.II. Rent Day: 1) A Tooth, [?] 1928, then Curtis Sale (anonymous coll.) Christie, 9-VII-1937, N° 130. Signed and dated 1621, panel 281/2 x 47in. On mount: 29 x48 1/2 in. Lord Walter Talbot Kerr Coll. Hatfield. Bought by [?]; 2) Sale Herele, Antwerp, 30-31-V-1938, N° 24, Bois, 58 x 93 cm.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003254,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5368</priref>
+			<number>AFG_091_058</number>
+			<part_of_reference>AFG_091_057</part_of_reference>
+			<content>[Addendum] 109. Witt Library. P.B.II. Rent Day: 1) A Tooth, [?] 1928, then Curtis Sale (anonymous coll.) Christie, 9-VII-1937, N&#176; 130. Signed and dated 1621, panel 281/2 x 47in. On mount: 29 x48 1/2 in. Lord Walter Talbot Kerr Coll. Hatfield. Bought by [?]; 2) Sale Herele, Antwerp, 30-31-V-1938, N&#176; 24, Bois, 58 x 93 cm.</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>65. Eislauf beim Georgtor. 78. Mention at end that as proved by Gl&#252;ck done after drawing.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-10</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:20:59</edit.time>
+			<edit.time>15:43:53</edit.time>
+			<input.time>15:37:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3254,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3254/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cb5f5ac3-4c7c-5c58-8747-eb01097c7fef"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5ce75b75-178c-4235-b1eb-6d364e6c7a20"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_058,repository numbers,,,,,,,,,,,,,,
+fb66627a-dd7d-50f1-921b-32d572c2cd38,tg:rubgr:3254,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_058,titles proper,Dutch (language),,,,,,,,,,,

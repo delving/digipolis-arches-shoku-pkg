@@ -1,0 +1,63 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:198,https://data.rubenianum.be//ark:/86530/d52b878a-909d-5696-a147-ed518e4ef94e,Handschriften,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_AssociatedArchives,2,,,,,,AFG_013,isad:rub:2943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ad9ffa31-3779-4e8f-b056-fdf2b52c2590"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09e52d98-e43c-484f-9e69-d4da1532a4d1"", ""inverseOntologyProperty"": """"}]"
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brüsseler Anbetung: Ein weiteres Argument für Bruegels Autorschaft: Die Kompositionen mit die Figuren herauskommd von links und rechts werden gebildet im Marietod; What is the literary source of the crowd of followers: who kneel in adoration?,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_ExternalRelationsExtras,a::rub.17,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,64155,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_ExternalRelationsExtras,a::rub.8,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262343,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000198,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2444</priref>
+			<number>AFG_004_011</number>
+			<content>Br&#252;sseler Anbetung: Ein weiteres Argument f&#252;r Bruegels Autorschaft: Die Kompositionen mit die Figuren herauskommd von links und rechts werden gebildet im Marietod; What is the literary source of the crowd of followers: who kneel in adoration?</content>
+			<object.object_number>AFG_004</object.object_number>
+			<object.object_number>AFG_013</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Adoration of the Kings</object.title>
+			<object.title>The Death of the Virgin</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-07</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2013-02-12</edit.date>
+			<edit.date>2013-02-12</edit.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2011-11-03</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:29:59</edit.time>
+			<edit.time>12:30:13</edit.time>
+			<edit.time>12:29:24</edit.time>
+			<edit.time>14:26:04</edit.time>
+			<edit.time>13:32:38</edit.time>
+			<edit.time>11:13:40</edit.time>
+			<edit.time>13:53:11</edit.time>
+			<input.time>13:49:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:198,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:198/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""50b0c073-90e3-5fc8-aa76-3efe0d660725"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2550117f-a190-43b0-91f5-7f1dcf803026"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_011,repository numbers,,,,,,,,,,,,,,
+d52b878a-909d-5696-a147-ed518e4ef94e,tg:rubgr:198,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_011,titles proper,Dutch (language),,,,,,,,,,,

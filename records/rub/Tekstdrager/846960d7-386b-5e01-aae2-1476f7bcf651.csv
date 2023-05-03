@@ -1,0 +1,67 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5346,https://data.rubenianum.be//ark:/86530/846960d7-386b-5e01-aae2-1476f7bcf651,Handschriften,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""438e8b20-858d-4708-be50-a054c6447476"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""81118260-98ab-4c5a-8ee8-ec7d58783183"", ""ontologyProperty"": """", ""resourceXresourceId"": ""65dbdb61-1e47-4620-aa4c-6bc8c4d7ed31"", ""inverseOntologyProperty"": """"}]"
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Catalogue Chatsworth Drawings missing in bibliography [Berlijn 1975] [...] My review of Franz [1974] not mentioned. Rotterdam study of 2 heads (Naer het leven) not shown.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13253485,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Chatsworth, privé-collectie",,,,,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005346,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7603</priref>
+			<number>AFG_145_076</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<content>Catalogue Chatsworth Drawings missing in bibliography [Berlijn 1975] [...] My review of Franz [1974] not mentioned. Rotterdam study of 2 heads (Naer het leven) not shown.</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Grossmann, F.</keyword>
+			<keyword>Chatsworth, priv&#233;-collectie</keyword>
+			<keyword>Rotterdam, Museum Boijmans van Beuningen</keyword>
+			<object.creator/>
+			<documentation.author/>
+			<input.date>2014-08-21</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Old master drawings from Chatsworth</documentation.title>
+			<edit.time>09:16:40</edit.time>
+			<edit.time>08:52:20</edit.time>
+			<edit.time>08:50:01</edit.time>
+			<edit.time>08:49:36</edit.time>
+			<edit.time>08:49:09</edit.time>
+			<edit.time>08:45:13</edit.time>
+			<input.time>08:43:33</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5346,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5346/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2ba70df2-a26e-576e-a177-4780f86da7bf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c6235227-8ea5-42d5-b446-fa556a0d0d94"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_OriginalBrocade,,,au::111146,,,,,,,,,,,,,,rub,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,kw,,au::111146:1,au::111146g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,agent,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_OriginalBrocade,,,au::13299,,,,,,,,,,,,,,rub,0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,kw,,au::13299:1,au::13299g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1422993"",""au::13299"",""au::13299:1"",""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""Museum Boymans-Van Beuningen""],""name"":""Museum Boymans-Van Beuningen"",""ark"":""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""uri"":""/agents/corporate_entities/1422993"",""id"":""au::13299:1"",""isCapacity"":false}",ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,agent,,,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_076,repository numbers,,,,,,,,,,,,,,
+846960d7-386b-5e01-aae2-1476f7bcf651,tg:rubgr:5346,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_076,titles proper,Dutch (language),,,,,,,,,,,

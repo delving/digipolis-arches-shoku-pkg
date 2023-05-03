@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2881,https://data.rubenianum.be//ark:/86530/499042b4-070c-5c72-815e-e16089217f1f,Handschriften,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2871,Verwijzing naar Grossmann object,,cf48bf3f-cf32-5521-8565-d4ddb4338648,"[{""resourceId"": ""cf48bf3f-cf32-5521-8565-d4ddb4338648"", ""ontologyProperty"": """", ""resourceXresourceId"": ""be8052a2-cb1f-4c37-96e1-7d19edba094b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1a92f7c8-b6a3-487d-8b2c-bfb5f712509f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8a10b846-0633-40bb-9810-0b3546004a61"", ""inverseOntologyProperty"": """"}]"
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] Romdahl: Youth preshed into pigsty & greed (gula); Hausenstein, Bauern-Bruegel, 1910, citaat p. 58 Magere und Fette Küche [...]; [verso] p. 58 Das Luilekkerland ist Apotheose des Schlemmerei; [toegevoegde vermelding] 'F.G. Gula motivs & contrasts: 1) Gula 1557/58; 2) Carnival & Lent 1559; 3) Küchscène Magere & Grosse 1563; 4) Land of Cocaygne 1567; 5) Youth pushed into Pigsty (Bast. 164) 1568; 6) Copenhagen: 2 Fat Heads and one lean one) z.T. gehören hierbei auch Kirmes, Stiche und Bilder.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Romdahl, Axel L.",,,,,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002881,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5123</priref>
+			<number>AFG_086_139</number>
+			<part_of_reference>AFG_086_129</part_of_reference>
+			<content>[recto] Ad [Addendum] Romdahl: Youth preshed into pigsty &amp; greed (gula); Hausenstein, Bauern-Bruegel, 1910, citaat p. 58 Magere und Fette K&#252;che [...]; [verso] p. 58 Das Luilekkerland ist Apotheose des Schlemmerei; [toegevoegde vermelding] 'F.G. Gula motivs &amp; contrasts: 1) Gula 1557/58; 2) Carnival &amp; Lent 1559; 3) K&#252;chsc&#232;ne Magere &amp; Grosse 1563; 4) Land of Cocaygne 1567; 5) Youth pushed into Pigsty (Bast. 164) 1568; 6) Copenhagen: 2 Fat Heads and one lean one) z.T. geh&#246;ren hierbei auch Kirmes, Stiche und Bilder.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Illustration &amp; Moralizing Inhalt/Gegenstand.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Romdahl, Axel L.</keyword>
+			<object.creator/>
+			<input.date>2014-04-04</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:02:44</edit.time>
+			<edit.time>10:05:54</edit.time>
+			<edit.time>16:35:38</edit.time>
+			<edit.time>16:35:31</edit.time>
+			<edit.time>16:29:44</edit.time>
+			<edit.time>16:28:48</edit.time>
+			<edit.time>16:23:28</edit.time>
+			<edit.time>16:21:06</edit.time>
+			<edit.time>16:17:35</edit.time>
+			<edit.time>16:13:13</edit.time>
+			<input.time>16:10:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2881,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2881/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1c37f620-d4a6-57a6-83b4-e7668ab2fbd4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0b9b4dc0-3d9d-4857-b8a2-c7ff6944aebf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_139,repository numbers,,,,,,,,,,,,,,
+499042b4-070c-5c72-815e-e16089217f1f,tg:rubgr:2881,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_139,titles proper,Dutch (language),,,,,,,,,,,

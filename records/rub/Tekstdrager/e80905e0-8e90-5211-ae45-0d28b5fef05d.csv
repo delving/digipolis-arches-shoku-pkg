@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4954,https://data.rubenianum.be//ark:/86530/e80905e0-8e90-5211-ae45-0d28b5fef05d,Handschriften,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ea298433-b166-40f5-9e35-f6d0118ceb74"", ""ontologyProperty"": """", ""resourceXresourceId"": ""90d6002f-062a-476b-907c-478205909c43"", ""inverseOntologyProperty"": """"}]"
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BM Printroom: Under Prints after Bruegel: Lithograph of 'Peasant Wedding' with present given to Bride. Inscribed: Pierre Bruegel. Tiré du Cabinet de Mr. Duca; Bastelaer 210 [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004954,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7210</priref>
+			<number>AFG_136_082</number>
+			<content>BM Printroom: Under Prints after Bruegel: Lithograph of 'Peasant Wedding' with present given to Bride. Inscribed: Pierre Bruegel. Tir&#233; du Cabinet de Mr. Duca; Bastelaer 210 [...]</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel</object.title>
+			<keyword>prentkunst</keyword>
+			<keyword>Bastelaer, Ren&#233; van</keyword>
+			<keyword>Londen, British Museum</keyword>
+			<object.creator/>
+			<input.date>2014-08-06</input.date>
+			<edit.date>2014-08-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:15:50</edit.time>
+			<input.time>16:02:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4954,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4954/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""991bfbf4-6b3f-5961-90db-aadec49b8d0e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""52ec91da-415d-43b8-b893-4c37908a7a6a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_OriginalBrocade,,,au::1127,,,,,,,,,,,,,,rub,d4f69e55-99df-5c54-b739-472d12fa4387,kw,,au::1127:1,au::1127g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/120589"",""au::1127"",""au::1127:1"",""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""René van Bastelaer""],""name"":""René van Bastelaer"",""ark"":""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""uri"":""/agents/people/120589"",""id"":""au::1127:1"",""isCapacity"":false}",ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387,agent,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_OriginalBrocade,,,au::22658,,,,,,,,,,,,,,rub,96897c66-14f1-56e2-b6c5-594e386ef493,kw,,au::22658:1,au::22658g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/2424406"",""au::22658"",""au::22658:1"",""ark:/83110/x0/96897c66-14f1-56e2-b6c5-594e386ef493"",""British Museum [Londen (GB)]""],""name"":""British Museum [Londen (GB)]"",""ark"":""ark:/83110/x0/96897c66-14f1-56e2-b6c5-594e386ef493"",""uri"":""/agents/corporate_entities/2424406"",""id"":""au::22658:1"",""isCapacity"":false}",ark:/83110/x0/96897c66-14f1-56e2-b6c5-594e386ef493,agent,,,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_082,repository numbers,,,,,,,,,,,,,,
+e80905e0-8e90-5211-ae45-0d28b5fef05d,tg:rubgr:4954,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_082,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3508,https://data.rubenianum.be//ark:/86530/4fe3d07e-4010-53c1-981a-1a2baee6c78c,Brieven,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3492,Verwijzing naar Grossmann object,,e772b23f-9ba6-5699-8550-e3212c8f929a,"[{""resourceId"": ""e772b23f-9ba6-5699-8550-e3212c8f929a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22f0579e-193f-4d47-99fd-3d7a4fb4fee8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1a66b22d-71b0-446c-8395-7eeb9bca1f58"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0346ba7d-699a-4940-a43c-617b4a45790b"", ""inverseOntologyProperty"": """"}]"
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_Correspondence,1,,,,,,,,,,,,,,,,"Preece, Warren E.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19721015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1972-10-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[4 bladen] Korte inhoud: Motiveert de aangebrachte wijzigingen en de procedure van de Britannica.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Preece, Warren E.",,,,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003508,referentienummer,False,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5761</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_094_072</number>
+			<part_of_reference>AFG_094_056</part_of_reference>
+			<date.precise>1972-10-15</date.precise>
+			<content>[4 bladen] Korte inhoud: Motiveert de aangebrachte wijzigingen en de procedure van de Britannica.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Encyclopaedia Britannica</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Preece, Warren E.</keyword>
+			<sender>Preece, Warren E.</sender>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2014-07-14</edit.date>
+			<edit.date>2014-06-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:23:23</edit.time>
+			<edit.time>17:23:37</edit.time>
+			<input.time>16:53:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3508,brocade id,False,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3508/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a30607b0-33fb-5179-9b69-32b2721000d4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5ac6de0e-f357-4c00-810b-73a709aac0dd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_072,repository numbers,,,,,,,,,,,
+4fe3d07e-4010-53c1-981a-1a2baee6c78c,tg:rubgr:3508,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_072,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3770,https://data.rubenianum.be//ark:/86530/1122a716-6e19-510d-9de2-e0baa80316cb,Brieven,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3767,Verwijzing naar Grossmann object,,0a97af2f-5d26-567f-aaa7-ee3530fcf9b2,"[{""resourceId"": ""0a97af2f-5d26-567f-aaa7-ee3530fcf9b2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""15433ba8-ca45-4ca1-9c17-36b232b2bb03"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6ff050d2-2bff-48b6-82f1-9a10d6513f52"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a3fffc2f-9ce0-457d-b9d1-6498c965a84e"", ""inverseOntologyProperty"": """"}]"
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Correspondence,1,,,,,,,,,,,,,,,,"Gerson, H.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19740917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1974-09-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd Instituut voor Kunstgeschiedenis Rijksuniversiteit Groningen] Korte inhoud: Dankt FG persoonlijk voor het advies. Geeft mening over de toeschrijving; [verso] 3-10-1974 [FG's antwoord] [scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gerson, Horst",,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adviezen,,,,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003770,referentienummer,False,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6023</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_099_008</number>
+			<part_of_reference>AFG_099_005</part_of_reference>
+			<date.precise>1974-09-17</date.precise>
+			<content>[Briefhoofd Instituut voor Kunstgeschiedenis Rijksuniversiteit Groningen] Korte inhoud: Dankt FG persoonlijk voor het advies. Geeft mening over de toeschrijving; [verso] 3-10-1974 [FG's antwoord] [scan]</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefhoofd Instituut voor Kunstgeschiedenis Rijksuniversiteit Groningen] Korte inhoud: Deelt mee in de Geschillencommissie te zitten over de Naer het Leven-Affaire. Vraagt FG's advies over de stand van het onderzoek i.v.m. de toeschrijving.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<keyword>Gerson, Horst</keyword>
+			<keyword>Adviezen</keyword>
+			<sender>Gerson, H.</sender>
+			<object.creator/>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2015-02-26</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:55:48</edit.time>
+			<edit.time>13:48:50</edit.time>
+			<edit.time>14:28:47</edit.time>
+			<edit.time>12:05:14</edit.time>
+			<input.time>12:04:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3770,brocade id,False,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3770/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2d4207ee-1736-5b09-9d6d-93431ae0bd3f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""29cffbdf-8290-4ac1-b639-546a8d29af42"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_008,repository numbers,,,,,,,,,,,
+1122a716-6e19-510d-9de2-e0baa80316cb,tg:rubgr:3770,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_008,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1448,https://data.rubenianum.be//ark:/86530/12b3c722-2487-5a7f-b120-7a8c7bf6ef62,Handschriften,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cf3f60f9-c9a4-4790-9d47-3df79d716499"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7beed904-6b4b-40ad-9d09-ddea7a7d3771"", ""inverseOntologyProperty"": """"}]"
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Sermon of St. John. [Pieter] Geyl, The Revolt of the Netherlands [(1555-1609), London: Williams, 1932], citaat p. 90f.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54753,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Geyl, Pieter",,,,,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001448,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3697</priref>
+			<number>AFG_038_054</number>
+			<content>Ad [Addendum] Sermon of St. John. [Pieter] Geyl, The Revolt of the Netherlands [(1555-1609), London: Williams, 1932], citaat p. 90f.</content>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<keyword>Geyl, Pieter</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-30</input.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2012-08-30</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:37:55</edit.time>
+			<edit.time>15:35:23</edit.time>
+			<edit.time>13:55:26</edit.time>
+			<input.time>13:52:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1448,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1448/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ed16ce9d-901b-532b-a836-a13f92e4e42d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0e35fa4-187c-418e-a142-51ef2e074b3e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_054,repository numbers,,,,,,,,,,,,,,
+12b3c722-2487-5a7f-b120-7a8c7bf6ef62,tg:rubgr:1448,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_054,titles proper,Dutch (language),,,,,,,,,,,

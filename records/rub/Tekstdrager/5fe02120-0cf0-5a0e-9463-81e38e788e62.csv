@@ -1,0 +1,95 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1042,https://data.rubenianum.be//ark:/86530/5fe02120-0cf0-5a0e-9463-81e38e788e62,Handschriften,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1041,Verwijzing naar Grossmann object,,d75e2b55-e829-543e-adb2-72451e557082,"[{""resourceId"": ""d75e2b55-e829-543e-adb2-72451e557082"", ""ontologyProperty"": """", ""resourceXresourceId"": ""eb29296b-6140-4b31-a20e-244b63a128f8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1043,Verwijzing naar Grossmann object,,646fe7a9-25a6-50e1-9b2e-6387ec712831,"[{""resourceId"": ""646fe7a9-25a6-50e1-9b2e-6387ec712831"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea5d804b-56a0-4dc6-b8b1-2e2580508de2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1044,Verwijzing naar Grossmann object,,a567216e-ed68-5abd-88dc-a5236bab7bb4,"[{""resourceId"": ""a567216e-ed68-5abd-88dc-a5236bab7bb4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""65a50b02-82cc-416d-8e96-e3cfc0b48aba"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""48bac988-1792-4d7c-9ab8-614cf3be3e87"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5c741d47-1928-401f-8362-19da77f03632"", ""inverseOntologyProperty"": """"}]"
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[paper: geannoteerd; 16pgs.]: The Series of the Months by Pieter Bruegel the Elder. Diane Robbins, Art 498, Winter 1968, Professor F. Grossmann.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Robbins, Diane",,,,,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001042,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3296</priref>
+			<number>AFG_022_075</number>
+			<part_of_reference>AFG_022_074</part_of_reference>
+			<content>[paper: geannoteerd; 16pgs.]: The Series of the Months by Pieter Bruegel the Elder. Diane Robbins, Art 498, Winter 1968, Professor F. Grossmann.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Ad [Addendum] Bruegel: Months. See [Ernst] Buchner, Monats- und Jahreszeitenbilder Hans Wertingers, Zschft f. b.Kst [= Zeitschrift f&#252;r bildende Kunst], 61, 1927/28, pp. 106-112.</part_of.title>
+			<parts.title>[vouwblad] Karen Mensel (June 1969), Preference for 24 calendar pictures, sometimes even 36, suggests that the miniaturists (around 1500) were interested in elaborating on the tradition of calendar iconography. A few independent spirits- the more accomplished painters - occasionally break with the more traditional iconography. All calendar pictures, not just the full page illustrations to be taken into consideration. Instances of differing motifs for the same month. [schema: scan: recto-verso]; 
+Ad [Addendum] Months: 
+J. BOUISSOUNOUSE, Jeux et travaux d'apr&#232;s un livre d'heures du XVe si&#232;cle, [(Documents artistiques du XV&#232; si&#232;cle; 3)], Paris [Droz], 1925; 
+J. [James] FOWLER, On Medieval Representations of the Months &amp; Seasons, Archaeologia, XLIV, 1873, [pp.] 137-224; 
+LE S&#201;N&#201;CHAL, J. [Julien], Les occupations des mois dans l'iconographie du Moyen &#194;ge, Bulletin de la Soci&#233;t&#233; des Antiquaires de Normandie, Caen-Rouen, Paris [t&#244;me 34], 1924; 
+TUSSER, T. [Thomas], Five Hundred Points of Good Husbandry, [At London: Printed for the Company of Stationers, an. Dom.], 1614; 
+WEBSTER, J.C. [James Carson], The Labors of the Months in Antique and Mediaeval Art &amp; The End of the 12th C., [(Northwestern University Studies in the Humanities; 4)], Evanston, Ill. [(Princeton Monographs in Art and Archaeology; 21), Princeton: Princeton University Press], 1938; 
+WILLARD, James F., Occupations of the Months in Mediaeval Calendars, Bodleian Library Quarterly Record, vol. VII, [1932], N&#176; 74, pp. 33-34 [=33-39]; 
+SCHAPIRO, M. [Meyer], Review of Webster, in Speculum XVI, 1941, [pp.] 131-137.</parts.title>
+			<parts.title>[2 bladen] Ad [Addendum] Bruegel: Months. Calendar Illustrations. [Millard] Meiss, Berry [= French Painting in the Time of Jean de Berry: The Late Fourteenth Century and the Patronage of the Duke, National Gallery of Art Kress Foundation Studies in the History of European Art, 2 vols., London: Phaidon, 2nd ed., 1969], Calendar pictures, iconography, citaten pp. 72, 171-2, 187, 231-2, 259, 389 (n.58), 396 (n.21).</parts.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Robbins, Diane</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-02</input.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-03</edit.date>
+			<edit.date>2012-04-03</edit.date>
+			<edit.date>2012-04-03</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_022_076</parts_reference>
+			<parts_reference>AFG_022_077</parts_reference>
+			<edit.time>15:58:19</edit.time>
+			<edit.time>15:57:30</edit.time>
+			<edit.time>15:41:02</edit.time>
+			<edit.time>14:04:29</edit.time>
+			<edit.time>14:03:47</edit.time>
+			<edit.time>15:48:56</edit.time>
+			<edit.time>14:21:01</edit.time>
+			<edit.time>14:20:26</edit.time>
+			<edit.time>14:20:11</edit.time>
+			<edit.time>11:43:13</edit.time>
+			<edit.time>10:55:47</edit.time>
+			<edit.time>10:34:11</edit.time>
+			<input.time>10:26:57</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1042,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1042/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""65a6279b-7fd2-5985-af57-33480cc5b182"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2696d4c0-a178-4b65-8f44-84ace583cc0a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_075,repository numbers,,,,,,,,,,,,,,
+5fe02120-0cf0-5a0e-9463-81e38e788e62,tg:rubgr:1042,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_075,titles proper,Dutch (language),,,,,,,,,,,

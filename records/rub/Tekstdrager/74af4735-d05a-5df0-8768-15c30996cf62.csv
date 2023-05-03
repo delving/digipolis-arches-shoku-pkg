@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:603,https://data.rubenianum.be//ark:/86530/74af4735-d05a-5df0-8768-15c30996cf62,Handschriften,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2ca2992c-923f-4975-98f0-3c3bd0fe67d7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c103c99c-957b-4a7b-92fd-e450f84c4d89"", ""inverseOntologyProperty"": """"}]"
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 17. Bruegel. Marientod cf. Juan de Flandes, Christ appearing tot the Virgin, N. [National] Gallery, N° 1280.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_ExternalRelationsExtras,a::rub.17,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,64155,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Juan de Flandes,,,,,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, National Gallery of Art",,,,,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000603,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2853</priref>
+			<number>AFG_013_006</number>
+			<content>Ad [Addendum] 17. Bruegel. Marientod cf. Juan de Flandes, Christ appearing tot the Virgin, N. [National] Gallery, N&#176; 1280.</content>
+			<object.object_number>AFG_013</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Death of the Virgin</object.title>
+			<keyword>Juan de Flandes</keyword>
+			<keyword>Londen, National Gallery of Art</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-11</input.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-06-07</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<edit.date>2012-01-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:43:45</edit.time>
+			<edit.time>09:53:41</edit.time>
+			<edit.time>09:47:46</edit.time>
+			<edit.time>11:57:02</edit.time>
+			<edit.time>11:49:40</edit.time>
+			<edit.time>11:47:41</edit.time>
+			<edit.time>11:45:19</edit.time>
+			<input.time>11:44:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:603,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:603/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""03012179-ae22-56d8-ab9a-5f2172d9a1d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b22dd031-3471-4ea5-8d2c-513bbf1f7458"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_006,repository numbers,,,,,,,,,,,,,,
+74af4735-d05a-5df0-8768-15c30996cf62,tg:rubgr:603,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_006,titles proper,Dutch (language),,,,,,,,,,,

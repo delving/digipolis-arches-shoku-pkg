@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2929,https://data.rubenianum.be//ark:/86530/0d1870be-e900-5cc9-885f-acc794f52d37,Handschriften,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2914,Verwijzing naar Grossmann object,,b70cbb85-5e5c-581b-902f-dfd90aa6b51b,"[{""resourceId"": ""b70cbb85-5e5c-581b-902f-dfd90aa6b51b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d57300d1-b7aa-4d53-9b13-a76dea2dd814"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b608af15-83a9-44a1-9e8e-e3a8082c37e0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7fe5a6e8-f6ed-4d0e-8a56-abbf5a361ee7"", ""inverseOntologyProperty"": """"}]"
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel - Geburtsjahr & Biographie: J.B. Knipping, Pieter Bruegel de Oude, Amsterdam 1945",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:790266,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002929,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5171</priref>
+			<number>AFG_086_187</number>
+			<part_of_reference>AFG_086_172</part_of_reference>
+			<content>Bruegel - Geburtsjahr &amp; Biographie: J.B. Knipping, Pieter Bruegel de Oude, Amsterdam 1945</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel. Biography: Details about Italian Journey, Birth, Death dates, Place of birth, Clovio, Ortelius, Theatrum Orbis, Bruegel's ship drawings used.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<documentation.author>Knipping, J. Bonfilius</documentation.author>
+			<input.date>2014-04-11</input.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel de Oude</documentation.title>
+			<edit.time>15:05:34</edit.time>
+			<input.time>14:53:24</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2929,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2929/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33727c4c-847d-5ef7-9f5d-885b2a078714"", ""ontologyProperty"": """", ""resourceXresourceId"": ""047a8740-308b-4221-be39-f9a4c31787a7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_187,repository numbers,,,,,,,,,,,,,,
+0d1870be-e900-5cc9-885f-acc794f52d37,tg:rubgr:2929,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_187,titles proper,Dutch (language),,,,,,,,,,,

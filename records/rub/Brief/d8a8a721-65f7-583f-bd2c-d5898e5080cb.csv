@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2292,https://data.rubenianum.be//ark:/86530/d8a8a721-65f7-583f-bd2c-d5898e5080cb,Brieven,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2290,Verwijzing naar Grossmann object,,95d9af60-5db0-50b5-b9d6-37e3221c0934,"[{""resourceId"": ""95d9af60-5db0-50b5-b9d6-37e3221c0934"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ecce6a30-cd48-4ca2-9e3c-1aeaf25cc430"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d0c4d208-33d8-4e6c-a71e-1da71a7beaa0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""67e9456b-80e2-4a93-b76c-f12186263f53"", ""inverseOntologyProperty"": """"}]"
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Correspondence,1,,,,,,,,,,,,,,,,"Koetser, David",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19760608,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1976-06-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Wijst erop dat hij geen certificaten schrijft. Omwille van gezondheidsproblemen kan hij geen advies geven.[scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Certificaat,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adviezen,,,,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002292,referentienummer,False,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4535</priref>
+			<recipient>Koetser, David</recipient>
+			<number>AFG_074_005</number>
+			<part_of_reference>AFG_074_003</part_of_reference>
+			<date.precise>1976-06-08</date.precise>
+			<content>Korte inhoud: Wijst erop dat hij geen certificaten schrijft. Omwille van gezondheidsproblemen kan hij geen advies geven.[scan]</content>
+			<object.object_number>AFG_074</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>[Briefhoofd: Leonard &amp; David Koetser, Gen&#232;ve. Poststempel Monaco]: Korte inhoud: Signaleert dat de kunsthandel in Londen gesloten werd. Zendt een foto van een werk uit een priv&#233;-collectie. Een gelijkaardig werk werd bij Christie's in April geveild. Vraagt advies aan FG.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title/>
+			<keyword>Certificaat</keyword>
+			<keyword>Adviezen</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator>Kessel, Jan I van</object.creator>
+			<input.date>2013-05-30</input.date>
+			<edit.date>2015-02-26</edit.date>
+			<edit.date>2014-11-27</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:25:25</edit.time>
+			<edit.time>10:47:44</edit.time>
+			<edit.time>10:46:26</edit.time>
+			<edit.time>10:10:29</edit.time>
+			<input.time>16:33:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2292,brocade id,False,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2292/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0aea0323-5748-5f22-8991-7933a1787b21"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c183ddc2-4df1-44a3-9d7a-e7850cc9f23a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_074_005,repository numbers,,,,,,,,,,,
+d8a8a721-65f7-583f-bd2c-d5898e5080cb,tg:rubgr:2292,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_074_005,titles proper,Dutch (language),,,,,,,,

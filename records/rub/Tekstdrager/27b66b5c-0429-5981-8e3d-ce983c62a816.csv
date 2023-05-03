@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3650,https://data.rubenianum.be//ark:/86530/27b66b5c-0429-5981-8e3d-ce983c62a816,Handschriften,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3649,Verwijzing naar Grossmann object,,5cbd73ff-149a-5d34-9bad-473c729dc83f,"[{""resourceId"": ""5cbd73ff-149a-5d34-9bad-473c729dc83f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d2bc91b7-940e-472e-9ad9-4501aee7ecb2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ce01d104-c25b-4350-974f-08fd15f6ec1c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4f4c622d-d0aa-4402-a453-8fde1a7585ca"", ""inverseOntologyProperty"": """"}]"
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Naer het Leven: Stechow, Piter Bruegel, N.Y. 1971, citaat p. 59; Underdrawing of figures to be compared with drawing technique [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257411,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003650,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5903</priref>
+			<number>AFG_097_096</number>
+			<part_of_reference>AFG_097_095</part_of_reference>
+			<content>Naer het Leven: Stechow, Piter Bruegel, N.Y. 1971, citaat p. 59; Underdrawing of figures to be compared with drawing technique [...]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Naer het Leven drawings used in Bruegel paintings [scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>Stechow, Wolfgang</keyword>
+			<object.creator/>
+			<documentation.author>Stechow, Wolfgang</documentation.author>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel the Elder</documentation.title>
+			<edit.time>11:48:36</edit.time>
+			<edit.time>11:14:29</edit.time>
+			<edit.time>10:10:50</edit.time>
+			<edit.time>10:10:38</edit.time>
+			<input.time>10:10:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3650,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3650/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7346d197-55fd-5ec3-b818-223176b5a09c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fddde850-a697-4661-8568-0f1c282f5dda"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_OriginalBrocade,,,au::37698,,,,,,,,,,,,,,rub,ff6a51ba-e98d-5a1d-8a59-563e60dad251,kw,,au::37698:1,au::37698g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4033686"",""au::37698"",""au::37698:1"",""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""Wolfgang Stechow""],""name"":""Wolfgang Stechow"",""ark"":""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""uri"":""/agents/people/4033686"",""id"":""au::37698:1"",""isCapacity"":false}",ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251,agent,,,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_096,repository numbers,,,,,,,,,,,,,,
+27b66b5c-0429-5981-8e3d-ce983c62a816,tg:rubgr:3650,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_096,titles proper,Dutch (language),,,,,,,,,,,

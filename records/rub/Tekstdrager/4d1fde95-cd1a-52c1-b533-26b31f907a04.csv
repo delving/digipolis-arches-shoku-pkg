@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3022,https://data.rubenianum.be//ark:/86530/4d1fde95-cd1a-52c1-b533-26b31f907a04,Handschriften,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""99e68c0a-794c-4c91-a876-e16f369db500"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""09291213-232a-4bfa-ace1-741d757aebcc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a64981f7-e1ad-4e07-9627-0bc633d22f0d"", ""inverseOntologyProperty"": """"}]"
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 61. Witt Library. P.B.II. Oval 16 x 19 cm. Man pissing against Moon in water, P. de Boer Amsterdam. Exh. Brussels 1935 (or Antwerp 1930?), 178 bis, Bois.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003022,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5246</priref>
+			<number>AFG_089_022</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>Ad [Addendum] 61. Witt Library. P.B.II. Oval 16 x 19 cm. Man pissing against Moon in water, P. de Boer Amsterdam. Exh. Brussels 1935 (or Antwerp 1930?), 178 bis, Bois.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:32:36</edit.time>
+			<input.time>14:55:07</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3022,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3022/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e634fbeb-308d-5a07-b172-17e6c22200d6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""59e9016a-0c11-4906-b2c5-8684b51b0169"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_022,repository numbers,,,,,,,,,,,,,,
+4d1fde95-cd1a-52c1-b533-26b31f907a04,tg:rubgr:3022,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_022,titles proper,Dutch (language),,,,,,,,,,,

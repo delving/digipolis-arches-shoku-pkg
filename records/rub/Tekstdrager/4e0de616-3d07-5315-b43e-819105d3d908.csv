@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4412,https://data.rubenianum.be//ark:/86530/4e0de616-3d07-5315-b43e-819105d3d908,Handschriften,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""58a27098-92f4-4e54-acd8-eaf93f7b5264"", ""ontologyProperty"": """", ""resourceXresourceId"": ""60a67972-c603-4894-8eeb-1de2e8a76b72"", ""inverseOntologyProperty"": """"}]"
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Karl Arndt, Zur Ausstellung ""Jheronimus Bosch"" ’s-Hertogenbosch 1967, Kunstchronik XXI (1968), pp. 1-21, citaten pp. 2, 10.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Arndt, Karl",,,,,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004412,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6665</priref>
+			<number>AFG_112_019</number>
+			<content>[2 bladen] Karl Arndt, Zur Ausstellung ""Jheronimus Bosch"" &#8217;s-Hertogenbosch 1967, Kunstchronik XXI (1968), pp. 1-21, citaten pp. 2, 10.</content>
+			<object.object_number>AFG_112</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Van Gelder Album Amicorum &amp; Encyclopedia Britannica</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Arndt, Karl</keyword>
+			<object.creator/>
+			<input.date>2014-07-10</input.date>
+			<edit.date>2014-07-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:43:24</edit.time>
+			<input.time>14:42:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4412,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4412/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""573a75ba-12c6-526b-bcad-238b7e0b5e86"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8481ed9-ca91-4a0f-9fdc-b4f1dc17991d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_112_019,repository numbers,,,,,,,,,,,,,,
+4e0de616-3d07-5315-b43e-819105d3d908,tg:rubgr:4412,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_112_019,titles proper,Dutch (language),,,,,,,,,,,

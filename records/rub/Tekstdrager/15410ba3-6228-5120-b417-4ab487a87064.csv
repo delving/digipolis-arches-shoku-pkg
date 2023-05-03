@@ -1,0 +1,83 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:117,https://data.rubenianum.be//ark:/86530/15410ba3-6228-5120-b417-4ab487a87064,Handschriften,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:105,Verwijzing naar Grossmann object,,3a56d602-9a46-5c5b-a7cc-309bdc34ce40,"[{""resourceId"": ""3a56d602-9a46-5c5b-a7cc-309bdc34ce40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f126bab5-de80-4fef-9ec0-31067429a197"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""804e16e3-54e5-4ac3-81ea-9144c011754e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""14c4d0ad-effc-49a8-9bdc-ba5ef777e110"", ""inverseOntologyProperty"": """"}]"
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] [blad 1, recto] Ad [Addendum] Icarus. I. Guy de TERVARENT, 'Bruegel, humaniste', Message, Belgian Review, London, May 1944, pp. 49-51, citaten p. 49; [blad 1, verso] citaten pp. 49-50; [blad 2, recto] II. Tervarent, Message 1944, citaat p. 50; [blad 2, verso] citaat p. 50; [blad 3, recto] [toegevoegde vermelding]: 'Als er in Malines war [...]'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Tervarent, Guy de",,,,,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000117,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2356</priref>
+			<number>AFG_003_045</number>
+			<part_of_reference>AFG_003_033</part_of_reference>
+			<content>[3 bladen] [blad 1, recto] Ad [Addendum] Icarus. I. Guy de TERVARENT, 'Bruegel, humaniste', Message, Belgian Review, London, May 1944, pp. 49-51, citaten p. 49; [blad 1, verso] citaten pp. 49-50; [blad 2, recto] II. Tervarent, Message 1944, citaat p. 50; [blad 2, verso] citaat p. 50; [blad 3, recto] [toegevoegde vermelding]: 'Als er in Malines war [...]'</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel Icarus: bevat correspondentie, notities en referenties.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Tervarent, Guy de</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-23</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:04:43</edit.time>
+			<edit.time>16:38:30</edit.time>
+			<edit.time>15:26:31</edit.time>
+			<edit.time>11:44:00</edit.time>
+			<edit.time>11:43:46</edit.time>
+			<edit.time>11:43:38</edit.time>
+			<edit.time>09:49:39</edit.time>
+			<edit.time>11:43:33</edit.time>
+			<edit.time>15:37:00</edit.time>
+			<edit.time>09:58:08</edit.time>
+			<edit.time>09:47:16</edit.time>
+			<edit.time>09:46:50</edit.time>
+			<input.time>09:35:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:117,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:117/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""11565f17-f413-53af-b5d5-589c0b6fadf2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""77b987f3-6f7a-4859-ac01-f2819aab9ef1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_045,repository numbers,,,,,,,,,,,,,,
+15410ba3-6228-5120-b417-4ab487a87064,tg:rubgr:117,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_045,titles proper,Dutch (language),,,,,,,,,,,

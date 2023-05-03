@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1657,https://data.rubenianum.be//ark:/86530/ea3e4007-577e-5d8e-87dc-5c09db4c1be0,Handschriften,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b5dc2556-7b72-4b0c-85ea-4f745fe23d3d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""58306017-4ed5-436f-bc19-aa02a2395361"", ""inverseOntologyProperty"": """"}]"
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Parable of the Blind. Panofsky, Studies in Iconology (1939), Harper Torchbooks Edition 1962, chapter IV Blind Cupid, citaten pp. 109, n. 47; [verso] 112, 113 n. 58.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_ExternalRelationsExtras,a::rub.45,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,53946,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iconografie,,,,,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Panofsky, Erwin",,,,,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001657,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3908</priref>
+			<number>AFG_045_013</number>
+			<content>[recto] Parable of the Blind. Panofsky, Studies in Iconology (1939), Harper Torchbooks Edition 1962, chapter IV Blind Cupid, citaten pp. 109, n. 47; [verso] 112, 113 n. 58.</content>
+			<object.object_number>AFG_045</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Parable of the Blind</object.title>
+			<keyword>iconografie</keyword>
+			<keyword>Panofsky, Erwin</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-01-03</input.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:00:14</edit.time>
+			<edit.time>11:28:27</edit.time>
+			<edit.time>13:40:27</edit.time>
+			<input.time>11:47:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1657,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1657/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c03cf72c-355c-50f4-a129-bbb4bf78b763"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dabf4b8c-119b-400b-b083-7cd461ca0813"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_013,repository numbers,,,,,,,,,,,,,,
+ea3e4007-577e-5d8e-87dc-5c09db4c1be0,tg:rubgr:1657,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_013,titles proper,Dutch (language),,,,,,,,,,,

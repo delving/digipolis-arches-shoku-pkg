@@ -1,0 +1,59 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:480,https://data.rubenianum.be//ark:/86530/a6154225-e0a1-5ce6-a47d-db1b686f4747,Handschriften,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_AssociatedArchives,2,,,,,,AFG_006,isad:rub:2936,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8af7c578-87c3-4b7d-af2e-75ed0b3e140b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""80a68f65-433a-45e2-b52a-0c422f71c111"", ""inverseOntologyProperty"": """"}]"
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Triumph of Death like in Dance of Death in foreground the erroneous 'Stände', but they are here: King (who is owner of money) Cardinal, Woman with child, Pilgrim: Death cuts his throat. (his pilgrim's hat of no avoid of interest( purse hanging hidden); Landscape of Death with Bridge like in Hell and Proverbs.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_ExternalRelationsExtras,a::rub.10,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260959,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56714,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000480,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2698</priref>
+			<number>AFG_009_069</number>
+			<content>Triumph of Death like in Dance of Death in foreground the erroneous 'St&#228;nde', but they are here: King (who is owner of money) Cardinal, Woman with child, Pilgrim: Death cuts his throat. (his pilgrim's hat of no avoid of interest( purse hanging hidden); Landscape of Death with Bridge like in Hell and Proverbs.</content>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_number>AFG_006</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Triumph of Death</object.title>
+			<object.title>The Netherlandish proverbs</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-10-03</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2011-11-30</edit.date>
+			<edit.date>2011-11-28</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:39:08</edit.time>
+			<edit.time>12:02:34</edit.time>
+			<edit.time>15:12:08</edit.time>
+			<edit.time>15:13:57</edit.time>
+			<edit.time>10:04:28</edit.time>
+			<edit.time>16:21:11</edit.time>
+			<input.time>16:19:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:480,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:480/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""69973a3a-5341-5443-a00f-b2211dd36499"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22758757-6009-43c1-9f95-7f5750958ca3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_069,repository numbers,,,,,,,,,,,,,,
+a6154225-e0a1-5ce6-a47d-db1b686f4747,tg:rubgr:480,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_069,titles proper,Dutch (language),,,,,,,,,,,

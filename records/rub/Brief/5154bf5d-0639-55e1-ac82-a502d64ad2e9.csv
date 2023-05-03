@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2982,https://data.rubenianum.be//ark:/86530/5154bf5d-0639-55e1-ac82-a502d64ad2e9,Brieven,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2980,Verwijzing naar Grossmann object,,01ffc253-ae75-54eb-a0c2-2fb7d3900f5e,"[{""resourceId"": ""01ffc253-ae75-54eb-a0c2-2fb7d3900f5e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""78dc9d2c-70e7-4686-bd85-33cb759e1d00"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""945a16ea-2286-4d4e-a724-c45f0e59cb1c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fc09ca49-a466-481c-bbcd-3688b9092c01"", ""inverseOntologyProperty"": """"}]"
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_Correspondence,1,,,,,,,,,,,,,,,,"Spencer-Churchill, Edward George",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19530723,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1953-07-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 40. Korte in houd: Vermeldt een bezoek van FG aan zijn collectie. Op FG's verzoek zal er een foto gemaakt worden van een Chinese kan en van de Bruegel. Reden: cfr. FG lijken de figuren op de kan overeen te komen met figuren op Rubensschilderijen.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002982,referentienummer,False,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5387</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_088_003</number>
+			<part_of_reference>AFG_088_001</part_of_reference>
+			<date.precise>1953-07-23</date.precise>
+			<content>Ad [Addendum] 40. Korte in houd: Vermeldt een bezoek van FG aan zijn collectie. Op FG's verzoek zal er een foto gemaakt worden van een Chinese kan en van de Bruegel. Reden: cfr. FG lijken de figuren op de kan overeen te komen met figuren op Rubensschilderijen.</content>
+			<object.object_number>AFG_088</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>71. Landlicher Hochzeitzug (Northwick Park); [doorstreept]: 'Neu 25. My N&#176; 40.'</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Doubtful &amp; Wrong Attributions, Copies, Lost Pictures, nos. 43-46</object.title>
+			<sender>Spencer-Churchill, Edward George</sender>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:06:44</edit.time>
+			<edit.time>09:53:18</edit.time>
+			<edit.time>09:48:17</edit.time>
+			<edit.time>09:44:31</edit.time>
+			<edit.time>09:36:47</edit.time>
+			<edit.time>09:33:59</edit.time>
+			<input.time>09:32:08</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2982,brocade id,False,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2982/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0bd1faf4-edf6-588c-ad88-c52217dcad25"", ""ontologyProperty"": """", ""resourceXresourceId"": ""91d3523d-9cbb-4f60-8d4f-53a118be15e8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_003,repository numbers,,,,,,,,,,,
+5154bf5d-0639-55e1-ac82-a502d64ad2e9,tg:rubgr:2982,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_003,titles proper,Dutch (language),,,,,,,,

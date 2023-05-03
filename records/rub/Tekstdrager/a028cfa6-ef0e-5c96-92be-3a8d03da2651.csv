@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3055,https://data.rubenianum.be//ark:/86530/a028cfa6-ef0e-5c96-92be-3a8d03da2651,Handschriften,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3051,Verwijzing naar Grossmann object,,8de3f95f-8fba-5084-9376-f1cc150d0905,"[{""resourceId"": ""8de3f95f-8fba-5084-9376-f1cc150d0905"", ""ontologyProperty"": """", ""resourceXresourceId"": ""06f94f4b-dadf-499a-970d-1989dd31a45d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5b9c25b8-3a78-4625-93ac-7ed301aff206"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7a12ca15-dd95-43d2-aca2-eb1c1dacb4a9"", ""inverseOntologyProperty"": """"}]"
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19530000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[3 bladen] Ad [Addendum] 64. Baron Descamps. Kindermord. Beschrijving.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003055,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>5285</priref>
+<number>AFG_089_055</number>
+<part_of_reference>AFG_089_051</part_of_reference>
+<date.free>1953</date.free>
+<content>[3 bladen] Ad [Addendum] 64. Baron Descamps. Kindermord. Beschrijving.</content>
+<object.object_number>AFG_089</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<part_of.title>26. Kindermord. Neu 34. King's Picture. My N° 64.</part_of.title>
+<class>AFG</class>
+<editorial_form>Reisnotitie</editorial_form>
+<object.title>Lost, known from copies: nos. 57-65a</object.title>
+<keyword>Descamps, Edouard-François</keyword>
+<object.creator/>
+<input.date>2014-06-05</input.date>
+<edit.date>2014-07-23</edit.date>
+<edit.date>2014-06-10</edit.date>
+<edit.date>2014-06-05</edit.date>
+<edit.date>2014-06-05</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.time>14:55:18</edit.time>
+<edit.time>10:40:28</edit.time>
+<edit.time>13:29:32</edit.time>
+<edit.time>13:25:03</edit.time>
+<input.time>13:23:31</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3055,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3055/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a976f695-4da1-5b14-8e92-f322fee6ec25"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c2b0280d-eb5b-4d23-b05b-40aa15764989"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_OriginalBrocade,,,au::5413,,,,,,,,,,,,,,rub,b87c785b-509e-571f-b9b8-a9631276b6bd,kw,,au::5413:1,au::5413g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/579191"",""au::5413"",""au::5413:1"",""ark:/83110/x0/b87c785b-509e-571f-b9b8-a9631276b6bd"",""Edouard Descamps""],""name"":""Edouard Descamps"",""ark"":""ark:/83110/x0/b87c785b-509e-571f-b9b8-a9631276b6bd"",""uri"":""/agents/people/579191"",""id"":""au::5413:1"",""isCapacity"":false}",ark:/83110/x0/b87c785b-509e-571f-b9b8-a9631276b6bd,agent,,,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_055,repository numbers,,,,,,,,,,,,,,
+a028cfa6-ef0e-5c96-92be-3a8d03da2651,tg:rubgr:3055,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_055,titles proper,Dutch (language),,,,,,,,,,,

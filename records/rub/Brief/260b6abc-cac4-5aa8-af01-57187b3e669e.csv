@@ -1,0 +1,101 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:871,https://data.rubenianum.be//ark:/86530/260b6abc-cac4-5aa8-af01-57187b3e669e,Brieven,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_AssociatedRecords,2,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:869,Verwijzing naar Grossmann object,,ca1b719c-6890-5eff-9096-197af0df9643,"[{""resourceId"": ""ca1b719c-6890-5eff-9096-197af0df9643"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7a688f9f-edf5-49a6-9cf2-ec26a289542c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fdec57eb-36c6-4943-a77c-c41f317d49f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d3dd248e-9aa4-4022-abc6-1a54de1c8f2f"", ""inverseOntologyProperty"": """"}]"
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Correspondence,1,,,,,,,,,,,,,,,,"Demus, Klaus",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19731102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1973-11-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Dankbetuiging voor informatie m.b.t. M. [Édouard] de San en 'Bauerstreit'. Feliciteert de geadresseerde met de uitgave van de Verzeichnis [Klaus Demus, Kunsthistorisches Museum, Wien : Verzeichnis der Gemälde, Wien: Schroll, 1973]. Informeert of geadresseerde er zeker van is dat er in de 'Maanden' telkens twee maanden worden voorgesteld. De Kruisdraging in Luxemburg is hem onbekend. Mogelijk gaat het om het Van der Veken schilderij dat hij nooit gezien heeft, ook niet op foto. De beschrijving van Knapp wijst mogelijk op Jan Brueghel. Meer informatie is mogelijk nadat hij de foto gezien heeft.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/rub/opacrub/,c:lvd:13238160,gepubliceerd in /als,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_ExternalRelationsExtras,a::rub.23,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,260966,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Veken, G.Ph van der",,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Demus, Klaus",,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Knapp, Robert H.",,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"San, Edouard de",,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Luxemburg, Musées de l'Etat",,,,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000871,referentienummer,False,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3122</priref>
+			<recipient>Demus, Klaus</recipient>
+			<number>AFG_019_042</number>
+			<part_of_reference>AFG_019_040</part_of_reference>
+			<date.precise>1973-11-02</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Dankbetuiging voor informatie m.b.t. M. [&#201;douard] de San en 'Bauerstreit'. Feliciteert de geadresseerde met de uitgave van de Verzeichnis [Klaus Demus, Kunsthistorisches Museum, Wien : Verzeichnis der Gem&#228;lde, Wien: Schroll, 1973]. Informeert of geadresseerde er zeker van is dat er in de 'Maanden' telkens twee maanden worden voorgesteld. De Kruisdraging in Luxemburg is hem onbekend. Mogelijk gaat het om het Van der Veken schilderij dat hij nooit gezien heeft, ook niet op foto. De beschrijving van Knapp wijst mogelijk op Jan Brueghel. Meer informatie is mogelijk nadat hij de foto gezien heeft.</content>
+			<object.object_number>AFG_019</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>[Briefhoofd: Wesleyan University, Middletown Connecticut] Brief gericht aan 'Director Dutch &amp; Flemish Division' Kunsthistorisches Museum Wenen. Korte inhoud: informeert de geadresseerde over een aanwinst van een Kruisdraging in Luxemburg, Staat Museum, niet gedateerd en toegeschreven aan Breughel. Signaleert dat het werk overeenkomsten vertoont met de Kruisdraging in Wenen van 1564.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Procession to Calvary</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Veken, G.Ph van der</keyword>
+			<keyword>Demus, Klaus</keyword>
+			<keyword>Knapp, Robert H.</keyword>
+			<keyword>San, Edouard de</keyword>
+			<keyword>Luxemburg, Mus&#233;es de l'Etat</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>San, Edouard de</documentation.author>
+			<input.date>2012-02-17</input.date>
+			<edit.date>2015-03-05</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-06-19</edit.date>
+			<edit.date>2012-06-19</edit.date>
+			<edit.date>2012-06-19</edit.date>
+			<edit.date>2012-02-24</edit.date>
+			<edit.date>2012-02-24</edit.date>
+			<edit.date>2012-02-17</edit.date>
+			<edit.date>2012-02-17</edit.date>
+			<edit.date>2012-02-17</edit.date>
+			<edit.date>2012-02-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>rixe de paysans"" de Jean Brueghel et Gillis Mostaert d'apr&#232;s un dessin du vieux Bruegel</documentation.title>
+			<edit.time>16:31:36</edit.time>
+			<edit.time>15:12:44</edit.time>
+			<edit.time>13:58:17</edit.time>
+			<edit.time>13:58:00</edit.time>
+			<edit.time>13:56:08</edit.time>
+			<edit.time>14:35:46</edit.time>
+			<edit.time>13:54:23</edit.time>
+			<edit.time>11:32:57</edit.time>
+			<edit.time>10:33:22</edit.time>
+			<edit.time>10:02:36</edit.time>
+			<edit.time>09:54:46</edit.time>
+			<input.time>09:51:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Une ""</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:871,brocade id,False,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:871/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7e9b3fb4-c8c7-565e-b69d-aacdab9852a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7644edb4-753a-4af4-9afb-ef6229ca3415"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,rub,,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_042,repository numbers,,,,,,,,,,,
+260b6abc-cac4-5aa8-af01-57187b3e669e,tg:rubgr:871,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_042,titles proper,Dutch (language),,,,,,,,

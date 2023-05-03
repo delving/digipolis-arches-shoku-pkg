@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3349,https://data.rubenianum.be//ark:/86530/b1c94851-d2da-5a55-847b-a8dc7b24d570,Handschriften,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3338,Verwijzing naar Grossmann object,,909a2567-7565-51a1-a51e-6d5c7af27196,"[{""resourceId"": ""909a2567-7565-51a1-a51e-6d5c7af27196"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2d97276a-cbec-43e9-a35c-21cd496b9cec"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e0994c2d-6f8a-405c-8d52-d16ec5931169"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5a46897a-e84a-47f8-8971-5f7576f7833c"", ""inverseOntologyProperty"": """"}]"
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[J.A.] Raczynski, [= Die flämische Landschaft vor Rubens : Beiträge zur Entwicklungsgeschichte der flämischen Landschaftsmalerei in der Zeit von Brueghel bis zu Rubens, Frankfurt am Main, 1937], p. 37.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Raczynski, Joseph Alexander",,,,,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003349,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5602</priref>
+			<number>AFG_093_012</number>
+			<part_of_reference>AFG_093_001</part_of_reference>
+			<content>[J.A.] Raczynski, [= Die fl&#228;mische Landschaft vor Rubens : Beitr&#228;ge zur Entwicklungsgeschichte der fl&#228;mischen Landschaftsmalerei in der Zeit von Brueghel bis zu Rubens, Frankfurt am Main, 1937], p. 37.</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Flemish Painting around and later than Bruegel. Also: Comparative Material.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<keyword>Raczynski, Joseph Alexander</keyword>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<edit.date>2014-06-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:53:19</edit.time>
+			<input.time>09:51:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3349,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3349/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d15d52ad-7b7c-5e2c-94a4-8342344e3135"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2aa3ad4a-be9e-4594-9c40-1f501baeb410"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_012,repository numbers,,,,,,,,,,,,,,
+b1c94851-d2da-5a55-847b-a8dc7b24d570,tg:rubgr:3349,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_012,titles proper,Dutch (language),,,,,,,,,,,

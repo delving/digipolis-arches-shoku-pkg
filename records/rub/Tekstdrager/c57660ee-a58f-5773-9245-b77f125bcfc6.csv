@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1760,https://data.rubenianum.be//ark:/86530/c57660ee-a58f-5773-9245-b77f125bcfc6,Handschriften,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_AssociatedArchives,2,,,,,,AFG_042,isad:rub:2972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1759,Verwijzing naar Grossmann object,,433a421f-fd9b-5455-8959-622e77723451,"[{""resourceId"": ""433a421f-fd9b-5455-8959-622e77723451"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b9d3d902-2dba-487d-bbd1-e2c4e6a553c5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""471b967c-8760-41aa-9124-7f69973e4ba9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ff8dd827-758b-40dc-9c75-e8def232aaf7"", ""inverseOntologyProperty"": """"}]"
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] Good Shepherd (Kronacker). Also unfinished Storm at Sea. Another picture left unfinished by P.B.I: Glück, Bruegels Gemälde 1951: N° 57 Streit beim Kartenspiel (many copies by various artists including Jan I. and Rubens), [citaten] p. 103-104; [verso] Faithful Shepherd. Hill on right by J.B.I Distant green landscape. Landscape outline's by P.B.I. Pentimenti in stick, head, hand, sheep. Trees either P.B.I or J.B. The 'squiggles' in the sleeve have a parallel in sleeve of cripple with paper hat (Louvre).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_ExternalRelationsExtras,a::rub.42,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,257769,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001760,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4011</priref>
+			<number>AFG_046_063</number>
+			<part_of_reference>AFG_046_062</part_of_reference>
+			<content>[recto] Ad [Addendum] Good Shepherd (Kronacker). Also unfinished Storm at Sea. Another picture left unfinished by P.B.I: Gl&#252;ck, Bruegels Gem&#228;lde 1951: N&#176; 57 Streit beim Kartenspiel (many copies by various artists including Jan I. and Rubens), [citaten] p. 103-104; [verso] Faithful Shepherd. Hill on right by J.B.I Distant green landscape. Landscape outline's by P.B.I. Pentimenti in stick, head, hand, sheep. Trees either P.B.I or J.B. The 'squiggles' in the sleeve have a parallel in sleeve of cripple with paper hat (Louvre).</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_number>AFG_042</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>John X, 11: I am the good shepherd: the good shepherd giveth his life for the sheep. (cf. Js [Isaiah] 40, 11; Ezek 34, 12, 23 &amp; 37, 24; Hebr. 13, 20; Pet. 2, 25 &amp; 5,4) ...[sic] 15 As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. The expression is not horror- it is Christ's idealised head, not a peasant's.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<object.title>The Cripples</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Kronacker, Paul</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-01-17</input.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:05:45</edit.time>
+			<edit.time>14:01:52</edit.time>
+			<edit.time>14:01:30</edit.time>
+			<edit.time>10:11:32</edit.time>
+			<edit.time>12:17:33</edit.time>
+			<input.time>12:10:55</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1760,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1760/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df697583-cf14-5db1-8130-55d5d540a2f5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4a48e0f5-30e9-44a5-8bc5-966499e98930"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OriginalBrocade,,,au::26569,,,,,,,,,,,,,,rub,73d739f9-bb6f-5cd0-b787-ab9a7724b446,kw,,au::26569:1,au::26569g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2842883"",""au::26569"",""au::26569:1"",""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""Paul Kronacker""],""name"":""Paul Kronacker"",""ark"":""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""uri"":""/agents/people/2842883"",""id"":""au::26569:1"",""isCapacity"":false}",ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446,agent,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_063,repository numbers,,,,,,,,,,,,,,
+c57660ee-a58f-5773-9245-b77f125bcfc6,tg:rubgr:1760,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_063,titles proper,Dutch (language),,,,,,,,,,,

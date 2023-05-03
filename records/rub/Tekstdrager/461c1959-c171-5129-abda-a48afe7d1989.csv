@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2959,https://data.rubenianum.be//ark:/86530/461c1959-c171-5129-abda-a48afe7d1989,Handschriften,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4e86a76b-21c4-4558-b03f-95630026b626"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76a23dad-1d6f-4dc6-9533-fa4a958dfc51"", ""inverseOntologyProperty"": """"}]"
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Readers's Guide to Books on the Face of England, 44pp, The Library Association (County Libraries Section, Chaucer House, W.C. I) N° 13 of a Series.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002959,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5204</priref>
+			<number>AFG_086_217</number>
+			<content>Readers's Guide to Books on the Face of England, 44pp, The Library Association (County Libraries Section, Chaucer House, W.C. I) N&#176; 13 of a Series.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-17</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>10:34:33</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2959,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2959/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dc50cc1c-1af5-5b41-a2a9-cadcc04e864f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e3d9afed-da6c-4bab-ad0c-8dbf92dd06e6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_217,repository numbers,,,,,,,,,,,,,,
+461c1959-c171-5129-abda-a48afe7d1989,tg:rubgr:2959,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_217,titles proper,Dutch (language),,,,,,,,,,,

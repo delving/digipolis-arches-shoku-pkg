@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4043,https://data.rubenianum.be//ark:/86530/da689f64-c995-514f-beac-6756db4addae,Handschriften,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1daf5826-ba2d-4f0f-8890-5fd99487f5f5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6d21929a-da97-44b4-ac06-d171cf44e44d"", ""inverseOntologyProperty"": """"}]"
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Jan van Wechelen,Thieme Becker, XXXV, 1947, p. 229.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:991187,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wechelen, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rombouts, Ph.",,,,,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lerius, Théodore Van",,,,,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004043,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6296</priref>
+			<number>AFG_106_028</number>
+			<content>[2 bladen] Jan van Wechelen,Thieme Becker, XXXV, 1947, p. 229.</content>
+			<object.object_number>AFG_106</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Inventories &amp; my contributions to Gl&#252;ck; Genealogy</object.title>
+			<keyword>Stevens, Peter</keyword>
+			<keyword>Wechelen, Jan van</keyword>
+			<keyword>Rombouts, Ph.</keyword>
+			<keyword>Lerius, Th&#233;odore Van</keyword>
+			<object.creator/>
+			<documentation.author>Rombouts, Ph.</documentation.author>
+			<input.date>2014-07-01</input.date>
+			<edit.date>2014-07-01</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>liggeren en andere historische archieven der Antwerpsche Sint Lucasgilde, onder zinspreuk : ""Wt ionsten versaemt"" : I : Liggere van 1452-1615 : volledige rekeningen van 1585-1586 en 1588-1589 : rekeningen van ontvangsten van : 1616-1629 : II : Liggere van 1629-1729 : inschrijvings register van 1749-1794 : rekeningen van ontvangsten van 1629-1736</documentation.title>
+			<edit.time>09:10:06</edit.time>
+			<edit.time>09:02:41</edit.time>
+			<edit.time>09:02:18</edit.time>
+			<edit.time>09:01:09</edit.time>
+			<input.time>09:01:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>De</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4043,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4043/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1a78c9e9-b3a3-501a-a5e1-5d1c96381032"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2c5e7db0-043a-44a9-adb8-082a6abdc387"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_OriginalBrocade,,,au::17629,,,,,,,,,,,,,,rub,915cf7aa-e46e-554f-a4c9-4d2e616e8465,kw,,au::17629:1,au::17629g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1886303"",""au::17629"",""au::17629:1"",""ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465"",""Peeter Stevens""],""name"":""Peeter Stevens"",""ark"":""ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465"",""uri"":""/agents/people/1886303"",""id"":""au::17629:1"",""isCapacity"":false}",ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465,agent,,,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_028,repository numbers,,,,,,,,,,,,,,
+da689f64-c995-514f-beac-6756db4addae,tg:rubgr:4043,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_028,titles proper,Dutch (language),,,,,,,,,,,

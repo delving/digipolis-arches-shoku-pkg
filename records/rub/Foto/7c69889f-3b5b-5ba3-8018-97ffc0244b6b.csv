@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2194,https://data.rubenianum.be//ark:/86530/7c69889f-3b5b-5ba3-8018-97ffc0244b6b,Foto's,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d6b40312-e999-4d8c-a14a-48a47366d87c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""105b6a50-b68f-4d26-b960-178c9cbf787b"", ""inverseOntologyProperty"": """"}]"
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"[Briefomslag poststempel New York 9 April 1956, J.K. Thannaha [letter overplakt met zegel]: Inhoud: 5 zw/w foto's 1 van het geheel [Notitie FG]: 'before cleaning] en 4 details [toegevoegde vermelding]: 'F.G. The Stag to be compared with T. 120 and 123] met stempel Count Seilern. Not to bepublished;",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002194,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4437</priref>
+			<number>AFG_064_001</number>
+			<content>[Briefomslag poststempel New York 9 April 1956, J.K. Thannaha [letter overplakt met zegel]: Inhoud: 5 zw/w foto's 1 van het geheel [Notitie FG]: 'before cleaning] en 4 details [toegevoegde vermelding]: 'F.G. The Stag to be compared with T. 120 and 123] met stempel Count Seilern. Not to bepublished;</content>
+			<object.object_number>AFG_064</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Small Landscape with Hermit</object.title>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Seilern, Antoine</keyword>
+			<object.creator/>
+			<input.date>2013-04-19</input.date>
+			<edit.date>2014-11-06</edit.date>
+			<edit.date>2013-04-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:13:25</edit.time>
+			<edit.time>15:11:10</edit.time>
+			<input.time>14:58:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2194,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2194/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""421e55f3-53ce-5c4e-9881-328418612599"", ""ontologyProperty"": """", ""resourceXresourceId"": ""eeda9f3b-6812-4712-9e66-c8473752a502"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,keywords,au::18500:1,au::18500g:1,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_064_001,repository numbers,,,,,,,,,,,
+7c69889f-3b5b-5ba3-8018-97ffc0244b6b,tg:rubgr:2194,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_064_001,titles proper,Dutch (language),,,,,,,,

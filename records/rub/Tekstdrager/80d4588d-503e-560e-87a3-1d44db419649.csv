@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2034,https://data.rubenianum.be//ark:/86530/80d4588d-503e-560e-87a3-1d44db419649,Handschriften,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2028,Verwijzing naar Grossmann object,,be59412e-96ff-5b84-b0ef-7585e9aa2119,"[{""resourceId"": ""be59412e-96ff-5b84-b0ef-7585e9aa2119"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6da58f2-849f-4751-ac6b-80939e6f4205"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""feceda64-6df3-4a98-a17e-8d590a7a8abf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ceaa0209-d047-4891-97fa-2e197321270b"", ""inverseOntologyProperty"": """"}]"
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"68. Kreuzigung. Paris, Eglise Saint-Nicolas du Chardonnet (vgl. Katalog der Ausstellung 'Peintures méconnues des églises de Paris, Paris, Musée Galliera 1946, N° 4, mit Abb.); Eine Kreuzigung. Auch bei Erzherzog Ernst.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002034,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4270</priref>
+			<number>AFG_055_065</number>
+			<part_of_reference>AFG_055_059</part_of_reference>
+			<content>68. Kreuzigung. Paris, Eglise Saint-Nicolas du Chardonnet (vgl. Katalog der Ausstellung 'Peintures m&#233;connues des &#233;glises de Paris, Paris, Mus&#233;e Galliera 1946, N&#176; 4, mit Abb.); Eine Kreuzigung. Auch bei Erzherzog Ernst.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>68. Kreuzigung. [Doorstreept]: '(Erfindung P.B.d.J.). Neu 84'; My 56 Provisionally. (Better at beginning of lost pictures).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<object.creator/>
+			<input.date>2013-03-12</input.date>
+			<edit.date>2013-03-12</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:40:13</edit.time>
+			<input.time>10:37:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2034,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2034/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b081e18a-bba2-5934-a918-3bd7af2ade1e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6441ed9e-2800-4c06-85f5-9b5e7dc511ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_065,repository numbers,,,,,,,,,,,,,,
+80d4588d-503e-560e-87a3-1d44db419649,tg:rubgr:2034,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_065,titles proper,Dutch (language),,,,,,,,,,,

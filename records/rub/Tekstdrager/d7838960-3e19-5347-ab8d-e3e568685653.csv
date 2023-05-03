@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1377,https://data.rubenianum.be//ark:/86530/d7838960-3e19-5347-ab8d-e3e568685653,Handschriften,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f665003e-f7d4-4106-a65a-e584edc3f0b1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d7ba732f-e60f-45a5-b8d0-e34a82c52514"", ""inverseOntologyProperty"": """"}]"
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39. Bauernhochzeit. Neu 46. Kam 1809 nach Paris (Inventar 1815).,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_ExternalRelationsExtras,a::rub.37,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261051,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001377,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3624</priref>
+			<number>AFG_037_013</number>
+			<content>39. Bauernhochzeit. Neu 46. Kam 1809 nach Paris (Inventar 1815).</content>
+			<object.object_number>AFG_037</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Wedding (Meal) Banquet</object.title>
+			<keyword>inventaris</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-23</input.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:19:52</edit.time>
+			<edit.time>15:27:25</edit.time>
+			<edit.time>14:40:20</edit.time>
+			<input.time>14:39:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1377,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1377/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""084487e0-445f-5720-903d-f3df8b4e798e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5a48ac54-db51-4710-88e3-3b546f618b18"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_013,repository numbers,,,,,,,,,,,,,,
+d7838960-3e19-5347-ab8d-e3e568685653,tg:rubgr:1377,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_013,titles proper,Dutch (language),,,,,,,,,,,

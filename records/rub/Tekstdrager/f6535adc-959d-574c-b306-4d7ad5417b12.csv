@@ -1,0 +1,78 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:944,https://data.rubenianum.be//ark:/86530/f6535adc-959d-574c-b306-4d7ad5417b12,Handschriften,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9bb154aa-5457-4319-8c4c-2b0d1272080a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab43ea7c-d174-4b3f-af55-a766540224de"", ""inverseOntologyProperty"": """"}]"
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 19. Witt Library. P.B.II. Woman taken in Adultery (copy after A.S. picture): 1) A. Schloss Collection, signed P. BRVEGHEL, Bois 27 x 37 cm, Vente Ter Bruggen, Anvers, 17 Oct. 1854, coll. Cloix à Paris. In Colours?[sic]; 2) Mentioned a Mount of II: Replica in Johnson Coll., Philadelphia 323; 3) Decock Sale, Charpentier Paris, 12 May 1948, N° 35, Bois 25 x 35 cm, signed left bottom without date. In colour; [verso] 4) Sale Giroux, Brussels, 22.II.1952, N° 639, Bois, 24 x 34. Looks like grisaille.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,grisaille-schilderkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,veilinghuis,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000944,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3197</priref>
+			<number>AFG_021_028</number>
+			<content>Ad [Addendum] 19. Witt Library. P.B.II. Woman taken in Adultery (copy after A.S. picture): 1) A. Schloss Collection, signed P. BRVEGHEL, Bois 27 x 37 cm, Vente Ter Bruggen, Anvers, 17 Oct. 1854, coll. Cloix &#224; Paris. In Colours?[sic]; 2) Mentioned a Mount of II: Replica in Johnson Coll., Philadelphia 323; 3) Decock Sale, Charpentier Paris, 12 May 1948, N&#176; 35, Bois 25 x 35 cm, signed left bottom without date. In colour; [verso] 4) Sale Giroux, Brussels, 22.II.1952, N&#176; 639, Bois, 24 x 34. Looks like grisaille.</content>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>grisaille-schilderkunst</keyword>
+			<keyword>veilinghuis</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-05</input.date>
+			<edit.date>2015-03-06</edit.date>
+			<edit.date>2015-03-06</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-03-15</edit.date>
+			<edit.date>2012-03-09</edit.date>
+			<edit.date>2012-03-08</edit.date>
+			<edit.date>2012-03-08</edit.date>
+			<edit.date>2012-03-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:14:09</edit.time>
+			<edit.time>15:13:50</edit.time>
+			<edit.time>12:35:30</edit.time>
+			<edit.time>12:35:15</edit.time>
+			<edit.time>10:11:41</edit.time>
+			<edit.time>10:17:31</edit.time>
+			<edit.time>09:39:04</edit.time>
+			<edit.time>15:35:21</edit.time>
+			<edit.time>15:34:47</edit.time>
+			<edit.time>11:02:43</edit.time>
+			<input.time>11:01:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:944,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:944/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a777bcef-6525-5856-8fc3-3ba3f3f1825e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7977b2a2-8764-4534-9041-0a0b932d0daf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_028,repository numbers,,,,,,,,,,,,,,
+f6535adc-959d-574c-b306-4d7ad5417b12,tg:rubgr:944,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_028,titles proper,Dutch (language),,,,,,,,,,,

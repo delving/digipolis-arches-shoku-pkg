@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1493,https://data.rubenianum.be//ark:/86530/e35a18da-d240-5080-a3a5-7922df747f23,Handschriften,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""55150ab9-6c4a-497e-a1b7-ae8785165bd0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0ea0a3d4-abd1-4967-89b4-fbcd9bc49bbb"", ""inverseOntologyProperty"": """"}]"
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Horace SHIPP, The Original 'Winter Landscape with Bird Trap' by Pieter Bruegel in the Collection of M.A. Hassid, Esq., Apollo, London, LIX, January 1954, p. 1 [...]; [verso] [toegevoegde vermelding]: Where did Friedländer say that? I can only find that in his article  'Zur Londoner Leihausstellung belgischer Kunst', Der Cicerone XIX, 1927, [citaat] p. 216 [...]. Horace SHIPP, The Flemish Masters, London [Newnes], 1953, Plate XII The Bird Trap (in black and white). In list of plates, p. 10 Plate XII. The Bird Trap Pieter Bruegel the Elder. Panel 16 x 22 1/2 inches. Signed and dated 1564. In the coll. of M.A. Hassid, Esq. (Another version painted following year is in a private collection in Brussels).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_ExternalRelationsExtras,a::rub.39,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56605,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hassid, M.A.",,,,,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Shipp, Horace",,,,,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001493,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3743</priref>
+			<number>AFG_039_017</number>
+			<content>[recto] Horace SHIPP, The Original 'Winter Landscape with Bird Trap' by Pieter Bruegel in the Collection of M.A. Hassid, Esq., Apollo, London, LIX, January 1954, p. 1 [...]; [verso] [toegevoegde vermelding]: Where did Friedl&#228;nder say that? I can only find that in his article  'Zur Londoner Leihausstellung belgischer Kunst', Der Cicerone XIX, 1927, [citaat] p. 216 [...]. Horace SHIPP, The Flemish Masters, London [Newnes], 1953, Plate XII The Bird Trap (in black and white). In list of plates, p. 10 Plate XII. The Bird Trap Pieter Bruegel the Elder. Panel 16 x 22 1/2 inches. Signed and dated 1564. In the coll. of M.A. Hassid, Esq. (Another version painted following year is in a private collection in Brussels).</content>
+			<object.object_number>AFG_039</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Winter Landscape with Skaters and Bird Trap</object.title>
+			<keyword>Hassid, M.A.</keyword>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<keyword>Shipp, Horace</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-06</input.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2013-02-12</edit.date>
+			<edit.date>2013-02-12</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-06</edit.date>
+			<edit.date>2012-11-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:42:58</edit.time>
+			<edit.time>09:41:46</edit.time>
+			<edit.time>10:39:51</edit.time>
+			<edit.time>10:38:07</edit.time>
+			<edit.time>13:14:25</edit.time>
+			<edit.time>09:48:59</edit.time>
+			<edit.time>13:55:31</edit.time>
+			<edit.time>12:02:26</edit.time>
+			<input.time>12:01:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1493,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1493/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""10c5c617-7ef4-5b9b-871e-da3d46bf06d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5f6b6802-48b5-4152-8688-256a8cf70a39"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_039_017,repository numbers,,,,,,,,,,,,,,
+e35a18da-d240-5080-a3a5-7922df747f23,tg:rubgr:1493,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_039_017,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2347,https://data.rubenianum.be//ark:/86530/b81ff850-c2f8-5cbd-8d2c-057c07f55b82,Foto's,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""50480c8d-61e9-4a5b-8688-b5b3b1de7284"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2787de72-7685-408b-be30-5e0874925db7"", ""inverseOntologyProperty"": """"}]"
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"[1 zw/w foto met stempel: Photograph by Sydney W. Newbery [Londen];  [Notitie in onbekend handschrift] : J. BREUGHEL, Landscape with Woodcutters, Panel 183/4 x 263/4 (47,7 x 68 cm); [Notitie FG]: 'Signed and dated: I. BRVEGHEL. 1594 (lower left). Agnew, exh. May-June 1976, N° 5 (Pl. II). Early copies or versions in Mainz, and in Fiévez Sale, Brussels, 14/15 June 1927, N° 128.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002347,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4590</priref>
+			<number>AFG_077_031</number>
+			<content>[1 zw/w foto met stempel: Photograph by Sydney W. Newbery [Londen];  [Notitie in onbekend handschrift] : J. BREUGHEL, Landscape with Woodcutters, Panel 183/4 x 263/4 (47,7 x 68 cm); [Notitie FG]: 'Signed and dated: I. BRVEGHEL. 1594 (lower left). Agnew, exh. May-June 1976, N&#176; 5 (Pl. II). Early copies or versions in Mainz, and in Fi&#233;vez Sale, Brussels, 14/15 June 1927, N&#176; 128.</content>
+			<object.object_number>AFG_077</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>Grossmann 242</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-06-05</input.date>
+			<edit.date>2014-11-28</edit.date>
+			<edit.date>2013-06-21</edit.date>
+			<edit.date>2013-06-05</edit.date>
+			<edit.date>2013-06-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:33:09</edit.time>
+			<edit.time>10:46:18</edit.time>
+			<edit.time>14:31:45</edit.time>
+			<edit.time>14:31:13</edit.time>
+			<input.time>14:28:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2347,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2347/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca74efc0-ea71-5adb-b2d7-ee3ceb94f099"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ac134807-f771-4239-9482-0a2fc36944c4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,keywords,au::3025:1,au::3025g:1,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_031,repository numbers,,,,,,,,,,,
+b81ff850-c2f8-5cbd-8d2c-057c07f55b82,tg:rubgr:2347,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_031,titles proper,Dutch (language),,,,,,,,

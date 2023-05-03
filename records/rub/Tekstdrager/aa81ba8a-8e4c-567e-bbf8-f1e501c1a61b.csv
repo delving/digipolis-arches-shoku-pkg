@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2124,https://data.rubenianum.be//ark:/86530/aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,Handschriften,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2122,Verwijzing naar Grossmann object,,9d7afd9e-a185-5d0c-bfa2-54160acb889d,"[{""resourceId"": ""9d7afd9e-a185-5d0c-bfa2-54160acb889d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c60c86ac-e245-446f-98e3-65edf92d246d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""29dfda4f-a5c5-457e-bb74-2381b873f4fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""52e5299d-2d3f-4618-b82e-4a5518fdf647"", ""inverseOntologyProperty"": """"}]"
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 11 und Verlorene Schiff. Alt 64. Erik Larsen, Une marine de l'entourage de Bruegel l'Ancien, Apollo (Bruxelles, N° 20, mars 1943, pp. 6-10. PS von Larsen p. 10 auf Pieter Stevens gedeutet; Ein Bild: Große Segelschiffe [...]; [toegevoegde vermelding FG]: 'Sicher Bruegel angeregt.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stevens, Pieter",,,,,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Larsen, Erik",,,,,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002124,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4358</priref>
+			<number>AFG_058_038</number>
+			<part_of_reference>AFG_058_036</part_of_reference>
+			<content>Ad [Addendum] 11 und Verlorene Schiff. Alt 64. Erik Larsen, Une marine de l'entourage de Bruegel l'Ancien, Apollo (Bruxelles, N&#176; 20, mars 1943, pp. 6-10. PS von Larsen p. 10 auf Pieter Stevens gedeutet; Ein Bild: Gro&#223;e Segelschiffe [...]; [toegevoegde vermelding FG]: 'Sicher Bruegel angeregt.'</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>64. Kleine Schiffe (Slg. Rubens) [Doorstreept nummer]: Neu 68. Granvelle 43. My N&#176; 82. See T&#252;rkenschlacht.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Stevens, Pieter</keyword>
+			<keyword>Larsen, Erik</keyword>
+			<object.creator/>
+			<input.date>2013-03-22</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:21:40</edit.time>
+			<edit.time>12:21:12</edit.time>
+			<edit.time>12:18:13</edit.time>
+			<input.time>12:17:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2124,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2124/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""104b6dce-b1d6-5afd-8f17-74030319a08b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d0fefee3-dbf2-43bc-8f63-9031de9a8ab7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_038,repository numbers,,,,,,,,,,,,,,
+aa81ba8a-8e4c-567e-bbf8-f1e501c1a61b,tg:rubgr:2124,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_038,titles proper,Dutch (language),,,,,,,,,,,

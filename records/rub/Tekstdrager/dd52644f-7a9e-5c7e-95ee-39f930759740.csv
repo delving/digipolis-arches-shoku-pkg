@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1619,https://data.rubenianum.be//ark:/86530/dd52644f-7a9e-5c7e-95ee-39f930759740,Handschriften,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0cd94a59-264a-4bb9-b3c6-95cdd33a290f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""990c59a3-168b-4bef-8249-b5b0e7238fe1"", ""inverseOntologyProperty"": """"}]"
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[5 bladen] Kjell Boström, Das Sprichwort vom Vogelnest, Konsthistorisk Tidskrift, XVIII, 1949, pp. 77-89, passim.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_ExternalRelationsExtras,a::rub.44,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261057,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Boström, Kjell",,,,,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001619,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3870</priref>
+			<number>AFG_044_020</number>
+			<content>[5 bladen] Kjell Bostr&#246;m, Das Sprichwort vom Vogelnest, Konsthistorisk Tidskrift, XVIII, 1949, pp. 77-89, passim.</content>
+			<object.object_number>AFG_044</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Peasant and the Bird Nester</object.title>
+			<keyword>Bostr&#246;m, Kjell</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-12-21</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:50:45</edit.time>
+			<edit.time>10:18:40</edit.time>
+			<edit.time>10:18:27</edit.time>
+			<edit.time>10:15:50</edit.time>
+			<input.time>10:12:42</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1619,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1619/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f117d2b3-2de6-5fb6-9f28-54ce27d6fcfd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97204ab0-ac9d-47f2-b9d5-3d666f03d041"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_020,repository numbers,,,,,,,,,,,,,,
+dd52644f-7a9e-5c7e-95ee-39f930759740,tg:rubgr:1619,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_020,titles proper,Dutch (language),,,,,,,,,,,

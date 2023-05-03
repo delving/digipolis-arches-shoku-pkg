@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5324,https://data.rubenianum.be//ark:/86530/900184c5-9101-5f9d-b528-e458a222f6be,Handschriften,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0016518e-817b-440e-b874-6ccb6752dda0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0e637d6d-8ced-4df0-ab94-9112e4db6d65"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4c9286ff-3f49-42f0-a0b5-a2acab07093c"", ""inverseOntologyProperty"": """"}]"
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bruegel Problems. Addenda. If the Vienna Kunsthistorisches Museum is the main repository of paintings sby Pieter Bruegel the Elder [...] The Print Room of the Staatliche Museen in Berlin-Dahlem can boast of the richest collection of the master's drawings [...][scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Berlijn, Kupferstichkabinett",,,,,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005324,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7581</priref>
+			<number>AFG_145_054</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<content>Bruegel Problems. Addenda. If the Vienna Kunsthistorisches Museum is the main repository of paintings sby Pieter Bruegel the Elder [...] The Print Room of the Staatliche Museen in Berlin-Dahlem can boast of the richest collection of the master's drawings [...][scan]</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Berlijn, Kupferstichkabinett</keyword>
+			<keyword>Wenen, Kunsthistorisches Museum</keyword>
+			<object.creator/>
+			<input.date>2014-08-20</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>12:24:49</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5324,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5324/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""85f54b10-f64a-5fcc-8818-9d58e843ea47"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d33a7938-408f-4bd4-abd8-01acfcc344f9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_OriginalBrocade,,,au::28097,,,,,,,,,,,,,,rub,4fd76377-5c60-5949-a1f5-8d7453c6c945,kw,,au::28097:1,au::28097g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3006379"",""au::28097"",""au::28097:1"",""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""Kunsthistorisches Museum [Wenen (A)]""],""name"":""Kunsthistorisches Museum [Wenen (A)]"",""ark"":""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""uri"":""/agents/corporate_entities/3006379"",""id"":""au::28097:1"",""isCapacity"":false}",ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945,agent,,,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_054,repository numbers,,,,,,,,,,,,,,
+900184c5-9101-5f9d-b528-e458a222f6be,tg:rubgr:5324,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_054,titles proper,Dutch (language),,,,,,,,,,,

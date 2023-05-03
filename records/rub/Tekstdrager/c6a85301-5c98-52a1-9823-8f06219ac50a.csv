@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:848,https://data.rubenianum.be//ark:/86530/c6a85301-5c98-52a1-9823-8f06219ac50a,Handschriften,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9602d0f3-a530-41f7-a856-704890887fb1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0ab948a6-2e45-4f85-ab7b-5ade070545ed"", ""inverseOntologyProperty"": """"}]"
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kreuztrag[un]g. Fred. C. [Frederick Charles] WILLIS, Zur Kenntnis der Antwerpener Kleinmeister des frühen 16. Jahrhunderts, Monatshefte für Kunstwissenschaft, VII, 1914, pp. 43-47, passim.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Willis, Fred C.",,,,,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000848,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>3099</priref>
+<number>AFG_019_019</number>
+<content>Kreuztrag[un]g. Fred. C. [Frederick Charles] WILLIS, Zur Kenntnis der Antwerpener Kleinmeister des frühen 16. Jahrhunderts, Monatshefte für Kunstwissenschaft, VII, 1914, pp. 43-47, passim.</content>
+<class>AFG</class>
+<editorial_form>Notitie</editorial_form>
+<editorial_form>Referentie</editorial_form>
+<keyword>Willis, Fred C.</keyword>
+<input.date>2012-02-14</input.date>
+<edit.date>2014-08-29</edit.date>
+<edit.date>2014-08-29</edit.date>
+<edit.date>2012-06-18</edit.date>
+<edit.date>2012-02-22</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.time>14:27:25</edit.time>
+<edit.time>14:27:14</edit.time>
+<edit.time>15:54:56</edit.time>
+<edit.time>10:28:18</edit.time>
+<input.time>15:59:03</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:848,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:848/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fa2bf7d1-8ffd-5861-b21b-33d8748e6d56"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ba4f510-c579-4c09-9075-08ebd0f6c13e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_019,repository numbers,,,,,,,,,,,,,,
+c6a85301-5c98-52a1-9823-8f06219ac50a,tg:rubgr:848,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_019,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3074,https://data.rubenianum.be//ark:/86530/ab852c3b-9da4-510d-ac8d-09bea53ea7d4,Handschriften,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3070,Verwijzing naar Grossmann object,,241bff70-c125-522f-9111-2f56a2af1a74,"[{""resourceId"": ""241bff70-c125-522f-9111-2f56a2af1a74"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4318e2de-417d-489d-ae36-1c144abd239a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""990238b1-cfd3-4b7b-9902-960cc96e8e4b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""be46211a-f48f-45fc-af11-77e10623a147"", ""inverseOntologyProperty"": """"}]"
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Witt Library. P.B.II. 7 Blind men (by the author of the Basle Fight of the Blind?), Sale Drouot, Paris, 21 Dec. 1951, N° 39, Bois, 55 x 77 cm. Vorher Sale Drouot, 8-XII-1948, N° 28; [Notitie FG]: Provisionally ad [Addendum] 65.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003074,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5304</priref>
+			<number>AFG_089_074</number>
+			<part_of_reference>AFG_089_070</part_of_reference>
+			<content>Witt Library. P.B.II. 7 Blind men (by the author of the Basle Fight of the Blind?), Sale Drouot, Paris, 21 Dec. 1951, N&#176; 39, Bois, 55 x 77 cm. Vorher Sale Drouot, 8-XII-1948, N&#176; 28; [Notitie FG]: Provisionally ad [Addendum] 65.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Blind Men and Dance ([?]) My 65. See also Blind (Naples).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-06-05</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-05</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:45:50</edit.time>
+			<edit.time>15:27:28</edit.time>
+			<input.time>15:26:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3074,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3074/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c78d7c37-cc93-5cbd-9a38-4cb162fd1a75"", ""ontologyProperty"": """", ""resourceXresourceId"": ""797b1dd8-53a7-4466-b9c5-d2a3166b2106"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_074,repository numbers,,,,,,,,,,,,,,
+ab852c3b-9da4-510d-ac8d-09bea53ea7d4,tg:rubgr:3074,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_074,titles proper,Dutch (language),,,,,,,,,,,

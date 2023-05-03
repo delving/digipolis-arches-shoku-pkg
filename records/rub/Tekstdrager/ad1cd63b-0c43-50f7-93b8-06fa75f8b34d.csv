@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2866,https://data.rubenianum.be//ark:/86530/ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,Handschriften,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2858,Verwijzing naar Grossmann object,,abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b,"[{""resourceId"": ""abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""48c5799e-84c6-4753-aeb5-5a4f691f6ab7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f859d0c-a2fa-4ef9-90f5-db21d61eaded"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9162db88-fa07-424d-b08d-31741087c210"", ""inverseOntologyProperty"": """"}]"
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gegenstand. Dualismus. Natur # Mensch. Frühe Landschaftzeichnungen Größe der Natur-Gottes Schöphung - Monatsbilder. Alle sonstigen Werke (Bildern & Zeichnungen) die vom Menschen handelen haben einer Sinn, Inhalt, Illustration, verlangen Deutung: verschiedener Schichten: 1) Die einfache Deutung, Bibel, Geschehen, [...], Sprichwörter; 2) entweder zeitgenössich libertin oder politiser auch spanisch; 3) Menschlich religiöse: Verkehrt [...] bei Tugend [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002866,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5108</priref>
+			<number>AFG_086_124</number>
+			<part_of_reference>AFG_086_116</part_of_reference>
+			<content>Gegenstand. Dualismus. Natur # Mensch. Fr&#252;he Landschaftzeichnungen Gr&#246;&#223;e der Natur-Gottes Sch&#246;phung - Monatsbilder. Alle sonstigen Werke (Bildern &amp; Zeichnungen) die vom Menschen handelen haben einer Sinn, Inhalt, Illustration, verlangen Deutung: verschiedener Schichten: 1) Die einfache Deutung, Bibel, Geschehen, [...], Sprichw&#246;rter; 2) entweder zeitgen&#246;ssich libertin oder politiser auch spanisch; 3) Menschlich religi&#246;se: Verkehrt [...] bei Tugend [...][scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[zonder onderwerp]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-03</input.date>
+			<edit.date>2014-11-14</edit.date>
+			<edit.date>2014-04-17</edit.date>
+			<edit.date>2014-04-03</edit.date>
+			<edit.date>2014-04-03</edit.date>
+			<edit.date>2014-04-03</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:12:45</edit.time>
+			<edit.time>14:55:44</edit.time>
+			<edit.time>11:27:39</edit.time>
+			<edit.time>11:24:39</edit.time>
+			<edit.time>11:12:55</edit.time>
+			<input.time>11:09:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2866,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2866/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7c48baa6-ba6b-599c-82a6-d8b5fdd14b3c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ac9d6811-6d91-4561-95cd-a7e876ad428c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_124,repository numbers,,,,,,,,,,,,,,
+ad1cd63b-0c43-50f7-93b8-06fa75f8b34d,tg:rubgr:2866,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_124,titles proper,Dutch (language),,,,,,,,,,,

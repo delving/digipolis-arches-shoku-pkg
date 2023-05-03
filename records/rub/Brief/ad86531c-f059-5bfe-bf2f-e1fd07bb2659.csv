@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2276,https://data.rubenianum.be//ark:/86530/ad86531c-f059-5bfe-bf2f-e1fd07bb2659,Brieven,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ac5be4d8-f893-4d40-b2a6-dbf5ff2cea8c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""276c5595-8f41-41df-817e-f35abba67319"", ""inverseOntologyProperty"": """"}]"
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960.0,2075,In Copyright,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Correspondence,1,,,,,,,,,,,,,,,,"King, Susanne A.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19600713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1960-07-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd William Hallsborough Ltd., London] Korte inhoud: Signaleert dat Dr. Burchard het gereinigde schilderij gezien heeft op 13-07-1960. Hij is van oordeel dat het een vroeg werk is van de ""Velours Brueghel"". Hij vroeg om een foto voor zijn documentatie.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toeschrijving,,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, William Hallsborough Gallery",,,,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002276,referentienummer,False,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4519</priref>
+			<recipient>Grossmann, Friedrich G.</recipient>
+			<number>AFG_071_005</number>
+			<date.precise>1960-07-13</date.precise>
+			<content>[Briefhoofd William Hallsborough Ltd., London] Korte inhoud: Signaleert dat Dr. Burchard het gereinigde schilderij gezien heeft op 13-07-1960. Hij is van oordeel dat het een vroeg werk is van de ""Velours Brueghel"". Hij vroeg om een foto voor zijn documentatie.</content>
+			<object.object_number>AFG_071</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Peasant Wedding</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Burchard, Ludwig</keyword>
+			<keyword>toeschrijving</keyword>
+			<keyword>Londen, William Hallsborough Gallery</keyword>
+			<sender>King, Susanne A.</sender>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-05-29</input.date>
+			<edit.date>2014-11-24</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:39:54</edit.time>
+			<edit.time>15:52:35</edit.time>
+			<input.time>15:53:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2276,brocade id,False,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2276/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8b24562-44fb-5e74-bb8b-2263d3650b6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""169be342-c7cb-442a-87ae-fc16a146d2c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,rub,,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,,,rub,,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,au::3232:1,au::3232g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_071_005,repository numbers,,,,,,,,,,,
+ad86531c-f059-5bfe-bf2f-e1fd07bb2659,tg:rubgr:2276,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_071_005,titles proper,Dutch (language),,,,,,,,

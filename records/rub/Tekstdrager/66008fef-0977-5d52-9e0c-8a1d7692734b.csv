@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3258,https://data.rubenianum.be//ark:/86530/66008fef-0977-5d52-9e0c-8a1d7692734b,Handschriften,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3253,Verwijzing naar Grossmann object,,63274b2b-8a51-51af-840e-419f03b93bf9,"[{""resourceId"": ""63274b2b-8a51-51af-840e-419f03b93bf9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aa87da83-41c9-4ca2-a3be-bc782e3e1493"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ac48cb09-14b4-4406-b323-b269d720f85b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8e448613-2d15-47f7-875f-3ca19dc3e6c5"", ""inverseOntologyProperty"": """"}]"
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1950.0,2065,In Copyright,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19500710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1950-07-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 65. Eislauf vor dem Georgstor. Die zeichnung ist in Privatbesitz in U.S.A. [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003258,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5372</priref>
+			<number>AFG_091_062</number>
+			<part_of_reference>AFG_091_057</part_of_reference>
+			<date.precise>1950-07-10</date.precise>
+			<content>Ad [Addendum] 65. Eislauf vor dem Georgstor. Die zeichnung ist in Privatbesitz in U.S.A. [...]</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>65. Eislauf beim Georgtor. 78. Mention at end that as proved by Gl&#252;ck done after drawing.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<physical_form>beschadigd</physical_form>
+			<object.creator/>
+			<input.date>2014-06-10</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>13:21:23</edit.time>
+			<input.time>16:22:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3258,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3258/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a1c37842-bd3c-576a-b8bf-1d30d55ff790"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3df7e7df-837c-4bc5-91ca-c2908905872d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_062,repository numbers,,,,,,,,,,,,,,
+66008fef-0977-5d52-9e0c-8a1d7692734b,tg:rubgr:3258,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_062,titles proper,Dutch (language),,,,,,,,,,,

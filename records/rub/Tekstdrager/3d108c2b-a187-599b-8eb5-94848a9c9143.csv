@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3797,https://data.rubenianum.be//ark:/86530/3d108c2b-a187-599b-8eb5-94848a9c9143,Handschriften,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3773,Verwijzing naar Grossmann object,,be415676-bbca-5af1-b0e7-badbf3214ca4,"[{""resourceId"": ""be415676-bbca-5af1-b0e7-badbf3214ca4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c04bff49-03b1-45c0-b353-4de7bbf074ff"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fe49e341-f0aa-45b9-9c4c-049c141cacd6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab0bea20-5367-4dc1-89d6-074fe099de8a"", ""inverseOntologyProperty"": """"}]"
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"R. Savery in Louvre [...] Lugt, École hollandaise; R. Savery in BM, Hind, Dutch Catal.; Popham: Fenwick Coll.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003797,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6050</priref>
+			<number>AFG_099_035</number>
+			<part_of_reference>AFG_099_011</part_of_reference>
+			<content>R. Savery in Louvre [...] Lugt, &#201;cole hollandaise; R. Savery in BM, Hind, Dutch Catal.; Popham: Fenwick Coll.</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>F. Grossmann, Naer het Leven.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<object.creator/>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>13:58:22</edit.time>
+			<input.time>15:56:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3797,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3797/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b13c5299-7d83-5dc5-924d-a32696f05662"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a18ecaf-9fce-477b-8eba-83040ad16ba9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_035,repository numbers,,,,,,,,,,,,,,
+3d108c2b-a187-599b-8eb5-94848a9c9143,tg:rubgr:3797,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_035,titles proper,Dutch (language),,,,,,,,,,,

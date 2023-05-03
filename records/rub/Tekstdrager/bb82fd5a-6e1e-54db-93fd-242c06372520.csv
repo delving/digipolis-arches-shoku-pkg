@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4987,https://data.rubenianum.be//ark:/86530/bb82fd5a-6e1e-54db-93fd-242c06372520,Handschriften,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2fa1925f-f621-4516-b6a4-c4e026a52eeb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d6df9705-396d-4721-a3a6-6768893c2dd7"", ""inverseOntologyProperty"": """"}]"
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kuno Räber, Studien zur Geschichtsbibel Sebastian Francks (Basler Beiträge zur Geschichtswissenschaft; 41), Basel 1952, citaat p. 37.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Räber, Kuno",,,,,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004987,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7243</priref>
+			<number>AFG_137_022</number>
+			<content>Kuno R&#228;ber, Studien zur Geschichtsbibel Sebastian Francks (Basler Beitr&#228;ge zur Geschichtswissenschaft; 41), Basel 1952, citaat p. 37.</content>
+			<object.object_number>AFG_137</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Ortelius: Religion</object.title>
+			<keyword>Franck, Sebastian</keyword>
+			<keyword>R&#228;ber, Kuno</keyword>
+			<object.creator/>
+			<input.date>2014-08-07</input.date>
+			<edit.date>2014-08-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:32:18</edit.time>
+			<input.time>13:30:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4987,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4987/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e50d48d1-f01f-52d3-9131-73bf539a0675"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1bd4e39d-4436-43b4-bee9-f28ec3466037"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_OriginalBrocade,,,au::20725,,,,,,,,,,,,,,rub,94f2b984-01e4-5b70-8738-cf45789b7de8,kw,,au::20725:1,au::20725g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2217575"",""au::20725"",""au::20725:1"",""ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8"",""S. Vrancx""],""name"":""S. Vrancx"",""ark"":""ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8"",""uri"":""/agents/people/2217575"",""id"":""au::20725:1"",""isCapacity"":false}",ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8,agent,,,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_022,repository numbers,,,,,,,,,,,,,,
+bb82fd5a-6e1e-54db-93fd-242c06372520,tg:rubgr:4987,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_022,titles proper,Dutch (language),,,,,,,,,,,

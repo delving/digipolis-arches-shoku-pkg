@@ -1,0 +1,42 @@
+#!/usr/bin/env sh
+
+
+mkdir mpm
+mkdir rub
+mkdir mmb
+mkdir lh
+
+mkdir mpm/Brief
+mkdir mpm/Brief_material
+mkdir mpm/Foto
+mkdir mpm/Foto_material
+mkdir mpm/Iconografie
+mkdir mpm/Iconografie_material
+mkdir mpm/Tekstdrager
+mkdir mpm/Tekstdrager_material
+mkdir rub/Brief
+mkdir rub/Brief_material
+mkdir rub/Foto
+mkdir rub/Foto_material
+mkdir rub/Iconografie
+mkdir rub/Iconografie_material
+mkdir rub/Tekstdrager
+mkdir rub/Tekstdrager_material
+mkdir mmb/Brief
+mkdir mmb/Brief_material
+mkdir mmb/Iconografie
+mkdir mmb/Iconografie_material
+mkdir mmb/Tekstdrager
+mkdir mmb/Tekstdrager_material
+mkdir lh/Object
+mkdir lh/Object_material
+mkdir lh/Iconografie
+mkdir lh/Iconografie_material
+mkdir lh/Tekstdrager
+mkdir lh/Tekstdrager_material
+mkdir lh/Affiche
+mkdir lh/Affiche_material
+mkdir lh/Foto
+mkdir lh/Foto_material
+mkdir lh/Brief
+mkdir lh/Brief_material

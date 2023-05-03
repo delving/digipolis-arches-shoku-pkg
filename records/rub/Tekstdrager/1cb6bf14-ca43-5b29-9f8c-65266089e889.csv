@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3005,https://data.rubenianum.be//ark:/86530/1cb6bf14-ca43-5b29-9f8c-65266089e889,Handschriften,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3004,Verwijzing naar Grossmann object,,84f317e7-3a1c-5ff7-803e-917e607cccf5,"[{""resourceId"": ""84f317e7-3a1c-5ff7-803e-917e607cccf5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""912acec2-75e1-4300-bc12-c50ba9c2f795"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""94307f24-3cfd-4432-a9f6-52bce2cc1796"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5095b852-89c1-4f81-8cae-dbc572a00749"", ""inverseOntologyProperty"": """"}]"
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 60. Rijksbureau. Reisig[...] Bauern ausg. Photo Murray V. Keyes, N.Y. 31, 5 x 27, 2 Kopien in Roundels. 1) P.B.II Coll. H. Weyers, Tilburg, Holz, Diam. 17 cm Exh. Eindhoven 1938 [...]  aber [...] besser als Birmingham; 2) Rijksmuseum Twenthe, Enschede, Holz 17,2 Cat. 1938, N° 52; Eine Variante mit verschiedenen Kleidung der Figuren. Weglassung des dritten  [...] Bauern, Hintergrund verschieden, und sehr schwach; [verso] Schloß Blankenburg, Sale Sotheby, 27-10-1948, N° 113. Sold to Berrac, attrib. to P.B.I Photo Nat. Gal. again Sale [...] 20-21-4-1950, N° 80 as  P.B.I.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003005,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5229</priref>
+			<number>AFG_089_005</number>
+			<part_of_reference>AFG_089_004</part_of_reference>
+			<content>[recto] Ad [Addendum] 60. Rijksbureau. Reisig[...] Bauern ausg. Photo Murray V. Keyes, N.Y. 31, 5 x 27, 2 Kopien in Roundels. 1) P.B.II Coll. H. Weyers, Tilburg, Holz, Diam. 17 cm Exh. Eindhoven 1938 [...]  aber [...] besser als Birmingham; 2) Rijksmuseum Twenthe, Enschede, Holz 17,2 Cat. 1938, N&#176; 52; Eine Variante mit verschiedenen Kleidung der Figuren. Weglassung des dritten  [...] Bauern, Hintergrund verschieden, und sehr schwach; [verso] Schlo&#223; Blankenburg, Sale Sotheby, 27-10-1948, N&#176; 113. Sold to Berrac, attrib. to P.B.I Photo Nat. Gal. again Sale [...] 20-21-4-1950, N&#176; 80 as  P.B.I.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Peasants tying twigs. My N&#176; 60.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-18</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-18</edit.date>
+			<edit.date>2014-04-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:27:50</edit.time>
+			<edit.time>16:50:23</edit.time>
+			<edit.time>16:41:58</edit.time>
+			<input.time>16:37:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3005,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3005/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0503e4cb-9bec-508a-9b37-b54321a9e363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22772807-349c-4f4e-a168-e379564b9b56"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_005,repository numbers,,,,,,,,,,,,,,
+1cb6bf14-ca43-5b29-9f8c-65266089e889,tg:rubgr:3005,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_005,titles proper,Dutch (language),,,,,,,,,,,

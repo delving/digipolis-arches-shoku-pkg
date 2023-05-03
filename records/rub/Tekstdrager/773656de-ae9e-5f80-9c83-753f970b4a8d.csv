@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3869,https://data.rubenianum.be//ark:/86530/773656de-ae9e-5f80-9c83-753f970b4a8d,Handschriften,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f191e6a6-1786-406e-815c-6da8861b169d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21623fd3-0c94-4d39-b4c3-040efdfa5952"", ""inverseOntologyProperty"": """"}]"
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Otto Kurz, 'Gli Amori de'Carraci: From forgotten Paintings by Agostino Carraci, Journal of the Warburg and Courtauld Institutes, XIV (1951), pp. 221-233, citaat p. 223.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kurz, Otto",,,,,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003869,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6122</priref>
+			<number>AFG_101_021</number>
+			<content>Otto Kurz, 'Gli Amori de'Carraci: From forgotten Paintings by Agostino Carraci, Journal of the Warburg and Courtauld Institutes, XIV (1951), pp. 221-233, citaat p. 223.</content>
+			<object.object_number>AFG_101</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Franz Landschaftsmalerei</object.title>
+			<keyword>Kurz, Otto</keyword>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>15:36:28</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3869,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3869/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0af5d83e-7de4-5d81-88d7-e6966faab8b7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6a0a320d-26e7-4cb4-b166-57c135ed76eb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_101_021,repository numbers,,,,,,,,,,,,,,
+773656de-ae9e-5f80-9c83-753f970b4a8d,tg:rubgr:3869,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_101_021,titles proper,Dutch (language),,,,,,,,,,,

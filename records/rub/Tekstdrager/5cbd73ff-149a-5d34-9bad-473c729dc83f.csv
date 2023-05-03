@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3649,https://data.rubenianum.be//ark:/86530/5cbd73ff-149a-5d34-9bad-473c729dc83f,Handschriften,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:3650,Verwijzing naar Grossmann object,,27b66b5c-0429-5981-8e3d-ce983c62a816,"[{""resourceId"": ""27b66b5c-0429-5981-8e3d-ce983c62a816"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4cb20677-4732-4eb4-ae3c-52d663bc56be"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:3651,Verwijzing naar Grossmann object,,cc4ac424-91b5-53dd-8843-640a1dce9dfd,"[{""resourceId"": ""cc4ac424-91b5-53dd-8843-640a1dce9dfd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b0d47d9c-6698-4b09-8af0-2999477857e4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:3652,Verwijzing naar Grossmann object,,1949e365-b601-5a5b-b73e-53b9275e3ae3,"[{""resourceId"": ""1949e365-b601-5a5b-b73e-53b9275e3ae3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""531c60dd-2c60-4ca7-8916-83ac839cfe48"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ae975639-75af-449a-8c34-f2f8a190169d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e142222d-3b2d-408c-913b-fc96beed4668"", ""inverseOntologyProperty"": """"}]"
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Naer het Leven drawings used in Bruegel paintings [scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003649,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5902</priref>
+			<number>AFG_097_095</number>
+			<content>Naer het Leven drawings used in Bruegel paintings [scan]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title>Naer het Leven: Stechow, Piter Bruegel, N.Y. 1971, citaat p. 59; Underdrawing of figures to be compared with drawing technique [...]</parts.title>
+			<parts.title>Ad [Addendum] Savery-Naer het Leven. Dutch Genre Drawings in the Seventeenth Century Loan exhibiton from Dutch Museums [...] 1972-1973 [...] Pierpont Morgan Library [...] 93 Horseman, Boymans;  [toegevoegde vermelding]: 'F.G. = really Savery, London, N&#176; 115; 94 Study of Peasants [...]</parts.title>
+			<parts.title>Gl&#252;ck, N&#176; 34 Kindermord [...]</parts.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<parts_reference>AFG_097_096</parts_reference>
+			<parts_reference>AFG_097_097</parts_reference>
+			<parts_reference>AFG_097_098</parts_reference>
+			<edit.time>11:48:27</edit.time>
+			<edit.time>11:14:26</edit.time>
+			<edit.time>10:10:27</edit.time>
+			<input.time>10:07:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3649,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3649/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""964abac5-80c3-558d-9023-be8dc7d2222d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""65bcce47-fa13-4286-9e17-8c3949949413"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_095,repository numbers,,,,,,,,,,,,,,
+5cbd73ff-149a-5d34-9bad-473c729dc83f,tg:rubgr:3649,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_095,titles proper,Dutch (language),,,,,,,,,,,

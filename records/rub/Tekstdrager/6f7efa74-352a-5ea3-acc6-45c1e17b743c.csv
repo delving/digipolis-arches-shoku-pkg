@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4483,https://data.rubenianum.be//ark:/86530/6f7efa74-352a-5ea3-acc6-45c1e17b743c,Handschriften,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2226cbab-2d8d-4df2-9c32-30db85d50d93"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d6bacd3d-904c-4a0e-9831-263cd67c8ce2"", ""inverseOntologyProperty"": """"}]"
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Robert Hughes, Heaven & Hell in Western Art, London1968, citaten pp. 33, 154, 164ff, 193.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hughes, Robert",,,,,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004483,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6736</priref>
+			<number>AFG_114_017</number>
+			<content>Robert Hughes, Heaven &amp; Hell in Western Art, London1968, citaten pp. 33, 154, 164ff, 193.</content>
+			<object.object_number>AFG_114</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel varia</object.title>
+			<keyword>Hughes, Robert</keyword>
+			<object.creator/>
+			<input.date>2014-07-14</input.date>
+			<edit.date>2014-07-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:48:42</edit.time>
+			<input.time>16:48:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4483,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4483/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""68f3485a-1d09-58ab-9681-e1de8816f23c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""73dd9717-005a-4015-85b1-6811e76e8244"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_114_017,repository numbers,,,,,,,,,,,,,,
+6f7efa74-352a-5ea3-acc6-45c1e17b743c,tg:rubgr:4483,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_114_017,titles proper,Dutch (language),,,,,,,,,,,

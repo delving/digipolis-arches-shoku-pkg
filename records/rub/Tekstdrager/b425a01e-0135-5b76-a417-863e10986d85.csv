@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2130,https://data.rubenianum.be//ark:/86530/b425a01e-0135-5b76-a417-863e10986d85,Handschriften,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2126,Verwijzing naar Grossmann object,,dae122f4-2002-5f16-aae8-9c06b9ec0464,"[{""resourceId"": ""dae122f4-2002-5f16-aae8-9c06b9ec0464"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ac866d9-326a-482d-b339-aed459455806"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3e5990f4-3a77-4273-bdca-f5aee217c1d6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f1ffac1b-2dce-4f35-b81a-f8892e3e3739"", ""inverseOntologyProperty"": """"}]"
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 84. Inventar Jan van Meurs, in Antwerpen 1652, wie mich F.G. [onleesbaar] erwähnt  ein Bild des gleichen Gegenstandes 'Item een Jonasken van Bruegel (Denucé, Inv. p. 134). Vielleicht dasselbe Bild, das 1607 in Inventar des Hauses Granvelle in Besançon angefuhrt wird. Castan, Palais Granvelle dageg ...[sic] ist die Stelle im Inventar wohl eher auf Jan Bruegel zubeziehen.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:521545,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Granvelle, Antoine Perrenot de",,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Meurs, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Castan, Auguste",,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002130,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4364</priref>
+			<number>AFG_058_044</number>
+			<part_of_reference>AFG_058_040</part_of_reference>
+			<content>Ad [Addendum] 84. Inventar Jan van Meurs, in Antwerpen 1652, wie mich F.G. [onleesbaar] erw&#228;hnt  ein Bild des gleichen Gegenstandes 'Item een Jonasken van Bruegel (Denuc&#233;, Inv. p. 134). Vielleicht dasselbe Bild, das 1607 in Inventar des Hauses Granvelle in Besan&#231;on angefuhrt wird. Castan, Palais Granvelle dageg ...[sic] ist die Stelle im Inventar wohl eher auf Jan Bruegel zubeziehen.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>63a: Schiff des Jonas. [Doorstreept nummer]: 73. My N&#176; 84.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Granvelle, Antoine Perrenot de</keyword>
+			<keyword>Meurs, Jan van</keyword>
+			<keyword>Castan, Auguste</keyword>
+			<keyword>inventaris</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<object.creator/>
+			<documentation.author>Castan, Auguste</documentation.author>
+			<input.date>2013-03-22</input.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-22</edit.date>
+			<edit.date>2013-03-22</edit.date>
+			<edit.date>2013-03-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Monographie du palais Granvelle &#224; Besan&#231;on</documentation.title>
+			<edit.time>15:24:46</edit.time>
+			<edit.time>12:30:07</edit.time>
+			<edit.time>12:28:52</edit.time>
+			<edit.time>12:26:53</edit.time>
+			<edit.time>16:02:08</edit.time>
+			<edit.time>16:01:31</edit.time>
+			<edit.time>16:01:10</edit.time>
+			<input.time>15:49:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2130,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2130/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""91193f6b-ffce-5084-ace4-de741c048026"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c754e055-2358-4d68-a04a-fdf082b54c84"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_044,repository numbers,,,,,,,,,,,,,,
+b425a01e-0135-5b76-a417-863e10986d85,tg:rubgr:2130,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_044,titles proper,Dutch (language),,,,,,,,,,,

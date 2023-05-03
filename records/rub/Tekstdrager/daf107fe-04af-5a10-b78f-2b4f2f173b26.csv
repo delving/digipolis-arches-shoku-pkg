@@ -1,0 +1,83 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1001,https://data.rubenianum.be//ark:/86530/daf107fe-04af-5a10-b78f-2b4f2f173b26,Handschriften,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7519d63-deb6-40a9-97ea-9dfa6aa5e9d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1882c1b0-37d0-4d8f-a437-bd8a3e41a1fa"", ""inverseOntologyProperty"": """"}]"
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sotheby, Sale 11.6.47: Portraits: 77. (Notice not in catalogue: probably portrait of Willem Palmer one of the Gentlemen Pensioners of Henry VIII, which dress he wears, 3 quarter lenght turned 3/4 l, green background, Italian? [sic] ca. 1540-50. Very bad condition either copy after Holbein late portrait or perhaps a good picture spoilt; 79 copy of [Henry] Huth Thomas More; 33 Portrait, Head of a Lady; 19 Drawing Hans Holbein the Elder, Bustportrait of a young man, silver point, pen and black ink touched with red chalk, heightned with white, on grey prepared ground; 27 Velasquez: Olivarez; 20. Rembrandt: Titus (?)[sic]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001001,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3254</priref>
+			<number>AFG_022_034</number>
+			<content>Sotheby, Sale 11.6.47: Portraits: 77. (Notice not in catalogue: probably portrait of Willem Palmer one of the Gentlemen Pensioners of Henry VIII, which dress he wears, 3 quarter lenght turned 3/4 l, green background, Italian? [sic] ca. 1540-50. Very bad condition either copy after Holbein late portrait or perhaps a good picture spoilt; 79 copy of [Henry] Huth Thomas More; 33 Portrait, Head of a Lady; 19 Drawing Hans Holbein the Elder, Bustportrait of a young man, silver point, pen and black ink touched with red chalk, heightned with white, on grey prepared ground; 27 Velasquez: Olivarez; 20. Rembrandt: Titus (?)[sic]</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>veilingcatalogus</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Holbein, Hans II</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-22</input.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2015-01-30</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-04-20</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-03</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-23</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:49:23</edit.time>
+			<edit.time>13:48:52</edit.time>
+			<edit.time>15:05:07</edit.time>
+			<edit.time>11:56:45</edit.time>
+			<edit.time>15:35:59</edit.time>
+			<edit.time>11:07:44</edit.time>
+			<edit.time>10:49:54</edit.time>
+			<edit.time>15:56:19</edit.time>
+			<edit.time>14:16:49</edit.time>
+			<edit.time>15:07:49</edit.time>
+			<edit.time>11:38:58</edit.time>
+			<edit.time>14:00:57</edit.time>
+			<edit.time>13:25:25</edit.time>
+			<input.time>13:23:49</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1001,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1001/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""72433ddc-fcc9-5861-a100-ab9e0a319324"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1dd8499c-2faf-45f4-9fcd-d5b95713ce19"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_034,repository numbers,,,,,,,,,,,,,,
+daf107fe-04af-5a10-b78f-2b4f2f173b26,tg:rubgr:1001,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_034,titles proper,Dutch (language),,,,,,,,,,,

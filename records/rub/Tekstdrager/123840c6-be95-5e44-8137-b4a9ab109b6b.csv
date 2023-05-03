@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4319,https://data.rubenianum.be//ark:/86530/123840c6-be95-5e44-8137-b4a9ab109b6b,Handschriften,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""34bd3795-f048-4a43-9947-140c977b7974"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4811549-a750-4a35-8a2a-7e006067279f"", ""inverseOntologyProperty"": """"}]"
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lawrence Gowing, Bruegel. The Way Things are, The Sunday Times Magazine, November 30, 1969, pp. 42-56.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004319,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6572</priref>
+			<number>AFG_111_114</number>
+			<content>Lawrence Gowing, Bruegel. The Way Things are, The Sunday Times Magazine, November 30, 1969, pp. 42-56.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.creator/>
+			<input.date>2014-07-08</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>16:17:55</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4319,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4319/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""779b79c6-7f2f-5245-b376-a07a95e0726f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fdf5df01-4028-488a-b2c9-1d3e75e88fc2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_114,repository numbers,,,,,,,,,,,,,,
+123840c6-be95-5e44-8137-b4a9ab109b6b,tg:rubgr:4319,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_114,titles proper,Dutch (language),,,,,,,,,,,

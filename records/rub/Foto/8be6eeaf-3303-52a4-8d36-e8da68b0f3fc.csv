@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2261,https://data.rubenianum.be//ark:/86530/8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,Foto's,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2259,Verwijzing naar Grossmann object,,78f7ea5f-c2e3-5b50-ad87-dd5f1a6af11f,"[{""resourceId"": ""78f7ea5f-c2e3-5b50-ad87-dd5f1a6af11f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""65a1841e-c4e7-404a-8215-5739d030ca7e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""77345059-08be-4529-abe7-48a3f7d37190"", ""ontologyProperty"": """", ""resourceXresourceId"": ""30c38885-6ab2-47b9-93ef-85593331f4cc"", ""inverseOntologyProperty"": """"}]"
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto van het geheel. [Notitie FG]: 'Sale Christie, 26 June 1964 (6).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002261,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4504</priref>
+			<number>AFG_070_003</number>
+			<part_of_reference>AFG_070_001</part_of_reference>
+			<content>1 zw/w foto van het geheel. [Notitie FG]: 'Sale Christie, 26 June 1964 (6).</content>
+			<object.object_number>AFG_070</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Christie's. Highly Important Paintings by Old Masters and A Drawing by Rembrandt, On Friday, June 26, 1964, London. [Notitie FG]: ''BRVEGEL' N&#176; 6; FLEMALLE 44'; p. 4, N&#176;6 Pieter Bruegel the Elder A Soldier  playing a fife, another a drum and a third raising a banner-signed and dated MDLXVIII-on panel-8in. by 7in. Collection: Possibly Choiseul-Praslin  [Notitie FG]: 'Speelman &#163;24150; [losse bijlage]: Christie's Highly Important Paintings by Old Masters, On Friday, June 26, 1964: Addendum to lot 6: This picture bears a rare version of the stamp of the collection of King Charles I, CP in monogram, surmounted by a crown (Carolus Princeps). According to early inventories the picture was given to the King by Endymion Porter [...] We are indebted to Mr. Oliver Millar for this information.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Tree Soldiers</object.title>
+			<keyword>Londen, Christie's</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-05-02</input.date>
+			<edit.date>2014-11-24</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:52:01</edit.time>
+			<input.time>15:55:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2261,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2261/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""86105fb1-af9c-513b-81b9-87243c252fd8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22b8125c-9212-42dd-bab0-d5a2ac1fc882"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_OriginalBrocade,,,au::32571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,555bcc0b-f143-5bfe-930a-23913e45d8e4,kw,keywords,au::32571:1,au::32571g:1,,"dlod={""suggest"":[""/agents/corporate_entities/3485097"",""au::32571"",""au::32571:1"",""ark:/83110/x0/555bcc0b-f143-5bfe-930a-23913e45d8e4"",""Christie's Art Gallery [Londen (GB)]""],""name"":""Christie's Art Gallery [Londen (GB)]"",""ark"":""ark:/83110/x0/555bcc0b-f143-5bfe-930a-23913e45d8e4"",""uri"":""/agents/corporate_entities/3485097"",""id"":""au::32571:1"",""isCapacity"":false}",ark:/83110/x0/555bcc0b-f143-5bfe-930a-23913e45d8e4,agent,,,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_070_003,repository numbers,,,,,,,,,,,
+8be6eeaf-3303-52a4-8d36-e8da68b0f3fc,tg:rubgr:2261,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_070_003,titles proper,Dutch (language),,,,,,,,

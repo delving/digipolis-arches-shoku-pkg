@@ -1,0 +1,70 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:787,https://data.rubenianum.be//ark:/86530/01e63bde-b5f0-5f51-a022-8a0774f1d01c,Handschriften,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""61ee3042-d9aa-4b26-b058-8ad60575d9c2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:786,Verwijzing naar Grossmann object,,a8844ef0-dd62-591f-b6e2-d7f2e3e03184,"[{""resourceId"": ""a8844ef0-dd62-591f-b6e2-d7f2e3e03184"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2efe8800-371b-4211-b6a3-9fa866b58344"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c8e63a44-011d-4801-9fff-3df3e5f708e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""130c52e7-bfff-4918-a297-56360d70690a"", ""inverseOntologyProperty"": """"}]"
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Neu 20. Alt 15. Turmbau von Babel. Georg Gronau, Venezianische Kunstsammlungen des 16. Jahrhunderts, Jahrbuch für Kunstsammler, IV-V, 1924-25, Frankfurt am Main, 1925, citaat p. 20.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gronau, Georg",,,,,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000787,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3038</priref>
+			<number>AFG_017_080</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<part_of_reference>AFG_017_079</part_of_reference>
+			<content>Neu 20. Alt 15. Turmbau von Babel. Georg Gronau, Venezianische Kunstsammlungen des 16. Jahrhunderts, Jahrbuch f&#252;r Kunstsammler, IV-V, 1924-25, Frankfurt am Main, 1925, citaat p. 20.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<part_of.title>Tower of Babel (Venice) Vendramin Catalogue (ed. Borenius) [= Tancred Borenius (ed.), The Picture Gallery of Andrea Vendramin: The Text of the Original Catalogue, with Reproductions of the Drawings and with Notes, London: Medici Society, 1923]. Scorel.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Gronau, Georg</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2018-05-23</edit.date>
+			<edit.date>2018-05-15</edit.date>
+			<edit.date>2018-05-15</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:18:39</edit.time>
+			<edit.time>16:56:49</edit.time>
+			<edit.time>16:23:04</edit.time>
+			<edit.time>11:49:38</edit.time>
+			<edit.time>12:28:15</edit.time>
+			<edit.time>13:18:21</edit.time>
+			<edit.time>10:04:20</edit.time>
+			<edit.time>09:57:24</edit.time>
+			<input.time>09:57:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:787,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:787/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ef9fc267-0840-5786-8496-0c69fed320f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6c2caeb3-7726-4fd4-85c4-33960cc6fbd1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_080,repository numbers,,,,,,,,,,,,,,
+01e63bde-b5f0-5f51-a022-8a0774f1d01c,tg:rubgr:787,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_080,titles proper,Dutch (language),,,,,,,,,,,

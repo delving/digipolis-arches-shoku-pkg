@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3406,https://data.rubenianum.be//ark:/86530/7b9fdd0a-3dcb-5096-82e2-36589bac8e16,Foto's,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:3405,Verwijzing naar Grossmann object,,a951616b-1876-5e40-bef4-630ba134c8c7,"[{""resourceId"": ""a951616b-1876-5e40-bef4-630ba134c8c7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a238c6cc-f7ad-4806-8cd2-b71cad54ab44"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2d6e81bd-b992-47cf-acb1-e7090baaaafa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""df1ecc3f-09df-4a05-80f1-c3c0f9964d9d"", ""inverseOntologyProperty"": """"}]"
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,4 zw/w foto's: Milites Requiescentes; Triumph of Death; Cockaigne; Conversion of Saul,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003406,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5659</priref>
+			<number>AFG_093_069</number>
+			<part_of_reference>AFG_093_068</part_of_reference>
+			<content>4 zw/w foto's: Milites Requiescentes; Triumph of Death; Cockaigne; Conversion of Saul</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Motiventwicklung: Verkurzt liegender</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<edit.date>2014-06-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:38:45</edit.time>
+			<input.time>16:37:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3406,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3406/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b949ac7f-fb07-5eb5-bda9-21bbd2ee8fc0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d95de635-413c-44d6-8532-5269b6892cae"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_069,repository numbers,,,,,,,,,,,
+7b9fdd0a-3dcb-5096-82e2-36589bac8e16,tg:rubgr:3406,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_069,titles proper,Dutch (language),,,,,,,,

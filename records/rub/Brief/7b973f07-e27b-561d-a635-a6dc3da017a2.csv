@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5223,https://data.rubenianum.be//ark:/86530/7b973f07-e27b-561d-a635-a6dc3da017a2,Brieven,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d24d7664-8bb7-403f-947a-4179de9b76e0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ca5b2dbd-76ba-4163-b706-9051d9cdeba9"", ""inverseOntologyProperty"": """"}]"
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1952.0,2067,In Copyright,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_Correspondence,1,,,,,,,,,,,,,,,,"Badt, Kurt",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19520930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1952-09-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[4 bladen] Korte inhoud: [Taal, Duits] Antwoord op brief FG d.d. 21 september 1952. Verslag van eigen werkzaamheden. Kritische opmerking m.b.t. Warburg netwerk. [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Badt, Kurt",,,,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005223,referentienummer,False,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7479</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_144_007</number>
+			<date.precise>1952-09-30</date.precise>
+			<content>[4 bladen] Korte inhoud: [Taal, Duits] Antwoord op brief FG d.d. 21 september 1952. Verslag van eigen werkzaamheden. Kritische opmerking m.b.t. Warburg netwerk. [scan]</content>
+			<object.object_number>AFG_144</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Ortelius (also Lecture), Religion</object.title>
+			<keyword>Badt, Kurt</keyword>
+			<sender>Badt, Kurt</sender>
+			<object.creator/>
+			<input.date>2014-08-18</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>10:50:25</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5223,brocade id,False,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5223/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""23785b28-9c7a-52ee-ad71-2153e602e1cb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""87ce9ae4-b9ff-43bc-8209-f806eec51142"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_144_007,repository numbers,,,,,,,,,,,
+7b973f07-e27b-561d-a635-a6dc3da017a2,tg:rubgr:5223,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_144_007,titles proper,Dutch (language),,,,,,,,

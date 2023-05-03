@@ -1,0 +1,63 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2147,https://data.rubenianum.be//ark:/86530/065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,Brieven,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""42ee2ef9-87f3-43f8-8144-33a283556299"", ""ontologyProperty"": """", ""resourceXresourceId"": ""156a6df0-ffe9-4a60-8d6d-0842271b3bc1"", ""inverseOntologyProperty"": """"}]"
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Correspondence,1,,,,,,,,,,,,,,,,"Hasselt, Carlos van",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19710221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1971-02-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd Fondation Custodia] [Notitie FG om briefomslag]: '""Bruegel"" Thyssen-Bentinck.' Korte inhoud: Kan voor FG een ontmoeting regelen met Mrs Bentinck om haar Bruegel in Parijs te bekijken; [Notitie FG op brief] 'Thanked 5 March.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hasselt, Carlos van",,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parijs, Fondation Custodia",,,,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002147,referentienummer,False,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4412</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_059_004</number>
+			<date.precise>1971-02-21</date.precise>
+			<content>[Briefhoofd Fondation Custodia] [Notitie FG om briefomslag]: '""Bruegel"" Thyssen-Bentinck.' Korte inhoud: Kan voor FG een ontmoeting regelen met Mrs Bentinck om haar Bruegel in Parijs te bekijken; [Notitie FG op brief] 'Thanked 5 March.'</content>
+			<object.object_number>AFG_059</object.object_number>
+			<object.object_name>Losse stukken</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Doubtful and Wrong Attributions</object.title>
+			<keyword>Hasselt, Carlos van</keyword>
+			<keyword>Parijs, Fondation Custodia</keyword>
+			<sender>Hasselt, Carlos van</sender>
+			<object.creator/>
+			<input.date>2013-04-18</input.date>
+			<edit.date>2014-10-24</edit.date>
+			<edit.date>2014-10-24</edit.date>
+			<edit.date>2014-10-24</edit.date>
+			<edit.date>2014-10-24</edit.date>
+			<edit.date>2013-04-18</edit.date>
+			<edit.date>2013-04-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:53:16</edit.time>
+			<edit.time>13:52:29</edit.time>
+			<edit.time>13:52:08</edit.time>
+			<edit.time>13:51:38</edit.time>
+			<edit.time>09:38:50</edit.time>
+			<edit.time>09:35:57</edit.time>
+			<input.time>09:25:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2147,brocade id,False,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2147/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a62e4b0c-42a9-54d9-86d9-6da3d9269a9c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""73152780-06c1-472b-9a82-89c983ce96db"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_059_004,repository numbers,,,,,,,,,,,
+065e95d4-f35e-57e0-a9bc-eb6ab85b9e8b,tg:rubgr:2147,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_059_004,titles proper,Dutch (language),,,,,,,,

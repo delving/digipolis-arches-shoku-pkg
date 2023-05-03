@@ -1,0 +1,74 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1386,https://data.rubenianum.be//ark:/86530/2f7bd071-6b69-5baf-a67b-32240af261f7,Handschriften,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""beeaabd0-656a-4085-93f8-3b9dd830ec4e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f810560a-d079-4683-a856-7f69044cb2b9"", ""inverseOntologyProperty"": """"}]"
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto-verso] Peasant Wedding (Vienna), [Ernst H.] Gombrich, The Story of Art, [London: Phaidon], 1950, citaat p. 281-282; [toegevoegde vermelding]: 'F.G. Das Kind hat den Lasterhut eines Grosser - es ist selbst noch zu klein für andere Laster ausser Gula - aber es wird später auch solche haben- oder ist 'Pride' eines der Laster das man schon bei Kinder findet? And who is completely absorbed in licking the delicious food in a picture of innocent greed. Neu Kinder vertreten das schlechte Prinzip ganz allgemeins.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_ExternalRelationsExtras,a::rub.37,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261051,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gombrich, Ernst H.",,,,,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,onmatigheid,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001386,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3633</priref>
+			<number>AFG_037_022</number>
+			<content>[recto-verso] Peasant Wedding (Vienna), [Ernst H.] Gombrich, The Story of Art, [London: Phaidon], 1950, citaat p. 281-282; [toegevoegde vermelding]: 'F.G. Das Kind hat den Lasterhut eines Grosser - es ist selbst noch zu klein f&#252;r andere Laster ausser Gula - aber es wird sp&#228;ter auch solche haben- oder ist 'Pride' eines der Laster das man schon bei Kinder findet? And who is completely absorbed in licking the delicious food in a picture of innocent greed. Neu Kinder vertreten das schlechte Prinzip ganz allgemeins.'</content>
+			<object.object_number>AFG_037</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Wedding (Meal) Banquet</object.title>
+			<keyword>Gombrich, Ernst H.</keyword>
+			<keyword>onmatigheid</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-24</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-10-12</edit.date>
+			<edit.date>2012-10-11</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-08-24</edit.date>
+			<edit.date>2012-08-24</edit.date>
+			<edit.date>2012-08-24</edit.date>
+			<edit.date>2012-08-24</edit.date>
+			<edit.date>2012-08-24</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:36:44</edit.time>
+			<edit.time>09:25:10</edit.time>
+			<edit.time>15:21:02</edit.time>
+			<edit.time>16:27:00</edit.time>
+			<edit.time>16:25:57</edit.time>
+			<edit.time>09:18:21</edit.time>
+			<edit.time>09:13:28</edit.time>
+			<edit.time>09:11:27</edit.time>
+			<edit.time>09:02:20</edit.time>
+			<edit.time>08:51:30</edit.time>
+			<input.time>08:50:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1386,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1386/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a01e858-528d-5fa1-a119-94aee7c87702"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bee46e20-e362-489b-9fee-aba7eac1160b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_022,repository numbers,,,,,,,,,,,,,,
+2f7bd071-6b69-5baf-a67b-32240af261f7,tg:rubgr:1386,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_022,titles proper,Dutch (language),,,,,,,,,,,

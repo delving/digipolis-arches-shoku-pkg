@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:300,https://data.rubenianum.be//ark:/86530/38dca83f-9de5-59ba-aec4-3161932a2f9b,Handschriften,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33b061f1-1793-47ae-828b-9da72d41bfb2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""550f80c0-af2b-4fc0-aed6-eba02f0a5896"", ""inverseOntologyProperty"": """"}]"
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Human Folly. [Charles de] Tolnay, Hieronymus Bosch, Bâle [Holbein]1937, citaat p. 59 n. 25: [Friedrich K.Th.] Zarncke, Sebastian Brants Narrenschiff, Leipzig [G. Wigand] 1854.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:12905839,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_ExternalRelationsExtras,a::rub.10:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260959,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brandt, Sebastian",,,,,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000300,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>2549</priref>
+<number>AFG_006_014</number>
+<content>Human Folly. [Charles de] Tolnay, Hieronymus Bosch, Bâle [Holbein]1937, citaat p. 59 n. 25: [Friedrich K.Th.] Zarncke, Sebastian Brants Narrenschiff, Leipzig [G. Wigand] 1854.</content>
+<object.object_number>AFG_006</object.object_number>
+<object.object_name>schilderij</object.object_name>
+<class>AFG</class>
+<editorial_form>Notitie</editorial_form>
+<editorial_form>Referentie</editorial_form>
+<object.title>The Netherlandish proverbs</object.title>
+<keyword>Bosch, Jheronimus</keyword>
+<keyword>Brandt, Sebastian</keyword>
+<keyword>Tolnay, Charles de</keyword>
+<object.creator>Bruegel, Pieter I</object.creator>
+<documentation.author>Tolnay, Charles de</documentation.author>
+<input.date>2011-09-19</input.date>
+<edit.date>2014-08-22</edit.date>
+<edit.date>2011-11-14</edit.date>
+<edit.date>2011-11-14</edit.date>
+<edit.date>2011-11-14</edit.date>
+<edit.date>2011-11-14</edit.date>
+<edit.date>2011-09-28</edit.date>
+<edit.date>2011-09-28</edit.date>
+<edit.date>2011-09-19</edit.date>
+<edit.date>2011-09-19</edit.date>
+<edit.date>2011-09-19</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<documentation.shelfmark/>
+<documentation.title>Hieronymus Bosch</documentation.title>
+<edit.time>13:49:05</edit.time>
+<edit.time>12:11:59</edit.time>
+<edit.time>12:11:46</edit.time>
+<edit.time>12:09:07</edit.time>
+<edit.time>12:08:19</edit.time>
+<edit.time>15:15:20</edit.time>
+<edit.time>15:15:12</edit.time>
+<edit.time>15:00:03</edit.time>
+<edit.time>14:59:47</edit.time>
+<edit.time>14:59:37</edit.time>
+<input.time>14:57:45</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<documentation.title.article/>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:300,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:300/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4babb394-0ab0-5d8f-8770-21bdbf3f756b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fab9b365-d18e-475c-b2cf-03d7ab789fd8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_014,repository numbers,,,,,,,,,,,,,,
+38dca83f-9de5-59ba-aec4-3161932a2f9b,tg:rubgr:300,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_014,titles proper,Dutch (language),,,,,,,,,,,

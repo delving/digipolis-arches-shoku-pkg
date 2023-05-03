@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1740,https://data.rubenianum.be//ark:/86530/c4481e03-e121-5164-8d59-4641604bd7b1,Foto's,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:1737,Verwijzing naar Grossmann object,,9d32c182-ad19-51cd-aba8-e01b6b4c2e58,"[{""resourceId"": ""9d32c182-ad19-51cd-aba8-e01b6b4c2e58"", ""ontologyProperty"": """", ""resourceXresourceId"": ""70dd769e-b151-4034-a37d-f6812d335a20"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""930f6473-318b-48ca-b7c4-44dc176e135e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d3822b4d-8a22-4bfc-913e-2cadd5ca1bee"", ""inverseOntologyProperty"": """"}]"
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 zw/w foto. [onbekend handschrift] Joos de Momper (Bruegel),descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Momper, Joos de (II)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001740,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3991</priref>
+			<number>AFG_046_043</number>
+			<part_of_reference>AFG_046_040</part_of_reference>
+			<content>1 zw/w foto. [onbekend handschrift] Joos de Momper (Bruegel)</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefhoofd National Gallery of Scotland]. Korte inhoud: zending van een negatief. Meldt dat [Colin] Thompson het werk toeschreef aan Joos de Momper. Opgave van materieel-technische gegevens. Eigendom van Mrs. Malcom Hay of Seaton. In 1946 vroeg de eigenaar advies aan Friedl&#228;nder.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Momper, Joos de (II)</keyword>
+			<object.creator/>
+			<input.date>2013-01-14</input.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2013-01-14</edit.date>
+			<edit.date>2013-01-14</edit.date>
+			<edit.date>2013-01-14</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:22:05</edit.time>
+			<edit.time>12:21:40</edit.time>
+			<edit.time>14:20:16</edit.time>
+			<edit.time>14:20:01</edit.time>
+			<edit.time>14:18:12</edit.time>
+			<input.time>14:17:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1740,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1740/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""661fae6c-c0ae-5f36-8d9d-ac660be68fe0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ccb3b2bf-b066-4589-9fb2-3cfc8f352fcd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_043,repository numbers,,,,,,,,,,,
+c4481e03-e121-5164-8d59-4641604bd7b1,tg:rubgr:1740,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_043,titles proper,Dutch (language),,,,,,,,

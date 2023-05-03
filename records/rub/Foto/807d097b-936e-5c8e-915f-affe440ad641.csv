@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2511,https://data.rubenianum.be//ark:/86530/807d097b-936e-5c8e-915f-affe440ad641,Foto's,,,,
+807d097b-936e-5c8e-915f-affe440ad641,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""93d0de1b-a556-4ab3-b6c0-9953aef33781"", ""ontologyProperty"": """", ""resourceXresourceId"": ""614fe44d-5ace-437e-adcb-f5bbfe3de811"", ""inverseOntologyProperty"": """"}]"
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,2 zw/w foto's met stempel ACL: N° A108152; A108153,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002511,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4753</priref>
+			<number>AFG_083_061</number>
+			<content>2 zw/w foto's met stempel ACL: N&#176; A108152; A108153</content>
+			<object.object_number>AFG_083</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Cleve, Marten van</object.title>
+			<object.creator/>
+			<input.date>2013-10-10</input.date>
+			<edit.date>2013-10-10</edit.date>
+			<edit.date>2013-10-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:23:09</edit.time>
+			<edit.time>11:21:19</edit.time>
+			<input.time>11:21:07</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2511,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2511/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8d5ea37c-63a3-5556-942d-2e8b10606e02"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6f520451-6059-4fdc-8d94-93677d54c641"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_061,repository numbers,,,,,,,,,,,
+807d097b-936e-5c8e-915f-affe440ad641,tg:rubgr:2511,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_061,titles proper,Dutch (language),,,,,,,,

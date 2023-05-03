@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3846,https://data.rubenianum.be//ark:/86530/8437de9a-23f8-5df0-8b22-c5f73dca1d40,Brieven,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3842,Verwijzing naar Grossmann object,,a5283ced-6276-51db-b98c-c001a0181729,"[{""resourceId"": ""a5283ced-6276-51db-b98c-c001a0181729"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7d95c031-a4f1-49ee-bbfb-12657481b17a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4c39c5f4-87ef-4e8d-b651-615eb96d46ce"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5864f8fe-5eaf-47fa-85f4-0467c5a05136"", ""inverseOntologyProperty"": """"}]"
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_Correspondence,1,,,,,,,,,,,,,,,,"Cormack, Malcolm",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19650421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1965-04-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Dankt voor foto van prent van Lucy Harrington.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003846,referentienummer,False,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6099</priref>
+			<recipient>Cormack, Malcolm</recipient>
+			<number>AFG_100_022</number>
+			<part_of_reference>AFG_100_018</part_of_reference>
+			<date.precise>1965-04-21</date.precise>
+			<content>Korte inhoud: Dankt voor foto van prent van Lucy Harrington.</content>
+			<object.object_number>AFG_100</object.object_number>
+			<object.object_name/>
+			<part_of.title>Fitzwilliam Museum, Cambridge. Master of the Small Landscpaes.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Small Landscapes Series</object.title>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>13:58:49</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3846,brocade id,False,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3846/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""056bb34e-80b9-54fa-b229-b064f166d844"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e01b70f5-2d64-474b-aec3-96d583f76524"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_022,repository numbers,,,,,,,,,,,
+8437de9a-23f8-5df0-8b22-c5f73dca1d40,tg:rubgr:3846,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_022,titles proper,Dutch (language),,,,,,,,

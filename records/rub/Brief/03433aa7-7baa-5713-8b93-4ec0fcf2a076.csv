@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:158,https://data.rubenianum.be//ark:/86530/03433aa7-7baa-5713-8b93-4ec0fcf2a076,Brieven,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""26ec9ffe-cc21-4d58-a308-73c79cadebe6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9d194fa4-0778-4071-8d0d-0274515b46b7"", ""inverseOntologyProperty"": """"}]"
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_Correspondence,1,,,,,,,,,,,,,,,,"Künstler, Gustav",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19530622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1953-06-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Vraag om bij de Icarus te melden: 'formerly Herbrand'.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262344,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Künstler, Gustav",,,,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000158,referentienummer,False,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2400</priref>
+			<recipient>K&#252;nstler, Gustav</recipient>
+			<number>AFG_003_086</number>
+			<date.precise>1953-06-22</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Vraag om bij de Icarus te melden: 'formerly Herbrand'.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>K&#252;nstler, Gustav</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-09-05</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:21:48</edit.time>
+			<edit.time>15:50:39</edit.time>
+			<input.time>15:47:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:158,brocade id,False,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:158/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""912070bd-24f5-503a-9932-afb490ef52d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b44ae44e-f7d9-4576-96ed-413954f96bac"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_086,repository numbers,,,,,,,,,,,
+03433aa7-7baa-5713-8b93-4ec0fcf2a076,tg:rubgr:158,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_086,titles proper,Dutch (language),,,,,,,,

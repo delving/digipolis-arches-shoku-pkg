@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2872,https://data.rubenianum.be//ark:/86530/1abc553b-befd-5a22-a2c4-d56419da9908,Handschriften,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2871,Verwijzing naar Grossmann object,,cf48bf3f-cf32-5521-8565-d4ddb4338648,"[{""resourceId"": ""cf48bf3f-cf32-5521-8565-d4ddb4338648"", ""ontologyProperty"": """", ""resourceXresourceId"": ""59b7c2e0-ee1a-42dd-a5e0-3ab04990e1cc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""af56bbb9-d051-487a-a59c-5fd80ac47e53"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1460b227-52cb-404a-bef1-82c73e77310a"", ""inverseOntologyProperty"": """"}]"
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cocaygne. Interpretation: 1) Gula and Desidia or/and; 2) They don't try to get the good they want: 2 sleep - clerk is waiting for the good to come, knight looks longingly to the good - but if they don't do anything themselves they won't get anything in the land of Cocaygne: with other words : praise of work.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002872,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5114</priref>
+			<number>AFG_086_130</number>
+			<part_of_reference>AFG_086_129</part_of_reference>
+			<content>Cocaygne. Interpretation: 1) Gula and Desidia or/and; 2) They don't try to get the good they want: 2 sleep - clerk is waiting for the good to come, knight looks longingly to the good - but if they don't do anything themselves they won't get anything in the land of Cocaygne: with other words : praise of work.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Illustration &amp; Moralizing Inhalt/Gegenstand.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-04</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<edit.date>2014-04-04</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:01:06</edit.time>
+			<edit.time>13:40:34</edit.time>
+			<edit.time>13:40:24</edit.time>
+			<edit.time>13:35:38</edit.time>
+			<edit.time>13:32:40</edit.time>
+			<input.time>13:31:41</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2872,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2872/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0f6ccb6c-9b1f-5b1b-94f5-d279a7ba0a43"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8b0603f7-942f-43d9-bcef-dc947bde3f2c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_130,repository numbers,,,,,,,,,,,,,,
+1abc553b-befd-5a22-a2c4-d56419da9908,tg:rubgr:2872,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_130,titles proper,Dutch (language),,,,,,,,,,,

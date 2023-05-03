@@ -1,0 +1,76 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:368,https://data.rubenianum.be//ark:/86530/7256ac67-d774-58b3-b612-9d66e15a0331,Handschriften,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8382d041-9b81-4bfc-b3de-a07a85fb8a47"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a7b73bbb-d4ce-4575-9506-f746de2f8fc8"", ""inverseOntologyProperty"": """"}]"
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Children's Games. Hella Arndt, '’Johannes est stultus. Amen’. Kinderzeichnungen eines Lateinschülers aus den Tagen des Erasmus, in [Martin Gosebruch, Lorenz Dittmann (Hrsg.)], Argo: Festschrift für Kurt Badt zu seinem 80. Geburtstag am 3. März 1970, Köln [DuMont], 1970, pp. 261-276, citaten pp. 270-271.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_ExternalRelationsExtras,a::rub.11,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,111680,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Arndt, Hella",,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Badt, Kurt",,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dittmann, Lorenz",,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gosebruch, Martin",,,,,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000368,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2616</priref>
+			<number>AFG_007_017</number>
+			<content>Bruegel: Children's Games. Hella Arndt, '&#8217;Johannes est stultus. Amen&#8217;. Kinderzeichnungen eines Lateinsch&#252;lers aus den Tagen des Erasmus, in [Martin Gosebruch, Lorenz Dittmann (Hrsg.)], Argo: Festschrift f&#252;r Kurt Badt zu seinem 80. Geburtstag am 3. M&#228;rz 1970, K&#246;ln [DuMont], 1970, pp. 261-276, citaten pp. 270-271.</content>
+			<object.object_number>AFG_007</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Children's games</object.title>
+			<keyword>Erasmus, Desiderius</keyword>
+			<keyword>Arndt, Hella</keyword>
+			<keyword>Badt, Kurt</keyword>
+			<keyword>Dittmann, Lorenz</keyword>
+			<keyword>Gosebruch, Martin</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-22</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-12-01</edit.date>
+			<edit.date>2011-11-22</edit.date>
+			<edit.date>2011-11-22</edit.date>
+			<edit.date>2011-11-22</edit.date>
+			<edit.date>2011-09-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:22:41</edit.time>
+			<edit.time>15:22:30</edit.time>
+			<edit.time>15:21:57</edit.time>
+			<edit.time>15:21:03</edit.time>
+			<edit.time>11:24:34</edit.time>
+			<edit.time>15:52:14</edit.time>
+			<edit.time>15:48:37</edit.time>
+			<edit.time>15:45:07</edit.time>
+			<edit.time>11:02:42</edit.time>
+			<input.time>10:57:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:368,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:368/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f4a50f0c-8ca3-5905-8acc-4da6ad08e50f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d99d6593-c2cb-4794-8920-6b49b46298dc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_OriginalBrocade,,,au::6387,,,,,,,,,,,,,,rub,52ed4fd9-a9ec-5733-b671-88aa5a3069b6,kw,,au::6387:1,au::6387g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/683409"",""au::6387"",""au::6387:1"",""ark:/83110/x0/52ed4fd9-a9ec-5733-b671-88aa5a3069b6"",""Desiderius Erasmus""],""name"":""Desiderius Erasmus"",""ark"":""ark:/83110/x0/52ed4fd9-a9ec-5733-b671-88aa5a3069b6"",""uri"":""/agents/people/683409"",""id"":""au::6387:1"",""isCapacity"":false}",ark:/83110/x0/52ed4fd9-a9ec-5733-b671-88aa5a3069b6,agent,,,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_017,repository numbers,,,,,,,,,,,,,,
+7256ac67-d774-58b3-b612-9d66e15a0331,tg:rubgr:368,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_017,titles proper,Dutch (language),,,,,,,,,,,

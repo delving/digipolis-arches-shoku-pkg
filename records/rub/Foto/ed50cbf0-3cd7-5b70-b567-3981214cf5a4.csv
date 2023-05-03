@@ -1,0 +1,66 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1052,https://data.rubenianum.be//ark:/86530/ed50cbf0-3cd7-5b70-b567-3981214cf5a4,Foto's,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:1051,Verwijzing naar Grossmann object,,a3e0d7ce-96f9-5f1d-a08e-19ae764a397f,"[{""resourceId"": ""a3e0d7ce-96f9-5f1d-a08e-19ae764a397f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""83e91a84-25be-4639-b39b-1540634e1ddd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_AssociatedRecords,2,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:1049,Verwijzing naar Grossmann object,,c2a0d99f-f5e6-59aa-b806-0a7cee31e072,"[{""resourceId"": ""c2a0d99f-f5e6-59aa-b806-0a7cee31e072"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bb120932-3a8f-4446-a0b5-a9dc1eecda2f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ec4959c9-a4f9-4f38-a3b9-46881772684d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0390f1e2-1a94-4c49-b04b-e70907a97426"", ""inverseOntologyProperty"": """"}]"
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"3 zw/w foto's Januari, April, September uit The Burrell Collection, Glasgow.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,wandtapijten,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glasgow, The Burrell Collection",,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001052,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3306</priref>
+			<number>AFG_022_085</number>
+			<part_of_reference>AFG_022_084</part_of_reference>
+			<part_of_reference>AFG_022_082</part_of_reference>
+			<content>3 zw/w foto's Januari, April, September uit The Burrell Collection, Glasgow.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefhoofd The Burrell Collection, Glasgow] Korte inhoud: Zending foto's van tapijten (Januari, April, September) uit The Burrell Collection, Glasgow. Heeft geen informatie over herkomst. Verwijst naar de tentoonstelling in Glasgow 1901 waar ze te zien waren in de collectie van Sir William Burrell, [= Glasgow International Exhibition, 1901]</part_of.title>
+			<part_of.title>AFG_022_082 t/m 085: los bewaard in archiefdoos: volgorde bewaard.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>wandtapijten</keyword>
+			<keyword>Glasgow, The Burrell Collection</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-23</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2015-02-18</edit.date>
+			<edit.date>2015-01-30</edit.date>
+			<edit.date>2014-02-20</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:02:55</edit.time>
+			<edit.time>15:22:17</edit.time>
+			<edit.time>13:35:15</edit.time>
+			<edit.time>14:15:24</edit.time>
+			<edit.time>15:18:25</edit.time>
+			<edit.time>13:25:19</edit.time>
+			<edit.time>13:24:25</edit.time>
+			<input.time>13:24:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1052,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1052/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""379cb58d-0cba-5099-a8cb-c5414dcd7eda"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d0cf7d09-6ef3-4af2-8df5-dd2ed1060e78"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_085,repository numbers,,,,,,,,,,,
+ed50cbf0-3cd7-5b70-b567-3981214cf5a4,tg:rubgr:1052,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_085,titles proper,Dutch (language),,,,,,,,

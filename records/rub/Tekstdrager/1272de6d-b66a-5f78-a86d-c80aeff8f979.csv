@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4934,https://data.rubenianum.be//ark:/86530/1272de6d-b66a-5f78-a86d-c80aeff8f979,Handschriften,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9ffc818d-279d-46c2-8973-6a26c2de4917"", ""ontologyProperty"": """", ""resourceXresourceId"": ""39aa9f19-7ce9-4ffa-a4fc-7221de02c0ad"", ""inverseOntologyProperty"": """"}]"
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Toleration. Ernst A. Payne, The Anabaptists, in: The New Modern Cambridge History, vol. II The Reformation 1520-1559, Cambridge 1958, pp. 119-133, citaten pp. 122, 133.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Payne, Ernst A.",,,,,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004934,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7190</priref>
+			<number>AFG_136_062</number>
+			<content>Toleration. Ernst A. Payne, The Anabaptists, in: The New Modern Cambridge History, vol. II The Reformation 1520-1559, Cambridge 1958, pp. 119-133, citaten pp. 122, 133.</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel</object.title>
+			<keyword>Payne, Ernst A.</keyword>
+			<object.creator/>
+			<input.date>2014-08-06</input.date>
+			<edit.date>2014-08-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:41:49</edit.time>
+			<input.time>11:40:41</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4934,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4934/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c6f7b134-bfb8-517d-89a8-eacaab23709b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8b5d904-d679-430c-997f-069a8bc1f524"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_062,repository numbers,,,,,,,,,,,,,,
+1272de6d-b66a-5f78-a86d-c80aeff8f979,tg:rubgr:4934,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_062,titles proper,Dutch (language),,,,,,,,,,,

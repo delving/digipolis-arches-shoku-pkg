@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2041,https://data.rubenianum.be//ark:/86530/315b9b67-e260-55ab-92a3-ff4ee8e7c154,Handschriften,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2038,Verwijzing naar Grossmann object,,56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e,"[{""resourceId"": ""56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a206a6af-8566-4b0b-a666-fa70bc505516"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8ed37737-8dd5-4f49-9a24-ab4146de5cca"", ""ontologyProperty"": """", ""resourceXresourceId"": ""47199aab-d2cf-4ebd-9c28-ea72d5e5a55d"", ""inverseOntologyProperty"": """"}]"
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Peasants Falling out at Cards. R. van Bastelaer & G. Hulin de Loo, Pieter Bruegel l'Ancien, Bruxelles 1907, p. 333ff., N° B22 Vienne & Rubens version and reprod. opposite p. 144; Romdahl, Jb. XXV, 1906 [= Axel Ludwig Romdahl, Pieter Brueghel der Ältere und sein Kunstschaffen, Jahrbuch der Kunsthistorischen Sammlungen in Wien, 25 (1905), pp. 85- 170], Dresden version repr. p. 142.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257359,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Romdahl, Axel L.",,,,,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002041,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4277</priref>
+			<number>AFG_055_072</number>
+			<part_of_reference>AFG_055_069</part_of_reference>
+			<content>Peasants Falling out at Cards. R. van Bastelaer &amp; G. Hulin de Loo, Pieter Bruegel l'Ancien, Bruxelles 1907, p. 333ff., N&#176; B22 Vienne &amp; Rubens version and reprod. opposite p. 144; Romdahl, Jb. XXV, 1906 [= Axel Ludwig Romdahl, Pieter Brueghel der &#196;ltere und sein Kunstschaffen, Jahrbuch der Kunsthistorischen Sammlungen in Wien, 25 (1905), pp. 85- 170], Dresden version repr. p. 142.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefomslag]: FG notitie: Peasants falling out at Cards. Magnaguagno version.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Bastelaer, Ren&#233; van</keyword>
+			<keyword>Hulin de Loo, Georges</keyword>
+			<keyword>Romdahl, Axel L.</keyword>
+			<object.creator/>
+			<documentation.author>Bastelaer, Ren&#233; van</documentation.author>
+			<input.date>2013-03-13</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Peter Bruegel l'Ancien : son oeuvre et son temps : &#233;tude historique suivie des catalogues raisonn&#233;s de son oeuvre dessin&#233; et grav&#233; : et d'un catalogue raisonn&#233; de son oeuvre peint</documentation.title>
+			<edit.time>16:51:19</edit.time>
+			<edit.time>16:50:24</edit.time>
+			<edit.time>13:51:56</edit.time>
+			<edit.time>13:47:55</edit.time>
+			<edit.time>09:50:00</edit.time>
+			<input.time>09:46:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2041,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2041/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5c84b504-f30b-5d9e-ae41-e83150f2406b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2461e6b9-aaf1-496c-86d3-befb6814f1e6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_OriginalBrocade,,,au::1127,,,,,,,,,,,,,,rub,d4f69e55-99df-5c54-b739-472d12fa4387,kw,,au::1127:1,au::1127g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/120589"",""au::1127"",""au::1127:1"",""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""René van Bastelaer""],""name"":""René van Bastelaer"",""ark"":""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""uri"":""/agents/people/120589"",""id"":""au::1127:1"",""isCapacity"":false}",ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387,agent,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_OriginalBrocade,,,au::9212,,,,,,,,,,,,,,rub,330db244-c742-5752-a85a-e00f1ba63114,kw,,au::9212:1,au::9212g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/985684"",""au::9212"",""au::9212:1"",""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""Georges Hulin de Loo""],""name"":""Georges Hulin de Loo"",""ark"":""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""uri"":""/agents/people/985684"",""id"":""au::9212:1"",""isCapacity"":false}",ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114,agent,,,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_072,repository numbers,,,,,,,,,,,,,,
+315b9b67-e260-55ab-92a3-ff4ee8e7c154,tg:rubgr:2041,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_072,titles proper,Dutch (language),,,,,,,,,,,

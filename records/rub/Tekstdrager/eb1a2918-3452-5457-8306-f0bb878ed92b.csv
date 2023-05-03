@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4959,https://data.rubenianum.be//ark:/86530/eb1a2918-3452-5457-8306-f0bb878ed92b,Handschriften,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6b666c62-499d-49ed-aabc-ea51f38802f6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d04948c4-37b2-4eda-9118-0914a0556af6"", ""inverseOntologyProperty"": """"}]"
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Theodor von Frimmel, Lexikon der Wiener Gemäldesammlungen : I : Buchstabe A bis F, München, 1913, citaten pp. 44-5, 125",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13264802,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frimmel, Theodor von",,,,,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004959,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7215</priref>
+			<number>AFG_136_087</number>
+			<content>[2 bladen] Theodor von Frimmel, Lexikon der Wiener Gem&#228;ldesammlungen : I : Buchstabe A bis F, M&#252;nchen, 1913, citaten pp. 44-5, 125</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel</object.title>
+			<keyword>Frimmel, Theodor von</keyword>
+			<object.creator/>
+			<documentation.author>Frimmel, Theodor von</documentation.author>
+			<input.date>2014-08-06</input.date>
+			<edit.date>2014-08-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Lexikon der Wiener Gem&#228;ldesammlungen : I : Buchstabe A bis F : II : Buchstabe G bis L</documentation.title>
+			<edit.time>16:30:58</edit.time>
+			<input.time>16:29:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4959,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4959/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""873f2c45-bfab-5bf0-9449-b93534f597dc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3d644cae-6089-4cd6-861d-0267912bcae8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_087,repository numbers,,,,,,,,,,,,,,
+eb1a2918-3452-5457-8306-f0bb878ed92b,tg:rubgr:4959,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_087,titles proper,Dutch (language),,,,,,,,,,,

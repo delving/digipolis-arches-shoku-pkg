@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4813,https://data.rubenianum.be//ark:/86530/3b310fd6-8678-58e4-9226-4c75713c8669,Handschriften,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4812,Verwijzing naar Grossmann object,,61b6fd53-dbc6-5123-aebe-8016eb83412e,"[{""resourceId"": ""61b6fd53-dbc6-5123-aebe-8016eb83412e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""99f75c4c-36ad-4ec6-b806-49bb953ac89e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f93ad0de-cb78-4a51-95a3-805992c39a92"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f1797e91-44b8-4048-8890-985a1747c750"", ""inverseOntologyProperty"": """"}]"
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[29 pagina's] Tekst Novotny [Monatsbiler, 1948] deel I en II.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004813,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7067</priref>
+			<number>AFG_133_003</number>
+			<part_of_reference>AFG_133_002</part_of_reference>
+			<content>[29 pagina's] Tekst Novotny [Monatsbiler, 1948] deel I en II.</content>
+			<object.object_number>AFG_133</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefhoofd Direktion der &#214;sterreichischen Galerie, Belvedere] Korte inhoud: [Taal, Duits] Vraagt dat FG deel II van zijn tekst in bijlage proefleest en becommentarieert.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>Bruegel: Months</object.title>
+			<object.creator/>
+			<input.date>2014-07-29</input.date>
+			<edit.date>2014-07-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:04:04</edit.time>
+			<input.time>16:02:42</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4813,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4813/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""af28c7da-4aea-5682-8629-f69c274a16dd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11132e9a-44a7-498b-8ae4-e73e083c9ba8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_133_003,repository numbers,,,,,,,,,,,,,,
+3b310fd6-8678-58e4-9226-4c75713c8669,tg:rubgr:4813,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_133_003,titles proper,Dutch (language),,,,,,,,,,,

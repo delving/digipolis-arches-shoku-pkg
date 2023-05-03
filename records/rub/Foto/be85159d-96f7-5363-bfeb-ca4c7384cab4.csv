@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2621,https://data.rubenianum.be//ark:/86530/be85159d-96f7-5363-bfeb-ca4c7384cab4,Foto's,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2617,Verwijzing naar Grossmann object,,839cf30f-e509-5f0b-b1ea-09c80794debd,"[{""resourceId"": ""839cf30f-e509-5f0b-b1ea-09c80794debd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""da38148e-6910-4ee9-a8b2-ba5c01e4c171"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""83893644-8aa7-488c-b755-0e573625dc6c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""13f71fc7-e006-4c1f-a519-39e2bcdc3d9b"", ""inverseOntologyProperty"": """"}]"
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"2 zw/w foto's met notitie Rubens; 1 zw/w foto met notitie : Actual size, Date 1611 (study for the Descent of the Cross, Antwerp to compare). Rubens, letter from L. Burchard and Held, who is preparing the catalogue of Rubens Drawings (for Phaidon).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bloch, Vitale",,,,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Held, Julius S.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002621,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4863</priref>
+			<number>AFG_084_035</number>
+			<part_of_reference>AFG_084_031</part_of_reference>
+			<content>2 zw/w foto's met notitie Rubens; 1 zw/w foto met notitie : Actual size, Date 1611 (study for the Descent of the Cross, Antwerp to compare). Rubens, letter from L. Burchard and Held, who is preparing the catalogue of Rubens Drawings (for Phaidon).</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>1 zw/w foto met notitie Dr. V. Bloch: Hieron Cock [sic]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Bloch, Vitale</keyword>
+			<keyword>Burchard, Ludwig</keyword>
+			<keyword>Held, Julius S.</keyword>
+			<object.creator/>
+			<input.date>2014-02-10</input.date>
+			<edit.date>2014-02-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:35:24</edit.time>
+			<input.time>15:23:55</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2621,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2621/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c4c8f622-2529-54f1-bc7e-92515c8c0669"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8766fc03-dc48-46eb-9b5e-3aa07a80a21f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,keywords,au::3232:1,au::3232g:1,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_035,repository numbers,,,,,,,,,,,
+be85159d-96f7-5363-bfeb-ca4c7384cab4,tg:rubgr:2621,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_035,titles proper,Dutch (language),,,,,,,,

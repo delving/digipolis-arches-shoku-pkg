@@ -1,0 +1,67 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1151,https://data.rubenianum.be//ark:/86530/b24be47f-3369-587d-9466-70145c8a12e8,Handschriften,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cddd1398-23de-4ff0-9245-6f6b606f4aef"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6fdfd887-b16a-49da-b657-378c6af24b9f"", ""inverseOntologyProperty"": """"}]"
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 21. Witt Library. Landscape (F.G. by Stevens). Photogr. in M.J. Steurs - van den Broeck, Coll. [onleesbaar], Brussels Exh. 1955, N° 149 (Paysage Février) as P.B. I. Bois 40 x 55 NB an Dark Day.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_ExternalRelationsExtras,a::rub.27,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261010,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stevens, Pieter",,,,,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001151,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3408</priref>
+			<number>AFG_025_003</number>
+			<content>Ad [Addendum] 21. Witt Library. Landscape (F.G. by Stevens). Photogr. in M.J. Steurs - van den Broeck, Coll. [onleesbaar], Brussels Exh. 1955, N&#176; 149 (Paysage F&#233;vrier) as P.B. I. Bois 40 x 55 NB an Dark Day.</content>
+			<object.object_number>AFG_025</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Months: The Gloomy Day</object.title>
+			<keyword>Stevens, Pieter</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-05-09</input.date>
+			<edit.date>2014-02-12</edit.date>
+			<edit.date>2013-03-22</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-07-10</edit.date>
+			<edit.date>2012-07-09</edit.date>
+			<edit.date>2012-05-11</edit.date>
+			<edit.date>2012-05-09</edit.date>
+			<edit.date>2012-05-09</edit.date>
+			<edit.date>2012-05-09</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:40:45</edit.time>
+			<edit.time>12:10:29</edit.time>
+			<edit.time>10:12:21</edit.time>
+			<edit.time>09:29:54</edit.time>
+			<edit.time>16:12:23</edit.time>
+			<edit.time>13:57:07</edit.time>
+			<edit.time>14:27:12</edit.time>
+			<edit.time>14:24:59</edit.time>
+			<edit.time>13:15:17</edit.time>
+			<input.time>13:12:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1151,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1151/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dccb03bb-b36b-5c08-947e-60414400a5da"", ""ontologyProperty"": """", ""resourceXresourceId"": ""44910744-8d0e-4cdc-88c8-30fe4f819de7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_025_003,repository numbers,,,,,,,,,,,,,,
+b24be47f-3369-587d-9466-70145c8a12e8,tg:rubgr:1151,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_025_003,titles proper,Dutch (language),,,,,,,,,,,

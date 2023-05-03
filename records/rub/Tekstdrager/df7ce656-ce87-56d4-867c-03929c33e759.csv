@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1591,https://data.rubenianum.be//ark:/86530/df7ce656-ce87-56d4-867c-03929c33e759,Handschriften,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""67c09058-972a-492a-94f0-f15900df179b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f9a41c8-fbd4-4f29-9247-9763badba002"", ""inverseOntologyProperty"": """"}]"
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Schlaraffenland. [Max J.] Friedländer, Bruegel, [= Pieter Bruegel, Berlin: Propyläen],1921, citaat p. 98; Friedländer, [= Die altniederländische Malerei], XIV, [Leiden: Sijthoff's],1937, citaten pp. 34, 61.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:172383,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13260480,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_ExternalRelationsExtras,a::rub.43,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54558,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001591,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3842</priref>
+			<number>AFG_043_012</number>
+			<content>Schlaraffenland. [Max J.] Friedl&#228;nder, Bruegel, [= Pieter Bruegel, Berlin: Propyl&#228;en],1921, citaat p. 98; Friedl&#228;nder, [= Die altniederl&#228;ndische Malerei], XIV, [Leiden: Sijthoff's],1937, citaten pp. 34, 61.</content>
+			<object.object_number>AFG_043</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Land of Cockaigne</object.title>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Friedl&#228;nder, Max J.</documentation.author>
+			<documentation.author>Friedl&#228;nder, Max J.</documentation.author>
+			<input.date>2012-11-14</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-14</edit.date>
+			<edit.date>2012-11-14</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel</documentation.title>
+			<documentation.title>altniederl&#228;ndische Malerei</documentation.title>
+			<edit.time>13:46:40</edit.time>
+			<edit.time>10:47:30</edit.time>
+			<edit.time>10:58:04</edit.time>
+			<edit.time>10:56:45</edit.time>
+			<input.time>10:55:51</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+			<documentation.title.article>Die</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1591,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1591/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f882d05f-3956-577b-a402-81bd4c6d613f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c62620f-7eaa-4a85-97ad-69694e404520"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_043_012,repository numbers,,,,,,,,,,,,,,
+df7ce656-ce87-56d4-867c-03929c33e759,tg:rubgr:1591,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_043_012,titles proper,Dutch (language),,,,,,,,,,,

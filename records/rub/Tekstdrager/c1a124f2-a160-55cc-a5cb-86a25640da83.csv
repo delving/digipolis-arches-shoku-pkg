@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3483,https://data.rubenianum.be//ark:/86530/c1a124f2-a160-55cc-a5cb-86a25640da83,Handschriften,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""514da12d-296a-470a-956b-536d7c5dbd42"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ac595abb-9bfc-42d0-a15d-ce74950433b6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ca110d3-db27-440a-b666-b2be9949159d"", ""inverseOntologyProperty"": """"}]"
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Bruegel Drawings: Here panoramic views related to Heemskerck, see review of Münz by Haverkamp-Begemann, in Master Drawings II, 1964.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heemskerck, Maarten van",,,,,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Haverkamp-Begemann, Egbert",,,,,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003483,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5736</priref>
+			<number>AFG_094_047</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<content>M&#252;nz, Bruegel Drawings: Here panoramic views related to Heemskerck, see review of M&#252;nz by Haverkamp-Begemann, in Master Drawings II, 1964.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Heemskerck, Maarten van</keyword>
+			<keyword>Haverkamp-Begemann, Egbert</keyword>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>15:35:19</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3483,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3483/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e39b1adf-0846-515c-914e-3bfd2d1d2e08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0b00b6ca-535a-488a-9733-603f90f85f5f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_047,repository numbers,,,,,,,,,,,,,,
+c1a124f2-a160-55cc-a5cb-86a25640da83,tg:rubgr:3483,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_047,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,83 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:114,https://data.rubenianum.be//ark:/86530/ca91ea26-bfff-5961-b894-6c9ee193d370,Handschriften,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_AnnotationsImmaterial,1,note.rubalg,"<p>blad 2: beschadigd</p>
+","<p>blad 2: beschadigd</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:105,Verwijzing naar Grossmann object,,3a56d602-9a46-5c5b-a7cc-309bdc34ce40,"[{""resourceId"": ""3a56d602-9a46-5c5b-a7cc-309bdc34ce40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3a2c8b6d-e7bd-49c3-a2f2-28a683a06f57"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ab197c82-66ab-4a4b-a272-c38ca4142b85"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5dde1bc6-78ba-4bca-af1d-f9403eda71d1"", ""inverseOntologyProperty"": """"}]"
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen][blad 1, recto] Ad [Addendum] Icarus: Sandrart: P. Ovidii Nas. Metamorphosis Oder: Des verblümten Sinns der Ovidianischen Wandlungs-Gedichte gründliche Auslegung. Aus dem Niederländischen Carls von Mander ... ins Teutsche übers. und der Sandrartischen Academie einverleibet, Nurnberg 1679 (= Teutsche Academie, Zweyter Haupteil-Theil, III. Theil), citaten pp. 101, col. a; [blad 1, verso] p. 101, col. a (continued); [blad 2, recto] II. Ad [Addendium] Icarus: Sandrart - Van Mander, p. 101, col. b (continued); Phaeton: p. 22, col. b.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ovidius,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sandrart, Joachim von (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000114,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2353</priref>
+			<number>AFG_003_042</number>
+			<part_of_reference>AFG_003_033</part_of_reference>
+			<content>[2 bladen][blad 1, recto] Ad [Addendum] Icarus: Sandrart: P. Ovidii Nas. Metamorphosis Oder: Des verbl&#252;mten Sinns der Ovidianischen Wandlungs-Gedichte gr&#252;ndliche Auslegung. Aus dem Niederl&#228;ndischen Carls von Mander ... ins Teutsche &#252;bers. und der Sandrartischen Academie einverleibet, Nurnberg 1679 (= Teutsche Academie, Zweyter Haupteil-Theil, III. Theil), citaten pp. 101, col. a; [blad 1, verso] p. 101, col. a (continued); [blad 2, recto] II. Ad [Addendium] Icarus: Sandrart - Van Mander, p. 101, col. b (continued); Phaeton: p. 22, col. b.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel Icarus: bevat correspondentie, notities en referenties.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Ovidius</keyword>
+			<keyword>Mander, Karel van</keyword>
+			<keyword>Sandrart, Joachim von (I)</keyword>
+			<notes>blad 2: beschadigd</notes>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-23</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:00:31</edit.time>
+			<edit.time>16:31:28</edit.time>
+			<edit.time>16:30:55</edit.time>
+			<edit.time>15:12:28</edit.time>
+			<edit.time>11:41:57</edit.time>
+			<edit.time>09:45:53</edit.time>
+			<edit.time>11:29:25</edit.time>
+			<edit.time>15:36:28</edit.time>
+			<edit.time>09:57:27</edit.time>
+			<edit.time>09:03:51</edit.time>
+			<input.time>08:47:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:114,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:114/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6116367e-057a-5698-b56a-16e2ef9a8c95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09ad471e-b6ea-4907-a540-b96a753f5f8e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_OriginalBrocade,,,au::12149,,,,,,,,,,,,,,rub,8f971df1-092b-5a37-8e0f-d345790debe5,kw,,au::12149:1,au::12149g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1299943"",""au::12149"",""au::12149:1"",""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""Carel van Mander""],""name"":""Carel van Mander"",""ark"":""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""uri"":""/agents/people/1299943"",""id"":""au::12149:1"",""isCapacity"":false}",ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5,agent,,,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_042,repository numbers,,,,,,,,,,,,,,
+ca91ea26-bfff-5961-b894-6c9ee193d370,tg:rubgr:114,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_042,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3025,https://data.rubenianum.be//ark:/86530/6fb50d80-9e24-508f-a9a4-396402b3a7e1,Handschriften,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7354120e-2b06-47e7-9405-c7ea90e3f947"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""83100c19-387b-4e66-9815-1d4b34a61af5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20cf1b6a-e4d2-46ab-ad7d-e2c75df21ba9"", ""inverseOntologyProperty"": """"}]"
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 61. Witt Library. P.B.II Roundel. [onleesbaar] Pommersfeld. Roundel: Sprichwort von Frinken: Entspricht den ertsen Bild bei Mayer van den Bergh.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003025,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5249</priref>
+			<number>AFG_089_025</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>Ad [Addendum] 61. Witt Library. P.B.II Roundel. [onleesbaar] Pommersfeld. Roundel: Sprichwort von Frinken: Entspricht den ertsen Bild bei Mayer van den Bergh.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:33:23</edit.time>
+			<edit.time>16:12:12</edit.time>
+			<input.time>16:09:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3025,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3025/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a957850c-2324-5ed1-a367-ba438c08211c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""67b4cb61-64e3-4d0e-9a8d-ef876d4d4752"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_025,repository numbers,,,,,,,,,,,,,,
+6fb50d80-9e24-508f-a9a4-396402b3a7e1,tg:rubgr:3025,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_025,titles proper,Dutch (language),,,,,,,,,,,

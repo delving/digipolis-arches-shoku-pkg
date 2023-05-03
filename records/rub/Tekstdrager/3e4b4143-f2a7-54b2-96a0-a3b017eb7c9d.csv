@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4513,https://data.rubenianum.be//ark:/86530/3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,Handschriften,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ff4add47-7bfc-415a-aea9-26c1c5d0e47b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9def2366-638f-4809-a2e2-8c1872a12338"", ""inverseOntologyProperty"": """"}]"
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Karl Birch-Hirschfeld, Die Lehre von der Malerei im Cinquecento, 1912; Poot 1743-1750; Gudlaugsson ; Panofsky 1939; Sedlmayr; Jedlicka; van Mander; Delen 1943; Lebeer 1939/40; Overdiep; van Dis 1937",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004513,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6766</priref>
+			<number>AFG_115_029</number>
+			<content>Karl Birch-Hirschfeld, Die Lehre von der Malerei im Cinquecento, 1912; Poot 1743-1750; Gudlaugsson ; Panofsky 1939; Sedlmayr; Jedlicka; van Mander; Delen 1943; Lebeer 1939/40; Overdiep; van Dis 1937</content>
+			<object.object_number>AFG_115</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Principles of Composition. Form &amp; Origin Influences. Italy. Biography</object.title>
+			<object.creator/>
+			<input.date>2014-07-15</input.date>
+			<edit.date>2014-07-15</edit.date>
+			<edit.date>2014-07-15</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:56:12</edit.time>
+			<edit.time>13:26:41</edit.time>
+			<input.time>12:35:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4513,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4513/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""92ac8050-8a53-56c8-9b7c-8d6dd37f804d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae2eb560-cd84-4e20-a815-87c64cdb57f4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_115_029,repository numbers,,,,,,,,,,,,,,
+3e4b4143-f2a7-54b2-96a0-a3b017eb7c9d,tg:rubgr:4513,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_115_029,titles proper,Dutch (language),,,,,,,,,,,

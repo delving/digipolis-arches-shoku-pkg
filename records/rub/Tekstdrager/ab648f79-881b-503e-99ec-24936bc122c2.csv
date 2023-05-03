@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4678,https://data.rubenianum.be//ark:/86530/ab648f79-881b-503e-99ec-24936bc122c2,Handschriften,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3d23532c-c0c0-4b82-84e9-c147332e7649"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09b9643a-5c95-4d48-aef4-8ecc629ba402"", ""inverseOntologyProperty"": """"}]"
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] Samuel C. Chew, Spenser's pageant of the Seven Deadly Sins, Studies in art and literature for Belle da Costa Greene (ed. Dorothy Miner, Princeton), pp. 37-54, passim.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13241453,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Chew, Samuel C.",,,,,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004678,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6931</priref>
+			<number>AFG_122_016</number>
+			<content>[3 bladen] Samuel C. Chew, Spenser's pageant of the Seven Deadly Sins, Studies in art and literature for Belle da Costa Greene (ed. Dorothy Miner, Princeton), pp. 37-54, passim.</content>
+			<object.object_number>AFG_122</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Varia (to be filed)</object.title>
+			<keyword>Chew, Samuel C.</keyword>
+			<object.creator/>
+			<documentation.author>Chew, Samuel C.</documentation.author>
+			<input.date>2014-07-22</input.date>
+			<edit.date>2014-07-22</edit.date>
+			<edit.date>2014-07-22</edit.date>
+			<edit.date>2014-07-22</edit.date>
+			<edit.date>2014-07-22</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Iconography : Spenser's pageant of the Seven Deadly Sins</documentation.title>
+			<edit.time>15:06:48</edit.time>
+			<edit.time>15:06:29</edit.time>
+			<edit.time>15:00:33</edit.time>
+			<edit.time>14:58:51</edit.time>
+			<input.time>14:58:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4678,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4678/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""69352ae7-8e89-5c95-8369-6a2c81304500"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c9f9f66e-c27c-402d-8e33-19b70f8e7e33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_122_016,repository numbers,,,,,,,,,,,,,,
+ab648f79-881b-503e-99ec-24936bc122c2,tg:rubgr:4678,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_122_016,titles proper,Dutch (language),,,,,,,,,,,

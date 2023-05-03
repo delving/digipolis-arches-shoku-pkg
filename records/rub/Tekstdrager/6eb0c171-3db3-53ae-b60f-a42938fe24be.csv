@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4084,https://data.rubenianum.be//ark:/86530/6eb0c171-3db3-53ae-b60f-a42938fe24be,Handschriften,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4083,Verwijzing naar Grossmann object,,a7859188-5604-53eb-8581-92279cf9fd41,"[{""resourceId"": ""a7859188-5604-53eb-8581-92279cf9fd41"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fd426965-953b-4954-a0b8-65c902a6723c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c147744a-3c03-4166-b12b-bcfe773e0560"", ""ontologyProperty"": """", ""resourceXresourceId"": ""24638a43-f61b-4357-8b46-28d0935f54f0"", ""inverseOntologyProperty"": """"}]"
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19561023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-10-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] Sent to Stockholm, Stridbeck 23-10-1956. Photos F. Grossmann; 1) Ortelius: Bruegel Epitaph [...] [lijst nos. 1-30]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stridbeck, Carl Gustav",,,,,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004084,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6336</priref>
+			<number>AFG_108_005</number>
+			<part_of_reference>AFG_108_004</part_of_reference>
+			<date.precise>1956-10-23</date.precise>
+			<content>[3 bladen] Sent to Stockholm, Stridbeck 23-10-1956. Photos F. Grossmann; 1) Ortelius: Bruegel Epitaph [...] [lijst nos. 1-30]</content>
+			<object.object_number>AFG_108</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Ortelius and Bruegel 1956 [Stockholm]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel &amp; Ortelius</object.title>
+			<keyword>Stridbeck, Carl Gustav</keyword>
+			<object.creator/>
+			<input.date>2014-07-02</input.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:35:36</edit.time>
+			<edit.time>09:34:29</edit.time>
+			<edit.time>09:30:32</edit.time>
+			<input.time>09:23:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4084,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4084/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""595db4ec-e0e4-5b46-a27f-82ab3c7b6793"", ""ontologyProperty"": """", ""resourceXresourceId"": ""801f6baf-e81f-4ed1-afed-f6832a2764f7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_108_005,repository numbers,,,,,,,,,,,,,,
+6eb0c171-3db3-53ae-b60f-a42938fe24be,tg:rubgr:4084,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_108_005,titles proper,Dutch (language),,,,,,,,,,,

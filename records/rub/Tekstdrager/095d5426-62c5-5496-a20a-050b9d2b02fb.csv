@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4916,https://data.rubenianum.be//ark:/86530/095d5426-62c5-5496-a20a-050b9d2b02fb,Handschriften,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_AssociatedArchives,2,,,,,,AFG_021,isad:rub:2951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4873,Verwijzing naar Grossmann object,,7ed555e3-6d77-5c31-9e1b-cc31476ac2d0,"[{""resourceId"": ""7ed555e3-6d77-5c31-9e1b-cc31476ac2d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6df9ef87-adba-41e8-bdaf-d3151b59b40d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""027181f3-7226-462e-8ab7-8c2b7bbbe6d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2cb0bfa4-7ec7-4235-b3c2-1548bf965523"", ""inverseOntologyProperty"": """"}]"
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Woman taken in Adultery, cf. Holbein, Queen of Sheba. [K.T.] Parker, The Drawings of Holbein at Windsor[= The drawings of Hans Holbein in the collection of His Majesty the King at Windsor Castle, Oxford: Phaidon, 2nd.ed., 1945]  citaat p. 35.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parker, Karl T.",,,,,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004916,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7160</priref>
+			<number>AFG_136_044</number>
+			<part_of_reference>AFG_136_001</part_of_reference>
+			<content>Bruegel: Woman taken in Adultery, cf. Holbein, Queen of Sheba. [K.T.] Parker, The Drawings of Holbein at Windsor[= The drawings of Hans Holbein in the collection of His Majesty the King at Windsor Castle, Oxford: Phaidon, 2nd.ed., 1945]  citaat p. 35.</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Correspondence on Bruegel: The Paintings after publication (including opinions of colleagues)</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel</object.title>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Holbein, Hans II</keyword>
+			<keyword>Parker, Karl T.</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-08-05</input.date>
+			<edit.date>2014-08-05</edit.date>
+			<edit.date>2014-08-05</edit.date>
+			<edit.date>2014-08-05</edit.date>
+			<edit.date>2014-08-05</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:58:02</edit.time>
+			<edit.time>12:24:34</edit.time>
+			<edit.time>11:37:48</edit.time>
+			<edit.time>11:36:04</edit.time>
+			<input.time>11:33:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4916,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4916/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0e2337d9-20af-5174-b66b-e8d5f8547821"", ""ontologyProperty"": """", ""resourceXresourceId"": ""81195bc8-2b70-4755-a74d-cfc1e35f4a8f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_044,repository numbers,,,,,,,,,,,,,,
+095d5426-62c5-5496-a20a-050b9d2b02fb,tg:rubgr:4916,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_044,titles proper,Dutch (language),,,,,,,,,,,

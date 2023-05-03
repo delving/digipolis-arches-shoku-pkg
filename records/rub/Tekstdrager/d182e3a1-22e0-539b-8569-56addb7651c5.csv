@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2811,https://data.rubenianum.be//ark:/86530/d182e3a1-22e0-539b-8569-56addb7651c5,Handschriften,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:2826,Verwijzing naar Grossmann object,,c97b962f-b43a-5440-8c78-c69698164189,"[{""resourceId"": ""c97b962f-b43a-5440-8c78-c69698164189"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8d9d91d-65f0-4b4e-b8b8-b30e1960a1c6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33c3a7c6-4f6a-4b5f-ad44-2e88a3e2be3a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""736a8d43-168d-4195-8376-54f77f8a9e23"", ""inverseOntologyProperty"": """"}]"
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fame from contemporaries to XX C. Also early sources, see also [Hans-Wolfgang von] Löhneysen [Die ältere niederländische Malerei: Kunst und Kritiker, Eisenach: Röth, 1956
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261731,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Löhneysen, Hans-Wolfgang von",,,,,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002811,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5053</priref>
+			<number>AFG_086_069</number>
+			<content>Fame from contemporaries to XX C. Also early sources, see also [Hans-Wolfgang von] L&#246;hneysen [Die &#228;ltere niederl&#228;ndische Malerei: Kunst und Kritiker, Eisenach: R&#246;th, 1956
+</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title/>
+			<parts.title>M. [Matthew] Pilkington [The gentleman's and connoisseur's Dictionary of painters...], 1797 (?), citaten pp. 101-102; [Notitie FG]: 'from Descamps.'</parts.title>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>L&#246;hneysen, Hans-Wolfgang von</keyword>
+			<object.creator/>
+			<documentation.author>L&#246;hneysen, Hans-Wolfgang von</documentation.author>
+			<input.date>2014-03-27</input.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<parts_reference/>
+			<parts_reference>AFG_086_084</parts_reference>
+			<documentation.shelfmark/>
+			<documentation.title>&#228;ltere niederl&#228;ndische Malerei : K&#252;nstler und Kritiker</documentation.title>
+			<edit.time>15:06:25</edit.time>
+			<edit.time>08:53:16</edit.time>
+			<edit.time>08:47:41</edit.time>
+			<edit.time>08:47:22</edit.time>
+			<edit.time>08:44:13</edit.time>
+			<input.time>08:39:01</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Die</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2811,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2811/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""490a47ae-049c-56f5-88eb-21f6ff07ee3c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""993b4304-1185-439d-a001-235e0963baf0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_069,repository numbers,,,,,,,,,,,,,,
+d182e3a1-22e0-539b-8569-56addb7651c5,tg:rubgr:2811,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_069,titles proper,Dutch (language),,,,,,,,,,,

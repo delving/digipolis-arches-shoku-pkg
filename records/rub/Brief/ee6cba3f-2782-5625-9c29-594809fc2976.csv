@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3418,https://data.rubenianum.be//ark:/86530/ee6cba3f-2782-5625-9c29-594809fc2976,Brieven,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb900ecf-a924-4ea1-a0b2-95f6a57fea08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6cda4752-8458-44a5-b715-07b6160b25c2"", ""inverseOntologyProperty"": """"}]"
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_Correspondence,1,,,,,,,,,,,,,,,,"Spencer-Churchill, Edward George",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Ontwerpbrief][2 bladen] [...] Rubens [...] Jan Brueghel I,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003418,referentienummer,False,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>5671</priref>
+<recipient>Spencer-Churchill, Edward George</recipient>
+<number>AFG_093_081</number>
+<date.free>s.d.</date.free>
+<content>[Ontwerpbrief][2 bladen] [...] Rubens [...] Jan Brueghel I</content>
+<object.object_number>AFG_093</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>brief</editorial_form>
+<object.title>Comparative Material. Including Mechelen</object.title>
+<keyword>Brueghel, Jan I</keyword>
+<keyword>Rubens, Peter Paul</keyword>
+<sender>Grossmann, F.G.</sender>
+<object.creator/>
+<input.date>2014-06-18</input.date>
+<edit.date>2014-06-18</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.time>17:13:24</edit.time>
+<input.time>17:01:16</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3418,brocade id,False,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3418/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e93622ca-7b8b-5558-9f05-52c862dce27e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""094aa8d8-84ec-41e3-b5a5-8a804304dc04"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,rub,,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,,,rub,,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_081,repository numbers,,,,,,,,,,,
+ee6cba3f-2782-5625-9c29-594809fc2976,tg:rubgr:3418,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_081,titles proper,Dutch (language),,,,,,,,

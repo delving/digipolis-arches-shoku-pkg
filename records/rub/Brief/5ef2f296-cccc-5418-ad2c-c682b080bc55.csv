@@ -1,0 +1,99 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:36,https://data.rubenianum.be//ark:/86530/5ef2f296-cccc-5418-ad2c-c682b080bc55,Brieven,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:35,Verwijzing naar Grossmann object,,139062da-9005-5a0a-a866-e8b2bee40388,"[{""resourceId"": ""139062da-9005-5a0a-a866-e8b2bee40388"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4f3d9bc-0ded-4632-b1f8-4125f2b69323"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_AssociatedRecords,2,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:37,Verwijzing naar Grossmann object,,10f14f75-c9c2-5784-85ff-57b7ddfb3732,"[{""resourceId"": ""10f14f75-c9c2-5784-85ff-57b7ddfb3732"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08ec4d82-22fc-4674-8b8a-0aa5322fa3c5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8978b302-d613-4a48-9da2-0509fe9b0986"", ""ontologyProperty"": """", ""resourceXresourceId"": ""16d9b5d4-a134-4463-bfda-ce78e5898e0c"", ""inverseOntologyProperty"": """"}]"
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_Correspondence,1,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19550604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1955-06-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] ][verso, telegram Pölnitz d.d. 04/06/1955]. Meldt ontvangst van de foto's. Bijdrage in de kosten onnodig.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",,,,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000036,referentienummer,False,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2276</priref>
+			<recipient>P&#246;lnitz, Gerhard von</recipient>
+			<number>AFG_001_036</number>
+			<part_of_reference>AFG_001_035</part_of_reference>
+			<date.precise>1955-06-04</date.precise>
+			<content>Korte inhoud: [Taal, Duits] ][verso, telegram P&#246;lnitz d.d. 04/06/1955]. Meldt ontvangst van de foto's. Bijdrage in de kosten onnodig.</content>
+			<object.object_number>AFG_001</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: [Taal, Duits] Is bereid bij te dragen in de kosten voor de publicatie van de foto's.</part_of.title>
+			<parts.title>Korte inhoud: [Taal, Duits] Zendt nogmaals een betere zwart/wit foto. Gaat in op de problemen i.v.m. de ontvangst  van de kleurenfoto. Het schilderij is op enkele plaatsen gereinigd. De foto is een weergave van de huidige toestand. Vermeldt de publicatie door de Tolnay. Deze zal er in een bijdrage aan het Festschrift voor Lionello Venturi dieper op ingaan. Denkt nog na over de vermelding van het bezit van het schilderij. Vreest voor Duitse belastingen.</parts.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape with Christ appearing to the apostles at the sea of Tiberias</object.title>
+			<keyword>P&#246;lnitz, Gerhard von</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-08-12</input.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-08-17</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_001_037</parts_reference>
+			<edit.time>10:32:12</edit.time>
+			<edit.time>13:44:34</edit.time>
+			<edit.time>13:42:56</edit.time>
+			<edit.time>14:35:16</edit.time>
+			<edit.time>14:35:04</edit.time>
+			<edit.time>10:38:50</edit.time>
+			<edit.time>10:38:15</edit.time>
+			<edit.time>10:37:41</edit.time>
+			<edit.time>09:41:40</edit.time>
+			<edit.time>11:53:23</edit.time>
+			<edit.time>11:44:43</edit.time>
+			<edit.time>10:48:39</edit.time>
+			<edit.time>10:33:09</edit.time>
+			<edit.time>10:04:05</edit.time>
+			<input.time>10:02:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:36,brocade id,False,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:36/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16c48ca0-9ff5-5060-9d2a-a2b4fe8142c3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ef33b87-00d1-4144-9aac-b96a820383ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_001_036,repository numbers,,,,,,,,,,,
+5ef2f296-cccc-5418-ad2c-c682b080bc55,tg:rubgr:36,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_001_036,titles proper,Dutch (language),,,,,,,,

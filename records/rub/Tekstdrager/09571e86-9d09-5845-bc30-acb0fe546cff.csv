@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:665,https://data.rubenianum.be//ark:/86530/09571e86-9d09-5845-bc30-acb0fe546cff,Handschriften,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""96f25a24-65a4-48af-b7ad-9a2662f93561"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ed5bde6e-9ad8-44d2-acb4-0f0fd09d775b"", ""inverseOntologyProperty"": """"}]"
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iconography of Flight into Egypt: A. [Adriane] HEIMONDAHL [= Heimendahl], Die Flucht nach Aegypten, [(Maria in Werken der Kunst ; Bd. 3), Aschaffenburg : Pattloch], 1951.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_ExternalRelationsExtras,a::rub.19,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,259911,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iconografie,,,,,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heimondahl, Adriane",,,,,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000665,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2916</priref>
+			<number>AFG_015_022</number>
+			<content>Iconography of Flight into Egypt: A. [Adriane] HEIMONDAHL [= Heimendahl], Die Flucht nach Aegypten, [(Maria in Werken der Kunst ; Bd. 3), Aschaffenburg : Pattloch], 1951.</content>
+			<object.object_number>AFG_015</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Flight into Egypt</object.title>
+			<keyword>iconografie</keyword>
+			<keyword>Heimondahl, Adriane</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-18</input.date>
+			<edit.date>2015-02-20</edit.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:27:28</edit.time>
+			<edit.time>13:53:14</edit.time>
+			<edit.time>13:30:07</edit.time>
+			<edit.time>11:23:31</edit.time>
+			<input.time>11:17:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:665,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:665/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a142fda4-2290-568c-9c6e-c454364c832b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c52d771-9442-4665-9b98-e4690230e836"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_022,repository numbers,,,,,,,,,,,,,,
+09571e86-9d09-5845-bc30-acb0fe546cff,tg:rubgr:665,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_022,titles proper,Dutch (language),,,,,,,,,,,

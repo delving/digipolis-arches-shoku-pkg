@@ -1,0 +1,97 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1940,https://data.rubenianum.be//ark:/86530/076117a9-44a1-5723-b696-50bf1054dbc9,Handschriften,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1911,Verwijzing naar Grossmann object,,7c289d27-de8b-5637-bc52-a35fd8b75ca7,"[{""resourceId"": ""7c289d27-de8b-5637-bc52-a35fd8b75ca7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bc165e16-e183-426d-8a23-9d8f2e34a5b6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f9967c4f-5afe-40b8-b28f-1e1465b22519"", ""ontologyProperty"": """", ""resourceXresourceId"": ""29b6bef7-d864-4f1d-b2fc-79db4a078ab0"", ""inverseOntologyProperty"": """"}]"
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gillis Mostaert paintings comparable to Dr. Becker's painting: Faggin. 1) Peasants attacked -Louvre 42 x 69 cm; 2) Destruction of Sodom with Lot & Daughters led by the Angel 26 x 35 (De Boer, Adv.); 3) (\*)Lot & Daughters escaping from Sodom - Finck (Brussels) colour reproduction in Witt Library 32,8 x 46 (Photo needed); 4) Lot & Daughters escaping from Sodom Brussels, Museum 50,5 x 66,5 cm; 5) Destruction of Sodom with Lot & Daughters in cave, Dr. Schapiro 11 3/4 x 16in.; 6) (\*) Destruction of Sodom with monogram, Paris (Drouot), 6-12-1965, cat. N° 128 illustrat. (mentioned by [Giorgio T.] Faggin, [La pittura ad Anversa nel cinquecento, Florence: Marchi & Bertolli], 1968, p. 82, n. 41. Not seen. Not in Witt Library-possible RKDH, from where photo to be requested. Finck & Schapiro closest to Becker.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:674868,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faggin, Giorgio T.",,,,,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001940,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4176</priref>
+			<number>AFG_054_031</number>
+			<part_of_reference>AFG_054_002</part_of_reference>
+			<content>Gillis Mostaert paintings comparable to Dr. Becker's painting: Faggin. 1) Peasants attacked -Louvre 42 x 69 cm; 2) Destruction of Sodom with Lot &amp; Daughters led by the Angel 26 x 35 (De Boer, Adv.); 3) (*)Lot &amp; Daughters escaping from Sodom - Finck (Brussels) colour reproduction in Witt Library 32,8 x 46 (Photo needed); 4) Lot &amp; Daughters escaping from Sodom Brussels, Museum 50,5 x 66,5 cm; 5) Destruction of Sodom with Lot &amp; Daughters in cave, Dr. Schapiro 11 3/4 x 16in.; 6) (*) Destruction of Sodom with monogram, Paris (Drouot), 6-12-1965, cat. N&#176; 128 illustrat. (mentioned by [Giorgio T.] Faggin, [La pittura ad Anversa nel cinquecento, Florence: Marchi &amp; Bertolli], 1968, p. 82, n. 41. Not seen. Not in Witt Library-possible RKDH, from where photo to be requested. Finck &amp; Schapiro closest to Becker.</content>
+			<object.object_number>AFG_054</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel: Becker Landscape</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with Sailing Boats and a Burning Town</object.title>
+			<keyword>Mostaert, Gillis (I)</keyword>
+			<keyword>Faggin, Giorgio T.</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator/>
+			<documentation.author>Faggin, Giorgio T.</documentation.author>
+			<input.date>2013-02-22</input.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-10-18</edit.date>
+			<edit.date>2013-02-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>pittura ad Anversa nel cinquecento</documentation.title>
+			<edit.time>17:02:01</edit.time>
+			<edit.time>17:01:39</edit.time>
+			<edit.time>17:01:27</edit.time>
+			<edit.time>15:50:22</edit.time>
+			<edit.time>09:53:08</edit.time>
+			<edit.time>09:52:55</edit.time>
+			<edit.time>09:52:25</edit.time>
+			<edit.time>09:51:40</edit.time>
+			<edit.time>09:50:09</edit.time>
+			<edit.time>09:48:42</edit.time>
+			<edit.time>09:47:38</edit.time>
+			<edit.time>09:46:03</edit.time>
+			<edit.time>13:36:26</edit.time>
+			<input.time>13:28:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>La</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1940,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1940/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a6ba36a9-6d0c-5cb1-8e39-70c994060bbc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4ae8d387-0a94-42b6-8a23-de19a92ab0e5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_OriginalBrocade,,,au::13200,,,,,,,,,,,,,,rub,9c5baa02-0c78-5afe-9c2b-969ef35e27eb,kw,,au::13200:1,au::13200g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1412400"",""au::13200"",""au::13200:1"",""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""Gillis I Mostaert""],""name"":""Gillis I Mostaert"",""ark"":""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""uri"":""/agents/people/1412400"",""id"":""au::13200:1"",""isCapacity"":false}",ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb,agent,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_031,repository numbers,,,,,,,,,,,,,,
+076117a9-44a1-5723-b696-50bf1054dbc9,tg:rubgr:1940,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_031,titles proper,Dutch (language),,,,,,,,,,,

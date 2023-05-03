@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3973,https://data.rubenianum.be//ark:/86530/576ccf06-c806-5cca-a58d-7d86b50ba061,Handschriften,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e9b3f080-5022-421b-b4e1-92e4022432e1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3c8d3d47-120d-41c7-ac29-1f286cd897cd"", ""inverseOntologyProperty"": """"}]"
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bibliografische notities: 21 bibliotheekformulieren; 12 bladen.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003973,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6226</priref>
+			<number>AFG_102_088</number>
+			<content>Bibliografische notities: 21 bibliotheekformulieren; 12 bladen.</content>
+			<object.object_number>AFG_102</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Varia: Grossmann 242</object.title>
+			<object.creator/>
+			<input.date>2014-06-27</input.date>
+			<edit.date>2014-06-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:56:54</edit.time>
+			<input.time>13:56:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3973,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3973/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d59a5141-b51b-52a2-b40b-4f686cc1627b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""068f3180-7c3c-454c-b831-29646a1e188c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_088,repository numbers,,,,,,,,,,,,,,
+576ccf06-c806-5cca-a58d-7d86b50ba061,tg:rubgr:3973,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_088,titles proper,Dutch (language),,,,,,,,,,,

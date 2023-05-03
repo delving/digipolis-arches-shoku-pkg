@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1632,https://data.rubenianum.be//ark:/86530/62ecd0b4-d7be-58d8-8de6-595c6486613d,Handschriften,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""775dee8f-c12a-4765-9007-f033b721477e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8e797881-61cc-45de-bfa7-583a4e8288b7"", ""inverseOntologyProperty"": """"}]"
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 32. Ad. Vogelnestdieb. Erweiterte Fassung und Seitenverkehrt der Baum mit dem Nesträuber rechts. Ein Mann weist auf ihm hin, sein ? und ? auf dem Boden. Neben ihm ein anderer der [onleesbaar]  auf seinen spater [onleesbaar] im dritter aus der Borse. Sale Giroux, Brussels, 1. Feb. 1949, N° 208.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_ExternalRelationsExtras,a::rub.44,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261057,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001632,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3883</priref>
+			<number>AFG_044_033</number>
+			<content>Ad [Addendum] 32. Ad. Vogelnestdieb. Erweiterte Fassung und Seitenverkehrt der Baum mit dem Nestr&#228;uber rechts. Ein Mann weist auf ihm hin, sein ? und ? auf dem Boden. Neben ihm ein anderer der [onleesbaar]  auf seinen spater [onleesbaar] im dritter aus der Borse. Sale Giroux, Brussels, 1. Feb. 1949, N&#176; 208.</content>
+			<object.object_number>AFG_044</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Peasant and the Bird Nester</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-12-21</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:02:04</edit.time>
+			<edit.time>15:19:16</edit.time>
+			<edit.time>15:18:55</edit.time>
+			<input.time>15:15:09</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1632,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1632/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""64985861-c6d2-5826-b218-a1d58f9a61b2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""175a8c1d-1763-4083-bbda-8eb40426a3d8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_033,repository numbers,,,,,,,,,,,,,,
+62ecd0b4-d7be-58d8-8de6-595c6486613d,tg:rubgr:1632,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_033,titles proper,Dutch (language),,,,,,,,,,,

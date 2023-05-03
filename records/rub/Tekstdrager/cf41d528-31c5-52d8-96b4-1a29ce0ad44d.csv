@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:265,https://data.rubenianum.be//ark:/86530/cf41d528-31c5-52d8-96b4-1a29ce0ad44d,Handschriften,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a235fc15-11d7-4dc4-9c7c-881ac1c0c6ca"", ""ontologyProperty"": """", ""resourceXresourceId"": ""453c225e-d2bf-4fd1-b991-b920230b4ed6"", ""inverseOntologyProperty"": """"}]"
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Carnival & Lent. Bottom Left: on the back of one of the men throwing dice - a mirror. What does this mean? Look up:
+G. [Gustav] F. Hartlaub, Zauber des Spiegels. [Geschichte und Bedeutung des Spiegels in der Kunst], München [R. Piper] 1951; 
+H. [Heinrich] Schwarz, 'The Mirror in Art', in: Art Quarterly 1952, N° 15, p. 97; 
+Idem, 'The Mirror of the Artist and the Mirror of the Devout' in: [Paul A. Underwood (ed.)], Studies of the History of Art dedicated to W.E. Suida [on his eightieth birthday ], [London: Phaidon], 1959, p. 90; Suzanne Sulzberger, Considérations sur le chef-d'œuvre de Quentin Metsys: Le prêteur et sa femme, Musées R. des Beaux-Arts de Belgique-Bulletin, XIV, 1965, pp. 27-34, especially pp. 31 ff.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,voorwerp,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sulzberger, Suzanne",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000265,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2513</priref>
+			<number>AFG_005_029</number>
+			<content>Carnival &amp; Lent. Bottom Left: on the back of one of the men throwing dice - a mirror. What does this mean? Look up:
+G. [Gustav] F. Hartlaub, Zauber des Spiegels. [Geschichte und Bedeutung des Spiegels in der Kunst], M&#252;nchen [R. Piper] 1951; 
+H. [Heinrich] Schwarz, 'The Mirror in Art', in: Art Quarterly 1952, N&#176; 15, p. 97; 
+Idem, 'The Mirror of the Artist and the Mirror of the Devout' in: [Paul A. Underwood (ed.)], Studies of the History of Art dedicated to W.E. Suida [on his eightieth birthday ], [London: Phaidon], 1959, p. 90; Suzanne Sulzberger, Consid&#233;rations sur le chef-d'&#339;uvre de Quentin Metsys: Le pr&#234;teur et sa femme, Mus&#233;es R. des Beaux-Arts de Belgique-Bulletin, XIV, 1965, pp. 27-34, especially pp. 31 ff.</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>voorwerp</keyword>
+			<keyword>Sulzberger, Suzanne</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-07</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:58:47</edit.time>
+			<edit.time>15:11:23</edit.time>
+			<edit.time>11:56:48</edit.time>
+			<edit.time>15:48:18</edit.time>
+			<edit.time>15:28:46</edit.time>
+			<edit.time>15:56:20</edit.time>
+			<input.time>15:50:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:265,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:265/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0d94cafb-4039-5fca-a617-25bdae149e2c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d35d14b2-5fc7-4d84-8e4e-147af8e3c90d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_029,repository numbers,,,,,,,,,,,,,,
+cf41d528-31c5-52d8-96b4-1a29ce0ad44d,tg:rubgr:265,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_029,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1117,https://data.rubenianum.be//ark:/86530/bd7137df-55a2-5a87-8d30-91e3d39359d6,Handschriften,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""387970cd-548c-4479-98b2-01d30b965b56"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a2a2fa01-413f-4c55-b6c8-b25d36769620"", ""inverseOntologyProperty"": """"}]"
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Months: Edith A. STANDEN, 'Drawings for the ""Months of Lucas"" Tapestry Series', Master Drawings IX, 1971, pp. 3-14.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14744852,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Standen, Edith A.",,,,,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001117,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3371</priref>
+			<number>AFG_023_065</number>
+			<content>Ad [Addendum] Months: Edith A. STANDEN, 'Drawings for the ""Months of Lucas"" Tapestry Series', Master Drawings IX, 1971, pp. 3-14.</content>
+			<object.object_number>AFG_023</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Series of the Months</object.title>
+			<keyword>Standen, Edith A.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author/>
+			<input.date>2012-04-27</input.date>
+			<edit.date>2015-03-13</edit.date>
+			<edit.date>2012-07-09</edit.date>
+			<edit.date>2012-04-27</edit.date>
+			<edit.date>2012-04-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark>1 S 1 / MAS 8</documentation.shelfmark>
+			<documentation.title>Master Drawings</documentation.title>
+			<edit.time>09:38:58</edit.time>
+			<edit.time>10:51:04</edit.time>
+			<edit.time>15:11:01</edit.time>
+			<edit.time>15:09:20</edit.time>
+			<input.time>15:08:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1117,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1117/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3464e2f9-0009-51a2-85f8-3edc4cb68aa2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3f14500f-7a3f-4df1-9870-b26ab4e6a22b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_065,repository numbers,,,,,,,,,,,,,,
+bd7137df-55a2-5a87-8d30-91e3d39359d6,tg:rubgr:1117,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_065,titles proper,Dutch (language),,,,,,,,,,,

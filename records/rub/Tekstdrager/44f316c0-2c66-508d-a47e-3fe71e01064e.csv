@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4549,https://data.rubenianum.be//ark:/86530/44f316c0-2c66-508d-a47e-3fe71e01064e,Handschriften,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""aafea03a-fbd7-44e1-917d-9aff451865da"", ""ontologyProperty"": """", ""resourceXresourceId"": ""79539668-a9ed-4531-b8e4-104fbb4ca374"", ""inverseOntologyProperty"": """"}]"
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] fantastic Landscape. Jurgis Baltrusaitis, Aberrations : essai sur la légende des formes, Paris: Flammarion 1957, citaten pp. 121-124",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:7041303,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Baltrusaitis, Jurgis",,,,,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004549,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6802</priref>
+			<number>AFG_116_036</number>
+			<content>Ad [Addendum] fantastic Landscape. Jurgis Baltrusaitis, Aberrations : essai sur la l&#233;gende des formes, Paris: Flammarion 1957, citaten pp. 121-124</content>
+			<object.object_number>AFG_116</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Miscellanea Bruegel &amp; others not needed at present</object.title>
+			<keyword>Baltrusaitis, Jurgis</keyword>
+			<object.creator/>
+			<documentation.author>Baltrusaitis, Jurgis</documentation.author>
+			<input.date>2014-07-16</input.date>
+			<edit.date>2014-07-16</edit.date>
+			<edit.date>2014-07-16</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Aberrations : essai sur la l&#233;gende des formes</documentation.title>
+			<edit.time>14:11:55</edit.time>
+			<edit.time>14:10:17</edit.time>
+			<input.time>14:09:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4549,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4549/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""94940740-7c4b-51a7-818b-c8d8b283a6cc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b4642044-5b90-4f0a-8d32-c94e90c3adc2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_036,repository numbers,,,,,,,,,,,,,,
+44f316c0-2c66-508d-a47e-3fe71e01064e,tg:rubgr:4549,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_036,titles proper,Dutch (language),,,,,,,,,,,

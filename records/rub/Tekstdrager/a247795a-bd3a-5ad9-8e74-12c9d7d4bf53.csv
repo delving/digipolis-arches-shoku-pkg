@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4153,https://data.rubenianum.be//ark:/86530/a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,Handschriften,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e2a0e080-d8c0-4feb-8ae3-a258103ce31d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20382c4e-b9d8-459a-83f3-219d271408cb"", ""inverseOntologyProperty"": """"}]"
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"National Gallery of South Australia, Adelaide, Catalogue of Paintings 1960, p. 40, Brueghel, Pieter the Elder, 0.814 A Lawyer's Office [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004153,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6406</priref>
+			<number>AFG_109_033</number>
+			<content>National Gallery of South Australia, Adelaide, Catalogue of Paintings 1960, p. 40, Brueghel, Pieter the Elder, 0.814 A Lawyer's Office [...]</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<object.creator/>
+			<input.date>2014-07-03</input.date>
+			<edit.date>2014-07-03</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:43:02</edit.time>
+			<input.time>10:42:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4153,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4153/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0ff6c2f1-2384-59f3-b8a4-f86b7adce6c8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e1ab61f2-f020-4b34-ba2b-d00d691aa4a5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_033,repository numbers,,,,,,,,,,,,,,
+a247795a-bd3a-5ad9-8e74-12c9d7d4bf53,tg:rubgr:4153,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_033,titles proper,Dutch (language),,,,,,,,,,,

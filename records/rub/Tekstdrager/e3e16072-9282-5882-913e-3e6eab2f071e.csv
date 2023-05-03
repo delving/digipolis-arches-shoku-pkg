@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4811,https://data.rubenianum.be//ark:/86530/e3e16072-9282-5882-913e-3e6eab2f071e,Handschriften,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""811fa82d-b3c9-455e-8b21-cfa62f4416f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b4b93afe-0623-4a09-8fd0-2d71a5b39a28"", ""inverseOntologyProperty"": """"}]"
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Richard] Mulcaster mentions as writers on painting: Plinius; Polydorus, Vergilius, cap. XXIV; Caelus Rhodiginius; Aelianus; Quintilianus. Look up Pomponius Gauricus, De Sculptura 1504; Hermagoras, Ideen.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mulcaster, Richard",,,,,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004811,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7064</priref>
+			<number>AFG_133_001</number>
+			<content>[Richard] Mulcaster mentions as writers on painting: Plinius; Polydorus, Vergilius, cap. XXIV; Caelus Rhodiginius; Aelianus; Quintilianus. Look up Pomponius Gauricus, De Sculptura 1504; Hermagoras, Ideen.</content>
+			<object.object_number>AFG_133</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Months</object.title>
+			<keyword>Mulcaster, Richard</keyword>
+			<keyword>Ortelius, Abraham</keyword>
+			<object.creator/>
+			<input.date>2014-07-29</input.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:52:48</edit.time>
+			<edit.time>15:50:31</edit.time>
+			<input.time>15:49:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4811,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4811/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fd306750-0ee4-5eb3-b193-f429e85191e8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69f8b695-43df-40c3-99a3-4fb8a778776a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_OriginalBrocade,,,au::14164,,,,,,,,,,,,,,rub,80abb133-7c38-5ef5-aa40-d82d46a3245d,kw,,au::14164:1,au::14164g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1515548"",""au::14164"",""au::14164:1"",""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""Abraham Ortelius""],""name"":""Abraham Ortelius"",""ark"":""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""uri"":""/agents/people/1515548"",""id"":""au::14164:1"",""isCapacity"":false}",ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d,agent,,,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_133_001,repository numbers,,,,,,,,,,,,,,
+e3e16072-9282-5882-913e-3e6eab2f071e,tg:rubgr:4811,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_133_001,titles proper,Dutch (language),,,,,,,,,,,

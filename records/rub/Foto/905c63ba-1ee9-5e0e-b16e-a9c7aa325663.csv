@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2651,https://data.rubenianum.be//ark:/86530/905c63ba-1ee9-5e0e-b16e-a9c7aa325663,Foto's,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2648,Verwijzing naar Grossmann object,,d45e258c-a093-57fe-af30-ab959cb9fe33,"[{""resourceId"": ""d45e258c-a093-57fe-af30-ab959cb9fe33"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76673e40-8172-45ef-8cf2-c94114078f9a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8bf457c-6e28-43e1-8269-67e8b15197bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d59c3111-a995-4c5c-9e9a-b352dd5c6e43"", ""inverseOntologyProperty"": """"}]"
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto met stempel V&A Museum. [Notitie FG]: 'V&A. 'School of Bruegel', Dyce 497. Kermesse including Wedding (Bride).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dyce, Alexander",,,,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Victoria and Albert Museum",,,,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002651,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4893</priref>
+			<number>AFG_084_065</number>
+			<part_of_reference>AFG_084_062</part_of_reference>
+			<content>1 zw/w foto met stempel V&amp;A Museum. [Notitie FG]: 'V&amp;A. 'School of Bruegel', Dyce 497. Kermesse including Wedding (Bride).</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Jacob Savery (c.1545-1602), Kermesse, Water-colour, flemish, 2nd half of the 16th century, 207/8 in. by 141/2 in.Victoria and Albert Museum, Dyce Bequest 513</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Dyce, Alexander</keyword>
+			<keyword>Londen, Victoria and Albert Museum</keyword>
+			<object.creator/>
+			<input.date>2014-02-12</input.date>
+			<edit.date>2014-02-20</edit.date>
+			<edit.date>2014-02-12</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:35:10</edit.time>
+			<edit.time>14:59:05</edit.time>
+			<input.time>14:57:15</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2651,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2651/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""abfdf035-45f2-5f84-9592-32c01dc8563b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3983fd36-e154-4819-9580-7651ce6f8eda"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_065,repository numbers,,,,,,,,,,,
+905c63ba-1ee9-5e0e-b16e-a9c7aa325663,tg:rubgr:2651,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_065,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2945,https://data.rubenianum.be//ark:/86530/954d62ce-a467-53f3-82b5-b89c9a20c11d,Handschriften,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2825e9e6-b1e0-48ce-a089-8dc8c761f7df"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54f7a273-04ce-4fd0-abfe-085644099796"", ""inverseOntologyProperty"": """"}]"
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Birdnester. L. Behling, Die Pflanze in der mittelalterlicher Tafelmalerei, Weimar, 1957 (adest in V&A)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261536,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002945,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5190</priref>
+			<number>AFG_086_203</number>
+			<content>Ad [Addendum] Birdnester. L. Behling, Die Pflanze in der mittelalterlicher Tafelmalerei, Weimar, 1957 (adest in V&amp;A)</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<documentation.author>Behling, Lottlisa</documentation.author>
+			<input.date>2014-04-15</input.date>
+			<edit.date>2014-04-15</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pflanze in der mittelalterlichen Tafelmalerei</documentation.title>
+			<edit.time>16:07:42</edit.time>
+			<input.time>16:07:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Die</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2945,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2945/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7478cb64-8775-5ceb-860c-e007aa80a025"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5ff4d6f2-1cdb-4a56-a980-7fcc94dad998"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_203,repository numbers,,,,,,,,,,,,,,
+954d62ce-a467-53f3-82b5-b89c9a20c11d,tg:rubgr:2945,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_203,titles proper,Dutch (language),,,,,,,,,,,

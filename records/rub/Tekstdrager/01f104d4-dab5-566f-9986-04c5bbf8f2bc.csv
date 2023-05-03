@@ -1,0 +1,101 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:100,https://data.rubenianum.be//ark:/86530/01f104d4-dab5-566f-9986-04c5bbf8f2bc,Handschriften,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""578be515-e625-445d-b0ea-28757d5ea694"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c7da007d-033d-40a9-8bdf-0f52dd2578b3"", ""inverseOntologyProperty"": """"}]"
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Icarus. Ad [Addendum] 41. Witt L. J. de Momper. (Under landscapes with Ships),  J. de Momper, Holzbraun Sale Bangel, Heft [?], 24-25 April 192[5][3], N° 55, Kupfer, Roundel, Durchmesser 26 cm. 'Figur warhscheinlich von Jan Brueghel zuschreibung  Momper von Friedländer bestätigt. Icarus & Daedalus with Ploughman, shepherd died angler; [toegevoegde vermelding]: 'F.G. Bol?'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Momper, Joos de (II)",,,,,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000100,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2339</priref>
+			<number>AFG_003_028</number>
+			<content>Ad [Addendum] Icarus. Ad [Addendum] 41. Witt L. J. de Momper. (Under landscapes with Ships),  J. de Momper, Holzbraun Sale Bangel, Heft [?], 24-25 April 192[5][3], N&#176; 55, Kupfer, Roundel, Durchmesser 26 cm. 'Figur warhscheinlich von Jan Brueghel zuschreibung  Momper von Friedl&#228;nder best&#228;tigt. Icarus &amp; Daedalus with Ploughman, shepherd died angler; [toegevoegde vermelding]: 'F.G. Bol?'</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Momper, Joos de (II)</keyword>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-22</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-10-07</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-31</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-22</edit.date>
+			<edit.date>2011-08-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:47:35</edit.time>
+			<edit.time>11:07:20</edit.time>
+			<edit.time>16:13:33</edit.time>
+			<edit.time>13:32:55</edit.time>
+			<edit.time>11:32:51</edit.time>
+			<edit.time>09:03:44</edit.time>
+			<edit.time>08:55:11</edit.time>
+			<edit.time>16:28:25</edit.time>
+			<edit.time>09:31:46</edit.time>
+			<edit.time>09:35:08</edit.time>
+			<edit.time>09:32:41</edit.time>
+			<edit.time>15:34:10</edit.time>
+			<edit.time>16:02:21</edit.time>
+			<edit.time>09:53:45</edit.time>
+			<edit.time>09:50:20</edit.time>
+			<edit.time>09:49:45</edit.time>
+			<input.time>09:43:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:100,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:100/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""557517ef-d9ae-5e6a-81b6-625bf359d303"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20b38e1e-abee-4e08-b8de-cd52769c62e1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_028,repository numbers,,,,,,,,,,,,,,
+01f104d4-dab5-566f-9986-04c5bbf8f2bc,tg:rubgr:100,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_028,titles proper,Dutch (language),,,,,,,,,,,

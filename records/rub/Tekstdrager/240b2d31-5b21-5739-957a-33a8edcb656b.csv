@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4008,https://data.rubenianum.be//ark:/86530/240b2d31-5b21-5739-957a-33a8edcb656b,Handschriften,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_AssociatedArchives,2,,,,,,AFG_022,isad:rub:2952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ff77515-7a7b-4002-9faf-aa2a7d35a435"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fd780d1e-eaa1-4aa9-b0fb-333c5f8fe600"", ""inverseOntologyProperty"": """"}]"
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Soane Museum. Commentary on the Epistle of Paul to the Romans, illuminated by Clovio. Vellum Codex, Fol. 1a Title page, f. 2v. Bought by Soane 1833 from D. of Buckingham [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verlucht handschrift,,,,,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004008,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6261</priref>
+			<number>AFG_104_011</number>
+			<content>Soane Museum. Commentary on the Epistle of Paul to the Romans, illuminated by Clovio. Vellum Codex, Fol. 1a Title page, f. 2v. Bought by Soane 1833 from D. of Buckingham [...]</content>
+			<object.object_number>AFG_104</object.object_number>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; 16th Flemish Painting</object.title>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>verlucht handschrift</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-06-30</input.date>
+			<edit.date>2014-06-30</edit.date>
+			<edit.date>2014-06-30</edit.date>
+			<edit.date>2014-06-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:27:11</edit.time>
+			<edit.time>10:24:48</edit.time>
+			<edit.time>10:19:10</edit.time>
+			<input.time>10:18:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4008,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4008/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3e27716a-0454-5080-b9c4-f1fafc1ce1a0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""07be9ccd-991a-455d-9a15-ed6427684df0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_011,repository numbers,,,,,,,,,,,,,,
+240b2d31-5b21-5739-957a-33a8edcb656b,tg:rubgr:4008,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_011,titles proper,Dutch (language),,,,,,,,,,,

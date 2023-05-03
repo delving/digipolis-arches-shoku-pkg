@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3120,https://data.rubenianum.be//ark:/86530/1c6b720b-b49d-56c3-9948-439e5e3be0fd,Handschriften,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1ddf33c7-20f1-471c-99c5-35d5db747c9b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a389c31b-4bd4-47c0-b56a-53c329fe663d"", ""inverseOntologyProperty"": """"}]"
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CALUMNIA. Vasari, III, (Bohn) citaat p. 519: Francesco MARCOLINI of Forli: His book, entitled 'The Garden of Thoughts', among others with many engravings on wood and the Globe of [?]...[sic] in thi sbook many fanciful objects are represented, such as Fate, Envy, Calumny, Timidity, Praise, and many other of similar kind...",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vasari, Giorgio",,,,,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003120,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5445</priref>
+			<number>AFG_090_040</number>
+			<content>CALUMNIA. Vasari, III, (Bohn) citaat p. 519: Francesco MARCOLINI of Forli: His book, entitled 'The Garden of Thoughts', among others with many engravings on wood and the Globe of [?]...[sic] in thi sbook many fanciful objects are represented, such as Fate, Envy, Calumny, Timidity, Praise, and many other of similar kind...</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Vasari, Giorgio</keyword>
+			<object.creator/>
+			<input.date>2014-06-12</input.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:28:46</edit.time>
+			<edit.time>10:27:32</edit.time>
+			<edit.time>10:22:18</edit.time>
+			<input.time>10:19:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3120,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3120/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7338bfa9-d708-5520-9d8d-5146384f0b50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e71b2c65-422f-4ac5-a333-db74d6e1125d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_040,repository numbers,,,,,,,,,,,,,,
+1c6b720b-b49d-56c3-9948-439e5e3be0fd,tg:rubgr:3120,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_040,titles proper,Dutch (language),,,,,,,,,,,

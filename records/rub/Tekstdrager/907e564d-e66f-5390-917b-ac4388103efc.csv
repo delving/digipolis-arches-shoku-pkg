@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1574,https://data.rubenianum.be//ark:/86530/907e564d-e66f-5390-917b-ac4388103efc,Handschriften,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""03127e3b-8559-4659-a616-4c259ef85812"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8789a73-3a9f-4890-893b-36cac22d487e"", ""inverseOntologyProperty"": """"}]"
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Cripples. Gudlaugsson: identification as Lepers probably right, cf. Marten van Cleve, but not a procession which was held in January (Monday after Epiphany) as is clear from Marten van Cleve whereas Bruegel in summer. Certainly not a genre picture- but what is the [verso] meaning?",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_ExternalRelationsExtras,a::rub.42,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,257769,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gudlaugsson, S.J.",,,,,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001574,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3825</priref>
+			<number>AFG_042_026</number>
+			<content>[recto] Cripples. Gudlaugsson: identification as Lepers probably right, cf. Marten van Cleve, but not a procession which was held in January (Monday after Epiphany) as is clear from Marten van Cleve whereas Bruegel in summer. Certainly not a genre picture- but what is the [verso] meaning?</content>
+			<object.object_number>AFG_042</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Cripples</object.title>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Gudlaugsson, S.J.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-13</input.date>
+			<edit.date>2012-12-05</edit.date>
+			<edit.date>2012-11-28</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-13</edit.date>
+			<edit.date>2012-11-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:10:13</edit.time>
+			<edit.time>09:16:27</edit.time>
+			<edit.time>10:18:48</edit.time>
+			<edit.time>15:53:56</edit.time>
+			<edit.time>15:34:21</edit.time>
+			<input.time>15:30:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1574,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1574/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5e7f8417-0626-55d2-9871-b4819b2843a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a8fcc39e-3c6f-4486-9c9b-2a03d21633e7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_026,repository numbers,,,,,,,,,,,,,,
+907e564d-e66f-5390-917b-ac4388103efc,tg:rubgr:1574,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_026,titles proper,Dutch (language),,,,,,,,,,,

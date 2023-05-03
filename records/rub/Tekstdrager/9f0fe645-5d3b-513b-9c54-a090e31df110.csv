@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3534,https://data.rubenianum.be//ark:/86530/9f0fe645-5d3b-513b-9c54-a090e31df110,Handschriften,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3520,Verwijzing naar Grossmann object,,bf6e6cb2-7b49-5144-bfb4-9db3b87414c8,"[{""resourceId"": ""bf6e6cb2-7b49-5144-bfb4-9db3b87414c8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6aaf7616-11ea-495b-9e10-afe23d249404"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dd2ede2e-1d1a-4d3e-9b3b-e52317e45b8b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""199c2286-640f-4abf-8b9e-77f0e26f87bd"", ""inverseOntologyProperty"": """"}]"
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Last week at Sotheby's, Page with hand-coloured woodcut from a bible in German, Strasburg, 1485,  Maccabees, 6, 31-46.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003534,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5787</priref>
+			<number>AFG_095_019</number>
+			<part_of_reference>AFG_095_005</part_of_reference>
+			<content>Last week at Sotheby's, Page with hand-coloured woodcut from a bible in German, Strasburg, 1485,  Maccabees, 6, 31-46.</content>
+			<object.object_number>AFG_095</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>War Elephant</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>From Bruegel to Rubens. Bruegel &amp; Bosch Revival (Elephant)</object.title>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2014-06-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:47:53</edit.time>
+			<input.time>09:33:43</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3534,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3534/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a26f119d-754e-53fd-8dff-34076471177d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dd5aa75a-7480-422f-a03e-0bfffaf57624"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_095_019,repository numbers,,,,,,,,,,,,,,
+9f0fe645-5d3b-513b-9c54-a090e31df110,tg:rubgr:3534,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_095_019,titles proper,Dutch (language),,,,,,,,,,,

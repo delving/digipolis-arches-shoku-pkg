@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2415,https://data.rubenianum.be//ark:/86530/38937fca-468d-5ca4-aa57-569520ea0c06,Foto's,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2414,Verwijzing naar Grossmann object,,086b0f64-f2d2-5876-93fa-e0c3c522ca5a,"[{""resourceId"": ""086b0f64-f2d2-5876-93fa-e0c3c522ca5a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4faf4d05-e83f-4b34-a754-31a6469db2fc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cf282d2e-6af1-4141-a364-8c2b37a64bf1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""83f6b2a8-9827-4340-a412-c9536f23e3f4"", ""inverseOntologyProperty"": """"}]"
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,19610906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,1961-09-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"2 zw/w detailfoto's Jonah, geen notitities. Afkomstig van Leonard F. Koetser.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Koetser, Leonard F.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002415,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>7624</priref>
+<recipient>Grossmann, F.G.</recipient>
+<number>AFG_080_006</number>
+<part_of_reference>AFG_080_005</part_of_reference>
+<date.precise>1961-09-06</date.precise>
+<content>2 zw/w detailfoto's Jonah, geen notitities.</content>
+<object.object_number>AFG_080</object.object_number>
+<object.object_name>schilderij</object.object_name>
+<part_of.title>Korte inhoud: Stuurt 2 detailfoto's. Informeert of het werk begonnen werd door Pieter Bruegel de Oude en afgewerkt door Jan.</part_of.title>
+<class>AFG</class>
+<editorial_form>foto</editorial_form>
+<object.title>Jonah</object.title>
+<keyword>Brueghel, Jan I</keyword>
+<keyword>Koetser, Leonard F.</keyword>
+<sender>Koetser, Leonard F.</sender>
+<object.creator>Breughel, Jan I</object.creator>
+<input.date>2015-01-08</input.date>
+<edit.date>2015-01-08</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.time>14:36:44</edit.time>
+<input.time>14:34:23</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2415,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2415/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""385eaa7e-9719-52fe-895b-38aeecf7396e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""901301f1-b109-43f4-ae65-36c4063141e9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,keywords,au::3025:1,au::3025g:1,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_080_006,repository numbers,,,,,,,,,,,
+38937fca-468d-5ca4-aa57-569520ea0c06,tg:rubgr:2415,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_080_006,titles proper,Dutch (language),,,,,,,,

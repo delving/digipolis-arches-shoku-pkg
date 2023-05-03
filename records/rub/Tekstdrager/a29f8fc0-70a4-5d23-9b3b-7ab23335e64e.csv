@@ -1,0 +1,89 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1658,https://data.rubenianum.be//ark:/86530/a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,Handschriften,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fa2e22a9-9514-47c2-96a6-95fd0d5b8a26"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8f9a005f-30d9-41d3-8598-bccee7d83876"", ""inverseOntologyProperty"": """"}]"
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Parable of the Blind. In the Grisaille of St. James of Compostela (wing of Last Judgment) by Bosch (Vienna) appear 2 beggars in the left background: a cripple with 2 crutches, leading a blind man ([Charles de] Tolnay, Bosch [= Hieronymus Bosch : Einführung in das Werk, Baden-Baden: Holle],1965-1966, pl. 166).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257317,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_ExternalRelationsExtras,a::rub.45,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,53946,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001658,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3909</priref>
+			<number>AFG_045_014</number>
+			<content>Ad [Addendum] Parable of the Blind. In the Grisaille of St. James of Compostela (wing of Last Judgment) by Bosch (Vienna) appear 2 beggars in the left background: a cripple with 2 crutches, leading a blind man ([Charles de] Tolnay, Bosch [= Hieronymus Bosch : Einf&#252;hrung in das Werk, Baden-Baden: Holle],1965-1966, pl. 166).</content>
+			<object.object_number>AFG_045</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Parable of the Blind</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Wenen, Akademie der bildenden K&#252;nste, Gem&#228;ldegalerie</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Tolnay, Charles de</documentation.author>
+			<input.date>2013-01-03</input.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2013-02-15</edit.date>
+			<edit.date>2013-02-15</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Hieronymus Bosch : Einf&#252;hrung in das Werk</documentation.title>
+			<edit.time>11:02:05</edit.time>
+			<edit.time>11:01:54</edit.time>
+			<edit.time>11:19:55</edit.time>
+			<edit.time>11:19:40</edit.time>
+			<edit.time>11:33:08</edit.time>
+			<edit.time>11:32:41</edit.time>
+			<edit.time>11:32:11</edit.time>
+			<edit.time>11:31:39</edit.time>
+			<edit.time>11:31:18</edit.time>
+			<edit.time>13:40:16</edit.time>
+			<edit.time>11:51:09</edit.time>
+			<edit.time>11:50:53</edit.time>
+			<input.time>11:50:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1658,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1658/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f667fa28-3770-5cd3-aa96-53bb2a3b079f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d905ee0d-4f43-4b59-8c68-d3f3e753fe36"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_OriginalBrocade,,,au::32564,,,,,,,,,,,,,,rub,120a58b6-f76e-5b85-85ba-9de8d72cc44f,kw,,au::32564:1,au::32564g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3484348"",""au::32564"",""au::32564:1"",""ark:/83110/x0/120a58b6-f76e-5b85-85ba-9de8d72cc44f"",""Akademie der Bildenden Künste [Wenen (A)]""],""name"":""Akademie der Bildenden Künste [Wenen (A)]"",""ark"":""ark:/83110/x0/120a58b6-f76e-5b85-85ba-9de8d72cc44f"",""uri"":""/agents/corporate_entities/3484348"",""id"":""au::32564:1"",""isCapacity"":false}",ark:/83110/x0/120a58b6-f76e-5b85-85ba-9de8d72cc44f,agent,,,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_014,repository numbers,,,,,,,,,,,,,,
+a29f8fc0-70a4-5d23-9b3b-7ab23335e64e,tg:rubgr:1658,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_014,titles proper,Dutch (language),,,,,,,,,,,

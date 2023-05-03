@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1243,https://data.rubenianum.be//ark:/86530/79a8b556-aaf1-50ef-bfbf-724a455d49cf,Handschriften,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d4ff01a9-ba86-49d7-9003-16dfcdf4bb67"", ""ontologyProperty"": """", ""resourceXresourceId"": ""41adbb07-ea86-46ee-a187-723570fcb97a"", ""inverseOntologyProperty"": """"}]"
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Massacre of Innocents. If Bruegel shows Imperial Eagle on flag a black -yellow rod- This has a parallel in Dürer's woodcut of the Resurrection in the Great Passion (B.15) where the seal scelus the sarcophagus of Christ shows the imperial crown.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_ExternalRelationsExtras,a::rub.31,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221184,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001243,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3500</priref>
+			<number>AFG_030_007</number>
+			<content>Massacre of Innocents. If Bruegel shows Imperial Eagle on flag a black -yellow rod- This has a parallel in D&#252;rer's woodcut of the Resurrection in the Great Passion (B.15) where the seal scelus the sarcophagus of Christ shows the imperial crown.</content>
+			<object.object_number>AFG_030</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Massacre of Innocents</object.title>
+			<keyword>D&#252;rer, Albrecht</keyword>
+			<object.creator>Bruegel, Pieter I (atelier van)</object.creator>
+			<input.date>2012-07-24</input.date>
+			<edit.date>2012-08-02</edit.date>
+			<edit.date>2012-07-24</edit.date>
+			<edit.date>2012-07-24</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:37:54</edit.time>
+			<edit.time>13:55:36</edit.time>
+			<edit.time>13:53:40</edit.time>
+			<input.time>13:48:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1243,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1243/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0d4740ad-2dea-5196-b4bb-f447b649c33b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0e40f3de-4375-4941-8de0-fbae359f1e2f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_OriginalBrocade,,,au::5988,,,,,,,,,,,,,,rub,0c4d1392-1949-53c5-b9fa-dbd486d50089,kw,,au::5988:1,au::5988g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/640716"",""au::5988"",""au::5988:1"",""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""Albrecht Dürer""],""name"":""Albrecht Dürer"",""ark"":""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""uri"":""/agents/people/640716"",""id"":""au::5988:1"",""isCapacity"":false}",ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089,agent,,,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_007,repository numbers,,,,,,,,,,,,,,
+79a8b556-aaf1-50ef-bfbf-724a455d49cf,tg:rubgr:1243,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_007,titles proper,Dutch (language),,,,,,,,,,,

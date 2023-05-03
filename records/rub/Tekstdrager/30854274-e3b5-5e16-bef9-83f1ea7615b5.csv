@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4077,https://data.rubenianum.be//ark:/86530/30854274-e3b5-5e16-bef9-83f1ea7615b5,Handschriften,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""17510cf2-00c0-4064-abd3-8081f8811af5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""24493535-c9d7-4def-b954-4d590084ba0a"", ""inverseOntologyProperty"": """"}]"
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[10 bladen] Witt Library. P.B.I Proverbs, Berlin; Proverbs Mayer van den Bergh; Versions Proverbs; Pushing man into Pigsty; Man forging iron; Fat man & Peddlar; Hay running with Horse; Fool in Egg; The Bacon is too good for your mouth; Gooseherd.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004077,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6330</priref>
+			<number>AFG_107_010</number>
+			<content>[10 bladen] Witt Library. P.B.I Proverbs, Berlin; Proverbs Mayer van den Bergh; Versions Proverbs; Pushing man into Pigsty; Man forging iron; Fat man &amp; Peddlar; Hay running with Horse; Fool in Egg; The Bacon is too good for your mouth; Gooseherd.</content>
+			<object.object_number>AFG_107</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel Witt Library</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<object.creator/>
+			<input.date>2014-07-01</input.date>
+			<edit.date>2014-07-01</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:22:43</edit.time>
+			<input.time>15:14:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4077,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4077/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bd084030-fa5d-5b93-8282-cbf764dd7bea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d5de6838-5990-4580-832b-f390a74dce08"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_107_010,repository numbers,,,,,,,,,,,,,,
+30854274-e3b5-5e16-bef9-83f1ea7615b5,tg:rubgr:4077,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_107_010,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1188,https://data.rubenianum.be//ark:/86530/c0d345c6-015b-545f-9758-87f4f9ed40b6,Handschriften,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a79631b4-fb32-4d5e-b79e-f5ea7b185e2e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""deaa1b95-8731-4b65-8148-ac7614199f38"", ""inverseOntologyProperty"": """"}]"
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"23. Heimkehr der Herde. [Gotthard] Jedlicka, [= Pieter Bruegel: der Maler in seiner Zeit, Erlenbach-Zürich: Rentsch, 1938], citaten pp. 210-211.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:412303,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_ExternalRelationsExtras,a::rub.30,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221183,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001188,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3445</priref>
+			<number>AFG_028_009</number>
+			<content>23. Heimkehr der Herde. [Gotthard] Jedlicka, [= Pieter Bruegel: der Maler in seiner Zeit, Erlenbach-Z&#252;rich: Rentsch, 1938], citaten pp. 210-211.</content>
+			<object.object_number>AFG_028</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Months: The Return of the Herd</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Jedlicka, Gotthard</documentation.author>
+			<input.date>2012-05-11</input.date>
+			<edit.date>2012-07-10</edit.date>
+			<edit.date>2012-05-11</edit.date>
+			<edit.date>2012-05-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel : der Maler in seiner Zeit</documentation.title>
+			<edit.time>14:14:13</edit.time>
+			<edit.time>10:04:59</edit.time>
+			<edit.time>10:04:11</edit.time>
+			<input.time>10:03:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1188,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1188/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3a88f3e3-426f-52b5-91b1-c0a365dbe094"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dd3fc34e-62de-4a47-afd1-7b6574a86c76"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_028_009,repository numbers,,,,,,,,,,,,,,
+c0d345c6-015b-545f-9758-87f4f9ed40b6,tg:rubgr:1188,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_028_009,titles proper,Dutch (language),,,,,,,,,,,

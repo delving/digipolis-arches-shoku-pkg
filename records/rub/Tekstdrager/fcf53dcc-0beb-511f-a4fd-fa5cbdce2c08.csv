@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3220,https://data.rubenianum.be//ark:/86530/fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,Handschriften,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3213,Verwijzing naar Grossmann object,,6549f3a5-4259-5d56-9232-64b5e737042f,"[{""resourceId"": ""6549f3a5-4259-5d56-9232-64b5e737042f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4e8cd4e5-1290-42e5-995b-5bdb53b9f837"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c71740f7-d9a5-4866-9751-1549abbd4e22"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9baade07-511c-42df-bed3-08d05d41b262"", ""inverseOntologyProperty"": """"}]"
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 96. Rijksbureau. Besuch auf dem Lande: 1) Wien, Kupfer 27 x [?]6; 2) Antw.; 3) De Boer, Bruegel, Exh. 1934, N° 18, Holz, 36 x 56 cm, sign. 1625 (scheint in Farben zu sein); 4) Sale J. Swaters, Brussel, 13-2-1928; 5) Drey London, vor 1946, for Cooper, N° 21643; sign. auf Wiege 45 x 58 cm; 6) P.B.II schwach, Mus. Bergues, cat. 1923, N° 22 Foto [?] [...]; [verso] Besuch auf dem Lande 7) Sale J. van Goidsenhoven, P.B.II, Brussel, 17-12-1930, Holz, 43 x 60; 8) Ein weiteres Exemplar ohne Ortsangabe; 9) Vielleicht identisch mit einem der oberen Sale G. Ahlemeyer (Berlin) Köln (Lempertz, 22-3-1909, Holz 45 x 59 cm.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003220,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5334</priref>
+			<number>AFG_091_024</number>
+			<part_of_reference>AFG_091_017</part_of_reference>
+			<content>[recto] Ad [Addendum] 96. Rijksbureau. Besuch auf dem Lande: 1) Wien, Kupfer 27 x [?]6; 2) Antw.; 3) De Boer, Bruegel, Exh. 1934, N&#176; 18, Holz, 36 x 56 cm, sign. 1625 (scheint in Farben zu sein); 4) Sale J. Swaters, Brussel, 13-2-1928; 5) Drey London, vor 1946, for Cooper, N&#176; 21643; sign. auf Wiege 45 x 58 cm; 6) P.B.II schwach, Mus. Bergues, cat. 1923, N&#176; 22 Foto [?] [...]; [verso] Besuch auf dem Lande 7) Sale J. van Goidsenhoven, P.B.II, Brussel, 17-12-1930, Holz, 43 x 60; 8) Ein weiteres Exemplar ohne Ortsangabe; 9) Vielleicht identisch mit einem der oberen Sale G. Ahlemeyer (Berlin) K&#246;ln (Lempertz, 22-3-1909, Holz 45 x 59 cm.</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>52. Besuch bei der Arme auf dem Lande. Neu 58. My N&#176; 96 provisionally.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Reisnotitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-06</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:18:15</edit.time>
+			<input.time>16:44:50</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3220,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3220/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5e8868c7-0a70-5ee2-8445-5aaf26a3761a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""64a086b5-f410-46c6-905c-0e050baa18cb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_024,repository numbers,,,,,,,,,,,,,,
+fcf53dcc-0beb-511f-a4fd-fa5cbdce2c08,tg:rubgr:3220,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_024,titles proper,Dutch (language),,,,,,,,,,,

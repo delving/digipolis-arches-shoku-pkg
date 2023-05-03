@@ -1,0 +1,67 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1985,https://data.rubenianum.be//ark:/86530/0d9094e8-bd71-59e7-9c38-7f5395cb56c1,Handschriften,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1983,Verwijzing naar Grossmann object,,a9028518-2aaf-5400-b55b-dcf1bf5e5dcd,"[{""resourceId"": ""a9028518-2aaf-5400-b55b-dcf1bf5e5dcd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""339fb9fd-54ae-4e09-baf8-629f804555f0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a168eec6-19cb-44c0-8c20-f9e385c6dc94"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a11a48d7-72bd-4264-8ecb-3d7cdb2eb438"", ""inverseOntologyProperty"": """"}]"
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"50. Glück, Arundel, Borchard. Jean Gessler, Le ""journaal"" de C. Huygens, le jeune, in: Revue belge d'archéologie et d'histoire de l'art 1933 (fasc.!) also as offprint, La Haye Martinus Nijhoff 1933, citaten pp. 10, 11, 12.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261859,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Arundel, Thomas Howard, Earl of",,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Huygens, Constantijn II",,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Borchard, Samuel",,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gessler, Jean",,,,,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001985,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4221</priref>
+			<number>AFG_055_016</number>
+			<part_of_reference>AFG_055_014</part_of_reference>
+			<content>50. Gl&#252;ck, Arundel, Borchard. Jean Gessler, Le ""journaal"" de C. Huygens, le jeune, in: Revue belge d'arch&#233;ologie et d'histoire de l'art 1933 (fasc.!) also as offprint, La Haye Martinus Nijhoff 1933, citaten pp. 10, 11, 12.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>50. Hochzeitstanz im Freien mit Beschenkung der Braut. [Doorstreept]: Neu 56. My N&#176; 49a: Borchard, Arundel, Duarte.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Arundel, Thomas Howard, Earl of</keyword>
+			<keyword>Huygens, Constantijn II</keyword>
+			<keyword>Borchard, Samuel</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Gessler, Jean</keyword>
+			<object.creator/>
+			<documentation.author>Gessler, Jean</documentation.author>
+			<input.date>2013-03-05</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2013-03-05</edit.date>
+			<edit.date>2013-03-05</edit.date>
+			<edit.date>2013-03-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>""journaal"" de C. Huygens, le jeune</documentation.title>
+			<edit.time>15:07:04</edit.time>
+			<edit.time>15:04:55</edit.time>
+			<edit.time>14:05:17</edit.time>
+			<edit.time>14:04:03</edit.time>
+			<edit.time>14:02:39</edit.time>
+			<input.time>13:59:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Le</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1985,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1985/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b07fcdaa-c6fd-5cb0-a059-eaf6937c8d83"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5345a22b-eba8-41bc-99fc-b03908b0ad76"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_016,repository numbers,,,,,,,,,,,,,,
+0d9094e8-bd71-59e7-9c38-7f5395cb56c1,tg:rubgr:1985,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_016,titles proper,Dutch (language),,,,,,,,,,,

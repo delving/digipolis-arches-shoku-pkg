@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1764,https://data.rubenianum.be//ark:/86530/17587362-6591-53b3-9021-3efd2b877fcc,Handschriften,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1759,Verwijzing naar Grossmann object,,433a421f-fd9b-5455-8959-622e77723451,"[{""resourceId"": ""433a421f-fd9b-5455-8959-622e77723451"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c3197f67-d0ac-4ba5-8d66-cea17dd9d678"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""605f31f3-31d9-4901-abb5-f4dce66bb555"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9b30fc55-81d8-4804-9890-8cf49da51303"", ""inverseOntologyProperty"": """"}]"
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"M.v. Cleve design, engraved by H. Bol. Le vray berger est fidele aux brebis; De les garder il a soing et envie: Si le loup vient leur volant et pis, Pour leur salut il expose sa vie.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001764,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4015</priref>
+			<number>AFG_046_067</number>
+			<part_of_reference>AFG_046_062</part_of_reference>
+			<content>M.v. Cleve design, engraved by H. Bol. Le vray berger est fidele aux brebis; De les garder il a soing et envie: Si le loup vient leur volant et pis, Pour leur salut il expose sa vie.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>John X, 11: I am the good shepherd: the good shepherd giveth his life for the sheep. (cf. Js [Isaiah] 40, 11; Ezek 34, 12, 23 &amp; 37, 24; Hebr. 13, 20; Pet. 2, 25 &amp; 5,4) ...[sic] 15 As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. The expression is not horror- it is Christ's idealised head, not a peasant's.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>tekenkunst</keyword>
+			<keyword>prentkunst</keyword>
+			<object.creator/>
+			<input.date>2013-01-17</input.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<edit.date>2013-01-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:19:48</edit.time>
+			<edit.time>14:18:41</edit.time>
+			<edit.time>15:55:05</edit.time>
+			<edit.time>15:18:21</edit.time>
+			<input.time>15:15:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1764,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1764/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""081eff4f-c2a0-5c1d-9030-019befa615af"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e9bbd0ab-5784-4999-9648-23b292c9bb83"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_067,repository numbers,,,,,,,,,,,,,,
+17587362-6591-53b3-9021-3efd2b877fcc,tg:rubgr:1764,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_067,titles proper,Dutch (language),,,,,,,,,,,

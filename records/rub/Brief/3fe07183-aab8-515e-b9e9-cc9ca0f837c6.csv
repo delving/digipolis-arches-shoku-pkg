@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3506,https://data.rubenianum.be//ark:/86530/3fe07183-aab8-515e-b9e9-cc9ca0f837c6,Brieven,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3492,Verwijzing naar Grossmann object,,e772b23f-9ba6-5699-8550-e3212c8f929a,"[{""resourceId"": ""e772b23f-9ba6-5699-8550-e3212c8f929a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""15066cb1-f360-4b94-8a9e-ec75535126e9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bf0aea49-bf6f-4949-8bbf-cad6a9f9a5c9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""812da81a-6435-4bed-a9fd-59d3cb0a7b99"", ""inverseOntologyProperty"": """"}]"
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_Correspondence,1,,,,,,,,,,,,,,,,"Preece, Warren E.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19710901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1971-09-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Stuurt in bijlage de drukproeven.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Preece, Warren E.",,,,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003506,referentienummer,False,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5759</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_094_070</number>
+			<part_of_reference>AFG_094_056</part_of_reference>
+			<date.precise>1971-09-01</date.precise>
+			<content>Korte inhoud: Stuurt in bijlage de drukproeven.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Encyclopaedia Britannica</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Preece, Warren E.</keyword>
+			<sender>Preece, Warren E.</sender>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2014-07-14</edit.date>
+			<edit.date>2014-06-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:23:12</edit.time>
+			<edit.time>17:20:39</edit.time>
+			<input.time>16:52:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3506,brocade id,False,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3506/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""27a41666-d25e-5a06-942a-4852fac9a703"", ""ontologyProperty"": """", ""resourceXresourceId"": ""62cf5c59-46a8-4c35-a26d-33e016e39b34"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_070,repository numbers,,,,,,,,,,,
+3fe07183-aab8-515e-b9e9-cc9ca0f837c6,tg:rubgr:3506,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_070,titles proper,Dutch (language),,,,,,,,

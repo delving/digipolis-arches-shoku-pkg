@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2111,https://data.rubenianum.be//ark:/86530/eb6fbece-92db-5652-9b28-432e696f310c,Handschriften,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2107,Verwijzing naar Grossmann object,,77dd6158-e29c-5488-be58-1861fdaec7db,"[{""resourceId"": ""77dd6158-e29c-5488-be58-1861fdaec7db"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea3b3e02-631b-42a9-b643-34f64b4e3f33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""52e08c96-2ae6-4924-8afd-303e6cbabf53"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea7cc8c4-bf07-49b0-b0b7-9c405c999eb4"", ""inverseOntologyProperty"": """"}]"
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 79. Denucé, Forchoudt, p. 203 (c. 1680- Uit nalatenschap vadre Guill. Forchoudt?) 75. Out troniken van den ouden Brugel.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:221516,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002111,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4345</priref>
+			<number>AFG_058_025</number>
+			<part_of_reference>AFG_058_021</part_of_reference>
+			<content>Ad [Addendum] 79. Denuc&#233;, Forchoudt, p. 203 (c. 1680- Uit nalatenschap vadre Guill. Forchoudt?) 75. Out troniken van den ouden Brugel.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>60-61: 2 K&#246;pfe (rund) Neu 64-65. My N&#176; 79.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<documentation.author>Denuc&#233;, Jan</documentation.author>
+			<input.date>2013-03-21</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Bronnen voor de geschiedenis van de Vlaamse kunst</documentation.title>
+			<edit.time>12:07:53</edit.time>
+			<edit.time>15:35:54</edit.time>
+			<edit.time>13:55:18</edit.time>
+			<input.time>13:53:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2111,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2111/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c1a8aa92-2a72-507e-b81f-bc1729e6445f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6b457498-0abf-4aff-a507-0843b55f49e0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_025,repository numbers,,,,,,,,,,,,,,
+eb6fbece-92db-5652-9b28-432e696f310c,tg:rubgr:2111,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_025,titles proper,Dutch (language),,,,,,,,,,,

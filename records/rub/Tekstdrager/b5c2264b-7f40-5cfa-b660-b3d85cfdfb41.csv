@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2143,https://data.rubenianum.be//ark:/86530/b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,Handschriften,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""70f953f0-497d-4104-a222-5c92c10fa32d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""269a2a7c-c94f-42cc-b47a-703eed46c12a"", ""inverseOntologyProperty"": """"}]"
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Notities op kaft map]: Verlorene Gemälde: 61a-66. 61a: Bildnis Frau des Pieter Coecke; 62: Berg St Gotthard; 63: Landschaft mit Feuer; 63a: Schiff des Jonas; [Accolade bij nummers 63b t/m 63e][Notitie FG: 'Clovio']; 63b: Turm von Babel; 63c: Ansicht von Lyon; 63d: Baumstudie; 63e: Miniatur gemeinsam mit Clovio; 64: Kleine Schiffe (Rubens); 65: Eislauf beim Georgstor; 66: Kermis von Hoboken.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002143,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4377</priref>
+			<number>AFG_058_057</number>
+			<content>[Notities op kaft map]: Verlorene Gem&#228;lde: 61a-66. 61a: Bildnis Frau des Pieter Coecke; 62: Berg St Gotthard; 63: Landschaft mit Feuer; 63a: Schiff des Jonas; [Accolade bij nummers 63b t/m 63e][Notitie FG: 'Clovio']; 63b: Turm von Babel; 63c: Ansicht von Lyon; 63d: Baumstudie; 63e: Miniatur gemeinsam mit Clovio; 64: Kleine Schiffe (Rubens); 65: Eislauf beim Georgstor; 66: Kermis von Hoboken.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Coecke van Aelst, Pieter I</keyword>
+			<object.creator/>
+			<input.date>2013-04-04</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:46:05</edit.time>
+			<edit.time>16:27:52</edit.time>
+			<input.time>16:24:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2143,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2143/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""72f8e944-8617-59d8-b333-3167a26995d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c45ee111-d904-452c-b06b-bd0a8603c588"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_OriginalBrocade,,,au::4114,,,,,,,,,,,,,,rub,15ca51e1-53aa-543b-8fd8-9ddf60f2fe7c,kw,,au::4114:1,au::4114g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/440198"",""au::4114"",""au::4114:1"",""ark:/83110/x0/15ca51e1-53aa-543b-8fd8-9ddf60f2fe7c"",""Pieter Coecke""],""name"":""Pieter Coecke"",""ark"":""ark:/83110/x0/15ca51e1-53aa-543b-8fd8-9ddf60f2fe7c"",""uri"":""/agents/people/440198"",""id"":""au::4114:1"",""isCapacity"":false}",ark:/83110/x0/15ca51e1-53aa-543b-8fd8-9ddf60f2fe7c,agent,,,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_057,repository numbers,,,,,,,,,,,,,,
+b5c2264b-7f40-5cfa-b660-b3d85cfdfb41,tg:rubgr:2143,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_057,titles proper,Dutch (language),,,,,,,,,,,

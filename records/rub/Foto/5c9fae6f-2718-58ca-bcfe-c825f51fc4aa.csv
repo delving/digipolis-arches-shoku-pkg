@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3793,https://data.rubenianum.be//ark:/86530/5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,Foto's,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:3773,Verwijzing naar Grossmann object,,be415676-bbca-5af1-b0e7-badbf3214ca4,"[{""resourceId"": ""be415676-bbca-5af1-b0e7-badbf3214ca4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6a7abe8-2416-48a4-a90b-667bc0ceb2a0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1fa57280-2d2e-4dc1-8100-9dc0bc7a98b7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c17c207b-20f3-477a-896c-70523a3f1003"", ""inverseOntologyProperty"": """"}]"
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 wz/w foto. Witt Coll. 955: Savery,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003793,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6046</priref>
+			<number>AFG_099_031</number>
+			<part_of_reference>AFG_099_011</part_of_reference>
+			<content>1 wz/w foto. Witt Coll. 955: Savery</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>F. Grossmann, Naer het Leven.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator/>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>13:58:20</edit.time>
+			<input.time>15:12:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3793,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3793/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dcf22855-ecbb-5093-b2a3-07008f69e229"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f496de71-1e86-4b1a-8393-ca4dce15a778"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_031,repository numbers,,,,,,,,,,,
+5c9fae6f-2718-58ca-bcfe-c825f51fc4aa,tg:rubgr:3793,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_031,titles proper,Dutch (language),,,,,,,,
