@@ -1,9 +1,12 @@
 {
   "permitted_resource_relationships": [],
   "business_data_load_order": [
-    "Change History Log.csv",
-    "Foto_material.csv",
-    "Foto.csv"
+    "Object_material.csv",
+    "Object.csv",
+    "Iconografie_material.csv",
+    "Iconografie.csv",
+    "Tekstdrager_material.csv",
+    "Tekstdrager.csv"
   ],
   "bck_business_data_load_order": [
     "Change History Log.csv",
@@ -14,7 +17,9 @@
     "Tekstdrager_material.csv",
     "Tekstdrager.csv",
     "Affiche_material.csv",
-    "Affiche.csv"
+    "Affiche.csv",
+    "Foto_material.csv",
+    "Foto.csv"
 
   ]
 }
