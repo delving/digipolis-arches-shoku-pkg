@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2948,https://data.rubenianum.be//ark:/86530/9b000c04-dae6-5381-9953-776c3d165f97,Handschriften,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""89cc8beb-4da7-4cb0-920e-d0a3a8a3864f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f21b17d3-9d80-4102-84e0-c8fc4872b044"", ""inverseOntologyProperty"": """"}]"
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"R. [Raimond] van Marle, Vijftiende eeuwsche [...] twaalf maanden, in Tijdschrift voor Boek en Bibliotheekwezen IV (1906), p. 70",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Marle, Raimond van",,,,,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002948,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5193</priref>
+			<number>AFG_086_206</number>
+			<content>R. [Raimond] van Marle, Vijftiende eeuwsche [...] twaalf maanden, in Tijdschrift voor Boek en Bibliotheekwezen IV (1906), p. 70</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Marle, Raimond van</keyword>
+			<object.creator/>
+			<input.date>2014-04-15</input.date>
+			<edit.date>2014-04-15</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:46:14</edit.time>
+			<input.time>16:31:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2948,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2948/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d298e888-5a13-5f43-81ec-4492c618140c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""87224216-a9d9-43a8-890f-0441065ad4c3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_206,repository numbers,,,,,,,,,,,,,,
+9b000c04-dae6-5381-9953-776c3d165f97,tg:rubgr:2948,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_206,titles proper,Dutch (language),,,,,,,,,,,

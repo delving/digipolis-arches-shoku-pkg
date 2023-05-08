@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2640,https://data.rubenianum.be//ark:/86530/a112c1f9-4daf-54bf-8ea7-7af2f895f229,Foto's,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0e218153-1ca0-458f-b995-57b0cba6a180"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8db92f7b-ee00-4f80-bc0d-478961547617"", ""inverseOntologyProperty"": """"}]"
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 zw/w foto Notitie FG: Dr. Perman Coll. Sotheby's 1975; Matthijs Cock?,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cock, Matthijs",,,,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002640,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4882</priref>
+			<number>AFG_084_054</number>
+			<content>1 zw/w foto Notitie FG: Dr. Perman Coll. Sotheby's 1975; Matthijs Cock?</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Cock, Matthijs</keyword>
+			<keyword>Perman, Einar</keyword>
+			<object.creator/>
+			<input.date>2014-02-11</input.date>
+			<edit.date>2014-02-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:21:49</edit.time>
+			<input.time>16:00:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2640,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2640/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""97a442d3-39b1-5585-9f81-bc2a59a4b3c8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e3df2ad4-bd73-4bb5-a39b-0e1db8471c32"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_OriginalBrocade,,,au::32539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,b14aa34a-cbab-5a02-b3d4-a94e31d20b3d,kw,keywords,au::32539:1,au::32539g:1,,"dlod={""suggest"":[""/agents/people/3481673"",""au::32539"",""au::32539:1"",""ark:/83110/x0/b14aa34a-cbab-5a02-b3d4-a94e31d20b3d"",""E. Perman""],""name"":""E. Perman"",""ark"":""ark:/83110/x0/b14aa34a-cbab-5a02-b3d4-a94e31d20b3d"",""uri"":""/agents/people/3481673"",""id"":""au::32539:1"",""isCapacity"":false}",ark:/83110/x0/b14aa34a-cbab-5a02-b3d4-a94e31d20b3d,agent,,,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_054,repository numbers,,,,,,,,,,,
+a112c1f9-4daf-54bf-8ea7-7af2f895f229,tg:rubgr:2640,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_054,titles proper,Dutch (language),,,,,,,,

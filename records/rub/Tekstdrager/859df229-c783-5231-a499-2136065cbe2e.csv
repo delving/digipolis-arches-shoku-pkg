@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3027,https://data.rubenianum.be//ark:/86530/859df229-c783-5231-a499-2136065cbe2e,Handschriften,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""67878229-5e73-4db0-937c-fc51b67864e6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""79259c45-d8bc-4207-9496-1ef887063c70"", ""ontologyProperty"": """", ""resourceXresourceId"": ""be092814-fbc5-485d-bc89-4a4141bcc274"", ""inverseOntologyProperty"": """"}]"
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 61. Witt Library. Proverbs: 1) Berlin [...]; 2) Poor copy [...]; 3) S. Hartveld, Antwerp 1938 [...]; 4) Simken Forst Sale, Antwerp 2-III/1909 [...]; 5) Delahaye Sale, Salle Verlat, Antwerp 1904 [...]; [verso] Copy [...]; 7) Copy, P. de Boer, Amsterdam 1931 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003027,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5251</priref>
+			<number>AFG_089_027</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>[recto] Ad [Addendum] 61. Witt Library. Proverbs: 1) Berlin [...]; 2) Poor copy [...]; 3) S. Hartveld, Antwerp 1938 [...]; 4) Simken Forst Sale, Antwerp 2-III/1909 [...]; 5) Delahaye Sale, Salle Verlat, Antwerp 1904 [...]; [verso] Copy [...]; 7) Copy, P. de Boer, Amsterdam 1931 [...]</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:34:00</edit.time>
+			<edit.time>16:44:32</edit.time>
+			<input.time>16:22:44</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3027,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3027/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""afc63220-6864-5c17-9748-de90f7cb40a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""733499b5-bda8-41a8-b745-6f18c9fbca22"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_027,repository numbers,,,,,,,,,,,,,,
+859df229-c783-5231-a499-2136065cbe2e,tg:rubgr:3027,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_027,titles proper,Dutch (language),,,,,,,,,,,

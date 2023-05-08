@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5156,https://data.rubenianum.be//ark:/86530/13c34e08-6485-5ecd-872a-7676aa4a7671,Handschriften,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_AssociatedArchives,2,,,,,,AFG_021,isad:rub:2951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5138,Verwijzing naar Grossmann object,,53ee5291-159f-57ab-b0ed-83a11472f1e4,"[{""resourceId"": ""53ee5291-159f-57ab-b0ed-83a11472f1e4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""13f08bfa-64f0-4a2b-b166-56911d966a21"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c6ecef9e-062c-4986-b6fd-a261df888765"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d9317aa1-71fd-4c98-b1b9-2ccb8f930d90"", ""inverseOntologyProperty"": """"}]"
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Onvolledig] Ikonographie der Christ. Kunst, I, 1928, p. 394f. [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005156,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7412</priref>
+			<number>AFG_143_035</number>
+			<part_of_reference>AFG_143_017</part_of_reference>
+			<content>[Onvolledig] Ikonographie der Christ. Kunst, I, 1928, p. 394f. [...]</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Iconography</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:20:59</edit.time>
+			<input.time>12:08:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5156,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5156/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3e66a989-afe5-54ae-a2d0-42965cf78feb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""82173466-66e7-4c7e-ae26-912d0b76882d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_035,repository numbers,,,,,,,,,,,,,,
+13c34e08-6485-5ecd-872a-7676aa4a7671,tg:rubgr:5156,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_035,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:770,https://data.rubenianum.be//ark:/86530/df178fd2-a651-5aa5-a860-b95ba3f6721e,Handschriften,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3a31b4df-8582-481f-8714-503d48ddf6c0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e8fa2302-0d88-4112-9f1c-8fb70323000c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5fca113f-0050-49ee-bd1a-f5579038934e"", ""inverseOntologyProperty"": """"}]"
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto-verso] Tower of Babel: [Otto] Benesch: The Art of Renaissance in Northern Europe, [Its relation to the contemporary spiritual and intellectual movements], Cambridge, Mass.[Harvard University Press], 1945, citaat p. 128.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Benesch, Otto",,,,,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000770,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3021</priref>
+			<number>AFG_017_063</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<content>[recto-verso] Tower of Babel: [Otto] Benesch: The Art of Renaissance in Northern Europe, [Its relation to the contemporary spiritual and intellectual movements], Cambridge, Mass.[Harvard University Press], 1945, citaat p. 128.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Benesch, Otto</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-31</input.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-01-31</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:32:07</edit.time>
+			<edit.time>14:29:59</edit.time>
+			<edit.time>11:02:41</edit.time>
+			<input.time>10:56:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:770,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:770/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a930a26b-1188-508c-8913-9c13a1421bae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""40507b23-d027-44c3-abba-ea9069aef6d8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_063,repository numbers,,,,,,,,,,,,,,
+df178fd2-a651-5aa5-a860-b95ba3f6721e,tg:rubgr:770,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_063,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,10 @@
+ResourceID,mmb_id_mat,card,order,Acquisition Brocade ID,Acquisition Widget,Archive Brocade ID,Archive Widget,source_value,Dimension Value,Dimension Type,Dimension Measurement Unit,au_code,au_name,Production Actor Role,Production Actor Note,Production Actor Widget,Start Date,End Date,source_field,source_date,Restriction Type,Image URL,Image Manifest,Image Manifest Type,Image URL Type,Keeper,Object Number,Object Number Type,Object Identifier,Warehouse Location (begin),Warehouse Location (end),Object Type,Other Identifier Type,Other Identifier,Annotation Type,Annotation Language,Annotation
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,,AA,0,,,,,,,,,,,,,,,,,,,,,,,Museum Mayer van den Bergh,tg:mmbdc:66_#1,record identifiers,https://data.museummayervandenbergh.be/ark:/59511/acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,Doos A.XI,,financial records,record identifiers,MMB.A.1457,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_Acquisitions,1,vóór 1974 geschonken door Baudouin Cols,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_Archives,1,,,MMB.A.I.D.2.b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,,e22_Dimensions,,,,,,167 x 211 mm,167,hoogte,millimeters,,,,,,,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,,e22_Dimensions,,,,,,167 x 211 mm,211,breedte,millimeters,,,,,,,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_Images,1,,,,,,,,,,,,,,,,,,,https://dams.antwerpen.be/asset/m1SdoNaVRRU8KUhdYFCdPvvv,https://dams.antwerpen.be/iiif/m1SdoNaVRRU8KUhdYFCdPvvv/manifest,DAMS Manifest,DAMS Image,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_ProductionActors,1,,,,,,,,,,"Drosten, Robert",authors,"Drosten, Robert (Auteur)",,,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_ProductionTimeSpans,1,,,,,,,,,,,,,,1905-01-06,,,,,,,,,,,,,,,,,,,,
+acb05eb8-b42c-54e5-8ebe-ee2cce55dae0,tg:mmbdc:66_#1,e22_UsageRestrictions,,,,,,,,,,,,,,,,,begindatum,1905,permission required,,,,,,,,,,,,,,,,

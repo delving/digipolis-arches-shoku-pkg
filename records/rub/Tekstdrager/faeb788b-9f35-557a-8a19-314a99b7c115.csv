@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3961,https://data.rubenianum.be//ark:/86530/faeb788b-9f35-557a-8a19-314a99b7c115,Handschriften,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e6aec40f-00a9-411a-8d00-dc10f698d055"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1c4cc92c-e309-4205-bcf3-1068ea48928f"", ""inverseOntologyProperty"": """"}]"
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Ape & Peddlar, see L.M.C. Randall, Images in the margins of Gothic manuscripts, Berkeley : University of California Press, 1966, pp. 149-151, figs. 20-24.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Randall, Lilian M.C.",,,,,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003961,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6214</priref>
+			<number>AFG_102_076</number>
+			<content>Ad [Addendum] Bruegel: Ape &amp; Peddlar, see L.M.C. Randall, Images in the margins of Gothic manuscripts, Berkeley : University of California Press, 1966, pp. 149-151, figs. 20-24.</content>
+			<object.object_number>AFG_102</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Varia: Grossmann 242</object.title>
+			<keyword>Randall, Lilian M.C.</keyword>
+			<object.creator/>
+			<input.date>2014-06-27</input.date>
+			<edit.date>2014-06-27</edit.date>
+			<edit.date>2014-06-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:34:50</edit.time>
+			<edit.time>11:34:06</edit.time>
+			<input.time>11:32:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3961,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3961/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""96971d4f-75ea-5ab2-aab8-833ad25c1946"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6fa78562-875c-4ea6-a8ca-34c849b94777"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_076,repository numbers,,,,,,,,,,,,,,
+faeb788b-9f35-557a-8a19-314a99b7c115,tg:rubgr:3961,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_076,titles proper,Dutch (language),,,,,,,,,,,

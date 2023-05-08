@@ -1,0 +1,57 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1994,https://data.rubenianum.be//ark:/86530/74ebb1c3-1149-5749-a6cc-715af5494efe,Handschriften,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1987,Verwijzing naar Grossmann object,,5b91d30f-8aeb-59b9-88ab-021a53a4951a,"[{""resourceId"": ""5b91d30f-8aeb-59b9-88ab-021a53a4951a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""481620d5-030c-409f-868d-598207827e20"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bb2a7cd1-dc4d-4d60-ae26-22a0732c7075"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee853e42-9f1a-45e2-8b70-1ec34d66f741"", ""inverseOntologyProperty"": """"}]"
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 50. Rijksbureau. Streit beim Kartenspiel: 1) Dresden; 2) Sale Mevr. M. Borrens, Museum Haag 19-4-1939, N° 23, h. 53x66 vorher Sale Dordrecht, Coll. Wattecamp, 15-5-1934, N°4 und bezeichnet; 3) sehr schwach, sale Berlin 10-V-1921, N° 106; 4) Sale Brussel, 14-XI-1923, N° 33; 5) Sale H. Rouart, Paris 9-XII-1912; 6) Sale Michelsne & others, Frankfurt, 11-4-1922, N° 56 as Marten van Cleve; 7) Sale Staatl. Museen Berlin, München, 9. Juni 1937, N° 681; [toegevoegde vermelding]: 'nicht gut'; 8) Stich Prenner; 9) Stich von Vorsterman; Kopf München. Ausgez. Photo Rijksmuseum; [verso] Bauernpaar Budapest Hanfstangl; Engelsturz Foto ACL, Brussel N°5992C. viele gute Details; Babel Photo Wien Museum, N° A832; Kopie nach Wien Exh. De Boer 1936, 145 x 178 Holz; Selbstmord Sauls Museum Photo N° A 390.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001994,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4230</priref>
+			<number>AFG_055_025</number>
+			<part_of_reference>AFG_055_018</part_of_reference>
+			<content>[recto] Ad [Addendum] 50. Rijksbureau. Streit beim Kartenspiel: 1) Dresden; 2) Sale Mevr. M. Borrens, Museum Haag 19-4-1939, N&#176; 23, h. 53x66 vorher Sale Dordrecht, Coll. Wattecamp, 15-5-1934, N&#176;4 und bezeichnet; 3) sehr schwach, sale Berlin 10-V-1921, N&#176; 106; 4) Sale Brussel, 14-XI-1923, N&#176; 33; 5) Sale H. Rouart, Paris 9-XII-1912; 6) Sale Michelsne &amp; others, Frankfurt, 11-4-1922, N&#176; 56 as Marten van Cleve; 7) Sale Staatl. Museen Berlin, M&#252;nchen, 9. Juni 1937, N&#176; 681; [toegevoegde vermelding]: 'nicht gut'; 8) Stich Prenner; 9) Stich von Vorsterman; Kopf M&#252;nchen. Ausgez. Photo Rijksmuseum; [verso] Bauernpaar Budapest Hanfstangl; Engelsturz Foto ACL, Brussel N&#176;5992C. viele gute Details; Babel Photo Wien Museum, N&#176; A832; Kopie nach Wien Exh. De Boer 1936, 145 x 178 Holz; Selbstmord Sauls Museum Photo N&#176; A 390.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Doorstreept]: 57. Streit beim Kartenspiel. Kremsier [=Kromeriz, Erzbisch&#246;fliche Galerie]. My Nr. 50 provisional.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Reisnotitie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Den Haag, rijksbureau voor kunsthistorische documentatie</keyword>
+			<object.creator/>
+			<input.date>2013-03-06</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2013-03-06</edit.date>
+			<edit.date>2013-03-06</edit.date>
+			<edit.date>2013-03-06</edit.date>
+			<edit.date>2013-03-06</edit.date>
+			<edit.date>2013-03-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:27:44</edit.time>
+			<edit.time>15:04:50</edit.time>
+			<edit.time>14:59:13</edit.time>
+			<edit.time>14:51:25</edit.time>
+			<edit.time>14:39:38</edit.time>
+			<edit.time>14:38:24</edit.time>
+			<input.time>14:35:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1994,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1994/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""af7f0b86-a26c-5596-8e6a-e104d7233ec1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""87ba3927-ad70-4ab6-8d26-19d8fcce1899"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_OriginalBrocade,,,au::31138,,,,,,,,,,,,,,rub,fab9c8af-c93f-53b3-aa3f-4cea006fe809,kw,,au::31138:1,au::31138g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3331766"",""au::31138"",""au::31138:1"",""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]""],""name"":""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]"",""ark"":""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""uri"":""/agents/corporate_entities/3331766"",""id"":""au::31138:1"",""isCapacity"":false}",ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809,agent,,,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_025,repository numbers,,,,,,,,,,,,,,
+74ebb1c3-1149-5749-a6cc-715af5494efe,tg:rubgr:1994,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_025,titles proper,Dutch (language),,,,,,,,,,,

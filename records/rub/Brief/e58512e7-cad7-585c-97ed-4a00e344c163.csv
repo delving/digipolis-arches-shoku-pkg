@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5274,https://data.rubenianum.be//ark:/86530/e58512e7-cad7-585c-97ed-4a00e344c163,Brieven,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8e2a5177-e4ed-4a1c-9182-d81684a69715"", ""ontologyProperty"": """", ""resourceXresourceId"": ""981d7ebd-fc6c-485e-ad48-70daf2bde94b"", ""inverseOntologyProperty"": """"}]"
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_Correspondence,1,,,,,,,,,,,,,,,,"Winner, Matthias",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19741206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1974-12-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd Staatliche Museen Preussicher Kulturbesitz, Kupferstichkabinett, Berlin] Korte inhoud: [Taal, Duits] De tekeningen waarvan FG watermerkteken vraagt zijn vast gemonteerd. Wegens hoge werkdruk moet het uitgesteld worden. Het zal zeker moeten gebeuren n.a.v. de tentoonstelling.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winner, Matthias",,,,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005274,referentienummer,False,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7530</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_145_004</number>
+			<date.precise>1974-12-06</date.precise>
+			<content>[Briefhoofd Staatliche Museen Preussicher Kulturbesitz, Kupferstichkabinett, Berlin] Korte inhoud: [Taal, Duits] De tekeningen waarvan FG watermerkteken vraagt zijn vast gemonteerd. Wegens hoge werkdruk moet het uitgesteld worden. Het zal zeker moeten gebeuren n.a.v. de tentoonstelling.</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Winner, Matthias</keyword>
+			<sender>Winner, Matthias</sender>
+			<object.creator/>
+			<input.date>2014-08-19</input.date>
+			<edit.date>2014-08-19</edit.date>
+			<edit.date>2014-08-19</edit.date>
+			<edit.date>2014-08-19</edit.date>
+			<edit.date>2014-08-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:40:03</edit.time>
+			<edit.time>11:29:42</edit.time>
+			<edit.time>11:29:33</edit.time>
+			<edit.time>11:26:07</edit.time>
+			<input.time>11:25:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5274,brocade id,False,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5274/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b024da5b-397e-59fa-b8a9-5ef109f34d00"", ""ontologyProperty"": """", ""resourceXresourceId"": ""864ce27f-423f-4b13-a655-4e11c2dde36a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_004,repository numbers,,,,,,,,,,,
+e58512e7-cad7-585c-97ed-4a00e344c163,tg:rubgr:5274,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_004,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1832,https://data.rubenianum.be//ark:/86530/45f127ad-af8c-5b13-a13c-cf99c29a6635,Handschriften,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7bdac290-5ed3-47ea-a544-5dd1e480a69c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7c652983-43f1-4621-b521-75fd012fd71f"", ""inverseOntologyProperty"": """"}]"
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Magpie probably stayed in family, it was bequeathed to wife by Bruegel, and when Jan B. wrote to Borromeo he could not find any pictures for the cardinal, he probably did not want to part with the one, as it meant so much to him.(x) Artistically only hardly, becaus eof its meaning but grisaille and the Magpie were 'pauvreté' pictures. (x) Here I have to amend note 47 in Burl.Mag. 1952, p. 229; [verso] Great influence of Magpie on Gallows on Jan Brueghel compositionally again and again. Particularly interesting the picture of Jan (Thiery, pl. 45) when not only the background is reminiscent of the Darmstadt picture but: on the left there is a gallow with a magpie on it.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261571,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_ExternalRelationsExtras,a::rub.48,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56037,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thiery, Yvonne",,,,,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001832,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4083</priref>
+			<number>AFG_049_005</number>
+			<content>[recto] Magpie probably stayed in family, it was bequeathed to wife by Bruegel, and when Jan B. wrote to Borromeo he could not find any pictures for the cardinal, he probably did not want to part with the one, as it meant so much to him.(x) Artistically only hardly, becaus eof its meaning but grisaille and the Magpie were 'pauvret&#233;' pictures. (x) Here I have to amend note 47 in Burl.Mag. 1952, p. 229; [verso] Great influence of Magpie on Gallows on Jan Brueghel compositionally again and again. Particularly interesting the picture of Jan (Thiery, pl. 45) when not only the background is reminiscent of the Darmstadt picture but: on the left there is a gallow with a magpie on it.</content>
+			<object.object_number>AFG_049</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Magpie on the Gallows</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Grossmann, F.</keyword>
+			<keyword>Thiery, Yvonne</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Thiery, Yvonne</documentation.author>
+			<input.date>2013-02-07</input.date>
+			<edit.date>2014-10-03</edit.date>
+			<edit.date>2014-10-03</edit.date>
+			<edit.date>2014-10-03</edit.date>
+			<edit.date>2014-10-03</edit.date>
+			<edit.date>2014-10-03</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-02-07</edit.date>
+			<edit.date>2013-02-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark>PdS</documentation.shelfmark>
+			<documentation.title>paysage flamand au XVIIe si&#232;cle</documentation.title>
+			<edit.time>15:30:54</edit.time>
+			<edit.time>15:30:25</edit.time>
+			<edit.time>15:30:11</edit.time>
+			<edit.time>15:30:02</edit.time>
+			<edit.time>15:29:54</edit.time>
+			<edit.time>14:09:57</edit.time>
+			<edit.time>13:40:36</edit.time>
+			<edit.time>13:32:17</edit.time>
+			<input.time>13:31:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Le</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1832,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1832/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""49396b7c-75f8-5599-aad7-a8018fafe125"", ""ontologyProperty"": """", ""resourceXresourceId"": ""721f9537-d1e4-468e-96cb-8c6f5d320988"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_OriginalBrocade,,,au::111146,,,,,,,,,,,,,,rub,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,kw,,au::111146:1,au::111146g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,agent,,,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_049_005,repository numbers,,,,,,,,,,,,,,
+45f127ad-af8c-5b13-a13c-cf99c29a6635,tg:rubgr:1832,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_049_005,titles proper,Dutch (language),,,,,,,,,,,

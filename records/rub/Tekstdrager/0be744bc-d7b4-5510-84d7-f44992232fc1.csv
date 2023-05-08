@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3983,https://data.rubenianum.be//ark:/86530/0be744bc-d7b4-5510-84d7-f44992232fc1,Handschriften,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c69ba907-8a66-428e-87b7-4ad65e096bdc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54638dad-6aca-46d1-a781-a381f93fffef"", ""inverseOntologyProperty"": """"}]"
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19560731,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-07-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"RKD 1956 P.B. & Copies after P.B.; I Landscape, Religion, Varia",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Geloofsovertuiging,,,,,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,landschap,,,,,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003983,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6237</priref>
+			<number>AFG_103_011</number>
+			<date.precise>1956-07-31</date.precise>
+			<content>RKD 1956 P.B. &amp; Copies after P.B.; I Landscape, Religion, Varia</content>
+			<object.object_number>AFG_103</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>notitieboekje</editorial_form>
+			<object.title>Bruegel Travelnotes from Journeys 1952/53; Holland, Belgium 1956/57; France, Germany, Vienna</object.title>
+			<keyword>Geloofsovertuiging</keyword>
+			<keyword>landschap</keyword>
+			<object.creator/>
+			<input.date>2014-06-27</input.date>
+			<edit.date>2017-10-18</edit.date>
+			<edit.date>2014-06-27</edit.date>
+			<edit.date>2014-06-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Hilde Cuvelier</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:04:12</edit.time>
+			<edit.time>15:17:22</edit.time>
+			<edit.time>15:09:49</edit.time>
+			<input.time>14:50:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3983,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3983/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""34ac69b8-2e2a-5bc8-8f7f-8b5d74c72e0c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a99829d7-6562-4227-9f5e-b36ad208edb5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_011,repository numbers,,,,,,,,,,,,,,
+0be744bc-d7b4-5510-84d7-f44992232fc1,tg:rubgr:3983,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_011,titles proper,Dutch (language),,,,,,,,,,,

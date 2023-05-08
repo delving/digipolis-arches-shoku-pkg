@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3623,https://data.rubenianum.be//ark:/86530/9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,Handschriften,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f2ef0614-ddc5-4ffb-93c0-282172240af4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a6adce2f-ed0f-4905-b5ec-b56f9367f257"", ""inverseOntologyProperty"": """"}]"
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Budapest, way to Calvary after van Eyck. Dietrich schubert, Die Gemälde des Braunschweiger Monogrammist, Köln, 1970. Katalog Anhang, p. 210 A [...]; N° A3 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003623,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5876</priref>
+			<number>AFG_097_069</number>
+			<content>Budapest, way to Calvary after van Eyck. Dietrich schubert, Die Gem&#228;lde des Braunschweiger Monogrammist, K&#246;ln, 1970. Katalog Anhang, p. 210 A [...]; N&#176; A3 [...]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:13:18</edit.time>
+			<input.time>16:55:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3623,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3623/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7e635e3-e262-5a34-a0d4-e556cb8f1e55"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21ac5b47-df05-4841-94ce-33665d9a7a70"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_069,repository numbers,,,,,,,,,,,,,,
+9baa3f5d-77f7-5dcf-aa5c-8f44813cb705,tg:rubgr:3623,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_069,titles proper,Dutch (language),,,,,,,,,,,

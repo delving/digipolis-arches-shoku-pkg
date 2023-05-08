@@ -1,0 +1,63 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1576,https://data.rubenianum.be//ark:/86530/723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,Handschriften,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca966d09-e324-4a45-8afc-bbe407d0daa3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b7fb0341-93fc-4af8-8736-5f1e230d5000"", ""inverseOntologyProperty"": """"}]"
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Krüppel. F.G. Können das nicht als Leproze verkleidete Bettler sein. Die Leprozen hatten ein bestimmter Kostüm, cf. Jedlicka, Bruegel, p. 90 ... Verbote Karls V... der den Armen untersagte, ein vorgeschriebenen Kostüm der Aussätzigen zu betteln.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:412303,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_ExternalRelationsExtras,a::rub.42,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,257769,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kostuum,,,,,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jedlicka, Gotthard",,,,,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001576,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3827</priref>
+			<number>AFG_042_028</number>
+			<content>Ad [Addendum] Bruegel: Kr&#252;ppel. F.G. K&#246;nnen das nicht als Leproze verkleidete Bettler sein. Die Leprozen hatten ein bestimmter Kost&#252;m, cf. Jedlicka, Bruegel, p. 90 ... Verbote Karls V... der den Armen untersagte, ein vorgeschriebenen Kost&#252;m der Auss&#228;tzigen zu betteln.</content>
+			<object.object_number>AFG_042</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Cripples</object.title>
+			<keyword>kostuum</keyword>
+			<keyword>Jedlicka, Gotthard</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Jedlicka, Gotthard</documentation.author>
+			<input.date>2012-11-13</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-12-06</edit.date>
+			<edit.date>2012-12-06</edit.date>
+			<edit.date>2012-12-06</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel : der Maler in seiner Zeit</documentation.title>
+			<edit.time>12:19:09</edit.time>
+			<edit.time>16:27:32</edit.time>
+			<edit.time>16:26:27</edit.time>
+			<edit.time>15:50:19</edit.time>
+			<edit.time>10:21:14</edit.time>
+			<edit.time>16:00:55</edit.time>
+			<input.time>15:56:44</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1576,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1576/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a43849a9-68d3-5407-8859-5f6c9eabdebb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4001ef05-c49a-4067-ab4c-7fd1dfd7355b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_028,repository numbers,,,,,,,,,,,,,,
+723fbfb2-bd7b-5c22-a2dc-92981fb9f7b2,tg:rubgr:1576,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_028,titles proper,Dutch (language),,,,,,,,,,,

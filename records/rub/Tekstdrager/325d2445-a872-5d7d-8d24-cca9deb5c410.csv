@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4040,https://data.rubenianum.be//ark:/86530/325d2445-a872-5d7d-8d24-cca9deb5c410,Handschriften,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""509071bb-d851-4f5c-940d-0c8dbd2ea07f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43af789a-5a6b-4c03-9362-b46354ccf5d8"", ""inverseOntologyProperty"": """"}]"
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] Bruegel. Pierre Stevens (c. 1590-1658), Sale catalogue 13 August 1668 et jours suivants 'reprinted with same slight incorrections in S. Speth-Holterhoff, Les peintres flamands de cabinet d'amateurs au XVIIe siècle, Bruxelles 1957, pp. 197-199; see further, Jan Denucé, Na Peter Paul Rubens [...], Antwerpen 1949, citaten pp. 277--278, 296, 362, 401, 404, 406, 438.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261600,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13267598,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004040,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6293</priref>
+			<number>AFG_106_025</number>
+			<content>[3 bladen] Bruegel. Pierre Stevens (c. 1590-1658), Sale catalogue 13 August 1668 et jours suivants 'reprinted with same slight incorrections in S. Speth-Holterhoff, Les peintres flamands de cabinet d'amateurs au XVIIe si&#232;cle, Bruxelles 1957, pp. 197-199; see further, Jan Denuc&#233;, Na Peter Paul Rubens [...], Antwerpen 1949, citaten pp. 277--278, 296, 362, 401, 404, 406, 438.</content>
+			<object.object_number>AFG_106</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Inventories &amp; my contributions to Gl&#252;ck; Genealogy</object.title>
+			<keyword>Stevens, Peter</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>Speth-Holterhoff, S.</keyword>
+			<object.creator/>
+			<documentation.author>Speth-Holterhoff, S.</documentation.author>
+			<documentation.author>Denuc&#233;, Jan</documentation.author>
+			<input.date>2014-07-01</input.date>
+			<edit.date>2014-08-11</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<edit.date>2014-07-01</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark>PdS</documentation.shelfmark>
+			<documentation.shelfmark/>
+			<documentation.title>peintres flamands de cabinets d'amateurs au XVIIe si&#232;cle</documentation.title>
+			<documentation.title>Na Peter Paul Rubens : documenten uit den kunsthandel te Antwerpen in de XVIIe eeuw van Matthijs Musson</documentation.title>
+			<edit.time>14:37:04</edit.time>
+			<edit.time>09:09:52</edit.time>
+			<edit.time>09:01:02</edit.time>
+			<edit.time>08:46:53</edit.time>
+			<input.time>08:44:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Les</documentation.title.article>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4040,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4040/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1cbe1e7a-a540-5d8b-b91a-1d43ec544b8e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ea394db-fe82-49dc-be42-c19baf668577"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_OriginalBrocade,,,au::17629,,,,,,,,,,,,,,rub,915cf7aa-e46e-554f-a4c9-4d2e616e8465,kw,,au::17629:1,au::17629g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1886303"",""au::17629"",""au::17629:1"",""ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465"",""Peeter Stevens""],""name"":""Peeter Stevens"",""ark"":""ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465"",""uri"":""/agents/people/1886303"",""id"":""au::17629:1"",""isCapacity"":false}",ark:/83110/x0/915cf7aa-e46e-554f-a4c9-4d2e616e8465,agent,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_OriginalBrocade,,,au::37693,,,,,,,,,,,,,,rub,ba4e3c46-b79e-5247-82a7-29fa10cd5e8d,kw,,au::37693:1,au::37693g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4033151"",""au::37693"",""au::37693:1"",""ark:/83110/x0/ba4e3c46-b79e-5247-82a7-29fa10cd5e8d"",""Simone Speth-Holterhoff""],""name"":""Simone Speth-Holterhoff"",""ark"":""ark:/83110/x0/ba4e3c46-b79e-5247-82a7-29fa10cd5e8d"",""uri"":""/agents/people/4033151"",""id"":""au::37693:1"",""isCapacity"":false}",ark:/83110/x0/ba4e3c46-b79e-5247-82a7-29fa10cd5e8d,agent,,,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_025,repository numbers,,,,,,,,,,,,,,
+325d2445-a872-5d7d-8d24-cca9deb5c410,tg:rubgr:4040,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_025,titles proper,Dutch (language),,,,,,,,,,,

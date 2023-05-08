@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1091,https://data.rubenianum.be//ark:/86530/2f6ae55e-21fc-530a-bb74-ca046442bf05,Handschriften,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7183ebda-aebc-47a2-9271-9e4c9be9943e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4aa8860-8f9b-47ab-9f8b-be1cadcafd0a"", ""inverseOntologyProperty"": """"}]"
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 20ff Ad Months. Witt Library. H[endrick] van Balen each 116 x 170 cm: Spring, Summer, Autumn, Winter: always a combination of three months representations like the Bruegel drawings. Veiling 28 en 29 Januari 1942. Directie: Van Marle, De Sille & Baan, N° 27: Spring [beschrijving]; [verso] N° 28 Summer [beschrijving]; N° 29 Autumn [beschrijving]; N° 30 Winter [beschrijving]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Balen, Hendrik van",,,,,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001091,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3345</priref>
+			<number>AFG_023_039</number>
+			<content>[recto] Ad [Addendum] 20ff Ad Months. Witt Library. H[endrick] van Balen each 116 x 170 cm: Spring, Summer, Autumn, Winter: always a combination of three months representations like the Bruegel drawings. Veiling 28 en 29 Januari 1942. Directie: Van Marle, De Sille &amp; Baan, N&#176; 27: Spring [beschrijving]; [verso] N&#176; 28 Summer [beschrijving]; N&#176; 29 Autumn [beschrijving]; N&#176; 30 Winter [beschrijving]</content>
+			<object.object_number>AFG_023</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Series of the Months</object.title>
+			<keyword>Balen, Hendrik van</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-26</input.date>
+			<edit.date>2012-07-05</edit.date>
+			<edit.date>2012-07-05</edit.date>
+			<edit.date>2012-07-05</edit.date>
+			<edit.date>2012-07-05</edit.date>
+			<edit.date>2012-05-03</edit.date>
+			<edit.date>2012-04-26</edit.date>
+			<edit.date>2012-04-26</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:23:31</edit.time>
+			<edit.time>13:20:20</edit.time>
+			<edit.time>13:19:59</edit.time>
+			<edit.time>13:19:30</edit.time>
+			<edit.time>11:37:19</edit.time>
+			<edit.time>14:35:39</edit.time>
+			<edit.time>14:34:29</edit.time>
+			<input.time>14:24:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1091,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1091/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a977f9dd-b01e-5538-b181-647c598e5144"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0fb51292-c5dc-4795-8591-525fac4e3a32"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_039,repository numbers,,,,,,,,,,,,,,
+2f6ae55e-21fc-530a-bb74-ca046442bf05,tg:rubgr:1091,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_039,titles proper,Dutch (language),,,,,,,,,,,

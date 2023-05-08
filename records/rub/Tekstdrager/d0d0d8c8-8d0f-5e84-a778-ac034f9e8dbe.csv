@@ -1,0 +1,69 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4293,https://data.rubenianum.be//ark:/86530/d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,Handschriften,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b45fd985-a3e0-41a9-9393-435d9792d004"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6506731e-8a94-45c7-80b2-7f1d13aea8f1"", ""inverseOntologyProperty"": """"}]"
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Friederich Buchholz, Protestantismus und Kunst im sechzehnten Jahrhundert, Leipzig 1928; Christine O. Kibisch, 'Lucas Cranachs' Christ Blessing the Children. A Problem of Luherean Iconography, Art Bulletin XXXVII (Sept. 1955), pp. 196-203; Paul Lehfeldt, Luthers Verhältni szu Kunst und Künstlern, Berlin, 1892; Christian Rogge, Luther und die Kirchenbilder seiner Zeit, (Schriften des Vereins für Reformationsgeschichte ; 108), Leipzig : Verein für Reformationsgeschichte, 1912",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Buchholz, Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kibisch, Christine O.",,,,,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lehfeldt, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rogge, Christian",,,,,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004293,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6546</priref>
+			<number>AFG_111_088</number>
+			<content>Friederich Buchholz, Protestantismus und Kunst im sechzehnten Jahrhundert, Leipzig 1928; Christine O. Kibisch, 'Lucas Cranachs' Christ Blessing the Children. A Problem of Luherean Iconography, Art Bulletin XXXVII (Sept. 1955), pp. 196-203; Paul Lehfeldt, Luthers Verh&#228;ltni szu Kunst und K&#252;nstlern, Berlin, 1892; Christian Rogge, Luther und die Kirchenbilder seiner Zeit, (Schriften des Vereins f&#252;r Reformationsgeschichte ; 108), Leipzig : Verein f&#252;r Reformationsgeschichte, 1912</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Buchholz, Friedrich</keyword>
+			<keyword>Kibisch, Christine O.</keyword>
+			<keyword>Lehfeldt, Paul</keyword>
+			<keyword>Rogge, Christian</keyword>
+			<object.creator/>
+			<input.date>2014-07-08</input.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:02:28</edit.time>
+			<edit.time>14:01:18</edit.time>
+			<edit.time>14:00:12</edit.time>
+			<edit.time>13:58:33</edit.time>
+			<edit.time>13:57:33</edit.time>
+			<edit.time>13:56:27</edit.time>
+			<edit.time>13:55:42</edit.time>
+			<edit.time>13:47:02</edit.time>
+			<input.time>13:39:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4293,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4293/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7bcf120d-3c14-5ed9-85d1-c29064b44f12"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3754e11b-e096-4c83-b3a2-4637b1a05da0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_088,repository numbers,,,,,,,,,,,,,,
+d0d0d8c8-8d0f-5e84-a778-ac034f9e8dbe,tg:rubgr:4293,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_088,titles proper,Dutch (language),,,,,,,,,,,

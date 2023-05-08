@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4326,https://data.rubenianum.be//ark:/86530/e18f9618-2c41-57d3-8b16-9ca90cb5addb,Handschriften,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_AssociatedArchives,2,,,,,,AFG_046,isad:rub:2976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""25fb837b-3bee-4d43-b29b-129cd4499580"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7805c05e-3552-444f-8599-5eba37922431"", ""inverseOntologyProperty"": """"}]"
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel Good Shepherd (see also Holbein woodcut Dance of Death). Letter to Cardinal Albrecht von Brandenburg, Archbishop of Mainz, Wartburg, 1. Dec. 1521; Reprinted in Ludwig Grote, Mathias Grünewald. Die Erasmus-Mauritius-Tafel (Werkmonographien zur bildende Kunst), Stuttgart: Reclam, 1957, p. 27, n° VI [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grünewald, Matthias",,,,,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grote, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004326,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6579</priref>
+			<number>AFG_111_121</number>
+			<content>Ad [Addendum] Bruegel Good Shepherd (see also Holbein woodcut Dance of Death). Letter to Cardinal Albrecht von Brandenburg, Archbishop of Mainz, Wartburg, 1. Dec. 1521; Reprinted in Ludwig Grote, Mathias Gr&#252;newald. Die Erasmus-Mauritius-Tafel (Werkmonographien zur bildende Kunst), Stuttgart: Reclam, 1957, p. 27, n&#176; VI [...]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Gr&#252;newald, Matthias</keyword>
+			<keyword>Holbein, Hans II</keyword>
+			<keyword>Grote, Ludwig</keyword>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2014-07-09</input.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:22:18</edit.time>
+			<edit.time>09:21:17</edit.time>
+			<edit.time>09:20:39</edit.time>
+			<edit.time>09:17:10</edit.time>
+			<edit.time>09:17:03</edit.time>
+			<input.time>09:16:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4326,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4326/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9c23d6a8-344d-5140-9cf9-9aafc710b5de"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf443242-4344-41b5-8f3d-c7553bf6742e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_121,repository numbers,,,,,,,,,,,,,,
+e18f9618-2c41-57d3-8b16-9ca90cb5addb,tg:rubgr:4326,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_121,titles proper,Dutch (language),,,,,,,,,,,

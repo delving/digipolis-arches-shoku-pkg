@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4312,https://data.rubenianum.be//ark:/86530/174c5c43-ae87-5313-9812-f3995fe34da5,Handschriften,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7303b605-6637-4ee3-bade-4a9cd872c7d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7076ae46-05f0-471f-b337-36d376fd8ba4"", ""inverseOntologyProperty"": """"}]"
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel. Peasant generally. [George] Boas & [Arthur O.] Lovejoy, Primitivism and related Ideas in Antiquity, Baltimore: Johns Hopkins U.P., 1935; Bosch Temptation of St. Anthony Lisbon [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Boas, George",,,,,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lovejoy, Arthur O.",,,,,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004312,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6565</priref>
+			<number>AFG_111_107</number>
+			<content>Bruegel. Peasant generally. [George] Boas &amp; [Arthur O.] Lovejoy, Primitivism and related Ideas in Antiquity, Baltimore: Johns Hopkins U.P., 1935; Bosch Temptation of St. Anthony Lisbon [...]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Boas, George</keyword>
+			<keyword>Lovejoy, Arthur O.</keyword>
+			<object.creator/>
+			<input.date>2014-07-08</input.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:45:54</edit.time>
+			<edit.time>15:45:41</edit.time>
+			<edit.time>15:44:10</edit.time>
+			<edit.time>15:43:39</edit.time>
+			<input.time>15:40:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4312,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4312/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cb77ed48-4572-5419-80ff-73379f9189be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""19b47168-3524-4d23-b7de-84b98a944cff"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_107,repository numbers,,,,,,,,,,,,,,
+174c5c43-ae87-5313-9812-f3995fe34da5,tg:rubgr:4312,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_107,titles proper,Dutch (language),,,,,,,,,,,

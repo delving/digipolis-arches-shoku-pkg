@@ -1,0 +1,84 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2100,https://data.rubenianum.be//ark:/86530/e1b060df-3b98-51e1-a0a7-465bef95f067,Handschriften,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2091,Verwijzing naar Grossmann object,,e2970683-2be1-517c-ab50-1a614f97f7dd,"[{""resourceId"": ""e2970683-2be1-517c-ab50-1a614f97f7dd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8fdfac73-e290-4da5-ba92-9e94378ea38e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8ee5be8e-e760-4d3e-b2ef-9cf21e997c88"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63430207-ca12-4211-8e0c-5384c6f9233d"", ""inverseOntologyProperty"": """"}]"
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Glück 43. Catalogue de Tableaux, Dessins, Aquarelles, Gouaches et Miniatures...composant la collection Defer-Dumesnil dont la vente aura lieu Hôtel Drouot, les 10,11 et 12 Mai 1900, à 2 heures. Commissaires-Priseurs Me. Boudin, Me Foucault. Experts: Fèral Père et fils, A. Danlos (Paris) BRVEGHEL (Jean, dit Breughel de Velours) 1568-1625, 61 Le Christ tenté par le Démon [...]; [toegevoegde vermelding FG]: cf. Wien Jan Brueghel III, Lugt in Friedländer Festschrift, Zeichnung bei Seilern. [Vincenc] Kramár, [O jedné vlámské Kresbe Národní Galerie], in PAMÁTKY Historie, XLIII-1948 (Praha 1949), pp. 33-40 [=44].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kramár, Vincenc",,,,,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002100,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4334</priref>
+			<number>AFG_058_014</number>
+			<part_of_reference>AFG_058_005</part_of_reference>
+			<content>Ad [Addendum] Gl&#252;ck 43. Catalogue de Tableaux, Dessins, Aquarelles, Gouaches et Miniatures...composant la collection Defer-Dumesnil dont la vente aura lieu H&#244;tel Drouot, les 10,11 et 12 Mai 1900, &#224; 2 heures. Commissaires-Priseurs Me. Boudin, Me Foucault. Experts: F&#232;ral P&#232;re et fils, A. Danlos (Paris) BRVEGHEL (Jean, dit Breughel de Velours) 1568-1625, 61 Le Christ tent&#233; par le D&#233;mon [...]; [toegevoegde vermelding FG]: cf. Wien Jan Brueghel III, Lugt in Friedl&#228;nder Festschrift, Zeichnung bei Seilern. [Vincenc] Kram&#225;r, [O jedn&#233; vl&#225;msk&#233; Kresbe N&#225;rodn&#237; Galerie], in PAM&#193;TKY Historie, XLIII-1948 (Praha 1949), pp. 33-40 [=44].</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>43. Versuchung Christi.  [Doorstreept]: 49. Provisionally N&#176; 76 [Doorstreept]: 53, 75</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Lugt, Frits</keyword>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Seilern, Antoine</keyword>
+			<keyword>Kram&#225;r, Vincenc</keyword>
+			<object.creator/>
+			<input.date>2013-03-20</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-02-07</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<edit.date>2013-03-20</edit.date>
+			<edit.date>2013-03-20</edit.date>
+			<edit.date>2013-03-20</edit.date>
+			<edit.date>2013-03-20</edit.date>
+			<edit.date>2013-03-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:54:26</edit.time>
+			<edit.time>10:52:46</edit.time>
+			<edit.time>11:19:11</edit.time>
+			<edit.time>11:16:15</edit.time>
+			<edit.time>11:13:34</edit.time>
+			<edit.time>15:26:58</edit.time>
+			<edit.time>15:26:41</edit.time>
+			<edit.time>13:56:05</edit.time>
+			<edit.time>13:40:21</edit.time>
+			<edit.time>13:38:35</edit.time>
+			<input.time>13:36:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2100,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2100/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d4e0ab04-a754-54b5-8256-7659d8180e5b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee8fc062-a712-4455-81ff-aab7292c10a0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_014,repository numbers,,,,,,,,,,,,,,
+e1b060df-3b98-51e1-a0a7-465bef95f067,tg:rubgr:2100,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_014,titles proper,Dutch (language),,,,,,,,,,,

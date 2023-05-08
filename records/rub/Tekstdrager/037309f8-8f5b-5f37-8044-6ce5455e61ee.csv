@@ -1,0 +1,87 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:791,https://data.rubenianum.be//ark:/86530/037309f8-8f5b-5f37-8044-6ce5455e61ee,Handschriften,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3c62cb0e-8a64-47cc-9c72-91643a01da0f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:786,Verwijzing naar Grossmann object,,a8844ef0-dd62-591f-b6e2-d7f2e3e03184,"[{""resourceId"": ""a8844ef0-dd62-591f-b6e2-d7f2e3e03184"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ad6ae4d3-4550-47bf-8f85-80d35216b2d9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c9217294-37f7-4922-93a4-43ab72679c92"", ""ontologyProperty"": """", ""resourceXresourceId"": ""183c4a24-915d-4282-8ae8-a8dad5fdae0f"", ""inverseOntologyProperty"": """"}]"
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Brueghel [sic]: Babylon. Turm, cf. Marc Anton Michiel (ca. 1525) abgedruckt bei [Theodor von] Frimmel, Beilage der Blätter f[ür] Gemäldekunde, II, Leipzig, Mai 1907, citaat p. 57; [Felix] Becker, Schriftquellen zur Geschichte der altniederländischen Kunst [=Malerei nach den Hauptmeistern chronologisch geordnet], Leipzig [Sellmann & Henne], 1897.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13262056,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Becker, Felix",,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Michiel, Marcantonio",,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frimmel, Theodor von",,,,,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000791,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3042</priref>
+			<number>AFG_017_084</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<part_of_reference>AFG_017_079</part_of_reference>
+			<content>Ad [Addendum] Brueghel [sic]: Babylon. Turm, cf. Marc Anton Michiel (ca. 1525) abgedruckt bei [Theodor von] Frimmel, Beilage der Bl&#228;tter f[&#252;r] Gem&#228;ldekunde, II, Leipzig, Mai 1907, citaat p. 57; [Felix] Becker, Schriftquellen zur Geschichte der altniederl&#228;ndischen Kunst [=Malerei nach den Hauptmeistern chronologisch geordnet], Leipzig [Sellmann &amp; Henne], 1897.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<part_of.title>Tower of Babel (Venice) Vendramin Catalogue (ed. Borenius) [= Tancred Borenius (ed.), The Picture Gallery of Andrea Vendramin: The Text of the Original Catalogue, with Reproductions of the Drawings and with Notes, London: Medici Society, 1923]. Scorel.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Becker, Felix</keyword>
+			<keyword>Michiel, Marcantonio</keyword>
+			<keyword>Frimmel, Theodor von</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Frimmel, Theodor von</documentation.author>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2018-05-23</edit.date>
+			<edit.date>2014-11-07</edit.date>
+			<edit.date>2014-11-07</edit.date>
+			<edit.date>2014-11-07</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Anonimo Morelliano (Marcanton Michiel's notizia d' opere del disegno) : Text und &#220;bersetzung</documentation.title>
+			<edit.time>16:18:50</edit.time>
+			<edit.time>16:47:49</edit.time>
+			<edit.time>16:47:35</edit.time>
+			<edit.time>16:46:44</edit.time>
+			<edit.time>11:55:05</edit.time>
+			<edit.time>14:27:19</edit.time>
+			<edit.time>14:26:24</edit.time>
+			<edit.time>15:25:10</edit.time>
+			<edit.time>10:38:13</edit.time>
+			<edit.time>10:29:04</edit.time>
+			<input.time>10:27:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Der</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:791,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:791/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""91221a6c-907b-54f1-a6f3-c08a32e06dd4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3bd65fcf-5097-457f-bbdf-a63e955368f8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_084,repository numbers,,,,,,,,,,,,,,
+037309f8-8f5b-5f37-8044-6ce5455e61ee,tg:rubgr:791,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_084,titles proper,Dutch (language),,,,,,,,,,,

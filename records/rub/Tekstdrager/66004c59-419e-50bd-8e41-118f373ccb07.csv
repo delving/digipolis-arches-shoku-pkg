@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3168,https://data.rubenianum.be//ark:/86530/66004c59-419e-50bd-8e41-118f373ccb07,Handschriften,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a4c47ed1-59cb-4326-b44d-cd90df3f19a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""89a73a3e-6618-4804-a23c-10a554b46db5"", ""inverseOntologyProperty"": """"}]"
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] St. Martin, Vienna. Inv. Prag, 6 Dec.1621, Jb. XXV, 1905, p. XLI: 986 Sanct Martin mit der petlern vom Hieronymus Boß (Orig.) (cf. 1648, Granberg 1897, p. IV: 13 St Martin im Schiff mit dem Petler.)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13264832,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Granberg, Olof",,,,,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003168,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5494</priref>
+			<number>AFG_090_088</number>
+			<content>Ad [Addendum] St. Martin, Vienna. Inv. Prag, 6 Dec.1621, Jb. XXV, 1905, p. XLI: 986 Sanct Martin mit der petlern vom Hieronymus Bo&#223; (Orig.) (cf. 1648, Granberg 1897, p. IV: 13 St Martin im Schiff mit dem Petler.)</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Granberg, Olof</keyword>
+			<object.creator/>
+			<documentation.author>Granberg, Olof</documentation.author>
+			<input.date>2014-06-13</input.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Catalogue raisonn&#233; de tableaux anciens inconnus jusqu'ici dans les collections priv&#233;es de la Su&#232;de : I : contenant 500 tableaux, prinicpalement des &#233;coles hollandaise et flamande du XVIIe si&#232;cle</documentation.title>
+			<edit.time>10:59:08</edit.time>
+			<edit.time>10:58:48</edit.time>
+			<input.time>10:58:33</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3168,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3168/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""292b3b85-ed7d-5458-a3e5-8d3d4bf6c4a1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ec591c1a-9af1-4697-8e72-dfa06d736acb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_088,repository numbers,,,,,,,,,,,,,,
+66004c59-419e-50bd-8e41-118f373ccb07,tg:rubgr:3168,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_088,titles proper,Dutch (language),,,,,,,,,,,

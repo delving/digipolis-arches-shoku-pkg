@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:324,https://data.rubenianum.be//ark:/86530/9b27b108-c363-52c9-b5fe-9c2b58cdf97f,Handschriften,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:336,Verwijzing naar Grossmann object,,43b9664a-a4bd-5a52-b322-eaf31742c673,"[{""resourceId"": ""43b9664a-a4bd-5a52-b322-eaf31742c673"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69a44437-48aa-4116-8457-cc3f3c9b2865"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:348,Verwijzing naar Grossmann object,,df189aed-1b3e-5489-af24-97b5737459de,"[{""resourceId"": ""df189aed-1b3e-5489-af24-97b5737459de"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4ffc7c4f-1c9d-494c-aa08-cd362102b583"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c36ec261-733b-4016-a5c4-1a90fd786267"", ""ontologyProperty"": """", ""resourceXresourceId"": ""60eb5a54-fb58-4a80-a410-538df384c43c"", ""inverseOntologyProperty"": """"}]"
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19530526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953-05-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[4 bladen] [blad 1] Ad [Addendum] 5: Wiesbaden, 26-5-53. Bruegel: Sprichwörter ziemlich breit gemalt. Rechts unten bez.: BRVEGEL 155/69. Die zweite 5 ist leichter [onleesbaar] übergangen u. beinahe in eine 6 verandert. [blad 1-4: beschrijving]; [blad 4, verso] Jan Brueghel's Paradies [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wiesbaden, Museum Wiesbaden, Kunstsammlungen",,,,,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000324,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>2573</priref>
+<number>AFG_006_038</number>
+<part_of_reference>AFG_006_050</part_of_reference>
+<date.precise>1953-05-26</date.precise>
+<content>[4 bladen] [blad 1] Ad [Addendum] 5: Wiesbaden, 26-5-53. Bruegel: Sprichwörter ziemlich breit gemalt. Rechts unten bez.: BRVEGEL 155/69. Die zweite 5 ist leichter [onleesbaar] übergangen u. beinahe in eine 6 verandert. [blad 1-4: beschrijving]; [blad 4, verso] Jan Brueghel's Paradies [...][scan]</content>
+<part_of.title>Grace FRANK & Dorothy MINER, Proverbes en rimes. [Text and illustrations of the fifteenth century from a French manuscript in the Walters Art Gallery], Baltimore [The Johns Hopkins Press], 1937, pp. 1-30, 85-86, 111-117, pls. xc, clxxxv; [2 bladen eraan vastgehecht]: Ad [Addendum Bruegel: Proverbs. See French MS. (Lyonnais or Savoie), c. 1480-95) in Walters Art Gallery, Baltimore: ""Proverbes en Rimes (with 182 pen drawings) [...]; See Grace FRANK & Dorothy MINER, [o.c.], 1937. Also referred to by Timothy Foot [= Foote], The World of Bruegel, [c. 1525-1569], N.Y. (Time-Life), 1969 [= 1968], p. 142; Exh. in University of Kansas Mus. of Art, 'The Waning Middle Ages', 1969 [= J.L. Schrader (ed.), The waning Middle Ages; an exhibition of French and Netherlandish art from 1350 to 1500, commemorating the fiftieth anniversary of the publication of The waning of the Middle Ages by Johan Huizinga, Lawrence, University of Kansas Museum of Art, 1969], N° 16 (pl. LVI & LVII).</part_of.title>
+<parts.title>Wiesbaden, Neues Museum</parts.title>
+<class>AFG</class>
+<editorial_form>Reisnotitie</editorial_form>
+<keyword>Brueghel, Jan I</keyword>
+<keyword>Wiesbaden, Museum Wiesbaden, Kunstsammlungen</keyword>
+<input.date>2011-09-20</input.date>
+<edit.date>2014-10-23</edit.date>
+<edit.date>2014-08-22</edit.date>
+<edit.date>2011-11-16</edit.date>
+<edit.date>2011-11-15</edit.date>
+<edit.date>2011-11-15</edit.date>
+<edit.date>2011-09-28</edit.date>
+<edit.date>2011-09-28</edit.date>
+<edit.date>2011-09-20</edit.date>
+<edit.date>2011-09-20</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<parts_reference>AFG_006_062</parts_reference>
+<edit.time>15:12:54</edit.time>
+<edit.time>14:23:48</edit.time>
+<edit.time>12:29:44</edit.time>
+<edit.time>10:32:51</edit.time>
+<edit.time>10:32:43</edit.time>
+<edit.time>15:28:42</edit.time>
+<edit.time>15:27:19</edit.time>
+<edit.time>16:09:54</edit.time>
+<edit.time>16:08:12</edit.time>
+<input.time>15:04:45</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:324,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:324/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""69641b90-8c1e-5150-b90e-8fec84a0787b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""671a5587-a5d5-4e09-b20f-a69e7a0be64b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_038,repository numbers,,,,,,,,,,,,,,
+9b27b108-c363-52c9-b5fe-9c2b58cdf97f,tg:rubgr:324,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_038,titles proper,Dutch (language),,,,,,,,,,,

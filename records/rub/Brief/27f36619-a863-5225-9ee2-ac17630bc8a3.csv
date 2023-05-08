@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4520,https://data.rubenianum.be//ark:/86530/27f36619-a863-5225-9ee2-ac17630bc8a3,Brieven,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5d0ca049-d2e3-49c7-9921-8b26975e3ee3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a50d1882-e524-4a1d-900a-b6871d4cf3b5"", ""inverseOntologyProperty"": """"}]"
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1970.0,2085,In Copyright,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_Correspondence,1,,,,,,,,,,,,,,,,"Hahn, Emeric",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19700617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1970-06-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Heeft het werk in 1969 gezien bij Sotheby. Denkt niet aan Patinir.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004520,referentienummer,False,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6773</priref>
+			<recipient>Hahn, Emeric</recipient>
+			<number>AFG_116_007</number>
+			<date.precise>1970-06-17</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Heeft het werk in 1969 gezien bij Sotheby. Denkt niet aan Patinir.</content>
+			<object.object_number>AFG_116</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Miscellanea Bruegel &amp; others not needed at present</object.title>
+			<keyword>Patinir, Joachim</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator/>
+			<input.date>2014-07-15</input.date>
+			<edit.date>2014-07-15</edit.date>
+			<edit.date>2014-07-15</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:56:18</edit.time>
+			<edit.time>15:52:59</edit.time>
+			<input.time>15:46:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4520,brocade id,False,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4520/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1f48cf2a-f0c7-5bfd-9fbd-23c322c07ec4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""92fc5737-5a26-43ab-86c7-249d2ce6d0c4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_OriginalBrocade,,,au::45623,,,,,,,,,,,,,,,,rub,,7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,kw,au::45623:1,au::45623g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4881661"",""au::45623"",""au::45623:1"",""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""Joachim Patenir""],""name"":""Joachim Patenir"",""ark"":""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""uri"":""/agents/people/4881661"",""id"":""au::45623:1"",""isCapacity"":false}",ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,agent,,,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_007,repository numbers,,,,,,,,,,,
+27f36619-a863-5225-9ee2-ac17630bc8a3,tg:rubgr:4520,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_007,titles proper,Dutch (language),,,,,,,,

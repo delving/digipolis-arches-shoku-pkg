@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:811,https://data.rubenianum.be//ark:/86530/ec285ce3-28af-52dd-b8ed-2288c8889793,Foto's,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,gerelateerd onderdeel,tg:rubgr:808,Verwijzing naar Grossmann object,,184b3b4e-f741-557f-b1a3-2281f3f512ec,"[{""resourceId"": ""184b3b4e-f741-557f-b1a3-2281f3f512ec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a08e303-3bb2-4966-bc7c-f0ce1b7d13aa"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c0bd6b46-256e-46e5-bf45-a6d09122ed28"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9b678bfc-b239-4fb3-b0ad-f8acd3e959c5"", ""inverseOntologyProperty"": """"}]"
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,2 zwart/wit foto's: blanco.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,241870,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000811,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3062</priref>
+			<number>AFG_017_104</number>
+			<content>2 zwart/wit foto's: blanco.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<parts.title>Korte inhoud: Zending 2 foto's, vraag om advies op aanraden van Peter Murray.</parts.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_017_101</parts_reference>
+			<edit.time>16:22:05</edit.time>
+			<edit.time>12:17:33</edit.time>
+			<edit.time>14:59:49</edit.time>
+			<edit.time>14:59:05</edit.time>
+			<input.time>14:58:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:811,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:811/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f4555a4f-7c16-5f34-b566-7aaf45dbb790"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae26ad13-ee1a-4b37-8e5c-f14fdf9a730b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_104,repository numbers,,,,,,,,,,,
+ec285ce3-28af-52dd-b8ed-2288c8889793,tg:rubgr:811,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_104,titles proper,Dutch (language),,,,,,,,

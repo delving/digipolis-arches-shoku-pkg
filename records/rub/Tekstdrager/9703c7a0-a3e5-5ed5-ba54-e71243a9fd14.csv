@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3195,https://data.rubenianum.be//ark:/86530/9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,Handschriften,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1dec5653-6a6a-4dd6-b3a1-583cc7ae495f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""106ed79e-6434-4ee4-bb3a-da7dc5166565"", ""inverseOntologyProperty"": """"}]"
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mayer van den Bergh, Proverbs. .Ed. [Edouard] Michel, Bruegel ou non Bruegel, Les Arts plastiques, 11 [-12], 1948, citaat p. 466.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003195,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5521</priref>
+			<number>AFG_090_115</number>
+			<content>Mayer van den Bergh, Proverbs. .Ed. [Edouard] Michel, Bruegel ou non Bruegel, Les Arts plastiques, 11 [-12], 1948, citaat p. 466.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Michel, Edouard</keyword>
+			<object.creator/>
+			<input.date>2014-06-17</input.date>
+			<edit.date>2014-06-17</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:39:24</edit.time>
+			<input.time>09:38:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3195,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3195/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ee22120e-caad-50d2-b213-5b068545a2cc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""79b87d30-7a04-402f-9b42-a232fe0cf515"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_OriginalBrocade,,,au::12812,,,,,,,,,,,,,,rub,a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4,kw,,au::12812:1,au::12812g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1370884"",""au::12812"",""au::12812:1"",""ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4"",""Edouard Michel""],""name"":""Edouard Michel"",""ark"":""ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4"",""uri"":""/agents/people/1370884"",""id"":""au::12812:1"",""isCapacity"":false}",ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4,agent,,,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_115,repository numbers,,,,,,,,,,,,,,
+9703c7a0-a3e5-5ed5-ba54-e71243a9fd14,tg:rubgr:3195,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_115,titles proper,Dutch (language),,,,,,,,,,,

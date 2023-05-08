@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4246,https://data.rubenianum.be//ark:/86530/a7e90956-6ebb-516b-9d95-4743dbae036f,Handschriften,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_AssociatedArchives,2,,,,,,AFG_054,isad:rub:2984,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c62beee6-7dbd-4194-9013-e7b52dfb4a8b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""93cb2bb2-bdfe-437f-b513-fc0920c54940"", ""inverseOntologyProperty"": """"}]"
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Ad [Addendum] Landscape with Sailing Boats and Burning Town (Grossmann, pl. 1)[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004246,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6499</priref>
+			<number>AFG_111_041</number>
+			<content>[2 bladen] Ad [Addendum] Landscape with Sailing Boats and Burning Town (Grossmann, pl. 1)[scan]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_054</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Landscape with Sailing Boats and a Burning Town</object.title>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2014-07-07</input.date>
+			<edit.date>2014-07-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:10:20</edit.time>
+			<input.time>14:09:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4246,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4246/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1bd4ef07-6e86-5a6d-a932-0d3c211ce8bd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fd3fd045-69b6-4745-a1e5-07c6d009001d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_041,repository numbers,,,,,,,,,,,,,,
+a7e90956-6ebb-516b-9d95-4743dbae036f,tg:rubgr:4246,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_041,titles proper,Dutch (language),,,,,,,,,,,

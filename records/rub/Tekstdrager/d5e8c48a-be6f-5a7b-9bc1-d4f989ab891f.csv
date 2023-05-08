@@ -1,0 +1,80 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:112,https://data.rubenianum.be//ark:/86530/d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,Handschriften,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:105,Verwijzing naar Grossmann object,,3a56d602-9a46-5c5b-a7cc-309bdc34ce40,"[{""resourceId"": ""3a56d602-9a46-5c5b-a7cc-309bdc34ce40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ec5718aa-43f7-4ea2-9608-a4ccb1ef93f1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e0527789-ae40-4bdd-820b-58b5b3756873"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d5fa660c-5d3d-4b21-8383-399549e7cfa8"", ""inverseOntologyProperty"": """"}]"
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Icarus: [Pierre Bersuire] Thomas Walleys, Metamorphosis ovidiana moraliter magistro Thomas Walleys Anglico de professione predicatorum sub sanctissimo patre Dominico explanata. Pencz 1511, citaat p. 60.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bersuire, Pierre, 1290 (ca.)-1362",,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Waleys, Thomas ca. 1287-1350?",,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ovidius,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pencz, Jorg",,,,,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000112,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2351</priref>
+			<number>AFG_003_040</number>
+			<part_of_reference>AFG_003_033</part_of_reference>
+			<content>Icarus: [Pierre Bersuire] Thomas Walleys, Metamorphosis ovidiana moraliter magistro Thomas Walleys Anglico de professione predicatorum sub sanctissimo patre Dominico explanata. Pencz 1511, citaat p. 60.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel Icarus: bevat correspondentie, notities en referenties.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Bersuire, Pierre, 1290 (ca.)-1362</keyword>
+			<keyword>Waleys, Thomas ca. 1287-1350?</keyword>
+			<keyword>Ovidius</keyword>
+			<keyword>Pencz, Jorg</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-23</input.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:06:45</edit.time>
+			<edit.time>11:40:54</edit.time>
+			<edit.time>10:21:12</edit.time>
+			<edit.time>11:24:49</edit.time>
+			<edit.time>11:22:45</edit.time>
+			<edit.time>15:36:09</edit.time>
+			<edit.time>09:56:57</edit.time>
+			<edit.time>08:37:02</edit.time>
+			<edit.time>08:35:59</edit.time>
+			<edit.time>08:35:26</edit.time>
+			<input.time>08:23:14</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:112,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:112/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8504edb-8fa1-5bda-af3a-091e955c4a2b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f14306ba-1c5d-48a3-aad6-71bfb5025975"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_040,repository numbers,,,,,,,,,,,,,,
+d5e8c48a-be6f-5a7b-9bc1-d4f989ab891f,tg:rubgr:112,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_040,titles proper,Dutch (language),,,,,,,,,,,

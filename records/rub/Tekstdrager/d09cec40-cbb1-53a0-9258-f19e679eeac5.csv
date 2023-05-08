@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4104,https://data.rubenianum.be//ark:/86530/d09cec40-cbb1-53a0-9258-f19e679eeac5,Handschriften,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4097,Verwijzing naar Grossmann object,,4d8ae499-26f5-5604-8be3-0bea7dcfdf60,"[{""resourceId"": ""4d8ae499-26f5-5604-8be3-0bea7dcfdf60"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5f3a3076-6505-49cb-8462-9a8671476756"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c257c5af-6635-4d1d-8c1a-0a4614b3b8da"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f73a549d-3f0f-4bf2-acf2-9f1e321c9e55"", ""inverseOntologyProperty"": """"}]"
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960.0,2075,In Copyright,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19600225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960-02-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[6 handgeschreven bladen] Warburg 25-2-60. Netherlands: XVIC. Late Gothic Mannerism & the impact of Italy; [2 x 2 projectielijst, getypt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004104,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6357</priref>
+			<number>AFG_108_025</number>
+			<part_of_reference>AFG_108_018</part_of_reference>
+			<date.precise>1960-02-25</date.precise>
+			<content>[6 handgeschreven bladen] Warburg 25-2-60. Netherlands: XVIC. Late Gothic Mannerism &amp; the impact of Italy; [2 x 2 projectielijst, getypt]</content>
+			<object.object_number>AFG_108</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Warburg 25-2-60: Late Gothic Mannerism &amp; Italy.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>handschrift</editorial_form>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>Bruegel &amp; Ortelius</object.title>
+			<object.creator/>
+			<input.date>2014-07-02</input.date>
+			<edit.date>2014-07-02</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:12:18</edit.time>
+			<input.time>12:12:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4104,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4104/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9eb6b5db-6101-5b13-aa22-4fec97e98be7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1cda6d49-b405-4962-abb9-9c0b3ed1de4e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_108_025,repository numbers,,,,,,,,,,,,,,
+d09cec40-cbb1-53a0-9258-f19e679eeac5,tg:rubgr:4104,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_108_025,titles proper,Dutch (language),,,,,,,,,,,

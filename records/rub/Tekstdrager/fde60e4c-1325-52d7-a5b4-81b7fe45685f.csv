@@ -1,0 +1,88 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1430,https://data.rubenianum.be//ark:/86530/fde60e4c-1325-52d7-a5b4-81b7fe45685f,Handschriften,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3c616359-f83b-47fb-bc97-5b0baa013aa3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aef24662-0882-45c1-a8cb-305469fbccfd"", ""inverseOntologyProperty"": """"}]"
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 27? [sic] [Gustav Friedrich] Waagen, [= Treasures of art in Great Britain : being an account of the chief collections of paintings, drawings, sculptures, illuminated mss., &c. &c., London: John Murray], III, 1854 Thirlestaine [sic] House Lord Northwick's collection, p. 206 Jan Breughel - A landscape, with the preaching of St. John; a rich and valuable picture of miniature-like execution; cf. Orleans Gallery.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:1099083,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54753,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Waagen, Gustav Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Blockley, Northwick Park",,,,,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001430,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3679</priref>
+			<number>AFG_038_036</number>
+			<content>Ad [Addendum] 27? [sic] [Gustav Friedrich] Waagen, [= Treasures of art in Great Britain : being an account of the chief collections of paintings, drawings, sculptures, illuminated mss., &amp;c. &amp;c., London: John Murray], III, 1854 Thirlestaine [sic] House Lord Northwick's collection, p. 206 Jan Breughel - A landscape, with the preaching of St. John; a rich and valuable picture of miniature-like execution; cf. Orleans Gallery.</content>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Waagen, Gustav Friedrich</keyword>
+			<keyword>Blockley, Northwick Park</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Waagen, Gustav Friedrich</documentation.author>
+			<input.date>2012-08-29</input.date>
+			<edit.date>2015-01-08</edit.date>
+			<edit.date>2012-10-17</edit.date>
+			<edit.date>2012-10-17</edit.date>
+			<edit.date>2012-09-19</edit.date>
+			<edit.date>2012-09-19</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<edit.date>2012-08-29</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Treasures of art in Great Britain : being an account of the chief collections of paintings, drawings, sculptures, illuminated mss., &amp;c. &amp;c.</documentation.title>
+			<edit.time>11:07:11</edit.time>
+			<edit.time>12:34:59</edit.time>
+			<edit.time>12:10:24</edit.time>
+			<edit.time>15:35:48</edit.time>
+			<edit.time>15:35:20</edit.time>
+			<edit.time>14:12:19</edit.time>
+			<edit.time>14:10:42</edit.time>
+			<edit.time>14:08:53</edit.time>
+			<edit.time>14:07:57</edit.time>
+			<edit.time>13:14:37</edit.time>
+			<edit.time>13:10:25</edit.time>
+			<edit.time>13:08:53</edit.time>
+			<input.time>13:05:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1430,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1430/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""61ba5634-7e81-5ca0-80ba-27e44ddb20b7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8db9af13-d327-4440-b2e4-2d245be5a856"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_036,repository numbers,,,,,,,,,,,,,,
+fde60e4c-1325-52d7-a5b4-81b7fe45685f,tg:rubgr:1430,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_036,titles proper,Dutch (language),,,,,,,,,,,

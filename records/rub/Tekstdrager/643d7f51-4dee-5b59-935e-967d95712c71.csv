@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3644,https://data.rubenianum.be//ark:/86530/643d7f51-4dee-5b59-935e-967d95712c71,Handschriften,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3640,Verwijzing naar Grossmann object,,301a75f8-bb13-5339-900e-7ab90eabaa3c,"[{""resourceId"": ""301a75f8-bb13-5339-900e-7ab90eabaa3c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4fe6a206-0f47-4ed9-89c2-c061282d2b77"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d157e1cd-d098-4782-bad0-427d08b9d132"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ff5fc0d0-d065-4672-a4d4-ff8c0cdac142"", ""inverseOntologyProperty"": """"}]"
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel motifs in Savery. [?] Flower picture: I cannot agree with Count Seilern who suggests in his catalogue IV Addenda 1969 that his N° 318 verso (pl. XXXII), (M107) is the source for the man seen from the back right of centre in the Flower picture, but I modify my statement in Boymans Bulletin V/21 July 1954, p. 50 by saying that another possibility is that the figure in the Flower painting maybe based on a lost 'Naer het Leven' drawing.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003644,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5897</priref>
+			<number>AFG_097_090</number>
+			<part_of_reference>AFG_097_086</part_of_reference>
+			<content>Bruegel motifs in Savery. [?] Flower picture: I cannot agree with Count Seilern who suggests in his catalogue IV Addenda 1969 that his N&#176; 318 verso (pl. XXXII), (M107) is the source for the man seen from the back right of centre in the Flower picture, but I modify my statement in Boymans Bulletin V/21 July 1954, p. 50 by saying that another possibility is that the figure in the Flower painting maybe based on a lost 'Naer het Leven' drawing.</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Problem of Bruegel imitators: J. Savery (see the many landscape drawings attr. to him by M&#252;nz) but also M. 38 Bruegel sons (after which J. de Gheyn made an etching. Imitators of Naer het Leven drawings R. Savery, Quast (Album Amicorum v. Gelder) Saftleven (mentioned by van Leeuwen in Simiolus, see edinburgh)[...]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>Seilern, Antoine</keyword>
+			<keyword>Grossmann, F.</keyword>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:43:33</edit.time>
+			<edit.time>11:14:14</edit.time>
+			<input.time>09:34:14</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3644,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3644/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""576e75c7-ff31-5afd-acb9-abe335b32033"", ""ontologyProperty"": """", ""resourceXresourceId"": ""de4d4a76-bfeb-4fc2-8957-b2e15e676152"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_OriginalBrocade,,,au::111146,,,,,,,,,,,,,,rub,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,kw,,au::111146:1,au::111146g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,agent,,,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_090,repository numbers,,,,,,,,,,,,,,
+643d7f51-4dee-5b59-935e-967d95712c71,tg:rubgr:3644,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_090,titles proper,Dutch (language),,,,,,,,,,,

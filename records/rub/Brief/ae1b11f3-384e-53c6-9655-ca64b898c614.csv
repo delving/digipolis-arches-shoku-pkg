@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4181,https://data.rubenianum.be//ark:/86530/ae1b11f3-384e-53c6-9655-ca64b898c614,Brieven,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:4182,Verwijzing naar Grossmann object,,ae5fb524-c826-5723-b9e0-b2ea64d4b5a1,"[{""resourceId"": ""ae5fb524-c826-5723-b9e0-b2ea64d4b5a1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""848b66dd-50e5-4b6b-a7f5-62e980667602"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""abb3b5e7-d2b8-4ac7-847e-5b4190cadd57"", ""ontologyProperty"": """", ""resourceXresourceId"": ""806d4326-1bec-448d-8375-cb40dad1fdfc"", ""inverseOntologyProperty"": """"}]"
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Briefomslag met notitie FG: 'Sermon of St. John & other Flemish pictures.',descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004181,referentienummer,False,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6435</priref>
+			<number>AFG_109_061</number>
+			<content>Briefomslag met notitie FG: 'Sermon of St. John &amp; other Flemish pictures.'</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title>Korte inhoud: Dankt voor hulp bij toeschrijving van een Prediking van Johannes.</parts.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<object.creator/>
+			<input.date>2014-07-03</input.date>
+			<edit.date>2014-07-03</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<parts_reference>AFG_109_062</parts_reference>
+			<edit.time>16:06:41</edit.time>
+			<input.time>16:05:49</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4181,brocade id,False,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4181/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""341b4460-cdc0-5438-baa1-91a8c569fb98"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63ac69e8-053a-4684-bd2a-dba4dc73a2fe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_061,repository numbers,,,,,,,,,,,
+ae1b11f3-384e-53c6-9655-ca64b898c614,tg:rubgr:4181,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_061,titles proper,Dutch (language),,,,,,,,

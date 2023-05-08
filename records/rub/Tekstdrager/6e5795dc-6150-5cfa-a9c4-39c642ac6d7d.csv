@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1258,https://data.rubenianum.be//ark:/86530/6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,Handschriften,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1252,Verwijzing naar Grossmann object,,c34845f8-bf9a-5a8e-bc2f-a27081328a0f,"[{""resourceId"": ""c34845f8-bf9a-5a8e-bc2f-a27081328a0f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""146d23ad-7a36-4f13-a132-680f3d14c5ca"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8345e587-8b44-4f08-977c-107c91b805d2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ce238b67-f0c8-4356-9a1d-c161624195ef"", ""inverseOntologyProperty"": """"}]"
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Fotokopie veilingcatalogus, geannoteerd]: Paris, Palais d' Orsay, Ader, Picard, Tajan, Dessins anciens tableaux anciens. Vente à Paris, Palais d'Orsay, le mercredi 28 mars 1979, nr. 144; [toegevoegde vermelding]: 'sic' bij p. 4: '...est une oeuvre originale de Pierre Bruegel l' Ancien.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001258,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3515</priref>
+			<number>AFG_032_008</number>
+			<part_of_reference>AFG_032_002</part_of_reference>
+			<content>[Fotokopie veilingcatalogus, geannoteerd]: Paris, Palais d' Orsay, Ader, Picard, Tajan, Dessins anciens tableaux anciens. Vente &#224; Paris, Palais d'Orsay, le mercredi 28 mars 1979, nr. 144; [toegevoegde vermelding]: 'sic' bij p. 4: '...est une oeuvre originale de Pierre Bruegel l' Ancien.'</content>
+			<object.object_number>AFG_032</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: Meldt familiebezit van het schilderij, toegeschreven aan Pieter Bruegel de Oude. Vraagt de schatting van de waarde. Ingesloten 2 foto's en fotokopies over het werk; [toegevoegde vermelding]: 'see Gl&#252;ck, N&#176; 34.'</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Fotokopie</editorial_form>
+			<object.title>The Massacre of Innocents</object.title>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2012-07-25</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-07-25</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:07:41</edit.time>
+			<edit.time>12:30:04</edit.time>
+			<input.time>12:21:55</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1258,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1258/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8fd8827-a05c-5266-8148-04cdef735bb5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""79dc3884-6304-4b9e-a775-79d1b85db4dd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_032_008,repository numbers,,,,,,,,,,,,,,
+6e5795dc-6150-5cfa-a9c4-39c642ac6d7d,tg:rubgr:1258,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_032_008,titles proper,Dutch (language),,,,,,,,,,,

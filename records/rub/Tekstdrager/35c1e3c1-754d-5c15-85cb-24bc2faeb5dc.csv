@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4387,https://data.rubenianum.be//ark:/86530/35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,Handschriften,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c98e9f80-afc6-4186-9f58-c03ec5bb4abb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cbc11fcd-5c0b-42d0-b0b5-7103c54156f9"", ""inverseOntologyProperty"": """"}]"
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brant & Bruegel. Gilbert Highet, The classical tradition : Greek and Roman influences on western literature, Oxford 1949, citaat p. 310.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brandt, Sebastian",,,,,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Highet, Gilbert",,,,,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004387,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6640</priref>
+			<number>AFG_111_182</number>
+			<content>Brant &amp; Bruegel. Gilbert Highet, The classical tradition : Greek and Roman influences on western literature, Oxford 1949, citaat p. 310.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Brandt, Sebastian</keyword>
+			<keyword>Highet, Gilbert</keyword>
+			<object.creator/>
+			<input.date>2014-07-10</input.date>
+			<edit.date>2014-07-10</edit.date>
+			<edit.date>2014-07-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:14:47</edit.time>
+			<edit.time>11:14:16</edit.time>
+			<input.time>11:10:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4387,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4387/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8a64f78d-5c95-5c33-bd42-61d8932a0400"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cc853d90-c066-41a1-8de4-6381ace62c15"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_182,repository numbers,,,,,,,,,,,,,,
+35c1e3c1-754d-5c15-85cb-24bc2faeb5dc,tg:rubgr:4387,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_182,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2739,https://data.rubenianum.be//ark:/86530/63f3876a-527d-5f31-a853-a9db0e92c4e9,Foto's,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ed1a9a41-3b5c-4681-a388-534bd2082dab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0e54576-fa4f-46ea-ad90-9cbc7d9f5d8c"", ""inverseOntologyProperty"": """"}]"
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto: Heüres de Türin des Herzogs de Berry (ca. 1418) fol. 7, Jüli: Heürende (1904 verbrannt, Türin, Nat.Bibl.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002739,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4981</priref>
+			<number>AFG_085_052</number>
+			<content>1 zw/w foto: He&#252;res de T&#252;rin des Herzogs de Berry (ca. 1418) fol. 7, J&#252;li: He&#252;rende (1904 verbrannt, T&#252;rin, Nat.Bibl.</content>
+			<object.object_number>AFG_085</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>""Months"" Comparative Material</object.title>
+			<object.creator/>
+			<input.date>2014-03-06</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>12:05:51</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2739,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2739/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d772871b-813f-5436-9561-e585aacc7181"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e26e2d03-1347-4f4a-b0b3-6cddced05770"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_052,repository numbers,,,,,,,,,,,
+63f3876a-527d-5f31-a853-a9db0e92c4e9,tg:rubgr:2739,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_052,titles proper,Dutch (language),,,,,,,,

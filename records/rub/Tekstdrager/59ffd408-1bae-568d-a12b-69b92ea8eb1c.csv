@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3226,https://data.rubenianum.be//ark:/86530/59ffd408-1bae-568d-a12b-69b92ea8eb1c,Handschriften,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3225,Verwijzing naar Grossmann object,,fa7452fe-68d6-52a5-a2d4-5d29f90a528f,"[{""resourceId"": ""fa7452fe-68d6-52a5-a2d4-5d29f90a528f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f4a0b87-a43f-4424-b55a-17f25c9e03ee"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5722631e-4ae1-410d-a1fa-8248b8fa50c4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6fd34fa-9884-4be6-b242-93f55d96d50c"", ""inverseOntologyProperty"": """"}]"
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 99. Witt Library. P.B.II. Thyssen-Kirmes. Copy after it Sale d'Augee, Fievez, Brussels, 20-VI-1925, N° 18, Bois, 76 x 106 cm.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003226,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5340</priref>
+			<number>AFG_091_030</number>
+			<part_of_reference>AFG_091_029</part_of_reference>
+			<content>Ad [Addendum] 99. Witt Library. P.B.II. Thyssen-Kirmes. Copy after it Sale d'Augee, Fievez, Brussels, 20-VI-1925, N&#176; 18, Bois, 76 x 106 cm.</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>73. Bauernkirmes (Rohoncz). [doorstreept] Neu 88. My N&#176; 99.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-06</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:19:30</edit.time>
+			<input.time>17:10:44</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3226,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3226/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""61e72a97-05ea-5403-b842-6bb81a0ae171"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d547fb94-4df7-4da0-a1a9-7b5102f6c123"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_030,repository numbers,,,,,,,,,,,,,,
+59ffd408-1bae-568d-a12b-69b92ea8eb1c,tg:rubgr:3226,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_030,titles proper,Dutch (language),,,,,,,,,,,

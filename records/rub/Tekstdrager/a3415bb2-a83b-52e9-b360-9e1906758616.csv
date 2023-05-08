@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3018,https://data.rubenianum.be//ark:/86530/a3415bb2-a83b-52e9-b360-9e1906758616,Handschriften,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""eab362f9-9f46-4c87-85e7-a05f04d7c345"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""31834e8d-cbcd-4bfc-a041-99f3812655f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""15fd9f44-f2e3-48d0-ad99-4c5de3c2b797"", ""inverseOntologyProperty"": """"}]"
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 61. Witt Library. P.B. II. [Charles H.] Senff, Anderson [Galleries], New York, 28-29/III/1928: 4 medaillons illustrating proverbs: 1) Kalb begraben wie Pommersfelden; 2) Gardien d'[onleesbaar]; 3) Vogelnest; 4) Frau mit Eisenzange im Winter.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003018,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5242</priref>
+			<number>AFG_089_018</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>Ad [Addendum] 61. Witt Library. P.B. II. [Charles H.] Senff, Anderson [Galleries], New York, 28-29/III/1928: 4 medaillons illustrating proverbs: 1) Kalb begraben wie Pommersfelden; 2) Gardien d'[onleesbaar]; 3) Vogelnest; 4) Frau mit Eisenzange im Winter.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:31:36</edit.time>
+			<edit.time>14:23:05</edit.time>
+			<edit.time>14:19:42</edit.time>
+			<input.time>14:14:15</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3018,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3018/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d03530b0-2065-5c86-9a42-3e9190e3ce27"", ""ontologyProperty"": """", ""resourceXresourceId"": ""79f7e4d6-0439-453e-b47d-00caddf47e32"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_018,repository numbers,,,,,,,,,,,,,,
+a3415bb2-a83b-52e9-b360-9e1906758616,tg:rubgr:3018,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_018,titles proper,Dutch (language),,,,,,,,,,,

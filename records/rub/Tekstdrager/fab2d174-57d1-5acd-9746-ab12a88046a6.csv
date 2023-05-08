@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4941,https://data.rubenianum.be//ark:/86530/fab2d174-57d1-5acd-9746-ab12a88046a6,Handschriften,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""63299930-ad72-4a06-9daf-f29e0e0c65ba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5aa68f87-1a78-4c5f-8408-3b278135c9d9"", ""inverseOntologyProperty"": """"}]"
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Knoedler St. James's Street. Patinir, Hell, Oil on panel [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004941,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7197</priref>
+			<number>AFG_136_069</number>
+			<content>Knoedler St. James's Street. Patinir, Hell, Oil on panel [...]</content>
+			<object.object_number>AFG_136</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>Bruegel</object.title>
+			<keyword>Patinir, Joachim</keyword>
+			<object.creator/>
+			<input.date>2014-08-06</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>14:08:04</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4941,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4941/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""daedfeaa-9aff-5e60-8552-65882766a6de"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9b440bec-4877-4127-b4d2-f966326b957a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_OriginalBrocade,,,au::45623,,,,,,,,,,,,,,rub,7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,kw,,au::45623:1,au::45623g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4881661"",""au::45623"",""au::45623:1"",""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""Joachim Patenir""],""name"":""Joachim Patenir"",""ark"":""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""uri"":""/agents/people/4881661"",""id"":""au::45623:1"",""isCapacity"":false}",ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,agent,,,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_069,repository numbers,,,,,,,,,,,,,,
+fab2d174-57d1-5acd-9746-ab12a88046a6,tg:rubgr:4941,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_136_069,titles proper,Dutch (language),,,,,,,,,,,

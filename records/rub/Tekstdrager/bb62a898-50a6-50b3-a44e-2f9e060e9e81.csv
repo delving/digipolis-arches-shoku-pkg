@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2219,https://data.rubenianum.be//ark:/86530/bb62a898-50a6-50b3-a44e-2f9e060e9e81,Handschriften,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""45f2ac61-9edb-4124-8990-5e942a1ba5b3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a1eb9e6f-40c7-4ff6-a536-4e5f213a4c6a"", ""inverseOntologyProperty"": """"}]"
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 98. Witt L. P.B.II Genre outdoor without dancing. Ph. Shortened version of Carnival & Lent, Baron Coppée, Brussels, Photogr.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002219,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4462</priref>
+			<number>AFG_067_007</number>
+			<content>Ad [Addendum] 98. Witt L. P.B.II Genre outdoor without dancing. Ph. Shortened version of Carnival &amp; Lent, Baron Copp&#233;e, Brussels, Photogr.</content>
+			<object.object_number>AFG_067</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>After Bruegel. Carnival and Lent (reduced version). Boston, etc.</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator/>
+			<input.date>2013-04-25</input.date>
+			<edit.date>2014-11-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:18:31</edit.time>
+			<input.time>16:11:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2219,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2219/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3fde47a5-66f2-5c28-b34e-e347bcaf4165"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d6068203-8d8b-4090-a54d-858e1a38a450"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_067_007,repository numbers,,,,,,,,,,,,,,
+bb62a898-50a6-50b3-a44e-2f9e060e9e81,tg:rubgr:2219,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_067_007,titles proper,Dutch (language),,,,,,,,,,,

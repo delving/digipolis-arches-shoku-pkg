@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2687,https://data.rubenianum.be//ark:/86530/d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,Foto's,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2686,Verwijzing naar Grossmann object,,a7642c59-ff93-588a-9729-84a045f10181,"[{""resourceId"": ""a7642c59-ff93-588a-9729-84a045f10181"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e7e31943-3183-4dd1-8792-1201a3837c63"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb08847c-309a-452c-bb6e-d8c276bff639"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cb983b05-b9d5-47ca-832d-b9eb0b61444c"", ""inverseOntologyProperty"": """"}]"
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto met stempel Staatliche Museen Preußischer Kulturbesitz, Kupferstichkabinett. [Notitie in onbekend handschrift]: KdZ 2684.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Berlijn, Kupferstichkabinett",,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002687,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4929</priref>
+			<number>AFG_084_101</number>
+			<part_of_reference>AFG_084_100</part_of_reference>
+			<content>1 zw/w foto met stempel Staatliche Museen Preu&#223;ischer Kulturbesitz, Kupferstichkabinett. [Notitie in onbekend handschrift]: KdZ 2684.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>1 zw/w foto met stempel Staatliche Museen Preu&#223;ischer Kulturbesitz, Kupferstichkabinett. [Notitie in onbekend handschrift]: KdZ 12301.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Berlijn, Kupferstichkabinett</keyword>
+			<object.creator/>
+			<input.date>2014-02-13</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>16:25:23</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2687,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2687/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""718e9099-deb2-59be-8161-58bb540b80f2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8b23791d-00f5-4419-b033-a3e081d186c9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_101,repository numbers,,,,,,,,,,,
+d5ab01e5-834f-5d86-93ed-bd48d18a7b4a,tg:rubgr:2687,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_101,titles proper,Dutch (language),,,,,,,,

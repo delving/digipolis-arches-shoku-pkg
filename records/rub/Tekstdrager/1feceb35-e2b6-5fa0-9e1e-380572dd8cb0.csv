@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3787,https://data.rubenianum.be//ark:/86530/1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,Handschriften,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3773,Verwijzing naar Grossmann object,,be415676-bbca-5af1-b0e7-badbf3214ca4,"[{""resourceId"": ""be415676-bbca-5af1-b0e7-badbf3214ca4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cb9c2bc0-12ac-43d2-b587-d0a8952c9835"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c9b927b3-8e42-407a-a490-b12fd18a05be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c11dcd42-6ba5-4ce7-9cec-6849eb54646b"", ""inverseOntologyProperty"": """"}]"
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1] Ad [Addendum] Naer het Leven. Costumes. Hollar, Theatrum mulierum or Aula Venris, Parthey 1804-1907; Joh. Urzidil, Wenceslaus Hollar : der Kupferstecher des Barock, Wien, Leipzig, 1936, pl. XVII, Fig. 48, cf. Spicer [...]; [blad 2] P. 1807, P. 1827, 1853 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13258966,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13258965,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parthey, Gustav",,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Spicer, Joaneath",,,,,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003787,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6040</priref>
+			<number>AFG_099_025</number>
+			<part_of_reference>AFG_099_011</part_of_reference>
+			<content>[2 bladen] [blad 1] Ad [Addendum] Naer het Leven. Costumes. Hollar, Theatrum mulierum or Aula Venris, Parthey 1804-1907; Joh. Urzidil, Wenceslaus Hollar : der Kupferstecher des Barock, Wien, Leipzig, 1936, pl. XVII, Fig. 48, cf. Spicer [...]; [blad 2] P. 1807, P. 1827, 1853 [...]</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>F. Grossmann, Naer het Leven.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<keyword>Hollar, Wenzel</keyword>
+			<keyword>Parthey, Gustav</keyword>
+			<keyword>Spicer, Joaneath</keyword>
+			<object.creator/>
+			<documentation.author>Urzidil, Johannes</documentation.author>
+			<documentation.author>Parthey, Gustav</documentation.author>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.shelfmark/>
+			<documentation.title>Wenceslaus Hollar : der Kupferstecher des Barock</documentation.title>
+			<documentation.title>Wenzel Hollar : beschreibendes Verzeichniss seiner Kupferstiche</documentation.title>
+			<edit.time>13:58:18</edit.time>
+			<edit.time>14:42:02</edit.time>
+			<edit.time>14:41:33</edit.time>
+			<edit.time>14:40:46</edit.time>
+			<edit.time>14:38:05</edit.time>
+			<input.time>14:33:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3787,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3787/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3a2bb767-446b-531b-9376-46dcc2b55099"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11c93e23-c6b2-4b98-accd-de44dfacc5ab"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_OriginalBrocade,,,au::107189,,,,,,,,,,,,,,rub,d87501bf-c824-59f6-ac96-1781141b98be,kw,,au::107189:1,au::107189g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11469223"",""au::107189"",""au::107189:1"",""ark:/83110/x0/d87501bf-c824-59f6-ac96-1781141b98be"",""Wenzel Hollar""],""name"":""Wenzel Hollar"",""ark"":""ark:/83110/x0/d87501bf-c824-59f6-ac96-1781141b98be"",""uri"":""/agents/people/11469223"",""id"":""au::107189:1"",""isCapacity"":false}",ark:/83110/x0/d87501bf-c824-59f6-ac96-1781141b98be,agent,,,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_025,repository numbers,,,,,,,,,,,,,,
+1feceb35-e2b6-5fa0-9e1e-380572dd8cb0,tg:rubgr:3787,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_025,titles proper,Dutch (language),,,,,,,,,,,

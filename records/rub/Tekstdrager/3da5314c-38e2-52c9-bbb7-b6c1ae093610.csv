@@ -1,0 +1,57 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:940,https://data.rubenianum.be//ark:/86530/3da5314c-38e2-52c9-bbb7-b6c1ae093610,Handschriften,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""42c5784e-a82e-4cb2-ac03-cc01b7cb777e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""870738b4-14c4-4947-8b7f-a022ddda6a75"", ""inverseOntologyProperty"": """"}]"
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 19. Adulteress. M. de Vos inv. Crispin de Passe exc. Inverted. Christus adulterij sontè [sontem] de morte redemit (partly derived from Bruegel through varied & reversed).,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passe, Crispijn I de",,,,,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000940,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3193</priref>
+			<number>AFG_021_024</number>
+			<content>Ad [Addendum] 19. Adulteress. M. de Vos inv. Crispin de Passe exc. Inverted. Christus adulterij sont&#232; [sontem] de morte redemit (partly derived from Bruegel through varied &amp; reversed).</content>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Vos, Maerten de</keyword>
+			<keyword>Passe, Crispijn I de</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-05</input.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-03-08</edit.date>
+			<edit.date>2012-03-08</edit.date>
+			<edit.date>2012-03-08</edit.date>
+			<edit.date>2012-03-05</edit.date>
+			<edit.date>2012-03-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:09:40</edit.time>
+			<edit.time>15:11:50</edit.time>
+			<edit.time>15:02:29</edit.time>
+			<edit.time>13:58:31</edit.time>
+			<edit.time>09:37:37</edit.time>
+			<edit.time>09:36:47</edit.time>
+			<input.time>09:31:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:940,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:940/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c7d737fc-1013-5e73-bccf-ffbba27dfa95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f0b1fe9c-34b6-4a30-b251-5a1e0b971299"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_OriginalBrocade,,,au::20701,,,,,,,,,,,,,,rub,fa4e2a3e-55e0-5ab1-9d4f-1e4227ffe711,kw,,au::20701:1,au::20701g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2215007"",""au::20701"",""au::20701:1"",""ark:/83110/x0/fa4e2a3e-55e0-5ab1-9d4f-1e4227ffe711"",""Maerten de Vos""],""name"":""Maerten de Vos"",""ark"":""ark:/83110/x0/fa4e2a3e-55e0-5ab1-9d4f-1e4227ffe711"",""uri"":""/agents/people/2215007"",""id"":""au::20701:1"",""isCapacity"":false}",ark:/83110/x0/fa4e2a3e-55e0-5ab1-9d4f-1e4227ffe711,agent,,,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_024,repository numbers,,,,,,,,,,,,,,
+3da5314c-38e2-52c9-bbb7-b6c1ae093610,tg:rubgr:940,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_024,titles proper,Dutch (language),,,,,,,,,,,

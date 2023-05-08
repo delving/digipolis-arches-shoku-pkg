@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5296,https://data.rubenianum.be//ark:/86530/ff38dffe-bff4-5335-a008-0e03361a56cb,Brieven,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3bf94f79-96c5-44e8-a2e2-56d31f8053d2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""601eb3aa-2fb0-482f-a5d9-05c0d5364411"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21df47a8-1568-4959-84a4-cae28a26c29f"", ""inverseOntologyProperty"": """"}]"
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1975.0,2090,In Copyright,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Correspondence,1,,,,,,,,,,,,,,,,"Brown, Christopher",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19751118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1975-11-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd The National gallery, London] Korte inhoud: Vroeg aan Nicolson en Keith Roberts toelating om over de Berlijnse tentoonstelling te schrijven. Zendt een fotokopie van de tekst [bijlage].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brown, Christopher",,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Nicolson, Benedict",,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roberts, Keith",,,,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005296,referentienummer,False,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7553</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_145_026</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<date.precise>1975-11-18</date.precise>
+			<content>[Briefhoofd The National gallery, London] Korte inhoud: Vroeg aan Nicolson en Keith Roberts toelating om over de Berlijnse tentoonstelling te schrijven. Zendt een fotokopie van de tekst [bijlage].</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Brown, Christopher</keyword>
+			<keyword>Nicolson, Benedict</keyword>
+			<keyword>Roberts, Keith</keyword>
+			<sender>Brown, Christopher</sender>
+			<object.creator/>
+			<input.date>2014-08-19</input.date>
+			<edit.date>2014-08-19</edit.date>
+			<edit.date>2014-08-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:34:15</edit.time>
+			<edit.time>16:33:36</edit.time>
+			<input.time>16:31:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5296,brocade id,False,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5296/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fcee307a-703d-5694-ae84-42d45b5a0d77"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2f47327b-f750-4e5f-acc2-3cb4d963e4c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_026,repository numbers,,,,,,,,,,,
+ff38dffe-bff4-5335-a008-0e03361a56cb,tg:rubgr:5296,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_026,titles proper,Dutch (language),,,,,,,,

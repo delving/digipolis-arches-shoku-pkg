@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4721,https://data.rubenianum.be//ark:/86530/3d7c8a22-911d-58cf-bf84-1130ebdacd7f,Brieven,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""09209bf0-eacb-4d28-a374-fbcb110aee08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""af6931a5-c58d-47f8-bb8a-01405335007a"", ""inverseOntologyProperty"": """"}]"
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1954.0,2069,In Copyright,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_Correspondence,1,,,,,,,,,,,,,,,,"Francia, Peter de",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19540000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1954-07-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Dankt FG voor de aanbeveling bij Cambridge Board of Extra Mural Studies.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Francia, Peter de",,,,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004721,referentienummer,False,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>6974</priref>
+<recipient>Grossmann, F.</recipient>
+<number>AFG_128_021</number>
+<date.free>[1954] July 23</date.free>
+<content>Korte inhoud: Dankt FG voor de aanbeveling bij Cambridge Board of Extra Mural Studies.</content>
+<object.object_number>AFG_128</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>brief</editorial_form>
+<object.title>[Folders & envelopes]</object.title>
+<keyword>Francia, Peter de</keyword>
+<sender>Francia, Peter de</sender>
+<object.creator/>
+<input.date>2014-07-24</input.date>
+<input.name>Centrum</input.name>
+<input.time>16:14:29</input.time>
+<input.source>archive</input.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4721,brocade id,False,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4721/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2bbd3041-9379-51c6-b963-6d437cbb2810"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3b41a209-42f6-4b1b-a50e-ff8b261aca17"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_021,repository numbers,,,,,,,,,,,
+3d7c8a22-911d-58cf-bf84-1130ebdacd7f,tg:rubgr:4721,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_021,titles proper,Dutch (language),,,,,,,,

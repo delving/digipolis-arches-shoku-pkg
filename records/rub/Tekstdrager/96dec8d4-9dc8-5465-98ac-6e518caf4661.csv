@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4027,https://data.rubenianum.be//ark:/86530/96dec8d4-9dc8-5465-98ac-6e518caf4661,Handschriften,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4026,Verwijzing naar Grossmann object,,736851f8-ae7c-5352-b68b-11ee2ba5e55e,"[{""resourceId"": ""736851f8-ae7c-5352-b68b-11ee2ba5e55e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22e47750-7a7d-4840-b4cd-0cd0eb14a968"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2e784900-8aa8-430f-b467-94b1d91bba60"", ""ontologyProperty"": """", ""resourceXresourceId"": ""95da07e3-e135-42bd-a129-d1a714adbd8b"", ""inverseOntologyProperty"": """"}]"
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1641. Bruegel d.Ä. eine Stelle in dem von Matthaeus Merian [...], H. [Heinrich] Weizsäcker, Elsheimer, I (Text), 1936",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13258786,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Weizsäcker, Heinrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004027,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6280</priref>
+			<number>AFG_106_012</number>
+			<part_of_reference>AFG_106_011</part_of_reference>
+			<content>1641. Bruegel d.&#196;. eine Stelle in dem von Matthaeus Merian [...], H. [Heinrich] Weizs&#228;cker, Elsheimer, I (Text), 1936</content>
+			<object.object_number>AFG_106</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Early Inventories etc.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Inventories &amp; my contributions to Gl&#252;ck; Genealogy</object.title>
+			<keyword>Weizs&#228;cker, Heinrich</keyword>
+			<object.creator/>
+			<documentation.author>Weizs&#228;cker, Heinrich</documentation.author>
+			<input.date>2014-06-30</input.date>
+			<edit.date>2014-06-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Adam Elsheimer : der Maler von Frankfurt : des K&#252;nstlers Leben und Werke : I : Text : Tafeln : II : beschreibende Verzeichnisse und geschichtliche Quellen</documentation.title>
+			<edit.time>15:19:06</edit.time>
+			<input.time>15:17:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4027,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4027/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6e3a4d7b-aa8b-5f65-949a-22d2855dc64d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""337c3d3d-fbeb-4143-819d-8f26d8c1e68e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_012,repository numbers,,,,,,,,,,,,,,
+96dec8d4-9dc8-5465-98ac-6e518caf4661,tg:rubgr:4027,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_012,titles proper,Dutch (language),,,,,,,,,,,

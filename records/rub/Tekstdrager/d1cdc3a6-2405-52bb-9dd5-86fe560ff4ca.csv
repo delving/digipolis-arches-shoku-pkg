@@ -1,0 +1,76 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1577,https://data.rubenianum.be//ark:/86530/d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,Handschriften,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""161da286-33fc-4fc3-9360-2aa89f8954bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""61f61d36-feea-45de-848b-34ac6831b39e"", ""inverseOntologyProperty"": """"}]"
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 33. Ad Cripples, Louvre. Witt Library, in Box Bruegel I, Box 4: Last in folder. Outdoor Genre Weddings...Without Bridal [onleesbaar]... Sale Drouot, Paris 27 Jan. 1921. BRVEGHEL, le Drôle, Peter. 14. Jour de Fête dans les Flandres [...]; [verso] [...] (three cripples with fox-tails) [...]; [toegevoegde vermelding]: 'F.G. Late XVI C. with the three cripples is a woman like in B's picture. But in B.'s picture it is summer, here winter.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_ExternalRelationsExtras,a::rub.42,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,257769,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parijs, Drouot-Richelieu",,,,,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001577,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3828</priref>
+			<number>AFG_042_029</number>
+			<content>Ad [Addendum] 33. Ad Cripples, Louvre. Witt Library, in Box Bruegel I, Box 4: Last in folder. Outdoor Genre Weddings...Without Bridal [onleesbaar]... Sale Drouot, Paris 27 Jan. 1921. BRVEGHEL, le Dr&#244;le, Peter. 14. Jour de F&#234;te dans les Flandres [...]; [verso] [...] (three cripples with fox-tails) [...]; [toegevoegde vermelding]: 'F.G. Late XVI C. with the three cripples is a woman like in B's picture. But in B.'s picture it is summer, here winter.'</content>
+			<object.object_number>AFG_042</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Cripples</object.title>
+			<keyword>Londen, Witt Library</keyword>
+			<keyword>Parijs, Mus&#233;e du Louvre</keyword>
+			<keyword>Parijs, Drouot-Richelieu</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-13</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-12-07</edit.date>
+			<edit.date>2012-12-06</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:20:08</edit.time>
+			<edit.time>11:19:05</edit.time>
+			<edit.time>11:18:39</edit.time>
+			<edit.time>11:17:54</edit.time>
+			<edit.time>11:11:40</edit.time>
+			<edit.time>10:18:52</edit.time>
+			<edit.time>09:31:33</edit.time>
+			<edit.time>15:52:24</edit.time>
+			<edit.time>10:22:26</edit.time>
+			<edit.time>16:07:06</edit.time>
+			<input.time>16:01:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1577,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1577/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f8a01afc-7e86-5475-9955-0fe9929092fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bdcca039-d1eb-4085-8944-93646934d202"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_OriginalBrocade,,,au::24804,,,,,,,,,,,,,,rub,5de586ee-e0d0-565c-af2a-ab1cef461bb5,kw,,au::24804:1,au::24804g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/2654028"",""au::24804"",""au::24804:1"",""ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5"",""Palais du Louvre""],""name"":""Palais du Louvre"",""ark"":""ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5"",""uri"":""/agents/corporate_entities/2654028"",""id"":""au::24804:1"",""isCapacity"":false}",ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5,agent,,,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_029,repository numbers,,,,,,,,,,,,,,
+d1cdc3a6-2405-52bb-9dd5-86fe560ff4ca,tg:rubgr:1577,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_042_029,titles proper,Dutch (language),,,,,,,,,,,

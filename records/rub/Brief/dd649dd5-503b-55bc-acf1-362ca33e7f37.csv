@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4713,https://data.rubenianum.be//ark:/86530/dd649dd5-503b-55bc-acf1-362ca33e7f37,Brieven,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0aeb3573-dad9-4b63-aae8-750e196396b0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""045cf60a-179d-4408-860b-a1c3821a5c5a"", ""inverseOntologyProperty"": """"}]"
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1954.0,2069,In Copyright,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_Correspondence,1,,,,,,,,,,,,,,,,"Gerson, H.",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19540208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1954-02-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Engels] Miste de Rubenstentoonstelling. Zal foto's terug vragen aan Phaidon. Uitnodiging in Londen.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gerson, Horst",,,,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004713,referentienummer,False,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6963</priref>
+			<recipient>Gerson, H.</recipient>
+			<number>AFG_128_013</number>
+			<date.precise>1954-02-08</date.precise>
+			<content>Korte inhoud: [Taal, Engels] Miste de Rubenstentoonstelling. Zal foto's terug vragen aan Phaidon. Uitnodiging in Londen.</content>
+			<object.object_number>AFG_128</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>[Folders &amp; envelopes]</object.title>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Gerson, Horst</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-07-23</input.date>
+			<edit.date>2014-07-24</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:52:01</edit.time>
+			<edit.time>15:34:25</edit.time>
+			<edit.time>15:29:30</edit.time>
+			<edit.time>15:29:12</edit.time>
+			<input.time>15:28:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4713,brocade id,False,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4713/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8729f093-8012-5bc2-9b90-452f8d30ec4d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5daa6edb-78f5-426f-93a8-d7d7a6ec5e72"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,,,rub,,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_013,repository numbers,,,,,,,,,,,
+dd649dd5-503b-55bc-acf1-362ca33e7f37,tg:rubgr:4713,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_013,titles proper,Dutch (language),,,,,,,,

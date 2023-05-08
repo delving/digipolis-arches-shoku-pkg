@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4333,https://data.rubenianum.be//ark:/86530/4f26393e-16cc-5aac-9677-77c8ac872cbf,Brieven,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb6b77b7-76d5-43ec-a667-a291673707a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2357c009-44dd-4fcd-a13d-664db1cc4f9d"", ""inverseOntologyProperty"": """"}]"
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_CreationActors,,,au::37698,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,ff6a51ba-e98d-5a1d-8a59-563e60dad251,bs,au::37698:1,au::37698g:1,"dlod={""suggest"":[""/agents/people/4033686"",""au::37698"",""au::37698:1"",""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""Wolfgang Stechow""],""name"":""Wolfgang Stechow"",""ark"":""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""uri"":""/agents/people/4033686"",""id"":""au::37698:1"",""isCapacity"":false}",ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19691113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1969-11-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd Vassar College, Poughkeepsie, N.Y.] Korte inhoud: Is geneigd de stelling van Spicer te ondersteunen. Kritische opmerking over Tolnay artikel voor de Neue Zürcher Zeitung 13/07/1969, n° 421[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Spicer, Joaneath",,,,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004333,referentienummer,False,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6586</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_111_128</number>
+			<date.precise>1969-11-13</date.precise>
+			<content>[Briefhoofd Vassar College, Poughkeepsie, N.Y.] Korte inhoud: Is geneigd de stelling van Spicer te ondersteunen. Kritische opmerking over Tolnay artikel voor de Neue Z&#252;rcher Zeitung 13/07/1969, n&#176; 421[scan]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Savery, Roelant</keyword>
+			<keyword>Spicer, Joaneath</keyword>
+			<sender>Stechow, Wolfgang</sender>
+			<object.creator/>
+			<input.date>2014-07-09</input.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:50:16</edit.time>
+			<edit.time>11:03:59</edit.time>
+			<edit.time>11:02:40</edit.time>
+			<edit.time>10:59:23</edit.time>
+			<input.time>10:56:24</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4333,brocade id,False,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4333/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4389ee37-f6cc-5a06-a65e-1a3a03492f61"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4ce4b358-39c8-48b5-a23e-28948af0655c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,,,rub,,68745e68-be77-5308-846a-b1ac1c29f49d,kw,au::16398:1,au::16398g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_128,repository numbers,,,,,,,,,,,
+4f26393e-16cc-5aac-9677-77c8ac872cbf,tg:rubgr:4333,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_128,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2808,https://data.rubenianum.be//ark:/86530/f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,Handschriften,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2797,Verwijzing naar Grossmann object,,49dc0eda-01e9-5af9-a652-8063804c6f78,"[{""resourceId"": ""49dc0eda-01e9-5af9-a652-8063804c6f78"", ""ontologyProperty"": """", ""resourceXresourceId"": ""03c74f05-47d5-4b87-815f-5687b039cafd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""574b172e-75c7-471c-8e03-2f658b9eaef6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dda47072-39b8-4063-ad66-2cf2ba787d83"", ""inverseOntologyProperty"": """"}]"
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Peasant Wedding. Pieter van der Borcht, b. Malines 1545 worked since 1572 at Antwerp where he died 1608. F.W.H. Hollstein, Dutch & Flemish Etchings, Engravings & Woodcuts, III, 1950, citaat p. 103; Popham, O.M.D., III, 1928/29, 30-31; Literatur eon van der borcht: Nagler, I, 813; IV, 28818, 2830, 3371; Le Blanc , Manuel I, p. 465; Oud Holland VI, 279, 281; Wurzbach, I, p. 140; Thieme becker, IV, p. 342; Bastelaer Hulin, Bruegel, p. 214, 381; M. Funck, Le livre Belge à gravures, 1925, p. 183; Delen; Hulin, p. 382.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002808,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5050</priref>
+			<number>AFG_086_066</number>
+			<part_of_reference>AFG_086_055</part_of_reference>
+			<content>Peasant Wedding. Pieter van der Borcht, b. Malines 1545 worked since 1572 at Antwerp where he died 1608. F.W.H. Hollstein, Dutch &amp; Flemish Etchings, Engravings &amp; Woodcuts, III, 1950, citaat p. 103; Popham, O.M.D., III, 1928/29, 30-31; Literatur eon van der borcht: Nagler, I, 813; IV, 28818, 2830, 3371; Le Blanc , Manuel I, p. 465; Oud Holland VI, 279, 281; Wurzbach, I, p. 140; Thieme becker, IV, p. 342; Bastelaer Hulin, Bruegel, p. 214, 381; M. Funck, Le livre Belge &#224; gravures, 1925, p. 183; Delen; Hulin, p. 382.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Influences on Bruegel (Italy) except Bosch, M. Cock,. Origins.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-03-21</input.date>
+			<edit.date>2014-03-21</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:32:03</edit.time>
+			<input.time>16:30:17</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2808,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2808/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3b8d0658-4a0c-5454-af0f-a6b5891bf0f0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""17a7b814-e5c2-46bb-a4fe-662a8087f942"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_066,repository numbers,,,,,,,,,,,,,,
+f8dfe50b-ee8d-53a2-87ea-5cdd90a6c972,tg:rubgr:2808,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_066,titles proper,Dutch (language),,,,,,,,,,,

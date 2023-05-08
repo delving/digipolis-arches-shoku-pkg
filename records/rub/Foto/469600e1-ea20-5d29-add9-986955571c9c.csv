@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3286,https://data.rubenianum.be//ark:/86530/469600e1-ea20-5d29-add9-986955571c9c,Foto's,,,,
+469600e1-ea20-5d29-add9-986955571c9c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""80da3e28-8aa7-4e12-b862-172ac8c85c2e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a1ab0634-9bf7-4dac-a408-8a144752e1df"", ""inverseOntologyProperty"": """"}]"
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 zw/w foto van het geheel; 9 details [Stempel ACL] [Notitie in onbekend handschrift]: Repas de la mariée. Coll. Linden.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003286,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5538</priref>
+			<number>AFG_092_016</number>
+			<content>1 zw/w foto van het geheel; 9 details [Stempel ACL] [Notitie in onbekend handschrift]: Repas de la mari&#233;e. Coll. Linden.</content>
+			<object.object_number>AFG_092</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Wrong or doubtful Attributions except Jan Brueghel. Copies after Lost Pictures &amp; after extant Works. Grossmann 242</object.title>
+			<object.creator/>
+			<input.date>2014-06-17</input.date>
+			<edit.date>2014-06-17</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:09:36</edit.time>
+			<input.time>11:06:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3286,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3286/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d8cea225-0c82-51d0-a599-86f80eb62e89"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf8ee68c-470e-4e9f-b671-da2ef596ff85"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_092_016,repository numbers,,,,,,,,,,,
+469600e1-ea20-5d29-add9-986955571c9c,tg:rubgr:3286,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_092_016,titles proper,Dutch (language),,,,,,,,

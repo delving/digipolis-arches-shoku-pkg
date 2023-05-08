@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2137,https://data.rubenianum.be//ark:/86530/9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,Handschriften,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2134,Verwijzing naar Grossmann object,,a1abfd6f-fbc9-5071-b8f5-4fee5c7cdac9,"[{""resourceId"": ""a1abfd6f-fbc9-5071-b8f5-4fee5c7cdac9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""84922488-b008-49fe-b044-46a068e8c88d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c2f1e84b-bfb0-4467-a776-0ebe779cec97"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c83db67-97aa-4dc3-9e49-ea45bd25dd9e"", ""inverseOntologyProperty"": """"}]"
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63d. Baumstudie. In diesem Zusammenhang erinnert mich F.G. daß Grecos Porträt des Clovio in Neapel der Maler [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greco, El",,,,,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Napels, Museo Nazionale di Capodimonte",,,,,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002137,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4371</priref>
+			<number>AFG_058_051</number>
+			<part_of_reference>AFG_058_048</part_of_reference>
+			<content>63d. Baumstudie. In diesem Zusammenhang erinnert mich F.G. da&#223; Grecos Portr&#228;t des Clovio in Neapel der Maler [...]</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Clovio. 63b: Turm von Babel; 63c: Ansicht von Lyon; 63d: Baumstudie; 63e: Miniatur gemeinsam mit Clovio (74-77); My Nos. 85-88.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>Greco, El</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Grossmann, F.</keyword>
+			<keyword>Napels, Museo Nazionale di Capodimonte</keyword>
+			<object.creator/>
+			<input.date>2013-04-04</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:42:04</edit.time>
+			<edit.time>13:18:13</edit.time>
+			<input.time>13:15:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2137,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2137/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d79b9a65-54bf-5435-b8cc-b6b4821a54c5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a8fec965-5f57-42ee-b151-d05d6752605b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_OriginalBrocade,,,au::111146,,,,,,,,,,,,,,rub,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,kw,,au::111146:1,au::111146g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,agent,,,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_051,repository numbers,,,,,,,,,,,,,,
+9a7c0de8-a0b6-5b62-9a52-dfb79d9ed527,tg:rubgr:2137,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_051,titles proper,Dutch (language),,,,,,,,,,,

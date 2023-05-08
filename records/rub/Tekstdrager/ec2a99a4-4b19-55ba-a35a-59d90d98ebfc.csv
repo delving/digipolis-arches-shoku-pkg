@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4480,https://data.rubenianum.be//ark:/86530/ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,Handschriften,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73f8c143-cd4c-4a5f-81b8-3c7eb36557c0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""71cdcbe2-f2b4-4a9e-ad67-c6ba560ad655"", ""inverseOntologyProperty"": """"}]"
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1] Sandrart Teutsche Akademie 1675, Zweite Haupteil 1679; Latin edition 1683; J.J. Volkmann 1768; Sponsel 1896; [blad 2] I Theils III Buch, Das 8 Capitel, p. 79 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sandrart, Joachim I von",,,,,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004480,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6733</priref>
+			<number>AFG_114_014</number>
+			<content>[2 bladen] [blad 1] Sandrart Teutsche Akademie 1675, Zweite Haupteil 1679; Latin edition 1683; J.J. Volkmann 1768; Sponsel 1896; [blad 2] I Theils III Buch, Das 8 Capitel, p. 79 [...]</content>
+			<object.object_number>AFG_114</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel varia</object.title>
+			<keyword>Sandrart, Joachim I von</keyword>
+			<object.creator/>
+			<input.date>2014-07-14</input.date>
+			<edit.date>2014-07-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:40:17</edit.time>
+			<input.time>16:39:18</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4480,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4480/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b3dc2e36-4564-5d5c-858b-1b0bb0bd20e7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""64f57ec0-6794-47c4-925b-7e295595118f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_114_014,repository numbers,,,,,,,,,,,,,,
+ec2a99a4-4b19-55ba-a35a-59d90d98ebfc,tg:rubgr:4480,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_114_014,titles proper,Dutch (language),,,,,,,,,,,

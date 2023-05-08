@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2726,https://data.rubenianum.be//ark:/86530/b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,Handschriften,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""56366241-9ab5-4d0e-89ad-58406331a519"", ""ontologyProperty"": """", ""resourceXresourceId"": ""725dcf85-0a34-4877-90a6-feb8203fb609"", ""inverseOntologyProperty"": """"}]"
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The Twelve Months of the Year by Abel Grimmer, c. 1570-Antwerp-1619. A highly important set of paintings on oak panels, each measuring 81/4 inches (21 cm) in diameter. Signed and dated 1614. H. Terry-Engell Gallery; [Notitie FG]: '19171/72 sold for £ 120000; [inlegblad met notitie FG]: 'Edith Greindl, Abel Grimmer, 1972.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14934889,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grimmer, Abel",,,,,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, H. Terry-Engell Gallery",,,,,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greindl, Edith",,,,,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002726,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>4968</priref>
+<number>AFG_085_039</number>
+<content>The Twelve Months of the Year by Abel Grimmer, c. 1570-Antwerp-1619. A highly important set of paintings on oak panels, each measuring 81/4 inches (21 cm) in diameter. Signed and dated 1614. H. Terry-Engell Gallery; [Notitie FG]: '19171/72 sold for £ 120000; [inlegblad met notitie FG]: 'Edith Greindl, Abel Grimmer, 1972.'</content>
+<object.object_number>AFG_085</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>verkoopcatalogus</editorial_form>
+<object.title>""Months"" Comparative Material</object.title>
+<keyword>Grimmer, Abel</keyword>
+<keyword>Londen, H. Terry-Engell Gallery</keyword>
+<keyword>Greindl, Edith</keyword>
+<object.creator/>
+<input.date>2014-03-06</input.date>
+<input.name>Centrum</input.name>
+<input.time>10:14:32</input.time>
+<input.source>archive</input.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2726,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2726/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16ad1195-d97f-57cb-b21e-4252f0387447"", ""ontologyProperty"": """", ""resourceXresourceId"": ""90453105-a5d0-43ad-9c9e-c1966ace44a9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_039,repository numbers,,,,,,,,,,,,,,
+b1561f9d-c9c3-5659-a1b9-a2a7bc92b4fa,tg:rubgr:2726,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_039,titles proper,Dutch (language),,,,,,,,,,,

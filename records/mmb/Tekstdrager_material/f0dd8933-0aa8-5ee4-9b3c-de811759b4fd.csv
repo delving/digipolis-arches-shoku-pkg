@@ -1,0 +1,9 @@
+ResourceID,mmb_id_mat,card,order,Acquisition Brocade ID,Acquisition Widget,Archive Brocade ID,Archive Widget,source_value,Dimension Value,Dimension Type,Dimension Measurement Unit,au_code,au_name,Production Actor Role,Production Actor Note,Production Actor Widget,Start Date,End Date,source_field,source_date,Restriction Type,Image URL,Image Manifest,Image Manifest Type,Image URL Type,Keeper,Object Number,Object Number Type,Object Identifier,Warehouse Location (begin),Warehouse Location (end),Object Type,Other Identifier Type,Other Identifier,Annotation Type,Annotation Language,Annotation
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,,AA,0,,,,,,,,,,,,,,,,,,,,,,,Museum Mayer van den Bergh,tg:mmbdc:73_#1,record identifiers,https://data.museummayervandenbergh.be/ark:/59511/f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,Doos A.XI,,financial records,record identifiers,MMB.A.1464,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,tg:mmbdc:73_#1,e22_Acquisitions,1,vóór 1974 geschonken door Baudouin Cols,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,tg:mmbdc:73_#1,e22_Archives,1,,,MMB.A.I.D.2.b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,,e22_Dimensions,,,,,,242 x 215 mm,242,hoogte,millimeters,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,,e22_Dimensions,,,,,,242 x 215 mm,215,breedte,millimeters,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,tg:mmbdc:73_#1,e22_Images,1,,,,,,,,,,,,,,,,,,,https://dams.antwerpen.be/asset/yqaiTH6PYWKRXBGUX8qo22UR,https://dams.antwerpen.be/iiif/yqaiTH6PYWKRXBGUX8qo22UR/manifest,DAMS Manifest,DAMS Image,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,tg:mmbdc:73_#1,e22_ProductionTimeSpans,1,,,,,,,,,,,,,,1905-04-07,,,,,,,,,,,,,,,,,,,,
+f0dd8933-0aa8-5ee4-9b3c-de811759b4fd,tg:mmbdc:73_#1,e22_UsageRestrictions,,,,,,,,,,,,,,,,,begindatum,1905,permission required,,,,,,,,,,,,,,,,

@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5316,https://data.rubenianum.be//ark:/86530/6b2a812e-69ea-5662-8aa7-24af197aafa4,Brieven,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""37460790-1441-474e-9a55-8815d6421cc0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a2f51f7b-8f00-4a5d-8fce-92bcc25a1a67"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63825ffa-fa0a-4d15-a886-ca9441448f40"", ""inverseOntologyProperty"": """"}]"
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_Correspondence,1,,,,,,,,,,,,,,,,"Anzelewski, Fedja",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19760308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1976-03-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Onderzoek is uitgesteld wegens gezondheidsproblemen. Vraagt naar publicatie Symposium.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005316,referentienummer,False,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7573</priref>
+			<recipient>Anzelewski, Fedja</recipient>
+			<number>AFG_145_046</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<date.precise>1976-03-08</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Onderzoek is uitgesteld wegens gezondheidsproblemen. Vraagt naar publicatie Symposium.</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator/>
+			<input.date>2014-08-20</input.date>
+			<edit.date>2014-08-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:26:35</edit.time>
+			<input.time>11:15:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5316,brocade id,False,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5316/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""155c230c-9f18-50bc-8cc0-78353218ad94"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5335adf0-e7a8-4d1b-95da-ffa423bbdeaa"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_046,repository numbers,,,,,,,,,,,
+6b2a812e-69ea-5662-8aa7-24af197aafa4,tg:rubgr:5316,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_046,titles proper,Dutch (language),,,,,,,,

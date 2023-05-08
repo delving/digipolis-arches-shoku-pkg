@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:620,https://data.rubenianum.be//ark:/86530/c85703f0-acb4-5049-96ca-6e0616c517e5,Handschriften,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eaa837d0-3543-4181-af7e-3c399057a375"", ""ontologyProperty"": """", ""resourceXresourceId"": ""200003bf-7986-4652-87b8-20adde80e8dd"", ""inverseOntologyProperty"": """"}]"
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel. Petrus Christus Tod Mariae publ. in Friedländer Burl.Mag. 88 July 1946, p. 158.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_ExternalRelationsExtras,a::rub.17,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,64155,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Christus, Petrus",,,,,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000620,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2871</priref>
+			<number>AFG_013_023</number>
+			<content>Ad [Addendum] Bruegel. Petrus Christus Tod Mariae publ. in Friedl&#228;nder Burl.Mag. 88 July 1946, p. 158.</content>
+			<object.object_number>AFG_013</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Death of the Virgin</object.title>
+			<keyword>Christus, Petrus</keyword>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-13</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2012-01-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:12:55</edit.time>
+			<edit.time>10:49:57</edit.time>
+			<edit.time>14:04:20</edit.time>
+			<input.time>14:02:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:620,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:620/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""547edf5d-7d8a-52bb-bc97-8d22fdf64e73"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0967e228-ba98-42af-852e-f597aa596ed9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_023,repository numbers,,,,,,,,,,,,,,
+c85703f0-acb4-5049-96ca-6e0616c517e5,tg:rubgr:620,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_013_023,titles proper,Dutch (language),,,,,,,,,,,

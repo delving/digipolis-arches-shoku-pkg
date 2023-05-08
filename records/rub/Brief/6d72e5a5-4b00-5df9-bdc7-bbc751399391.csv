@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1700,https://data.rubenianum.be//ark:/86530/6d72e5a5-4b00-5df9-bdc7-bbc751399391,Brieven,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6f39b76f-f1f6-423e-a525-7c1e9182c9e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5e0eed32-a94b-459b-8f87-bc0ba1a51dee"", ""inverseOntologyProperty"": """"}]"
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Afbeelding in kleur; Collotype, Max Jaffé, Vienna, Austria] Pennsylvania Museum of Art, The Unfaithful Shepherd by Pieter Brueghel the Elder 1525-1569, Johnson Collection.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Philadelphia, Philadelphia Museum of Art",,,,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001700,referentienummer,False,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3950</priref>
+			<number>AFG_046_003</number>
+			<content>[Afbeelding in kleur; Collotype, Max Jaff&#233;, Vienna, Austria] Pennsylvania Museum of Art, The Unfaithful Shepherd by Pieter Brueghel the Elder 1525-1569, Johnson Collection.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Prentbriefkaart</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Philadelphia, Philadelphia Museum of Art</keyword>
+			<object.creator/>
+			<input.date>2013-01-09</input.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2014-10-02</edit.date>
+			<edit.date>2013-01-09</edit.date>
+			<edit.date>2013-01-09</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:39:26</edit.time>
+			<edit.time>09:38:30</edit.time>
+			<edit.time>09:42:57</edit.time>
+			<edit.time>09:42:39</edit.time>
+			<input.time>09:40:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1700,brocade id,False,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1700/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8341c38e-8df9-57b8-9e2e-97e5569d0188"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dd6670d8-759e-4e75-a57d-09a218b21698"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_003,repository numbers,,,,,,,,,,,
+6d72e5a5-4b00-5df9-bdc7-bbc751399391,tg:rubgr:1700,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_003,titles proper,Dutch (language),,,,,,,,

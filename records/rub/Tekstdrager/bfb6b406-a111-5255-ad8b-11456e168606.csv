@@ -1,0 +1,83 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:498,https://data.rubenianum.be//ark:/86530/bfb6b406-a111-5255-ad8b-11456e168606,Handschriften,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a21d042-d25a-4d55-aabf-055680aa2341"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1f2266ee-78a1-4145-a182-2d87f900f296"", ""inverseOntologyProperty"": """"}]"
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Ad [Addendum] Dulle Griet. Kugel. Lieselotte MÖLLER, 'Bildgeschichtliche Studien zu Stammbuchbildern. II. Die Kugel als Vanitassymbol', Jahrbuch der Hamburger Kunstsammlungen, Bd. 2, 1952, pp. 157-177, citaten pp. 159-161, 174.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_ExternalRelationsExtras,a::rub.14,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54556,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bol,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iconografie,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Möller, Lieselotte",,,,,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000498,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2745</priref>
+			<number>AFG_010_013</number>
+			<content>[2 bladen] Ad [Addendum] Dulle Griet. Kugel. Lieselotte M&#214;LLER, 'Bildgeschichtliche Studien zu Stammbuchbildern. II. Die Kugel als Vanitassymbol', Jahrbuch der Hamburger Kunstsammlungen, Bd. 2, 1952, pp. 157-177, citaten pp. 159-161, 174.</content>
+			<object.object_number>AFG_010</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Dulle Griet</object.title>
+			<keyword>bol</keyword>
+			<keyword>iconografie</keyword>
+			<keyword>M&#246;ller, Lieselotte</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-10-06</input.date>
+			<edit.date>2015-02-18</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2012-01-09</edit.date>
+			<edit.date>2011-12-02</edit.date>
+			<edit.date>2011-12-02</edit.date>
+			<edit.date>2011-12-02</edit.date>
+			<edit.date>2011-12-02</edit.date>
+			<edit.date>2011-12-01</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:31:34</edit.time>
+			<edit.time>14:33:08</edit.time>
+			<edit.time>09:32:57</edit.time>
+			<edit.time>11:53:45</edit.time>
+			<edit.time>11:52:49</edit.time>
+			<edit.time>11:50:43</edit.time>
+			<edit.time>11:49:52</edit.time>
+			<edit.time>13:52:48</edit.time>
+			<edit.time>14:51:31</edit.time>
+			<edit.time>14:51:12</edit.time>
+			<edit.time>14:50:17</edit.time>
+			<edit.time>14:43:23</edit.time>
+			<input.time>14:38:01</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:498,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:498/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4384f83a-6684-5871-a4e2-2340133de4a4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""177dbeb4-e108-4330-99b0-79a7567e3f91"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_013,repository numbers,,,,,,,,,,,,,,
+bfb6b406-a111-5255-ad8b-11456e168606,tg:rubgr:498,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_013,titles proper,Dutch (language),,,,,,,,,,,

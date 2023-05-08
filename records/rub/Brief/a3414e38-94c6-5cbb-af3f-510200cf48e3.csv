@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2187,https://data.rubenianum.be//ark:/86530/a3414e38-94c6-5cbb-af3f-510200cf48e3,Brieven,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2186,Verwijzing naar Grossmann object,,0a78147c-6172-52f1-8629-8f8ac2dceb7b,"[{""resourceId"": ""0a78147c-6172-52f1-8629-8f8ac2dceb7b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f68bf80d-da2b-4bb0-ab73-01e4d99edd88"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a503a13d-a2fd-4363-a23d-310746db414c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d017e4f6-7108-4ce8-b364-95c0bad8bfa6"", ""inverseOntologyProperty"": """"}]"
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Antwerp Proverbs. Against P.B.I: 1) The quality of the paintings - the failure; 2) The signature which if genuine P.B.I would by the 'h' indicate an early date - not late P.B.I as de Coo assumes. The date in which only 1..8 are clear could be 1588, 1598, 1608 etc.; 3) Some of the figures may be improvements over Berlin as de Coo asserts. It is in fact possible that some (not all) are copied from P.B.I and adapted by P.B.II for plates; [verso] 4) Should one really assume that P.B.I mades the plates? [onderstreept]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_ExternalRelationsExtras,a::rub.52,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,260958,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toeschrijvingsproblematiek,,,,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Coo, Jozef De",,,,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002187,referentienummer,False,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4434</priref>
+			<number>AFG_063_003</number>
+			<part_of_reference>AFG_063_002</part_of_reference>
+			<content>Ad [Addendum] Antwerp Proverbs. Against P.B.I: 1) The quality of the paintings - the failure; 2) The signature which if genuine P.B.I would by the 'h' indicate an early date - not late P.B.I as de Coo assumes. The date in which only 1..8 are clear could be 1588, 1598, 1608 etc.; 3) Some of the figures may be improvements over Berlin as de Coo asserts. It is in fact possible that some (not all) are copied from P.B.I and adapted by P.B.II for plates; [verso] 4) Should one really assume that P.B.I mades the plates? [onderstreept]</content>
+			<object.object_number>AFG_063</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Jozef de Coo, Twaalf spreuken op borden van Pieter Bruegel de Oude, [Notitie FG]: Bulletin Mus&#233;es R[oyale] des Beaux-Arts de Belgique, XIV, 1965; [toegevoegde vermelding]: 'FG p. 88 The man in Antwerp stands, the one in Berlin runs against the wall. According to de Coo argumentation Berlin is so bad that it might not be by Bruegel; [geannoteerd door FG].</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Briefkaart</editorial_form>
+			<object.title>P.B. II Proverbs. Mayer van den Bergh and related material</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Toeschrijvingsproblematiek</keyword>
+			<keyword>Coo, Jozef De</keyword>
+			<object.creator>Breughel, Pieter II</object.creator>
+			<input.date>2013-04-19</input.date>
+			<edit.date>2014-11-06</edit.date>
+			<edit.date>2014-11-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:27:38</edit.time>
+			<edit.time>12:26:43</edit.time>
+			<input.time>10:11:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2187,brocade id,False,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2187/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ae853d2a-ab4e-5735-9e33-36f4ea4e2c10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6bb9112e-6e35-4c10-a434-90fe00e993f6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,,,rub,,ca79196f-9430-56d2-86ca-543e10adef0a,kw,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_063_003,repository numbers,,,,,,,,,,,
+a3414e38-94c6-5cbb-af3f-510200cf48e3,tg:rubgr:2187,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_063_003,titles proper,Dutch (language),,,,,,,,

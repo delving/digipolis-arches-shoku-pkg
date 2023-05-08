@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2043,https://data.rubenianum.be//ark:/86530/0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,Brieven,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2038,Verwijzing naar Grossmann object,,56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e,"[{""resourceId"": ""56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""23a4375a-8409-4579-987b-1c6c0f035c85"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""db17e106-de6a-4f3e-b345-4e22c4b84a22"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9d409733-7585-4e6c-a376-70efa57ff676"", ""inverseOntologyProperty"": """"}]"
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Correspondence,1,,,,,,,,,,,,,,,,"Demus, Klaus",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19730918,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1973-09-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Acht het al te onwaarschijnlijk dat op eenzelfde moment twee zgn. originele werken van P.B.I opduiken. Wijst erop dat Demus weet dat hij twijfelt aan de originaliteit van het werk in Stockholm. Kan de naam en het adres van de afzender niet lezen. Meldt dat Seilern en Novotny steeds klagen over zijn handschrift. Meldt dat hij terug is uit Oostenrijk en Hongarije. Hij vermeldt de hulpvaardigheid van de collega's in Hongarije.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Novotny, Fritz",,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002043,referentienummer,False,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4279</priref>
+			<recipient>Demus, Klaus</recipient>
+			<number>AFG_055_074</number>
+			<part_of_reference>AFG_055_069</part_of_reference>
+			<date.precise>1973-09-18</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Acht het al te onwaarschijnlijk dat op eenzelfde moment twee zgn. originele werken van P.B.I opduiken. Wijst erop dat Demus weet dat hij twijfelt aan de originaliteit van het werk in Stockholm. Kan de naam en het adres van de afzender niet lezen. Meldt dat Seilern en Novotny steeds klagen over zijn handschrift. Meldt dat hij terug is uit Oostenrijk en Hongarije. Hij vermeldt de hulpvaardigheid van de collega's in Hongarije.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefomslag]: FG notitie: Peasants falling out at Cards. Magnaguagno version.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Novotny, Fritz</keyword>
+			<keyword>Seilern, Antoine</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator/>
+			<input.date>2013-03-13</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:52:38</edit.time>
+			<edit.time>14:14:30</edit.time>
+			<edit.time>14:11:21</edit.time>
+			<input.time>14:06:57</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2043,brocade id,False,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2043/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8d0cee7f-a5fe-5ecf-b043-38ccbb6efc76"", ""ontologyProperty"": """", ""resourceXresourceId"": ""05ce3e03-3701-4731-81dd-c9e00666e892"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_074,repository numbers,,,,,,,,,,,
+0ad8ea8b-4859-5cc8-8ceb-a17f04aa1f6e,tg:rubgr:2043,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_074,titles proper,Dutch (language),,,,,,,,

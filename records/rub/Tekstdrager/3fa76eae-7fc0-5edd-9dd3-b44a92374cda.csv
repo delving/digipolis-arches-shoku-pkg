@@ -1,0 +1,84 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:452,https://data.rubenianum.be//ark:/86530/3fa76eae-7fc0-5edd-9dd3-b44a92374cda,Handschriften,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f8a31ffa-53cd-4f20-952d-1ecb15794ea8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d18ad010-17bb-4d8b-92aa-85b234b52cf4"", ""inverseOntologyProperty"": """"}]"
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Triumph of Death, cf. G. Pencz: Triumph of Death (B.121) from a series of the Triumphs of Petrarch with many motifs appearing also in Bruegel's painting. The Triumph of Death repr. in H.W. [Hans Wolfgang] Singer, Die Kleinmeister, [(Künstler-Monographien; 92), Bielefeld: Velhagen & Klasing], 1908, Abb. 57, text p. 63 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56714,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pencz, Jorg",,,,,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Petrarca, Francesco",,,,,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Singer, Hans Wolfgang",,,,,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000452,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2670</priref>
+			<number>AFG_009_041</number>
+			<content>Ad [Addendum] Triumph of Death, cf. G. Pencz: Triumph of Death (B.121) from a series of the Triumphs of Petrarch with many motifs appearing also in Bruegel's painting. The Triumph of Death repr. in H.W. [Hans Wolfgang] Singer, Die Kleinmeister, [(K&#252;nstler-Monographien; 92), Bielefeld: Velhagen &amp; Klasing], 1908, Abb. 57, text p. 63 [...]</content>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Triumph of Death</object.title>
+			<keyword>Pencz, Jorg</keyword>
+			<keyword>Petrarca, Francesco</keyword>
+			<keyword>Singer, Hans Wolfgang</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-30</input.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2014-03-07</edit.date>
+			<edit.date>2011-11-30</edit.date>
+			<edit.date>2011-11-29</edit.date>
+			<edit.date>2011-11-29</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-09-30</edit.date>
+			<edit.date>2011-09-30</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>08:57:21</edit.time>
+			<edit.time>11:04:41</edit.time>
+			<edit.time>15:27:40</edit.time>
+			<edit.time>13:45:44</edit.time>
+			<edit.time>13:44:56</edit.time>
+			<edit.time>12:01:23</edit.time>
+			<edit.time>11:38:09</edit.time>
+			<edit.time>13:23:12</edit.time>
+			<edit.time>10:00:03</edit.time>
+			<edit.time>09:20:19</edit.time>
+			<edit.time>14:38:48</edit.time>
+			<edit.time>14:38:30</edit.time>
+			<input.time>14:35:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:452,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:452/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1015fd89-b4ae-56af-b56c-e422332c3d8b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76494108-813f-4ebd-9d9f-f29fb0f6e789"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_041,repository numbers,,,,,,,,,,,,,,
+3fa76eae-7fc0-5edd-9dd3-b44a92374cda,tg:rubgr:452,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_041,titles proper,Dutch (language),,,,,,,,,,,

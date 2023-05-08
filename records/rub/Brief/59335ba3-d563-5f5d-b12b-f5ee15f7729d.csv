@@ -1,0 +1,66 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4693,https://data.rubenianum.be//ark:/86530/59335ba3-d563-5f5d-b12b-f5ee15f7729d,Brieven,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:4694,Verwijzing naar Grossmann object,,93d17ba4-5f5a-5503-8e7b-5084a40b2931,"[{""resourceId"": ""93d17ba4-5f5a-5503-8e7b-5084a40b2931"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5f152f0d-5e08-4884-b2ec-15e0a8a6ae9f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6b9cdd3d-0936-4424-bbe5-4cdf64cf0b4b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c23d56a4-6e4b-4a89-90b2-c7b942bedf2f"", ""inverseOntologyProperty"": """"}]"
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Correspondence,1,,,,,,,,,,,,,,,,"Roskill, Mark W.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19681204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1968-12-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd Dept. of Art, University of Massachusetts, Amherst] Korte inhoud: Vermeldt dat in 1965-66 FG hielp bij de samenstelling van de catalogus van de Clowescollectie. Zendt de catalogusnotities ter goedkeuring.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roskill, Mark W.",,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clowes, George Henry Alexander",,,,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004693,referentienummer,False,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6946</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_126_001</number>
+			<date.precise>1968-12-04</date.precise>
+			<content>[Briefhoofd Dept. of Art, University of Massachusetts, Amherst] Korte inhoud: Vermeldt dat in 1965-66 FG hielp bij de samenstelling van de catalogus van de Clowescollectie. Zendt de catalogusnotities ter goedkeuring.</content>
+			<object.object_number>AFG_126</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title>Austrian school, around 1400; Hans Holbein the Younger(1)(2)(3); Pieter Breughel the Elder, atrrib. to Landscape with a Hermit (2)[1 ontbreekt]; Rubens, cont. Portrait of a Man in Armor (called the Duke of Mantua) [1 ontbreekt]</parts.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Roskill; Clowes Catalogue (Austrian, Bruegels, Holbein, Rubens)</object.title>
+			<keyword>Roskill, Mark W.</keyword>
+			<keyword>Clowes, George Henry Alexander</keyword>
+			<sender>Roskill, Mark W.</sender>
+			<object.creator/>
+			<input.date>2014-07-23</input.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<parts_reference>AFG_126_002</parts_reference>
+			<edit.time>11:21:11</edit.time>
+			<edit.time>11:13:18</edit.time>
+			<edit.time>11:05:25</edit.time>
+			<edit.time>11:05:07</edit.time>
+			<edit.time>10:13:09</edit.time>
+			<edit.time>10:11:51</edit.time>
+			<input.time>09:58:47</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4693,brocade id,False,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4693/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3b8caac3-5c81-50d4-8b67-8564d64e8862"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4899aeda-82b5-41d0-8b27-865ee48aa731"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_126_001,repository numbers,,,,,,,,,,,
+59335ba3-d563-5f5d-b12b-f5ee15f7729d,tg:rubgr:4693,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_126_001,titles proper,Dutch (language),,,,,,,,

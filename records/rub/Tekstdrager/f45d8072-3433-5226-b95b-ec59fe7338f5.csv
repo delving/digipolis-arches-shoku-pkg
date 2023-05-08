@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2742,https://data.rubenianum.be//ark:/86530/f45d8072-3433-5226-b95b-ec59fe7338f5,Handschriften,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4a502ff0-b5c7-4af8-bf76-e3876ac61360"", ""ontologyProperty"": """", ""resourceXresourceId"": ""42eee075-2264-4a32-83fb-53039d49cfea"", ""inverseOntologyProperty"": """"}]"
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Flemish Paintings, 10th June-10th July 1975, London, Roy Miles Fine Paintings, 1975; [Notities FG bij Sebastian Vrancx. The Four Seasons]: ?. Figuires rather poor. each picture contains 3 months in sequence.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14936590,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kennerschap,,,,,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002742,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>4984</priref>
+<number>AFG_085_055</number>
+<content>Flemish Paintings, 10th June-10th July 1975, London, Roy Miles Fine Paintings, 1975; [Notities FG bij Sebastian Vrancx. The Four Seasons]: ?. Figuires rather poor. each picture contains 3 months in sequence.'</content>
+<object.object_number>AFG_085</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>verkoopcatalogus</editorial_form>
+<object.title>""Months"" Comparative Material</object.title>
+<keyword>Vrancx, Sebastiaan</keyword>
+<keyword>kennerschap</keyword>
+<object.creator/>
+<input.date>2014-03-06</input.date>
+<edit.date>2014-03-06</edit.date>
+<edit.date>2014-03-06</edit.date>
+<edit.date>2014-03-06</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.time>12:48:11</edit.time>
+<edit.time>12:47:54</edit.time>
+<edit.time>12:40:54</edit.time>
+<input.time>12:37:37</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2742,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2742/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1020fed7-60e8-5f44-bd49-b7c2a60ba449"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab713132-49ce-4e11-95fd-6c947e49e131"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_OriginalBrocade,,,au::20725,,,,,,,,,,,,,,rub,94f2b984-01e4-5b70-8738-cf45789b7de8,kw,,au::20725:1,au::20725g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2217575"",""au::20725"",""au::20725:1"",""ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8"",""S. Vrancx""],""name"":""S. Vrancx"",""ark"":""ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8"",""uri"":""/agents/people/2217575"",""id"":""au::20725:1"",""isCapacity"":false}",ark:/83110/x0/94f2b984-01e4-5b70-8738-cf45789b7de8,agent,,,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_055,repository numbers,,,,,,,,,,,,,,
+f45d8072-3433-5226-b95b-ec59fe7338f5,tg:rubgr:2742,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_055,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2059,https://data.rubenianum.be//ark:/86530/8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,Foto's,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ed5a7b4-9211-473e-94c7-724f7c3483ce"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fa6d44dd-d04d-44ef-8293-83829ec72f2a"", ""inverseOntologyProperty"": """"}]"
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto The Crucifixion, Pieter Brueghel, The Younger. [Stempel]: Philadelphia Museum of Art.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Philadelphia, Philadelphia Museum of Art",,,,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002059,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4293</priref>
+			<number>AFG_056_003</number>
+			<content>1 zw/w foto The Crucifixion, Pieter Brueghel, The Younger. [Stempel]: Philadelphia Museum of Art.</content>
+			<object.object_number>AFG_056</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Lost Pictures: Crucifixion</object.title>
+			<keyword>Philadelphia, Philadelphia Museum of Art</keyword>
+			<object.creator/>
+			<input.date>2013-03-14</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-14</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:27:31</edit.time>
+			<edit.time>09:28:28</edit.time>
+			<input.time>09:27:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2059,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2059/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""31d1f57d-5d14-55d7-84be-2b6180bd5478"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a87852c7-e65a-4a23-83d3-2fd3d0e0bfe6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_056_003,repository numbers,,,,,,,,,,,
+8af96a7d-dbb6-5d8c-b5ca-d61f1279d7c3,tg:rubgr:2059,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_056_003,titles proper,Dutch (language),,,,,,,,

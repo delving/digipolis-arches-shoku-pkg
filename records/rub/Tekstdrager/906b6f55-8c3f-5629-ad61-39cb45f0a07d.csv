@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2434,https://data.rubenianum.be//ark:/86530/906b6f55-8c3f-5629-ad61-39cb45f0a07d,Handschriften,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e523291c-8b60-4be9-9542-ff64b6e4f687"", ""ontologyProperty"": """", ""resourceXresourceId"": ""afaaa2af-21e9-4530-8601-26699e322642"", ""inverseOntologyProperty"": """"}]"
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Fragment van verkoopcatalogus]: [blad 1] 1966 Spring Exhibition of Flemish, Dutch and Italian Masters, Leonard Koetser Ltd., 13 Duke Street, St. James's, London, S.W.1; Jan Brueghel de Velours, [...], N° 19: A Rocky Coastal Scene [...]; [blad 2, afb.] [Notitie FG]: 'N° 19.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Shipp, Horace",,,,,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Koetser, Leonard F.",,,,,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002434,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4677</priref>
+			<number>AFG_082_007</number>
+			<content>[Fragment van verkoopcatalogus]: [blad 1] 1966 Spring Exhibition of Flemish, Dutch and Italian Masters, Leonard Koetser Ltd., 13 Duke Street, St. James's, London, S.W.1; Jan Brueghel de Velours, [...], N&#176; 19: A Rocky Coastal Scene [...]; [blad 2, afb.] [Notitie FG]: 'N&#176; 19.'</content>
+			<object.object_number>AFG_082</object.object_number>
+			<object.object_name>Losse stukken</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>verkoopcatalogus</editorial_form>
+			<object.title/>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Shipp, Horace</keyword>
+			<keyword>Koetser, Leonard F.</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-08-29</input.date>
+			<edit.date>2015-01-09</edit.date>
+			<edit.date>2015-01-09</edit.date>
+			<edit.date>2013-08-29</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:57:21</edit.time>
+			<edit.time>11:49:17</edit.time>
+			<edit.time>09:56:11</edit.time>
+			<input.time>09:52:41</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2434,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2434/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a7bd730a-fb06-5c52-bd28-9d0ca1243bb1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a136018-ce59-4440-87ca-f09c012afed4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_082_007,repository numbers,,,,,,,,,,,,,,
+906b6f55-8c3f-5629-ad61-39cb45f0a07d,tg:rubgr:2434,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_082_007,titles proper,Dutch (language),,,,,,,,,,,

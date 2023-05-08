@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4365,https://data.rubenianum.be//ark:/86530/69ec464a-fbbc-5ea0-b119-741b38eb96df,Handschriften,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""04a057b1-ef5c-4692-9f58-e23f9a85223f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""66fc2b9f-38c9-423b-b853-a93f6424bb20"", ""inverseOntologyProperty"": """"}]"
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"F.G. The beggar sheet in the Albertina imposed Bruegel's paintings of Proverbs, Children's Games, carnival & Lent; B's roundel of the Misanthrope endebted to Bosch Roundels e.g. The Peddlar.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004365,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6618</priref>
+			<number>AFG_111_160</number>
+			<content>F.G. The beggar sheet in the Albertina imposed Bruegel's paintings of Proverbs, Children's Games, carnival &amp; Lent; B's roundel of the Misanthrope endebted to Bosch Roundels e.g. The Peddlar.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<object.creator/>
+			<input.date>2014-07-09</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>16:33:00</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4365,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4365/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""27a5b663-0020-5c56-b587-58c45ee7c0f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""53e3fd65-d3f2-4277-b807-49e6ce3a7759"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_160,repository numbers,,,,,,,,,,,,,,
+69ec464a-fbbc-5ea0-b119-741b38eb96df,tg:rubgr:4365,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_160,titles proper,Dutch (language),,,,,,,,,,,

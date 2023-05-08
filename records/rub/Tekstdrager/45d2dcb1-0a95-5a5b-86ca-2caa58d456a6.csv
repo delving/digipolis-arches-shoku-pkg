@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3078,https://data.rubenianum.be//ark:/86530/45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,Handschriften,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3070,Verwijzing naar Grossmann object,,241bff70-c125-522f-9111-2f56a2af1a74,"[{""resourceId"": ""241bff70-c125-522f-9111-2f56a2af1a74"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a2f0b47c-82a3-4efd-a06d-77cc28bb8599"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""22522315-0bf6-4680-8c3a-ecbb13a285dc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5ed1be68-f730-4b02-a3c9-98eb48df021f"", ""inverseOntologyProperty"": """"}]"
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"65b. Ad [Addendum] Springprocession. Recht inetressantes Bild, farbige [?] in Rijksbureau bei Duits, London, Exh. Nottingham, Sept. 1945, N° 32.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003078,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5308</priref>
+			<number>AFG_089_078</number>
+			<part_of_reference>AFG_089_070</part_of_reference>
+			<content>65b. Ad [Addendum] Springprocession. Recht inetressantes Bild, farbige [?] in Rijksbureau bei Duits, London, Exh. Nottingham, Sept. 1945, N&#176; 32.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Blind Men and Dance ([?]) My 65. See also Blind (Naples).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-06-05</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-05</edit.date>
+			<edit.date>2014-06-05</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:46:45</edit.time>
+			<edit.time>16:24:25</edit.time>
+			<edit.time>16:23:16</edit.time>
+			<input.time>16:20:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3078,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3078/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7610645f-0c9e-5401-879d-fc27eb2045d2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3e2732aa-7d1d-48eb-b678-12b81e1c6ae0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_078,repository numbers,,,,,,,,,,,,,,
+45d2dcb1-0a95-5a5b-86ca-2caa58d456a6,tg:rubgr:3078,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_078,titles proper,Dutch (language),,,,,,,,,,,

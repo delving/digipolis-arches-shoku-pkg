@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2989,https://data.rubenianum.be//ark:/86530/15e2fd35-e94f-5676-ae7b-97de6462db5b,Handschriften,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a8a0fe4-a99a-40cb-8659-cec13eec2f68"", ""ontologyProperty"": """", ""resourceXresourceId"": ""484261d4-e3ea-4b43-a6c8-de75e7a874e9"", ""inverseOntologyProperty"": """"}]"
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[doorstreept]: '6a' Versuchung des hl. Antonius (Frank); [doorstreept]: 'Neu 11'; My N° 42.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002989,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5394</priref>
+			<number>AFG_088_010</number>
+			<content>[doorstreept]: '6a' Versuchung des hl. Antonius (Frank); [doorstreept]: 'Neu 11'; My N&#176; 42.</content>
+			<object.object_number>AFG_088</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Doubtful &amp; Wrong Attributions, Copies, Lost Pictures, nos. 43-46</object.title>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>12:08:20</edit.time>
+			<input.time>11:29:24</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2989,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2989/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""af039da0-0502-57d5-8693-45b831631bce"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b5792e36-9cfd-4e75-95d1-cf421c204b8e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_010,repository numbers,,,,,,,,,,,,,,
+15e2fd35-e94f-5676-ae7b-97de6462db5b,tg:rubgr:2989,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_010,titles proper,Dutch (language),,,,,,,,,,,

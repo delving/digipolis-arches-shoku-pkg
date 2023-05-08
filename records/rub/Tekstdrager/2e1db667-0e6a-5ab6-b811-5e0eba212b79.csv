@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3259,https://data.rubenianum.be//ark:/86530/2e1db667-0e6a-5ab6-b811-5e0eba212b79,Handschriften,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3253,Verwijzing naar Grossmann object,,63274b2b-8a51-51af-840e-419f03b93bf9,"[{""resourceId"": ""63274b2b-8a51-51af-840e-419f03b93bf9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4d82dbf7-386a-46a3-a710-22e4c734cb91"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""58e41b23-5e67-4456-8c6d-b6ab404e2d0c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33cf3841-f21e-4e84-99a7-856e97c92606"", ""inverseOntologyProperty"": """"}]"
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Witt Library. M. van Cleve. Eislauf vor Georgstor mit Tor rechts. P. de Boer, Amsterdam 1938, N° 11 Maerten van Cleve, Bois 106x148 cm (Vorher bei B. Doehler, Munich 1926; 1949 bei Böhlen Luzern ([?] von Glück: paint par M. van Cleve d'après un dessin de P.B.I, d'après lequel aussi la gravure Bastelaer 205; [Notitie FG]: 'To be added at end.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003259,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5373</priref>
+			<number>AFG_091_063</number>
+			<part_of_reference>AFG_091_057</part_of_reference>
+			<content>Witt Library. M. van Cleve. Eislauf vor Georgstor mit Tor rechts. P. de Boer, Amsterdam 1938, N&#176; 11 Maerten van Cleve, Bois 106x148 cm (Vorher bei B. Doehler, Munich 1926; 1949 bei B&#246;hlen Luzern ([?] von Gl&#252;ck: paint par M. van Cleve d'apr&#232;s un dessin de P.B.I, d'apr&#232;s lequel aussi la gravure Bastelaer 205; [Notitie FG]: 'To be added at end.'</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>65. Eislauf beim Georgtor. 78. Mention at end that as proved by Gl&#252;ck done after drawing.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-10</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:21:26</edit.time>
+			<edit.time>16:27:50</edit.time>
+			<input.time>16:23:08</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3259,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3259/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8a797938-3c18-5e7f-818e-e2917d6152e7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ae84da9-f708-4881-8719-cd3cb31a9553"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_063,repository numbers,,,,,,,,,,,,,,
+2e1db667-0e6a-5ab6-b811-5e0eba212b79,tg:rubgr:3259,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_063,titles proper,Dutch (language),,,,,,,,,,,

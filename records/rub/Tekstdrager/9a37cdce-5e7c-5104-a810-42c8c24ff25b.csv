@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4346,https://data.rubenianum.be//ark:/86530/9a37cdce-5e7c-5104-a810-42c8c24ff25b,Handschriften,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_AssociatedArchives,2,,,,,,AFG_021,isad:rub:2951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f262d89c-e668-4837-bd71-0ed56aa7c612"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a5108b25-7633-4b3b-8648-1f0659ee97b4"", ""inverseOntologyProperty"": """"}]"
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Woman taken in Adultery who of the print noticed by Kenneth Clark, Rembrandt and the Italian Renaissance, New Yrok 1966, pp. 180, 202, 218, fig. 170. Note to Rembrandt Inventory 1656, N° 204 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257845,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rembrandt Harmensz. van Rijn,,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clark, Kenneth",,,,,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004346,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6599</priref>
+			<number>AFG_111_141</number>
+			<content>Bruegel: Woman taken in Adultery who of the print noticed by Kenneth Clark, Rembrandt and the Italian Renaissance, New Yrok 1966, pp. 180, 202, 218, fig. 170. Note to Rembrandt Inventory 1656, N&#176; 204 [...]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Rembrandt Harmensz. van Rijn</keyword>
+			<keyword>Clark, Kenneth</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Clark, Kenneth</documentation.author>
+			<input.date>2014-07-09</input.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Rembrandt and the Italian renaissance</documentation.title>
+			<edit.time>13:45:33</edit.time>
+			<edit.time>13:40:58</edit.time>
+			<input.time>13:40:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4346,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4346/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e317e390-0ea9-5888-8347-fb0c45a060f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0226c405-d316-4543-866a-1c81715325f7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_141,repository numbers,,,,,,,,,,,,,,
+9a37cdce-5e7c-5104-a810-42c8c24ff25b,tg:rubgr:4346,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_141,titles proper,Dutch (language),,,,,,,,,,,

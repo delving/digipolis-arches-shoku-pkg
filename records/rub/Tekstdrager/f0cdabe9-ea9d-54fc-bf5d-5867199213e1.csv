@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3725,https://data.rubenianum.be//ark:/86530/f0cdabe9-ea9d-54fc-bf5d-5867199213e1,Handschriften,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3709,Verwijzing naar Grossmann object,,fd00a670-90b8-5f70-b6d1-2ef8a0822864,"[{""resourceId"": ""fd00a670-90b8-5f70-b6d1-2ef8a0822864"", ""ontologyProperty"": """", ""resourceXresourceId"": ""55abcea4-a67c-4022-82a7-c824692e157e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c84de1a9-d9af-46c0-be05-42a82d2f2d15"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36ada25c-d932-4885-b687-fb26964ea553"", ""inverseOntologyProperty"": """"}]"
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Watermark Briquet 6164 produced in Salzburg [...]: M. 31, 34, 43, 47, 48, 131, 143, 147",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Briquet, Charles M.",,,,,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003725,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5978</priref>
+			<number>AFG_098_033</number>
+			<part_of_reference>AFG_098_017</part_of_reference>
+			<content>Watermark Briquet 6164 produced in Salzburg [...]: M. 31, 34, 43, 47, 48, 131, 143, 147</content>
+			<object.object_number>AFG_098</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Watermarks-Heawood, Spicer, Arndt, Midema, Varekamp, Briquet [...][schema]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Watermarks. Costume</object.title>
+			<keyword>Briquet, Charles M.</keyword>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:44:41</edit.time>
+			<edit.time>12:33:04</edit.time>
+			<edit.time>16:08:29</edit.time>
+			<input.time>16:07:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3725,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3725/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cda4bc1a-1073-5241-bff8-32b558f4f908"", ""ontologyProperty"": """", ""resourceXresourceId"": ""77061e1d-eb65-4704-9634-221fdf348bb9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_033,repository numbers,,,,,,,,,,,,,,
+f0cdabe9-ea9d-54fc-bf5d-5867199213e1,tg:rubgr:3725,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_033,titles proper,Dutch (language),,,,,,,,,,,

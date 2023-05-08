@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5320,https://data.rubenianum.be//ark:/86530/49885226-b54b-56b6-99a1-7b2144ed5c4a,Handschriften,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""10066308-2f93-4138-859d-42e0bc56766b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f395cb02-d9ff-4ac3-b3b5-f2cc16c9eacc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43cffc6d-36ea-472f-8670-7f4a4c6536c1"", ""inverseOntologyProperty"": """"}]"
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[4 bladen] [Kritische bemerkingen bij tentoonstelling Berlijn 1975] [blad1] Rich graphic technique [...]; [blad 2] Ad [Addendum] Bruegel exh. Berlin 1975. Not included in catal. my review of Franz; There are 3 groups which are in need of clarification 'Lugt group', 'Small Landscapes', 'Naer het Leven'; [blad 3] The Berlin exhibition of Bruegel the Elder as a draughtsman [...]; [blad 4]P. Bruegel in Vienna draws crowds like the Venus of Milo or the Mona Lisa in the Louvre [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005320,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7577</priref>
+			<number>AFG_145_050</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<content>[4 bladen] [Kritische bemerkingen bij tentoonstelling Berlijn 1975] [blad1] Rich graphic technique [...]; [blad 2] Ad [Addendum] Bruegel exh. Berlin 1975. Not included in catal. my review of Franz; There are 3 groups which are in need of clarification 'Lugt group', 'Small Landscapes', 'Naer het Leven'; [blad 3] The Berlin exhibition of Bruegel the Elder as a draughtsman [...]; [blad 4]P. Bruegel in Vienna draws crowds like the Venus of Milo or the Mona Lisa in the Louvre [...][scan]</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Franz, H. Gerhard</keyword>
+			<object.creator/>
+			<input.date>2014-08-20</input.date>
+			<edit.date>2014-08-20</edit.date>
+			<edit.date>2014-08-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:33:15</edit.time>
+			<edit.time>12:05:08</edit.time>
+			<input.time>12:03:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5320,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5320/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""97e24a9b-4a52-5130-8b8c-3f314e64349e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""57157935-2c8b-49a8-9d88-e98ed9193b46"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_OriginalBrocade,,,au::32512,,,,,,,,,,,,,,rub,a87f6432-2c9a-592e-a260-f23025e701c2,kw,,au::32512:1,au::32512g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3478784"",""au::32512"",""au::32512:1"",""ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2"",""H.G. Franz""],""name"":""H.G. Franz"",""ark"":""ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2"",""uri"":""/agents/people/3478784"",""id"":""au::32512:1"",""isCapacity"":false}",ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2,agent,,,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_050,repository numbers,,,,,,,,,,,,,,
+49885226-b54b-56b6-99a1-7b2144ed5c4a,tg:rubgr:5320,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_050,titles proper,Dutch (language),,,,,,,,,,,

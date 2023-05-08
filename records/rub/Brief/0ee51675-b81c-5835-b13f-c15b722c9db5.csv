@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3844,https://data.rubenianum.be//ark:/86530/0ee51675-b81c-5835-b13f-c15b722c9db5,Brieven,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3842,Verwijzing naar Grossmann object,,a5283ced-6276-51db-b98c-c001a0181729,"[{""resourceId"": ""a5283ced-6276-51db-b98c-c001a0181729"", ""ontologyProperty"": """", ""resourceXresourceId"": ""beb623ee-e927-44bb-ab97-1508e542c660"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""544465db-2028-4ae8-a114-e15504788d90"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bd421c8d-49cc-43e1-bae0-c95eaabeebf5"", ""inverseOntologyProperty"": """"}]"
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_Correspondence,1,,,,,,,,,,,,,,,,"Cormack, Malcolm",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19650415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1965-04-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: dankbetuiging: [bijlage: invoice betaald],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003844,referentienummer,False,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6097</priref>
+			<recipient>Cormack, Malcolm</recipient>
+			<number>AFG_100_020</number>
+			<part_of_reference>AFG_100_018</part_of_reference>
+			<date.precise>1965-04-15</date.precise>
+			<content>Korte inhoud: dankbetuiging: [bijlage: invoice betaald]</content>
+			<object.object_number>AFG_100</object.object_number>
+			<object.object_name/>
+			<part_of.title>Fitzwilliam Museum, Cambridge. Master of the Small Landscpaes.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<editorial_form>rekening</editorial_form>
+			<object.title>Small Landscapes Series</object.title>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<edit.date>2014-06-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:53:44</edit.time>
+			<input.time>13:51:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3844,brocade id,False,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3844/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""691df106-8fcc-5754-838c-cf86eda17a1b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""815e01cb-04ad-4b74-8d19-2e42538971be"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_020,repository numbers,,,,,,,,,,,
+0ee51675-b81c-5835-b13f-c15b722c9db5,tg:rubgr:3844,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_020,titles proper,Dutch (language),,,,,,,,

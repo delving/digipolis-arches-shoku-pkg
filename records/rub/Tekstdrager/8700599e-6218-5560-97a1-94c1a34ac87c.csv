@@ -1,0 +1,31 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4155,https://data.rubenianum.be//ark:/86530/8700599e-6218-5560-97a1-94c1a34ac87c,Handschriften,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""25c138f5-692b-4028-8d2e-7fa3a9598349"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ffa9ca5-2d4e-4d14-ab2b-2c1b681f63f9"", ""inverseOntologyProperty"": """"}]"
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"After Holbein. Sir Thomas More, Wood, 28 1/2 x 23 at Newbattle Abbey [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004155,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6408</priref>
+			<number>AFG_109_035</number>
+			<content>After Holbein. Sir Thomas More, Wood, 28 1/2 x 23 at Newbattle Abbey [...]</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<keyword>Holbein, Hans II</keyword>
+			<object.creator/>
+			<input.date>2014-07-03</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>10:57:51</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4155,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4155/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a48481bf-f319-5869-80ef-22cebba2cb89"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f091b396-1c3f-4b9c-87e0-109578835d37"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_035,repository numbers,,,,,,,,,,,,,,
+8700599e-6218-5560-97a1-94c1a34ac87c,tg:rubgr:4155,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_035,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1786,https://data.rubenianum.be//ark:/86530/977be3e8-bf84-5474-aada-5492c47efa49,Handschriften,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1781,Verwijzing naar Grossmann object,,2357af76-c1d6-541b-986a-f5dfb6182aac,"[{""resourceId"": ""2357af76-c1d6-541b-986a-f5dfb6182aac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""03b3eadf-8598-42b5-9dac-c6e55cf429dd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cd952453-711c-4e60-87c4-33f0f77403f6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""89d3e0f0-4670-4236-9d47-b15fec6791ce"", ""inverseOntologyProperty"": """"}]"
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Good and Unfaithful Shepherd. Hollstein IV. After Martin van Cleve, P. 171 Hans Bol: 1) Falsi pastores. M.V.CLE invent. (Hollstein III, Bol, p.48, N° 25, with illustration); 2) Pastor Fides, M.V.CLE Invent (Hollstein III, Bol, p. 48, N° 26, with illustration) photo adest.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001786,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4037</priref>
+			<number>AFG_046_089</number>
+			<part_of_reference>AFG_046_084</part_of_reference>
+			<content>Good and Unfaithful Shepherd. Hollstein IV. After Martin van Cleve, P. 171 Hans Bol: 1) Falsi pastores. M.V.CLE invent. (Hollstein III, Bol, p.48, N&#176; 25, with illustration); 2) Pastor Fides, M.V.CLE Invent (Hollstein III, Bol, p. 48, N&#176; 26, with illustration) photo adest.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Good Shepherd: Stridbeck, fig. 54, probably developed from Bruegel's engraving late 16th century, Stridbeck, fig. 54. See also Stridbeck, p. 256 for Unfaithful Shepherd.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>prentkunst</keyword>
+			<object.creator/>
+			<input.date>2013-02-06</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<edit.date>2013-02-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:24:05</edit.time>
+			<edit.time>10:20:44</edit.time>
+			<edit.time>10:19:00</edit.time>
+			<input.time>10:12:01</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1786,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1786/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f95838ff-8660-59f7-992d-459eb5c0831b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ef4462c2-c33b-4152-8b64-a8fa9d998c56"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_089,repository numbers,,,,,,,,,,,,,,
+977be3e8-bf84-5474-aada-5492c47efa49,tg:rubgr:1786,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_089,titles proper,Dutch (language),,,,,,,,,,,

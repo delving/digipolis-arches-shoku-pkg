@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3009,https://data.rubenianum.be//ark:/86530/ff540c88-90c5-567f-b04a-ba969c71daf6,Handschriften,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3004,Verwijzing naar Grossmann object,,84f317e7-3a1c-5ff7-803e-917e607cccf5,"[{""resourceId"": ""84f317e7-3a1c-5ff7-803e-917e607cccf5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d1acbe9d-f295-48f9-9871-525adbb3d075"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""10b0907e-72cb-4d16-91d1-8465ec4a5968"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ced49a5c-8626-467a-9f00-8b43f701f3f0"", ""inverseOntologyProperty"": """"}]"
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 60. Witt Library. P.B.I Box 5. Ad Peasants, two figures binding faggots. Very poor roundel photograph with only two figures, dress also different. Sale Sotheby's London, 23-X-1948, N° 113. The same (?) again in Sale [onleesbaar] Brunswick, 20-21/IV/1950, N° 80. Aus Schloß Blankenburg, Holz, 19,5 cm Durchmesser.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003009,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5233</priref>
+			<number>AFG_089_009</number>
+			<part_of_reference>AFG_089_004</part_of_reference>
+			<content>Ad [Addendum] 60. Witt Library. P.B.I Box 5. Ad Peasants, two figures binding faggots. Very poor roundel photograph with only two figures, dress also different. Sale Sotheby's London, 23-X-1948, N&#176; 113. The same (?) again in Sale [onleesbaar] Brunswick, 20-21/IV/1950, N&#176; 80. Aus Schlo&#223; Blankenburg, Holz, 19,5 cm Durchmesser.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Peasants tying twigs. My N&#176; 60.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:28:56</edit.time>
+			<edit.time>10:13:50</edit.time>
+			<edit.time>10:12:42</edit.time>
+			<edit.time>10:09:02</edit.time>
+			<edit.time>09:41:47</edit.time>
+			<edit.time>09:40:45</edit.time>
+			<input.time>09:40:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3009,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3009/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5f784b1e-64e0-5392-800c-b5513aa74974"", ""ontologyProperty"": """", ""resourceXresourceId"": ""71e173fb-acd9-4e9b-9548-620487d3566d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_009,repository numbers,,,,,,,,,,,,,,
+ff540c88-90c5-567f-b04a-ba969c71daf6,tg:rubgr:3009,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_009,titles proper,Dutch (language),,,,,,,,,,,

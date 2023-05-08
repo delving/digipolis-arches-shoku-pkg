@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2114,https://data.rubenianum.be//ark:/86530/974d5ab7-1433-54dc-b5db-dd416d754b66,Handschriften,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_AssociatedArchives,2,,,,,,AFG_048,isad:rub:2978,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2113,Verwijzing naar Grossmann object,,09eae60b-4db1-5eec-8e47-3349e35a2090,"[{""resourceId"": ""09eae60b-4db1-5eec-8e47-3349e35a2090"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b9b79790-24b3-4fc5-91e7-7099357a14f8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f92a82ef-1286-4b35-996f-23b26f5c0371"", ""ontologyProperty"": """", ""resourceXresourceId"": ""52bfdecd-5940-4b09-86c4-fa8c57b0c7ac"", ""inverseOntologyProperty"": """"}]"
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"60. Zwei Köpfe. Vielleicht sind diese zwei Bilder identisch moit den 'Twee clyn rondekens 'vrouwetronikens', vanden ouden Bruegel' im Nachlass der Alexander Voet, Antwerpen 1689 (vgl. unsere Bemerkungen zu Tafel 38) alte Bäuerin München.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_ExternalRelationsExtras,a::rub.47,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261060,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Voet, Alexander I",,,,,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002114,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4348</priref>
+			<number>AFG_058_028</number>
+			<part_of_reference>AFG_058_027</part_of_reference>
+			<content>60. Zwei K&#246;pfe. Vielleicht sind diese zwei Bilder identisch moit den 'Twee clyn rondekens 'vrouwetronikens', vanden ouden Bruegel' im Nachlass der Alexander Voet, Antwerpen 1689 (vgl. unsere Bemerkungen zu Tafel 38) alte B&#228;uerin M&#252;nchen.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_number>AFG_048</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>60-61: 2 K&#246;pfe Rundbilder cf. Imstenraedt ?? [sic]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<object.title>Head of Peasant Woman</object.title>
+			<keyword>Voet, Alexander I</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>M&#252;nchen, Bayerische Staatsgem&#228;ldesammlungen, Alte Pinakothek</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-03-21</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<edit.date>2013-03-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:10:12</edit.time>
+			<edit.time>16:16:03</edit.time>
+			<edit.time>16:07:56</edit.time>
+			<edit.time>16:06:59</edit.time>
+			<edit.time>16:03:08</edit.time>
+			<input.time>16:02:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2114,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2114/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""91ed3fc8-ca0f-5cf6-903c-53c9d6aa856a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fa97f8cf-201b-4dc2-b96e-660411edb0f2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_OriginalBrocade,,,au::28158,,,,,,,,,,,,,,rub,dac1ccf2-cc05-5f38-93fb-c0da287b92a8,kw,,au::28158:1,au::28158g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3012906"",""au::28158"",""au::28158:1"",""ark:/83110/x0/dac1ccf2-cc05-5f38-93fb-c0da287b92a8"",""Bayerische Staats-Gemäldesammlungen [München (D)]""],""name"":""Bayerische Staats-Gemäldesammlungen [München (D)]"",""ark"":""ark:/83110/x0/dac1ccf2-cc05-5f38-93fb-c0da287b92a8"",""uri"":""/agents/corporate_entities/3012906"",""id"":""au::28158:1"",""isCapacity"":false}",ark:/83110/x0/dac1ccf2-cc05-5f38-93fb-c0da287b92a8,agent,,,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_028,repository numbers,,,,,,,,,,,,,,
+974d5ab7-1433-54dc-b5db-dd416d754b66,tg:rubgr:2114,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_028,titles proper,Dutch (language),,,,,,,,,,,

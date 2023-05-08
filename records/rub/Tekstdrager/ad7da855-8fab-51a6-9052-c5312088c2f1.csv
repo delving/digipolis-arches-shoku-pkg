@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:757,https://data.rubenianum.be//ark:/86530/ad7da855-8fab-51a6-9052-c5312088c2f1,Handschriften,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21481f63-9638-42d7-b938-1dc792433d1d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4282aff5-9bc1-438c-8ffb-0f99c004eaf9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0b8cc09e-0061-49c0-a42c-359e118d9c63"", ""inverseOntologyProperty"": """"}]"
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Prado N° 2580. Scorel: un humanista with Tower of Babel.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Scorel, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000757,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3008</priref>
+			<number>AFG_017_050</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<content>Prado N&#176; 2580. Scorel: un humanista with Tower of Babel.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Scorel, Jan van</keyword>
+			<keyword>Madrid, Museo del Prado</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-30</input.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-01-30</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:53:38</edit.time>
+			<edit.time>13:41:32</edit.time>
+			<input.time>13:12:18</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:757,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:757/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a4de6b93-2711-5815-86f3-0f2294d18c37"", ""ontologyProperty"": """", ""resourceXresourceId"": ""014a2eef-5022-4edc-91ce-4625d816447c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_OriginalBrocade,,,au::28130,,,,,,,,,,,,,,rub,0bc6db4d-3389-5774-a695-f08f748e3fa2,kw,,au::28130:1,au::28130g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3009910"",""au::28130"",""au::28130:1"",""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""Prado [Museum, Madrid (E)]""],""name"":""Prado [Museum, Madrid (E)]"",""ark"":""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""uri"":""/agents/corporate_entities/3009910"",""id"":""au::28130:1"",""isCapacity"":false}",ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2,agent,,,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_050,repository numbers,,,,,,,,,,,,,,
+ad7da855-8fab-51a6-9052-c5312088c2f1,tg:rubgr:757,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_050,titles proper,Dutch (language),,,,,,,,,,,

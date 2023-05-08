@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3086,https://data.rubenianum.be//ark:/86530/809f802b-2ec0-591d-ab1b-3b078cdec14b,Foto's,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8319979e-209e-4c7a-801b-38d242284826"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d1db505e-9fdf-4dff-8de6-4fa3db22c89b"", ""inverseOntologyProperty"": """"}]"
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 zw/w foto. Coll. Sir Lionel Woolley.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Leonard Woolley, Charles",,,,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003086,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5411</priref>
+			<number>AFG_090_006</number>
+			<content>1 zw/w foto. Coll. Sir Lionel Woolley.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Leonard Woolley, Charles</keyword>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2014-08-13</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:25:31</edit.time>
+			<input.time>14:08:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3086,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3086/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""304487cc-83af-597a-a6d3-0320a4151ca9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a7597407-937f-4891-9e66-ba50d5433090"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_006,repository numbers,,,,,,,,,,,
+809f802b-2ec0-591d-ab1b-3b078cdec14b,tg:rubgr:3086,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_006,titles proper,Dutch (language),,,,,,,,

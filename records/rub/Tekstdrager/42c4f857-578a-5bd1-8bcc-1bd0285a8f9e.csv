@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1770,https://data.rubenianum.be//ark:/86530/42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,Handschriften,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd object,tg:rubgr:1756,Verwijzing naar Grossmann object,,54c000a1-9d22-51a2-ab8f-af348b5dacb6,"[{""resourceId"": ""54c000a1-9d22-51a2-ab8f-af348b5dacb6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1b9f20b7-c629-4731-830e-3123242d4e7f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f1884066-f8bf-4ab1-a6ab-86e2ce69a370"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43531bbc-ad93-40a1-a077-a27fae8532cf"", ""inverseOntologyProperty"": """"}]"
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good Shepherd (Glück 44 & 80). Transparency: Paint apparently very thin (overcleaned?) white [?] the [?] of the wolf. The greenish landscape on left too soft for P.B.I. Underpainting only? (but the landscape with bird trap was a similar heavy background). The path on the right typical of late lost ? pictures. The brushes cf. Spencer Churchill Wedding Procession. Unfinished? The delicacy of the execution Jan B.? This version certainly not by P.B.II.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Spencer-Churchill, Edward George",,,,,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001770,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4021</priref>
+			<number>AFG_046_073</number>
+			<content>Good Shepherd (Gl&#252;ck 44 &amp; 80). Transparency: Paint apparently very thin (overcleaned?) white [?] the [?] of the wolf. The greenish landscape on left too soft for P.B.I. Underpainting only? (but the landscape with bird trap was a similar heavy background). The path on the right typical of late lost ? pictures. The brushes cf. Spencer Churchill Wedding Procession. Unfinished? The delicacy of the execution Jan B.? This version certainly not by P.B.II.</content>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<related_object.title>Goede herder.</related_object.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Shepherd Theme</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Spencer-Churchill, Edward George</keyword>
+			<object.creator/>
+			<input.date>2013-01-18</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2013-10-29</edit.date>
+			<edit.date>2013-10-29</edit.date>
+			<edit.date>2013-10-29</edit.date>
+			<edit.date>2013-10-29</edit.date>
+			<edit.date>2013-01-18</edit.date>
+			<edit.date>2013-01-18</edit.date>
+			<edit.date>2013-01-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<related_object.reference>AFG_046_059</related_object.reference>
+			<edit.time>16:19:36</edit.time>
+			<edit.time>09:35:53</edit.time>
+			<edit.time>09:35:02</edit.time>
+			<edit.time>14:30:43</edit.time>
+			<edit.time>14:30:01</edit.time>
+			<edit.time>14:29:26</edit.time>
+			<edit.time>14:29:13</edit.time>
+			<edit.time>15:36:38</edit.time>
+			<edit.time>15:31:57</edit.time>
+			<edit.time>15:29:14</edit.time>
+			<input.time>15:28:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1770,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1770/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8ae80ca4-d088-55d5-b9d7-a395275e57ab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""770ff42b-b96f-49a5-8a5b-c3bcfd8ee5a0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_073,repository numbers,,,,,,,,,,,,,,
+42c4f857-578a-5bd1-8bcc-1bd0285a8f9e,tg:rubgr:1770,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_046_073,titles proper,Dutch (language),,,,,,,,,,,

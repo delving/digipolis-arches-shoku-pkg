@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1458,https://data.rubenianum.be//ark:/86530/afda0051-abc2-581b-8f0d-920f75d04230,Handschriften,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""295af824-fa36-4423-b72d-b82cb066fe45"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b092ac85-3ce5-4cd9-9730-494d986a73a0"", ""inverseOntologyProperty"": """"}]"
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19580502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958-05-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[uittreksel] Christie's 2-5-58: Different properties. BRUEGHEL, Nr. 125: A Woody Landscape, with Saint John the Baptist preaching, and numerous figures-421/2in. by 69in.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54753,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001458,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3707</priref>
+			<number>AFG_038_064</number>
+			<date.precise>1958-05-02</date.precise>
+			<content>[uittreksel] Christie's 2-5-58: Different properties. BRUEGHEL, Nr. 125: A Woody Landscape, with Saint John the Baptist preaching, and numerous figures-421/2in. by 69in.</content>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>knipsel</editorial_form>
+			<editorial_form>veilingcatalogus</editorial_form>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-31</input.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2012-09-20</edit.date>
+			<edit.date>2012-08-31</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:18:44</edit.time>
+			<edit.time>10:27:30</edit.time>
+			<edit.time>14:50:58</edit.time>
+			<input.time>14:49:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1458,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1458/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""593fff37-6425-53fa-9c5a-47caae1b7ded"", ""ontologyProperty"": """", ""resourceXresourceId"": ""651c1888-20d3-4f34-8f2b-3950d57dddef"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_064,repository numbers,,,,,,,,,,,,,,
+afda0051-abc2-581b-8f0d-920f75d04230,tg:rubgr:1458,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_064,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4224,https://data.rubenianum.be//ark:/86530/d33461f2-004e-550f-a157-eefcc0a876f3,Brieven,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_AssociatedArchives,2,,,,,,AFG_046,isad:rub:2976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e25f05a9-375a-46f9-a606-22b47771f857"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6c1e5b9c-72bb-4140-b265-1858d14a0fae"", ""inverseOntologyProperty"": """"}]"
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_CreationActors,,,au::32528,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,1ebab9ba-4419-5727-9309-47bcd9586ab8,bs,au::32528:1,au::32528g:1,"dlod={""suggest"":[""/agents/people/3480496"",""au::32528"",""au::32528:1"",""ark:/83110/x0/1ebab9ba-4419-5727-9309-47bcd9586ab8"",""J.O. Leegenhoek""],""name"":""J.O. Leegenhoek"",""ark"":""ark:/83110/x0/1ebab9ba-4419-5727-9309-47bcd9586ab8"",""uri"":""/agents/people/3480496"",""id"":""au::32528:1"",""isCapacity"":false}",ark:/83110/x0/1ebab9ba-4419-5727-9309-47bcd9586ab8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19670117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1967-01-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd J.O. Leegenhoek] Korte inhoud: Na overleg met Baron Kronacker stemt in met publicatie over 'De Goede Herder.',descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004224,referentienummer,False,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6477</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_111_019</number>
+			<date.precise>1967-01-17</date.precise>
+			<content>[Briefhoofd J.O. Leegenhoek] Korte inhoud: Na overleg met Baron Kronacker stemt in met publicatie over 'De Goede Herder.'</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_046</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Shepherd Theme</object.title>
+			<sender>Leegenhoek, Jacques</sender>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2014-07-07</input.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:56:27</edit.time>
+			<edit.time>11:44:33</edit.time>
+			<edit.time>11:43:46</edit.time>
+			<edit.time>11:40:25</edit.time>
+			<edit.time>11:38:28</edit.time>
+			<edit.time>11:31:34</edit.time>
+			<edit.time>11:18:23</edit.time>
+			<input.time>11:10:51</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4224,brocade id,False,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4224/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b7e2a561-5d14-5d4f-a37c-7672e1377343"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4313ca14-90c6-46ee-91aa-758955c2e6f3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_019,repository numbers,,,,,,,,,,,
+d33461f2-004e-550f-a157-eefcc0a876f3,tg:rubgr:4224,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_019,titles proper,Dutch (language),,,,,,,,

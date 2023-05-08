@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1610,https://data.rubenianum.be//ark:/86530/0ed5e684-1251-5a26-aabf-9deb109594d6,Handschriften,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1609,Verwijzing naar Grossmann object,,43a82ebb-bfb3-5cea-aee5-3216a2666bc6,"[{""resourceId"": ""43a82ebb-bfb3-5cea-aee5-3216a2666bc6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""045effa7-0f6d-470f-9711-accef9189cb9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0622d075-d0e6-4a96-bf27-ab291279d4dc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""95ab37dd-4c23-47bc-b3a0-6a9142c73a6c"", ""inverseOntologyProperty"": """"}]"
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[bibliotheekformulieren Victoria and Albert Museum Library] DROULERS, E. [Eugène] Dictionnaire des attributs et allégories etc. [emblèmes et symboles, Turnhout: Brepols], 1949; [verso AFG044010]Du Pinet, Historia Plantarum 1567.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:153949,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_ExternalRelationsExtras,a::rub.44,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261057,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Droulers, Eugène",,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pinet, Antoine du",,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001610,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3861</priref>
+			<number>AFG_044_011</number>
+			<part_of_reference>AFG_044_010</part_of_reference>
+			<content>[bibliotheekformulieren Victoria and Albert Museum Library] DROULERS, E. [Eug&#232;ne] Dictionnaire des attributs et all&#233;gories etc. [embl&#232;mes et symboles, Turnhout: Brepols], 1949; [verso AFG044010]Du Pinet, Historia Plantarum 1567.</content>
+			<object.object_number>AFG_044</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Pflanzensymbolik. Embleme. [Joachim] Camerarius 1590; Math.[Math&#228;us] Merian, Der Fruchtbringende  Gesellschaft etc 1646; [Eliza Eve] GLEADALL, ... [= The beauties of flora with botanic and poetic illustrations : being a selection of flowers drawn from nature, arranged emblematically, with directions for colouring them, s.l.: Wakefield], 1834-36; Arthur R&#252;mann, Embleme-B&#252;cher, in: Philobiblon 9, 1936, p. 175; HOHBERG, Wolf H.[Helmhard] von, Lust- en Arzeneygarten [des k&#246;niglichen Propheten Davids, Regensburg], 1675 and later; VALENTINI, M.-B. [Michael Bernhardus], Viridarium reformatum [...], [Frankfurt am Main: Anton Heinscheidt],1719; Charlotte de la Tour, Le Langage des fleurs, [Paris: Audot], 1819, 2nd ed. 1833 etc.; Henry PHILLIPS, Floral Emblems, [London: Saunders and Otley], 1825; [verso] [Antoine] DU PINET [de Noroy], Historia plantarum [earum imagines, nomenclatura, qualitates, &amp; natale solum ; [quibus accessere] Simplicium medicamentorum facultates, secundum locos &amp; genera, ex Dioscoride, apud Gabriele Coterii, Lugduni],1567.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Peasant and the Bird Nester</object.title>
+			<keyword>Droulers, Eug&#232;ne</keyword>
+			<keyword>Pinet, Antoine du</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Droulers, Eug&#232;ne</documentation.author>
+			<input.date>2012-12-20</input.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-12-20</edit.date>
+			<edit.date>2012-12-20</edit.date>
+			<edit.date>2012-12-20</edit.date>
+			<edit.date>2012-12-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Dictionnaire des attributs, all&#233;gories, embl&#232;mes et symboles</documentation.title>
+			<edit.time>16:23:50</edit.time>
+			<edit.time>16:22:53</edit.time>
+			<edit.time>16:09:49</edit.time>
+			<edit.time>15:41:26</edit.time>
+			<edit.time>12:20:47</edit.time>
+			<edit.time>12:20:39</edit.time>
+			<edit.time>12:18:33</edit.time>
+			<edit.time>12:16:21</edit.time>
+			<input.time>12:15:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1610,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1610/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca76c190-5308-5a58-8eab-afce2c51eeae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e00447f6-bd73-470a-8a0e-92fbe0a58c67"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_011,repository numbers,,,,,,,,,,,,,,
+0ed5e684-1251-5a26-aabf-9deb109594d6,tg:rubgr:1610,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_011,titles proper,Dutch (language),,,,,,,,,,,

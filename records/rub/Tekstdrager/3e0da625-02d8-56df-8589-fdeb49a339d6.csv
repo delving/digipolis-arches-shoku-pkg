@@ -1,0 +1,84 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:790,https://data.rubenianum.be//ark:/86530/3e0da625-02d8-56df-8589-fdeb49a339d6,Handschriften,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_AssociatedArchives,2,,,,,,AFG_016,isad:rub:2946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c7754ed-d2ea-444f-a6b6-5f2d3fea5edb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:786,Verwijzing naar Grossmann object,,a8844ef0-dd62-591f-b6e2-d7f2e3e03184,"[{""resourceId"": ""a8844ef0-dd62-591f-b6e2-d7f2e3e03184"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c0963206-6c3f-4b04-92a5-a6e9ff3afcf8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5bb9ba44-0b9e-490c-9c83-2ef9e1fedb24"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a31a0676-b3c0-4b6c-9a5d-611f2a939bca"", ""inverseOntologyProperty"": """"}]"
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"BLES: Turmbau von Babel, Venedig, Akademie, Lit. Burckhardt, Cicerone, p. 805c = Scorel, Cà d'Oro? (früher in kgl. Galerie).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_ExternalRelationsExtras,a::rub.20,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54041,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bles, Herri met de",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Scorel, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Burckhardt, Jacob",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Venetië, Galleria dell'Accademia",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Venetië, Galleria Giorgio Franchetti",,,,,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000790,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3041</priref>
+			<number>AFG_017_083</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<part_of_reference>AFG_017_079</part_of_reference>
+			<content>BLES: Turmbau von Babel, Venedig, Akademie, Lit. Burckhardt, Cicerone, p. 805c = Scorel, C&#224; d'Oro? (fr&#252;her in kgl. Galerie).</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_number>AFG_016</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<part_of.title>Tower of Babel (Venice) Vendramin Catalogue (ed. Borenius) [= Tancred Borenius (ed.), The Picture Gallery of Andrea Vendramin: The Text of the Original Catalogue, with Reproductions of the Drawings and with Notes, London: Medici Society, 1923]. Scorel.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<object.title>View of Naples</object.title>
+			<keyword>Bles, Herri met de</keyword>
+			<keyword>Scorel, Jan van</keyword>
+			<keyword>Burckhardt, Jacob</keyword>
+			<keyword>Veneti&#235;, Galleria dell'Accademia</keyword>
+			<keyword>Veneti&#235;, Galleria Giorgio Franchetti</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2018-05-23</edit.date>
+			<edit.date>2015-02-27</edit.date>
+			<edit.date>2015-02-27</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:18:47</edit.time>
+			<edit.time>14:37:33</edit.time>
+			<edit.time>14:37:10</edit.time>
+			<edit.time>11:51:15</edit.time>
+			<edit.time>14:12:18</edit.time>
+			<edit.time>14:12:01</edit.time>
+			<edit.time>09:24:44</edit.time>
+			<edit.time>10:20:10</edit.time>
+			<input.time>10:18:23</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:790,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:790/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8dde3f55-23b6-5cca-9ac5-c395966e89be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3cd336ee-367c-4e79-8ac7-a8e10d795725"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_083,repository numbers,,,,,,,,,,,,,,
+3e0da625-02d8-56df-8589-fdeb49a339d6,tg:rubgr:790,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_083,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,92 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1032,https://data.rubenianum.be//ark:/86530/508c061b-0ac3-5200-a66f-29fa46ca06fa,Handschriften,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1031,Verwijzing naar Grossmann object,,97a244bc-9922-5a75-a7ea-959b808d017a,"[{""resourceId"": ""97a244bc-9922-5a75-a7ea-959b808d017a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d2f4d55e-549f-4a93-93af-40ef1e6ed043"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2c5cffe4-c05f-4917-9aa8-73db6c83df6d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5c2094a8-5811-4587-9196-6e42d39bfbaa"", ""inverseOntologyProperty"": """"}]"
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sale Dessins Anciens, Prince W. [Wladimir Nikolaevic] Argoutinksy-Dolgoroukoff (première partie), Amsterdam (De Vries), 27.3.1925 [= Catalogue d'une collection précieuse de dessins anciens : formant la première partie de la collection du prince W. Argoutinsky-Dolgoroukoff de St. Petersbourg, Amsterdam: R.W.P. De Vries, 1925]; Hans Bol (Malines 1534-1593): 31. L' été: Dans une grande plaine entourée d'arbres plusieurs personnes sont occupées. On y voit un berger gardant ses brebis (ganz im Hintergrund), la récolte des fruits (vor einen Baum, auf den Leute geklettert sind (unter eine Frau mit Korbe aufblickend & der Baum sieht nicht eine Kirschbaum aus), un repas champêtre [onleesbaar], une bergère entrain de traire une chèvre (vorne rechts) et des oiseleurs chassant des oiseaux en trébuchet (vorne links); lavis de bistre Haut 23, larg. 29,5 cm. Dessin charmant ayant servi pour une gravure, Repr. pl. VI.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Argouytinsky-Dolgoroukoff, Wladimir",,,,,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001032,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3285</priref>
+			<number>AFG_022_065</number>
+			<part_of_reference>AFG_022_064</part_of_reference>
+			<content>Sale Dessins Anciens, Prince W. [Wladimir Nikolaevic] Argoutinksy-Dolgoroukoff (premi&#232;re partie), Amsterdam (De Vries), 27.3.1925 [= Catalogue d'une collection pr&#233;cieuse de dessins anciens : formant la premi&#232;re partie de la collection du prince W. Argoutinsky-Dolgoroukoff de St. Petersbourg, Amsterdam: R.W.P. De Vries, 1925]; Hans Bol (Malines 1534-1593): 31. L' &#233;t&#233;: Dans une grande plaine entour&#233;e d'arbres plusieurs personnes sont occup&#233;es. On y voit un berger gardant ses brebis (ganz im Hintergrund), la r&#233;colte des fruits (vor einen Baum, auf den Leute geklettert sind (unter eine Frau mit Korbe aufblickend &amp; der Baum sieht nicht eine Kirschbaum aus), un repas champ&#234;tre [onleesbaar], une berg&#232;re entrain de traire une ch&#232;vre (vorne rechts) et des oiseleurs chassant des oiseaux en tr&#233;buchet (vorne links); lavis de bistre Haut 23, larg. 29,5 cm. Dessin charmant ayant servi pour une gravure, Repr. pl. VI.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bundel: voorbereiding van een artikel bestemd voor The Art Bulletin: niet gepubliceerd.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Argouytinsky-Dolgoroukoff, Wladimir</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-29</input.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2012-06-28</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-16</edit.date>
+			<edit.date>2012-04-12</edit.date>
+			<edit.date>2012-04-12</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:23:53</edit.time>
+			<edit.time>12:25:58</edit.time>
+			<edit.time>15:35:33</edit.time>
+			<edit.time>09:22:44</edit.time>
+			<edit.time>09:33:20</edit.time>
+			<edit.time>15:09:49</edit.time>
+			<edit.time>14:46:38</edit.time>
+			<edit.time>15:50:31</edit.time>
+			<edit.time>15:14:01</edit.time>
+			<edit.time>12:31:44</edit.time>
+			<edit.time>12:00:13</edit.time>
+			<edit.time>11:34:54</edit.time>
+			<edit.time>11:33:50</edit.time>
+			<edit.time>11:01:00</edit.time>
+			<input.time>10:58:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1032,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1032/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""10f3686b-0d28-5d92-99a3-0b1a80637c66"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a8897334-c95d-4d9d-b792-35477db8b3dd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_065,repository numbers,,,,,,,,,,,,,,
+508c061b-0ac3-5200-a66f-29fa46ca06fa,tg:rubgr:1032,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_065,titles proper,Dutch (language),,,,,,,,,,,

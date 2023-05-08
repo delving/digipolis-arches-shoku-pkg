@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:437,https://data.rubenianum.be//ark:/86530/d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,Handschriften,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:438,Verwijzing naar Grossmann object,,d674faa3-1f98-5f70-8238-bac3776d033f,"[{""resourceId"": ""d674faa3-1f98-5f70-8238-bac3776d033f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cd76afcb-b04d-4e26-9f19-e6be180dd183"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c3314005-8ae4-4d06-b5b8-0bc5019529ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""685ec54f-394a-4210-9cbb-ff926c8ce791"", ""inverseOntologyProperty"": """"}]"
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 kleine bladen] [blad 1, recto] Hellmut ROSENFELD, Der mittelalterliche Totentanz, [Entstehung, Entwicklung, Bedeutung, (Beihefte zum Archiv für Kulturgeschichte; 3)], Bohlau-Verlag, Münster-Köln 1954; [blad1, verso] citaten pp. 4, 30; [blad 2, recto-verso] citaten pp. 14, 19, 23, 25.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56714,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dodendans,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rosenfeld, Hellmut",,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, The Warburg Institute Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000437,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2655</priref>
+			<number>AFG_009_026</number>
+			<content>[2 kleine bladen] [blad 1, recto] Hellmut ROSENFELD, Der mittelalterliche Totentanz, [Entstehung, Entwicklung, Bedeutung, (Beihefte zum Archiv f&#252;r Kulturgeschichte; 3)], Bohlau-Verlag, M&#252;nster-K&#246;ln 1954; [blad1, verso] citaten pp. 4, 30; [blad 2, recto-verso] citaten pp. 14, 19, 23, 25.</content>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<parts.title>[7 bladen] Triumph of Death. Hellmut ROSENFELD, Der mittelalterliche Totentanz, Entstehung, Entwicklung, Bedeutung, (Beihefte zum Archiv f&#252;r Kulturgeschichte, hrsg. von Herbert Grundmann &amp; Fritz Wagner, Heft 3), Bohlau-Verlag, M&#252;nster-K&#246;ln 1954, citaten, pp. 3-6, 8, 11-19, 24-26, 28-30; [blad 6, recto] [toegevoegde vermelding]: 'F.G. [...] Breviarium Grimani [...] (abgeb.Tolnay, [Pierre] Bruegel [l'Ancien : I : texte : II : planches, Bruxelles: Nouvelle soci&#233;t&#233; d'&#233;ditions], 1935, Pl. XCIII, fig. 153).[scan]</parts.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Triumph of Death</object.title>
+			<keyword>dodendans</keyword>
+			<keyword>Rosenfeld, Hellmut</keyword>
+			<keyword>Londen, The Warburg Institute Library</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-27</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-11-30</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-11-25</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-09-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_009_027</parts_reference>
+			<edit.time>16:33:15</edit.time>
+			<edit.time>16:39:47</edit.time>
+			<edit.time>13:37:55</edit.time>
+			<edit.time>10:01:29</edit.time>
+			<edit.time>09:48:56</edit.time>
+			<edit.time>09:46:03</edit.time>
+			<edit.time>09:44:50</edit.time>
+			<edit.time>09:57:29</edit.time>
+			<edit.time>09:22:55</edit.time>
+			<edit.time>14:57:13</edit.time>
+			<input.time>14:54:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:437,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:437/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""987d9c90-3e17-5862-ba48-a98e398f8de8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4d0ae183-57c8-41c5-b914-eda45268ee93"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_026,repository numbers,,,,,,,,,,,,,,
+d4bc7b0e-b435-5c3c-b65b-cd52c2bcda3e,tg:rubgr:437,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_026,titles proper,Dutch (language),,,,,,,,,,,

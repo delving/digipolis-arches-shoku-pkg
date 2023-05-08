@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2861,https://data.rubenianum.be//ark:/86530/81251b1c-61ce-551d-90d2-2cb1a3b045ef,Handschriften,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2858,Verwijzing naar Grossmann object,,abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b,"[{""resourceId"": ""abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e05fc9ee-e15e-4692-922f-b61e28c563bc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""31cfd614-a379-4c7c-9ad1-7459fcc7a4c0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""111968fa-2c45-41f2-a1b8-b378f530a5e9"", ""inverseOntologyProperty"": """"}]"
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"B.M [plaatskenmerk] Ad [Addendum] Avaritia: T'Roerspelt van de kettersche Werelt die metten lippen den Godt des Hemels, meer metten herten 't ghelt, des Werelts God, dient ende eert. Uitgave 1590 Ter Goude, By Jasper Tournay Int Jaer 1590. Content given and discussed by P. van der MEULEN, De Comedies van Coornhert, Assen 1945, pp. 40ff.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002861,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5103</priref>
+			<number>AFG_086_119</number>
+			<part_of_reference>AFG_086_116</part_of_reference>
+			<content>B.M [plaatskenmerk] Ad [Addendum] Avaritia: T'Roerspelt van de kettersche Werelt die metten lippen den Godt des Hemels, meer metten herten 't ghelt, des Werelts God, dient ende eert. Uitgave 1590 Ter Goude, By Jasper Tournay Int Jaer 1590. Content given and discussed by P. van der MEULEN, De Comedies van Coornhert, Assen 1945, pp. 40ff.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[zonder onderwerp]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-03-28</input.date>
+			<edit.date>2014-03-28</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:58:44</edit.time>
+			<input.time>16:54:03</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2861,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2861/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6273bab8-85b2-5c6b-9144-6035365c25bd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dca91b64-a662-4d61-b33d-69352b2f8cee"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_119,repository numbers,,,,,,,,,,,,,,
+81251b1c-61ce-551d-90d2-2cb1a3b045ef,tg:rubgr:2861,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_119,titles proper,Dutch (language),,,,,,,,,,,

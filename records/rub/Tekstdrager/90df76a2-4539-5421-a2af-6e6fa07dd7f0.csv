@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3170,https://data.rubenianum.be//ark:/86530/90df76a2-4539-5421-a2af-6e6fa07dd7f0,Handschriften,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ee98e93-8c8f-4fa3-9027-480ffc07e513"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dc733652-2c01-42f3-a1bc-418a1d79a4cc"", ""inverseOntologyProperty"": """"}]"
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Proverbs Mayer van den Bergh. [Max J.] Friedländer, Bruegel [= Pieter Bruegel, Berlin: Propyläen], 1921, citaat p. 77;  [Max J.] Friedländer, [= Die altniederländische Malerei], XIV, [Leiden: Sijthoff],1937, Taf. VIII, citaten pp. 16-17, 58-59.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003170,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5496</priref>
+			<number>AFG_090_090</number>
+			<content>Proverbs Mayer van den Bergh. [Max J.] Friedl&#228;nder, Bruegel [= Pieter Bruegel, Berlin: Propyl&#228;en], 1921, citaat p. 77;  [Max J.] Friedl&#228;nder, [= Die altniederl&#228;ndische Malerei], XIV, [Leiden: Sijthoff],1937, Taf. VIII, citaten pp. 16-17, 58-59.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Friedl&#228;nder, Max J.</keyword>
+			<keyword>Antwerpen, Museum Mayer van den Bergh</keyword>
+			<object.creator/>
+			<input.date>2014-06-13</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>11:17:20</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3170,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3170/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a416234e-bc00-5d34-8a44-548d6f11946d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97c53445-6cf6-4dde-a641-2e0335cde7d6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_OriginalBrocade,,,au::7000,,,,,,,,,,,,,,rub,678d06af-3067-5686-aa6e-e46acd4acc0a,kw,,au::7000:1,au::7000g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/749000"",""au::7000"",""au::7000:1"",""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""Max Jacob Friedländer""],""name"":""Max Jacob Friedländer"",""ark"":""ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a"",""uri"":""/agents/people/749000"",""id"":""au::7000:1"",""isCapacity"":false}",ark:/83110/x0/678d06af-3067-5686-aa6e-e46acd4acc0a,agent,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_OriginalBrocade,,,au::13305,,,,,,,,,,,,,,rub,4986ed85-47b6-5c95-a664-eaaff57f4e6c,kw,,au::13305:1,au::13305g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1423635"",""au::13305"",""au::13305:1"",""ark:/83110/x0/4986ed85-47b6-5c95-a664-eaaff57f4e6c"",""Museum Mayer van den Bergh""],""name"":""Museum Mayer van den Bergh"",""ark"":""ark:/83110/x0/4986ed85-47b6-5c95-a664-eaaff57f4e6c"",""uri"":""/agents/corporate_entities/1423635"",""id"":""au::13305:1"",""isCapacity"":false}",ark:/83110/x0/4986ed85-47b6-5c95-a664-eaaff57f4e6c,agent,,,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_090,repository numbers,,,,,,,,,,,,,,
+90df76a2-4539-5421-a2af-6e6fa07dd7f0,tg:rubgr:3170,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_090,titles proper,Dutch (language),,,,,,,,,,,

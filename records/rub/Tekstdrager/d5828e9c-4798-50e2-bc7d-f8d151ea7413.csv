@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2399,https://data.rubenianum.be//ark:/86530/d5828e9c-4798-50e2-bc7d-f8d151ea7413,Handschriften,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""81487e43-0fba-4e30-9a67-dfdc70601b16"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a8f62f04-21e2-4e4a-bb6f-b5fbe25e22cf"", ""inverseOntologyProperty"": """"}]"
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[1 blad] 6a. Landschaft mit Versuchung St. Antonius. Jedlicka, citaat p. 540; [toegevoegde vermelding]: 'F.G. Treatment of the soil very different from P.B.I: long broad brush strokes in contrast to P.B.'s spotted ground - also the rocks, the plants different in character. Lack of precision of form in figures. Foliage also different. Not certain whether Jan B. But who else?'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:412303,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jedlicka, Gotthard",,,,,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002399,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4642</priref>
+			<number>AFG_079_002</number>
+			<content>[1 blad] 6a. Landschaft mit Versuchung St. Antonius. Jedlicka, citaat p. 540; [toegevoegde vermelding]: 'F.G. Treatment of the soil very different from P.B.I: long broad brush strokes in contrast to P.B.'s spotted ground - also the rocks, the plants different in character. Lack of precision of form in figures. Foliage also different. Not certain whether Jan B. But who else?'</content>
+			<object.object_number>AFG_079</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Temptation of St. Anthony</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Jedlicka, Gotthard</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<documentation.author>Jedlicka, Gotthard</documentation.author>
+			<input.date>2013-08-08</input.date>
+			<edit.date>2015-01-08</edit.date>
+			<edit.date>2015-01-08</edit.date>
+			<edit.date>2013-08-22</edit.date>
+			<edit.date>2013-08-22</edit.date>
+			<edit.date>2013-08-08</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel : der Maler in seiner Zeit</documentation.title>
+			<edit.time>11:32:36</edit.time>
+			<edit.time>11:31:59</edit.time>
+			<edit.time>09:13:27</edit.time>
+			<edit.time>09:12:46</edit.time>
+			<edit.time>14:32:04</edit.time>
+			<input.time>14:26:07</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2399,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2399/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0f8e57ac-31ce-586e-80a7-39ab03bc88f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5814462a-0a2e-483e-b949-ac29621c6fa6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_079_002,repository numbers,,,,,,,,,,,,,,
+d5828e9c-4798-50e2-bc7d-f8d151ea7413,tg:rubgr:2399,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_079_002,titles proper,Dutch (language),,,,,,,,,,,

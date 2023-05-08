@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:172,https://data.rubenianum.be//ark:/86530/d159c47c-0a6a-531f-aef4-a32894274504,Brieven,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:171,Verwijzing naar Grossmann object,,9479dedb-3ae2-5fe2-aee7-c74fa0a57562,"[{""resourceId"": ""9479dedb-3ae2-5fe2-aee7-c74fa0a57562"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c3cc6b6-bc9e-497a-9b79-2167f964debc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""02a47a80-628d-4158-97c0-e0e2d5a89d4d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d85eda23-1750-4c1a-b9bd-413a753a3afd"", ""inverseOntologyProperty"": """"}]"
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_Correspondence,1,,,,,,,,,,,,,,,,"Buuren, David van",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19531110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1953-11-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Vermits hij lezingen heeft is het moeilijk om een ontmoeting te regelen. Stelt alternatieven voor. Getypt op verso brief van van Buuren d.d. 6 november 1953.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262344,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Buuren, David van",,,,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000172,referentienummer,False,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2414</priref>
+			<recipient>Buuren, David van</recipient>
+			<number>AFG_003_100</number>
+			<part_of_reference>AFG_003_099</part_of_reference>
+			<date.precise>1953-11-10</date.precise>
+			<content>Korte inhoud: Vermits hij lezingen heeft is het moeilijk om een ontmoeting te regelen. Stelt alternatieven voor. Getypt op verso brief van van Buuren d.d. 6 november 1953.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: Vraagt een ontmoeting tijdens zijn verblijf in Londen. Noemt de schilderijen op die in de Royal Academy zullen tentoongesteld worden: Breughel [sic], J. van Cleve en Isenbrandt.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Buuren, David van</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-09-06</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2013-01-23</edit.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2011-11-03</edit.date>
+			<edit.date>2011-11-03</edit.date>
+			<edit.date>2011-09-06</edit.date>
+			<edit.date>2011-09-06</edit.date>
+			<edit.date>2011-09-06</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:39:48</edit.time>
+			<edit.time>16:17:09</edit.time>
+			<edit.time>12:23:28</edit.time>
+			<edit.time>09:40:54</edit.time>
+			<edit.time>09:38:39</edit.time>
+			<edit.time>10:26:03</edit.time>
+			<edit.time>09:55:27</edit.time>
+			<edit.time>09:51:44</edit.time>
+			<input.time>09:51:13</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:172,brocade id,False,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:172/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6c6959a8-72b7-53c9-a997-f1ba6f9863b1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2c35214a-28f2-4c65-a499-bd4dbe81e68d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_100,repository numbers,,,,,,,,,,,
+d159c47c-0a6a-531f-aef4-a32894274504,tg:rubgr:172,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_100,titles proper,Dutch (language),,,,,,,,

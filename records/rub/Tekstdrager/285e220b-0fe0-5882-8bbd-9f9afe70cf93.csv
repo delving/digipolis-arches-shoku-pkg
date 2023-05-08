@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:493,https://data.rubenianum.be//ark:/86530/285e220b-0fe0-5882-8bbd-9f9afe70cf93,Handschriften,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7b7589b5-fac6-4d0c-a053-6bb531401e0e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ef945567-efaa-432a-837f-67aa6eadda00"", ""inverseOntologyProperty"": """"}]"
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[4 bladen] P. [Paul] Minnaert, 'Essai d'interprétation de la Dulle Griete de P. Bruegel' (Apollo  [Chronique des Beaux-Arts 3] mai 1943) [22], citaten pp. 8-12.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14745205,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_ExternalRelationsExtras,a::rub.14:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54556,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Minnaert, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000493,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>2740</priref>
+<number>AFG_010_008</number>
+<content>[4 bladen] P. [Paul] Minnaert, 'Essai d'interprétation de la Dulle Griete de P. Bruegel' (Apollo  [Chronique des Beaux-Arts 3] mai 1943) [22], citaten pp. 8-12.</content>
+<object.object_number>AFG_010</object.object_number>
+<object.object_name>schilderij</object.object_name>
+<class>AFG</class>
+<editorial_form>Referentie</editorial_form>
+<object.title>Dulle Griet</object.title>
+<keyword>Minnaert, Paul</keyword>
+<object.creator>Bruegel, Pieter I</object.creator>
+<documentation.author/>
+<input.date>2011-10-06</input.date>
+<edit.date>2014-08-26</edit.date>
+<edit.date>2011-12-01</edit.date>
+<edit.date>2011-12-01</edit.date>
+<edit.date>2011-10-06</edit.date>
+<edit.date>2011-10-06</edit.date>
+<edit.date>2011-10-06</edit.date>
+<edit.date>2011-10-06</edit.date>
+<edit.date>2011-10-06</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<documentation.shelfmark>1 S 1 / APO 5</documentation.shelfmark>
+<documentation.title>Apollo : Chronique des Beaux-Arts</documentation.title>
+<edit.time>14:21:28</edit.time>
+<edit.time>13:11:02</edit.time>
+<edit.time>13:09:58</edit.time>
+<edit.time>13:59:42</edit.time>
+<edit.time>13:58:45</edit.time>
+<edit.time>11:11:05</edit.time>
+<edit.time>10:46:55</edit.time>
+<edit.time>10:33:42</edit.time>
+<input.time>10:33:12</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<documentation.title.article/>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:493,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:493/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8d5acd3b-2762-5430-b876-2c5e28c53888"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9603f58f-644c-4df6-906d-fcc79e04103b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_008,repository numbers,,,,,,,,,,,,,,
+285e220b-0fe0-5882-8bbd-9f9afe70cf93,tg:rubgr:493,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_008,titles proper,Dutch (language),,,,,,,,,,,

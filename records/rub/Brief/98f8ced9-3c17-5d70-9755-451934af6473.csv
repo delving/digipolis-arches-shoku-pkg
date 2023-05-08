@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:907,https://data.rubenianum.be//ark:/86530/98f8ced9-3c17-5d70-9755-451934af6473,Brieven,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7398b854-7e2e-4370-893e-259b9ff2a399"", ""ontologyProperty"": """", ""resourceXresourceId"": ""19964cb0-9c4f-4080-9df0-c44e187b7a31"", ""inverseOntologyProperty"": """"}]"
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_Correspondence,1,,,,,,,,,,,,,,,,"Davies, Martin",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19661006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1966-10-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Dankbrief.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_ExternalRelationsExtras,a::rub.24,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,260968,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000907,referentienummer,False,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3159</priref>
+			<recipient>Davies, Martin</recipient>
+			<number>AFG_020_020</number>
+			<date.precise>1966-10-06</date.precise>
+			<content>Korte inhoud: Dankbrief.</content>
+			<object.object_number>AFG_020</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>The Adoration of the Kings</object.title>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-02-21</input.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-02-28</edit.date>
+			<edit.date>2012-02-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:15:59</edit.time>
+			<edit.time>09:54:52</edit.time>
+			<edit.time>12:23:57</edit.time>
+			<input.time>12:23:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:907,brocade id,False,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:907/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7378e6a2-0081-540f-935e-795ecb68c176"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08dc94e1-fb0d-49a1-961c-e2c4c06ec372"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_020_020,repository numbers,,,,,,,,,,,
+98f8ced9-3c17-5d70-9755-451934af6473,tg:rubgr:907,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_020_020,titles proper,Dutch (language),,,,,,,,

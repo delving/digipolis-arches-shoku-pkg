@@ -1,0 +1,124 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:484,https://data.rubenianum.be//ark:/86530/351c0d30-2246-5385-bd0d-0098c0d1ee75,Brieven,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:483,Verwijzing naar Grossmann object,,fcb47ef0-1ab4-5843-afb6-9206dbb3e7f9,"[{""resourceId"": ""fcb47ef0-1ab4-5843-afb6-9206dbb3e7f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""539560a4-9906-4b3e-8deb-eb92284ffdc2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c2363d77-f771-4da6-a383-4027741c4575"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97aff36b-4d17-4807-901d-b497ab6c4b26"", ""inverseOntologyProperty"": """"}]"
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Correspondence,1,,,,,,,,,,,,,,,,"Gibson, Walter S.",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Ontwerpbrief] aan Walter S. Gibson [Korte inhoud] : wijst op de overeenkomst tussen de prent van Remigius Hogenberg (rapen) en het schilderij de Triomf van de Dood (schedels). Wijst op de link met de stad Mechelen. Verwijst naar boek van Kurt Badt, Modell und Maler von Jan Vermeer Probleme der Interpretation: eine Streitschrift gegen Hans Sedlmayr, Köln: DuMont Schaumberg, 1961 waarin de Boerenbruiloft (Wenen) geanalyseerd wordt.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_ExternalRelationsExtras,a::rub.13:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,56714,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hogenberg, Remigius",,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Badt, Kurt",,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gibson, Walter S.",,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sedlmayr, Hans",,,,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000484,referentienummer,False,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>2703</priref>
+<recipient>Gibson, Walter S.</recipient>
+<number>AFG_009_073</number>
+<part_of_reference>AFG_009_072</part_of_reference>
+<content>[Ontwerpbrief] aan Walter S. Gibson [Korte inhoud] : wijst op de overeenkomst tussen de prent van Remigius Hogenberg (rapen) en het schilderij de Triomf van de Dood (schedels). Wijst op de link met de stad Mechelen. Verwijst naar boek van Kurt Badt, Modell und Maler von Jan Vermeer Probleme der Interpretation: eine Streitschrift gegen Hans Sedlmayr, Köln: DuMont Schaumberg, 1961 waarin de Boerenbruiloft (Wenen) geanalyseerd wordt.</content>
+<object.object_number>AFG_009</object.object_number>
+<object.object_name>schilderij</object.object_name>
+<part_of.title>Walter S. Gibson, 'The Turnip wagon: A Boschian Motif Transformed', in: Renaissance Quarterly, XXXII(1979) 2, pp. 187-196.</part_of.title>
+<class>AFG</class>
+<editorial_form>ontwerpbrief</editorial_form>
+<object.title>The Triumph of Death</object.title>
+<keyword>Hogenberg, Remigius</keyword>
+<keyword>Badt, Kurt</keyword>
+<keyword>Gibson, Walter S.</keyword>
+<keyword>Sedlmayr, Hans</keyword>
+<sender>Grossmann, Fritz</sender>
+<object.creator>Bruegel, Pieter I</object.creator>
+<input.date>2011-10-04</input.date>
+<edit.date>2015-02-20</edit.date>
+<edit.date>2014-08-26</edit.date>
+<edit.date>2014-08-26</edit.date>
+<edit.date>2014-08-26</edit.date>
+<edit.date>2014-08-26</edit.date>
+<edit.date>2014-07-25</edit.date>
+<edit.date>2012-11-05</edit.date>
+<edit.date>2012-01-06</edit.date>
+<edit.date>2012-01-06</edit.date>
+<edit.date>2012-01-06</edit.date>
+<edit.date>2011-11-30</edit.date>
+<edit.date>2011-11-30</edit.date>
+<edit.date>2011-11-28</edit.date>
+<edit.date>2011-11-28</edit.date>
+<edit.date>2011-11-28</edit.date>
+<edit.date>2011-10-04</edit.date>
+<edit.date>2011-10-04</edit.date>
+<edit.date>2011-10-04</edit.date>
+<edit.date>2011-10-04</edit.date>
+<edit.date>2011-10-04</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.time>10:35:11</edit.time>
+<edit.time>12:12:05</edit.time>
+<edit.time>12:11:44</edit.time>
+<edit.time>12:11:22</edit.time>
+<edit.time>12:09:08</edit.time>
+<edit.time>10:59:48</edit.time>
+<edit.time>12:08:29</edit.time>
+<edit.time>15:49:48</edit.time>
+<edit.time>15:25:12</edit.time>
+<edit.time>15:24:09</edit.time>
+<edit.time>15:14:35</edit.time>
+<edit.time>15:14:12</edit.time>
+<edit.time>15:48:54</edit.time>
+<edit.time>15:48:29</edit.time>
+<edit.time>15:47:20</edit.time>
+<edit.time>10:05:14</edit.time>
+<edit.time>09:19:38</edit.time>
+<edit.time>09:05:40</edit.time>
+<edit.time>09:04:39</edit.time>
+<edit.time>09:04:21</edit.time>
+<input.time>09:00:21</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:484,brocade id,False,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:484/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fcc7fbbe-c726-5296-8836-266b83e75b53"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ebc5c72f-299f-4902-b9b2-70d86c5242bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_073,repository numbers,,,,,,,,,,,
+351c0d30-2246-5385-bd0d-0098c0d1ee75,tg:rubgr:484,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_073,titles proper,Dutch (language),,,,,,,,

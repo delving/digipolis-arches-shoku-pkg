@@ -1,0 +1,116 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1335,https://data.rubenianum.be//ark:/86530/16137fa2-e60e-557c-b1e1-991ef724db0c,Brieven,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_AssociatedArchives,2,,,,,,AFG_035,isad:rub:2965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a1b30838-b62d-44f5-a53b-6373ce1c1424"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8cbd2290-2314-41c5-a17d-a8673a9d0e79"", ""inverseOntologyProperty"": """"}]"
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Correspondence,1,,,,,,,,,,,,,,,,"Steneberg, Karl Erik",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19561118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-11-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Refereert aan een ontmoeting [Zweden]. Kritische bemerking op artikel [Arthur] Haberlandt 1930 dat Bruegel's Boerenbruiloft behandelt vanuit folkloristisch perspectief zonder aandacht voor de artisticiteit. Dat in tegenstelling tot het artikel van Novotny 1950. Kijkt uit naar de bespreking van het werk door Steneberg. Groeten aan Professor [Ragnar] Josephson.[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,219317,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,volkskunde,,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Haberlandt, Arthur",,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Josephson, Ragnar",,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Novotny, Fritz",,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Steneberg, Karl Erik",,,,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001335,referentienummer,False,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3582</priref>
+			<recipient>Steneberg, Karl Erik</recipient>
+			<number>AFG_035_001</number>
+			<date.precise>1956-11-18</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Refereert aan een ontmoeting [Zweden]. Kritische bemerking op artikel [Arthur] Haberlandt 1930 dat Bruegel's Boerenbruiloft behandelt vanuit folkloristisch perspectief zonder aandacht voor de artisticiteit. Dat in tegenstelling tot het artikel van Novotny 1950. Kijkt uit naar de bespreking van het werk door Steneberg. Groeten aan Professor [Ragnar] Josephson.[scan]</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_number>AFG_035</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>correspondentie</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.title/>
+			<keyword>volkskunde</keyword>
+			<keyword>Haberlandt, Arthur</keyword>
+			<keyword>Josephson, Ragnar</keyword>
+			<keyword>Novotny, Fritz</keyword>
+			<keyword>Steneberg, Karl Erik</keyword>
+			<physical_form>beschadigd</physical_form>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-13</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2013-11-21</edit.date>
+			<edit.date>2012-10-02</edit.date>
+			<edit.date>2012-10-02</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:32:25</edit.time>
+			<edit.time>12:20:25</edit.time>
+			<edit.time>09:11:15</edit.time>
+			<edit.time>09:03:21</edit.time>
+			<edit.time>09:52:49</edit.time>
+			<edit.time>09:52:35</edit.time>
+			<edit.time>09:29:27</edit.time>
+			<edit.time>09:28:04</edit.time>
+			<edit.time>09:06:09</edit.time>
+			<edit.time>12:21:26</edit.time>
+			<edit.time>11:07:46</edit.time>
+			<edit.time>09:35:24</edit.time>
+			<edit.time>09:33:56</edit.time>
+			<edit.time>09:30:39</edit.time>
+			<edit.time>09:29:35</edit.time>
+			<edit.time>15:50:31</edit.time>
+			<input.time>15:46:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1335,brocade id,False,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1335/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5f10f2ce-faf5-514d-afc1-d4fee79b5784"", ""ontologyProperty"": """", ""resourceXresourceId"": ""266a2aff-91f0-4108-90c6-373fdb2f79b0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_035_001,repository numbers,,,,,,,,,,,
+16137fa2-e60e-557c-b1e1-991ef724db0c,tg:rubgr:1335,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_035_001,titles proper,Dutch (language),,,,,,,,

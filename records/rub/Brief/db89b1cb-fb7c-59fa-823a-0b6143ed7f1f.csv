@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:376,https://data.rubenianum.be//ark:/86530/db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,Brieven,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""27058733-ff7d-403f-9f43-0aea2dc15ac8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b24f6b92-93c3-4535-8cc0-87a18479318f"", ""inverseOntologyProperty"": """"}]"
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 zwart/wit prentbriefkaart (detail).,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_ExternalRelationsExtras,a::rub.11,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,111680,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000376,referentienummer,False,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2624</priref>
+			<number>AFG_007_025</number>
+			<content>1 zwart/wit prentbriefkaart (detail).</content>
+			<object.object_number>AFG_007</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Prentbriefkaart</editorial_form>
+			<object.title>Children's games</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-22</input.date>
+			<edit.date>2011-12-01</edit.date>
+			<edit.date>2011-11-24</edit.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-09-22</edit.date>
+			<edit.date>2011-09-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:44:42</edit.time>
+			<edit.time>09:26:14</edit.time>
+			<edit.time>09:05:18</edit.time>
+			<edit.time>09:04:14</edit.time>
+			<edit.time>13:46:56</edit.time>
+			<edit.time>13:46:23</edit.time>
+			<input.time>13:45:17</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:376,brocade id,False,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:376/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d12acdd6-4cc0-5c3d-83b7-077141bd7cef"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3718460f-832f-4bf1-9d46-a37bcff7ad51"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_025,repository numbers,,,,,,,,,,,
+db89b1cb-fb7c-59fa-823a-0b6143ed7f1f,tg:rubgr:376,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_025,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,80 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:418,https://data.rubenianum.be//ark:/86530/6c06e33a-657c-553e-8154-d7f3cb6f6c2d,Handschriften,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e58ea496-ce73-4e05-aa2f-2d6c48a1d734"", ""ontologyProperty"": """", ""resourceXresourceId"": ""208cb389-2577-48ac-94b6-f7ef4c00c226"", ""inverseOntologyProperty"": """"}]"
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Triumph des Todes. [Jan] Denucé, [= Inventare von Kunstsammlungen zu Antwerpen im 16. und 17. Jahrhundert, (Quellen zur Geschichte der flämischen Kunst; 2), Antwerpen: De Sikkel, 1932] Valckenisse 1614, [II], p. 23 Triumphe vanden Doot, van Bruegel.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56714,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Valckenisse, Philips",,,,,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000418,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2636</priref>
+			<number>AFG_009_007</number>
+			<content>Triumph des Todes. [Jan] Denuc&#233;, [= Inventare von Kunstsammlungen zu Antwerpen im 16. und 17. Jahrhundert, (Quellen zur Geschichte der fl&#228;mischen Kunst; 2), Antwerpen: De Sikkel, 1932] Valckenisse 1614, [II], p. 23 Triumphe vanden Doot, van Bruegel.</content>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Triumph of Death</object.title>
+			<keyword>Valckenisse, Philips</keyword>
+			<keyword>inventaris</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-26</input.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-06</edit.date>
+			<edit.date>2012-01-06</edit.date>
+			<edit.date>2011-11-30</edit.date>
+			<edit.date>2011-11-24</edit.date>
+			<edit.date>2011-10-06</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-09-27</edit.date>
+			<edit.date>2011-09-26</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:46:30</edit.time>
+			<edit.time>16:20:15</edit.time>
+			<edit.time>13:33:12</edit.time>
+			<edit.time>10:39:54</edit.time>
+			<edit.time>09:50:59</edit.time>
+			<edit.time>12:08:53</edit.time>
+			<edit.time>13:18:58</edit.time>
+			<edit.time>09:54:26</edit.time>
+			<edit.time>09:26:06</edit.time>
+			<edit.time>11:09:03</edit.time>
+			<edit.time>14:17:58</edit.time>
+			<input.time>14:15:42</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:418,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:418/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e70d2c5c-aa4f-5251-adda-7ea557e9fe90"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a9fd4ca8-01f9-4030-9068-c5a03f74a79a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_007,repository numbers,,,,,,,,,,,,,,
+6c06e33a-657c-553e-8154-d7f3cb6f6c2d,tg:rubgr:418,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_007,titles proper,Dutch (language),,,,,,,,,,,

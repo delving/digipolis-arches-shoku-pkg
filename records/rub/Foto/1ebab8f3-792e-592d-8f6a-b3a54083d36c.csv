@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3293,https://data.rubenianum.be//ark:/86530/1ebab8f3-792e-592d-8f6a-b3a54083d36c,Foto's,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:3288,Verwijzing naar Grossmann object,,c51452dd-b104-55be-867c-cdbde556f1fa,"[{""resourceId"": ""c51452dd-b104-55be-867c-cdbde556f1fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5e1a5d1e-4542-48ae-9b3d-314e76afd6c4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ffa2235-f0ce-44c9-a179-c6df0e3d9886"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7d5b9ccc-92ea-4245-b9b4-eafeb090b78e"", ""inverseOntologyProperty"": """"}]"
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto [Stempel Museum Cambridge] [Notitie in onbekend handschrift]: Pieter Brueghel the Younger, A Village Fête.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003293,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5545</priref>
+			<number>AFG_092_023</number>
+			<part_of_reference>AFG_092_018</part_of_reference>
+			<content>1 zw/w foto [Stempel Museum Cambridge] [Notitie in onbekend handschrift]: Pieter Brueghel the Younger, A Village F&#234;te.</content>
+			<object.object_number>AFG_092</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Copies after Lost pictures and imitations of them &amp; Compositions [?] based on Bruegel. Comparative material.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Wrong or doubtful Attributions except Jan Brueghel. Copies after Lost Pictures &amp; after extant Works. Grossmann 242</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<object.creator/>
+			<input.date>2014-06-17</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>11:29:46</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3293,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3293/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0efc2562-e45a-5211-8207-ef23f50e7847"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c76712bc-ff59-44d9-b356-b74f9970d314"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,keywords,au::3027:1,au::3027g:1,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_092_023,repository numbers,,,,,,,,,,,
+1ebab8f3-792e-592d-8f6a-b3a54083d36c,tg:rubgr:3293,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_092_023,titles proper,Dutch (language),,,,,,,,

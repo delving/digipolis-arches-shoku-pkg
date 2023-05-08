@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4310,https://data.rubenianum.be//ark:/86530/07aed2ec-fdbe-5ba6-9a16-08d4e656671f,Foto's,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_AssociatedArchives,2,,,,,,AFG_003,isad:rub:2933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a5d80ebc-1f66-44f8-a228-4d4f99d6ee18"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7f106157-d49a-4d05-8344-5b0efbf6226e"", ""inverseOntologyProperty"": """"}]"
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"[Stempel Manfred Selig] 3 zw/w foto's Connected with Franciabigio, Meeting of Holy Family, Florence, Chiostro dello Scalzo, cf. Shepherd in Bruegel's Icarus.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262344,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,Franciabigio,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Selig, Manfred",,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Florence, Chiostro dello Scalzo",,,,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004310,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6563</priref>
+			<number>AFG_111_105</number>
+			<content>[Stempel Manfred Selig] 3 zw/w foto's Connected with Franciabigio, Meeting of Holy Family, Florence, Chiostro dello Scalzo, cf. Shepherd in Bruegel's Icarus.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Franciabigio</keyword>
+			<keyword>Selig, Manfred</keyword>
+			<keyword>Florence, Chiostro dello Scalzo</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2014-07-08</input.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:36:04</edit.time>
+			<edit.time>15:33:37</edit.time>
+			<edit.time>15:32:27</edit.time>
+			<edit.time>15:32:08</edit.time>
+			<edit.time>15:31:34</edit.time>
+			<input.time>15:31:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4310,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4310/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9566415d-eca6-50a9-b9b4-bef0e2c0190d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e1267017-3104-4073-8758-980dea76769f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_105,repository numbers,,,,,,,,,,,
+07aed2ec-fdbe-5ba6-9a16-08d4e656671f,tg:rubgr:4310,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_105,titles proper,Dutch (language),,,,,,,,

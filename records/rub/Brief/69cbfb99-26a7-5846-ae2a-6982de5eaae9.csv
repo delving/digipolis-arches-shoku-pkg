@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4760,https://data.rubenianum.be//ark:/86530/69cbfb99-26a7-5846-ae2a-6982de5eaae9,Brieven,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""18e02ed5-48eb-4d79-ac3c-5a29b5d4499e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c9dae74-ea12-40c5-87c0-e7f52b287bbc"", ""inverseOntologyProperty"": """"}]"
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957.0,2072,In Copyright,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_Correspondence,1,,,,,,,,,,,,,,,,"Grasshoff, Kurt",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19570309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1957-03-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Geeft adres Grauls.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004760,referentienummer,False,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7013</priref>
+			<recipient>Grasshoff, Kurt</recipient>
+			<number>AFG_128_060</number>
+			<date.precise>1957-03-09</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Geeft adres Grauls.</content>
+			<object.object_number>AFG_128</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>[Folders &amp; envelopes]</object.title>
+			<keyword>Grauls, Jan</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator/>
+			<input.date>2014-07-25</input.date>
+			<edit.date>2014-07-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:53:00</edit.time>
+			<input.time>15:52:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4760,brocade id,False,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4760/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6d1bd51f-b1c1-544f-afb8-0ff92189eca8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e5f1674c-5655-4fd1-a8bd-75e9b556a234"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_OriginalBrocade,,,au::7887,,,,,,,,,,,,,,,,rub,,8a8cdd97-0fe0-527a-afd5-e0d6da51084f,kw,au::7887:1,au::7887g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/843909"",""au::7887"",""au::7887:1"",""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""Jan Grauls""],""name"":""Jan Grauls"",""ark"":""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""uri"":""/agents/people/843909"",""id"":""au::7887:1"",""isCapacity"":false}",ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f,agent,,,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_060,repository numbers,,,,,,,,,,,
+69cbfb99-26a7-5846-ae2a-6982de5eaae9,tg:rubgr:4760,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_060,titles proper,Dutch (language),,,,,,,,

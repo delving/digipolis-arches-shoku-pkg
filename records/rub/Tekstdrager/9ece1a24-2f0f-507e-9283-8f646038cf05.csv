@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1217,https://data.rubenianum.be//ark:/86530/9ece1a24-2f0f-507e-9283-8f646038cf05,Handschriften,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2cf5acd1-9dd7-42cb-ab2c-639e068485c8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""67fb7a0c-7456-43d9-95cb-2d35e26a1ec7"", ""inverseOntologyProperty"": """"}]"
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 vouwbladen] Murder of Innocents. [Léo van] PUYVELDE, Un nouveau Massacre des Innocents de Pierre Bruegel l'Ancien, Annuaire des Musées Royaux des B[eaux]-Arts de Belgique, I, 1938, pp. 99-111. [samenvatting]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:963516,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001217,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3474</priref>
+			<number>AFG_029_026</number>
+			<content>[3 vouwbladen] Murder of Innocents. [L&#233;o van] PUYVELDE, Un nouveau Massacre des Innocents de Pierre Bruegel l'Ancien, Annuaire des Mus&#233;es Royaux des B[eaux]-Arts de Belgique, I, 1938, pp. 99-111. [samenvatting]</content>
+			<object.object_number>AFG_029</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Massacre of the Innocents</object.title>
+			<keyword>Puyvelde, L&#233;o van</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Puyvelde, L&#233;o van</documentation.author>
+			<input.date>2012-07-18</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-07-26</edit.date>
+			<edit.date>2012-07-19</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>nouveau massacre des innocents de Pierre Bruegel l'Ancien</documentation.title>
+			<edit.time>09:35:02</edit.time>
+			<edit.time>12:10:48</edit.time>
+			<edit.time>09:03:38</edit.time>
+			<edit.time>13:39:12</edit.time>
+			<edit.time>13:38:52</edit.time>
+			<edit.time>13:37:44</edit.time>
+			<input.time>13:34:55</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Un</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1217,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1217/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""07b2189a-71a3-540c-9bd9-80df1659283a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8791cae2-402c-4ff9-bbfb-52b84fd6e737"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_OriginalBrocade,,,au::15317,,,,,,,,,,,,,,rub,631077ff-8783-5f60-8ec6-5f5bcafe8f5f,kw,,au::15317:1,au::15317g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1638919"",""au::15317"",""au::15317:1"",""ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f"",""Leo van Puyvelde""],""name"":""Leo van Puyvelde"",""ark"":""ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f"",""uri"":""/agents/people/1638919"",""id"":""au::15317:1"",""isCapacity"":false}",ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f,agent,,,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_026,repository numbers,,,,,,,,,,,,,,
+9ece1a24-2f0f-507e-9283-8f646038cf05,tg:rubgr:1217,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_026,titles proper,Dutch (language),,,,,,,,,,,

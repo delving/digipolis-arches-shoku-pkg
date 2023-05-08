@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1671,https://data.rubenianum.be//ark:/86530/5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,Handschriften,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""37c6157e-2d5b-474b-a65a-25e1bd8702c6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a88efd59-0acd-4137-a464-6195af616123"", ""inverseOntologyProperty"": """"}]"
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 35. P. Bruegel I drawings Box 6. Witt Library. The Blind; [toegevoegde vermelding]: (F.G. not P.B.I). Drawing attributed to P.B.I Leonora Hall Gurney [= Gurley] Memorial coll. Chicago. Chicago Inst. Bull. 1922, XVI, 6, Nov., p. 79.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_ExternalRelationsExtras,a::rub.45,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,53946,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001671,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3922</priref>
+			<number>AFG_045_027</number>
+			<content>Ad [Addendum] 35. P. Bruegel I drawings Box 6. Witt Library. The Blind; [toegevoegde vermelding]: (F.G. not P.B.I). Drawing attributed to P.B.I Leonora Hall Gurney [= Gurley] Memorial coll. Chicago. Chicago Inst. Bull. 1922, XVI, 6, Nov., p. 79.</content>
+			<object.object_number>AFG_045</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Parable of the Blind</object.title>
+			<keyword>Chicago, Art Institute of Chicago</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-01-03</input.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2013-02-15</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-07</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<edit.date>2013-01-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:31:48</edit.time>
+			<edit.time>11:38:16</edit.time>
+			<edit.time>15:30:58</edit.time>
+			<edit.time>15:16:16</edit.time>
+			<edit.time>15:19:08</edit.time>
+			<edit.time>15:18:22</edit.time>
+			<edit.time>15:16:03</edit.time>
+			<input.time>15:12:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1671,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1671/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""309ebb10-f5d6-58c4-91f0-2447085a097f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a48d6401-9992-4d4b-a335-6750455f859c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_OriginalBrocade,,,au::33443,,,,,,,,,,,,,,rub,f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae,kw,,au::33443:1,au::33443g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3578401"",""au::33443"",""au::33443:1"",""ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae"",""The Art Institute of Chicago (USA)""],""name"":""The Art Institute of Chicago (USA)"",""ark"":""ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae"",""uri"":""/agents/corporate_entities/3578401"",""id"":""au::33443:1"",""isCapacity"":false}",ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae,agent,,,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_027,repository numbers,,,,,,,,,,,,,,
+5b3c0eb0-e7a8-5a58-a267-fa0dc538bdb6,tg:rubgr:1671,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_027,titles proper,Dutch (language),,,,,,,,,,,

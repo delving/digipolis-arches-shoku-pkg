@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3377,https://data.rubenianum.be//ark:/86530/31eb45f1-e2e9-544a-8875-04a6f0b676db,Brieven,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3338,Verwijzing naar Grossmann object,,909a2567-7565-51a1-a51e-6d5c7af27196,"[{""resourceId"": ""909a2567-7565-51a1-a51e-6d5c7af27196"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9fd486b1-34b2-4463-a5d1-401e1eee01f1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""96ee6591-89a3-4dd4-a106-14c4195da961"", ""ontologyProperty"": """", ""resourceXresourceId"": ""31f6418a-5999-4b1a-9432-9ef9237c9db6"", ""inverseOntologyProperty"": """"}]"
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957.0,2072,In Copyright,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_Correspondence,1,,,,,,,,,,,,,,,,"Bloch, Vitale",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19570717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1957-07-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: Vraagt om het door Bloch & Speelman aangekochte werk 'Bauernhochzeit' te mogen bekijken. Maakt melding van een bezoek aan het RKD in Juli en daarna aan Van Gelder, Utrecht.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003377,referentienummer,False,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5630</priref>
+			<recipient>Bloch, Vitale</recipient>
+			<number>AFG_093_040</number>
+			<part_of_reference>AFG_093_001</part_of_reference>
+			<date.precise>1957-07-17</date.precise>
+			<content>Korte inhoud: Vraagt om het door Bloch &amp; Speelman aangekochte werk 'Bauernhochzeit' te mogen bekijken. Maakt melding van een bezoek aan het RKD in Juli en daarna aan Van Gelder, Utrecht.</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Flemish Painting around and later than Bruegel. Also: Comparative Material.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<keyword>Gelder, Jan Gerrit van</keyword>
+			<keyword>Den Haag, rijksbureau voor kunsthistorische documentatie</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>17:32:35</edit.time>
+			<input.time>12:09:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3377,brocade id,False,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3377/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f32d5a4c-75e6-568e-a398-8a51c75d268f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9265f383-3bce-44f0-88ff-d7f8208a8757"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_OriginalBrocade,,,au::110014,,,,,,,,,,,,,,,,rub,,df8d0808-2f42-514f-ab20-996682149ef7,kw,au::110014:1,au::110014g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11771498"",""au::110014"",""au::110014:1"",""ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7"",""Jan Gerrit van Gelder""],""name"":""Jan Gerrit van Gelder"",""ark"":""ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7"",""uri"":""/agents/people/11771498"",""id"":""au::110014:1"",""isCapacity"":false}",ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7,agent,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_OriginalBrocade,,,au::31138,,,,,,,,,,,,,,,,rub,,fab9c8af-c93f-53b3-aa3f-4cea006fe809,kw,au::31138:1,au::31138g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3331766"",""au::31138"",""au::31138:1"",""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]""],""name"":""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]"",""ark"":""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""uri"":""/agents/corporate_entities/3331766"",""id"":""au::31138:1"",""isCapacity"":false}",ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809,agent,,,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_040,repository numbers,,,,,,,,,,,
+31eb45f1-e2e9-544a-8875-04a6f0b676db,tg:rubgr:3377,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_040,titles proper,Dutch (language),,,,,,,,

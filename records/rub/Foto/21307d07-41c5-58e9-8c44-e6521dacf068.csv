@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:229,https://data.rubenianum.be//ark:/86530/21307d07-41c5-58e9-8c44-e6521dacf068,Foto's,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""add264a0-e631-40ce-8ddf-cbb6958f0efa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b5d0e57a-84e7-49ed-9ba1-73506cdf2aaa"", ""inverseOntologyProperty"": """"}]"
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"16 foto's: Bruegel, Brussels. After cleaning. ACL nrs. 160519B; 160542B [notitie] (at bottom typical Bruegel figure, cf. 'Corn Harvest', New York); 160543B; 160544B; 160545B; 160546B; 160547B; 160548B; 160549B [notitie] (cf. Van der Goes); 160550B; 160551B; 160552B; 160553B; 160554B; 160555B; 160556B.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_ExternalRelationsExtras,a::rub.8,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262343,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000229,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2475</priref>
+			<number>AFG_004_042</number>
+			<content>16 foto's: Bruegel, Brussels. After cleaning. ACL nrs. 160519B; 160542B [notitie] (at bottom typical Bruegel figure, cf. 'Corn Harvest', New York); 160543B; 160544B; 160545B; 160546B; 160547B; 160548B; 160549B [notitie] (cf. Van der Goes); 160550B; 160551B; 160552B; 160553B; 160554B; 160555B; 160556B.</content>
+			<object.object_number>AFG_004</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Adoration of the Kings</object.title>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-13</input.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-13</edit.date>
+			<edit.date>2011-09-13</edit.date>
+			<edit.date>2011-09-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:36:08</edit.time>
+			<edit.time>13:30:47</edit.time>
+			<edit.time>13:15:16</edit.time>
+			<edit.time>09:45:37</edit.time>
+			<edit.time>09:39:07</edit.time>
+			<input.time>09:33:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:229,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:229/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9af932cd-a991-58e9-86e6-e3cb6c868e24"", ""ontologyProperty"": """", ""resourceXresourceId"": ""041bbc34-d92e-49a0-beda-2d9685f92504"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,keywords,au::10517:1,au::10517g:1,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_042,repository numbers,,,,,,,,,,,
+21307d07-41c5-58e9-8c44-e6521dacf068,tg:rubgr:229,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_042,titles proper,Dutch (language),,,,,,,,

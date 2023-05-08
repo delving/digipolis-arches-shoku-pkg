@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:900,https://data.rubenianum.be//ark:/86530/a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,Handschriften,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6952c3d6-73e3-4f4b-88de-5ade66e69318"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ce15205d-ad19-4a0b-9dbe-8bb973442ebe"", ""inverseOntologyProperty"": """"}]"
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Adoration, N.G. Jameson, Legends of the Madonna, [= Anna Jameson, Legends of the Madonna as Represented in the Fine Arts, London: Longmans, Green, and Co, 1902], citaten pp. 320-1, 324-5; [toegevoegde vermelding]: 'F.G. The child relucting from the gold!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261109,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_ExternalRelationsExtras,a::rub.24,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260968,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iconografie,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jameson, Anna Brownell (née Murphy)",,,,,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000900,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3151</priref>
+			<number>AFG_020_013</number>
+			<content>Adoration, N.G. Jameson, Legends of the Madonna, [= Anna Jameson, Legends of the Madonna as Represented in the Fine Arts, London: Longmans, Green, and Co, 1902], citaten pp. 320-1, 324-5; [toegevoegde vermelding]: 'F.G. The child relucting from the gold!</content>
+			<object.object_number>AFG_020</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Adoration of the Kings</object.title>
+			<keyword>iconografie</keyword>
+			<keyword>Jameson, Anna Brownell (n&#233;e Murphy)</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Jameson, Anna Brownell (n&#233;e Murphy)</documentation.author>
+			<input.date>2012-02-21</input.date>
+			<edit.date>2015-03-06</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2012-06-20</edit.date>
+			<edit.date>2012-06-20</edit.date>
+			<edit.date>2012-03-02</edit.date>
+			<edit.date>2012-03-02</edit.date>
+			<edit.date>2012-02-29</edit.date>
+			<edit.date>2012-02-21</edit.date>
+			<edit.date>2012-02-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Legends of the Madonna as represented in the fine arts</documentation.title>
+			<edit.time>09:57:11</edit.time>
+			<edit.time>16:09:18</edit.time>
+			<edit.time>16:09:06</edit.time>
+			<edit.time>10:29:45</edit.time>
+			<edit.time>10:29:24</edit.time>
+			<edit.time>09:54:09</edit.time>
+			<edit.time>09:20:11</edit.time>
+			<edit.time>09:55:03</edit.time>
+			<edit.time>14:14:09</edit.time>
+			<edit.time>11:08:55</edit.time>
+			<input.time>11:01:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:900,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:900/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a9d1975-332c-5bbd-90b0-6715b62b24f4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ec8c541d-228d-4355-837a-6c57ca00a25d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_020_013,repository numbers,,,,,,,,,,,,,,
+a3c8cd11-e02e-5c6a-b29d-26a7ac1aef7c,tg:rubgr:900,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_020_013,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5198,https://data.rubenianum.be//ark:/86530/319025a6-8496-59e1-a315-2e5808a9c8bf,Handschriften,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5192,Verwijzing naar Grossmann object,,9b7b8e3a-42c0-502b-a70d-0da6565f8ef2,"[{""resourceId"": ""9b7b8e3a-42c0-502b-a70d-0da6565f8ef2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b2767fa3-3b83-4cd7-afff-0906d464ce96"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d3f542f4-e6ff-46c5-aa4f-a507eb83e4e1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1993d2ea-ae08-4936-8ca1-002c86424b1e"", ""inverseOntologyProperty"": """"}]"
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grisaille. Jan van Rillaer, Berlin 630, Urteil salomonis 1528 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rillaer, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005198,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7454</priref>
+			<number>AFG_143_077</number>
+			<part_of_reference>AFG_143_071</part_of_reference>
+			<content>Grisaille. Jan van Rillaer, Berlin 630, Urteil salomonis 1528 [...]</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Grisaille. Printing. Bosch-Thyssen.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>Rillaer, Jan van</keyword>
+			<object.creator/>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:40:12</edit.time>
+			<edit.time>16:25:42</edit.time>
+			<input.time>16:25:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5198,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5198/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""642fb913-6560-5283-abb4-06f8bbdfdbab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""004ead2f-bc2b-41a6-a549-6c426aafe2b5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_077,repository numbers,,,,,,,,,,,,,,
+319025a6-8496-59e1-a315-2e5808a9c8bf,tg:rubgr:5198,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_077,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4676,https://data.rubenianum.be//ark:/86530/ba302184-385b-52f4-8bc2-95e48027f2d4,Handschriften,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""250c953e-a19c-47b3-8e45-14a26c3d67a9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e750fd67-b85b-4801-b332-fafac91f94b2"", ""inverseOntologyProperty"": """"}]"
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Albert Deblaere 'Bruegel and the Religious Problems of his Time', Apollo CV (March 1977), pp. 176-180, citaat p. 176, 179, 180.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Deblaere, Albert",,,,,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004676,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6929</priref>
+			<number>AFG_122_014</number>
+			<content>Albert Deblaere 'Bruegel and the Religious Problems of his Time', Apollo CV (March 1977), pp. 176-180, citaat p. 176, 179, 180.</content>
+			<object.object_number>AFG_122</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Varia (to be filed)</object.title>
+			<keyword>Deblaere, Albert</keyword>
+			<object.creator/>
+			<input.date>2014-07-22</input.date>
+			<edit.date>2014-07-22</edit.date>
+			<edit.date>2014-07-22</edit.date>
+			<edit.date>2014-07-22</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:49:26</edit.time>
+			<edit.time>14:47:27</edit.time>
+			<edit.time>14:37:30</edit.time>
+			<input.time>14:28:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4676,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4676/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7b95fec-f596-548a-a440-765ed4104921"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8bb46f8a-3372-426d-91d1-8c0e97bc53e0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_122_014,repository numbers,,,,,,,,,,,,,,
+ba302184-385b-52f4-8bc2-95e48027f2d4,tg:rubgr:4676,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_122_014,titles proper,Dutch (language),,,,,,,,,,,

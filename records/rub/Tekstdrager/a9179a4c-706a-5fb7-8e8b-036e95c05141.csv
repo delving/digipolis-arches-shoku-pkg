@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:234,https://data.rubenianum.be//ark:/86530/a9179a4c-706a-5fb7-8e8b-036e95c05141,Handschriften,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:232,Verwijzing naar Grossmann object,,094b1e6a-fb10-5f5b-9cfc-f1a1a512634b,"[{""resourceId"": ""094b1e6a-fb10-5f5b-9cfc-f1a1a512634b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9621e099-b95c-470b-a616-1e0f17ce0e33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df06a80d-5730-41ac-bf6f-4bb629771069"", ""ontologyProperty"": """", ""resourceXresourceId"": ""008e1384-6f04-4826-b699-3c066e840fac"", ""inverseOntologyProperty"": """"}]"
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19771020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977-10-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Times,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_ExternalRelationsExtras,a::rub.8,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262343,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000234,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2481</priref>
+			<number>AFG_004_047</number>
+			<part_of_reference>AFG_004_045</part_of_reference>
+			<date.precise>1977-10-20</date.precise>
+			<content>The Times</content>
+			<object.object_number>AFG_004</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>[verso] Sale collection formed by the late Dr. C.J.K. Van Aalst, of Huis te Hoevelaken, Holland, sold by order of his son Dr. N.J. Van Aalst, Christie's, April 1, 1960; Bought by Maples for 1800 Gns, 15 The Adoration of the Magi [...]; [toegevoegde vermelding]: ' on the whole a rather faithful copy of the Brussels Adoration, probably by P.B. II.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>The Adoration of the Kings</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-13</input.date>
+			<edit.date>2011-09-21</edit.date>
+			<edit.date>2011-09-14</edit.date>
+			<edit.date>2011-09-14</edit.date>
+			<edit.date>2011-09-13</edit.date>
+			<edit.date>2011-09-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:16:27</edit.time>
+			<edit.time>08:50:42</edit.time>
+			<edit.time>08:48:16</edit.time>
+			<edit.time>14:51:55</edit.time>
+			<edit.time>14:50:58</edit.time>
+			<input.time>14:49:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:234,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:234/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2b212598-c1fb-5945-a362-dc72fccff3b5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6b1287e5-dae0-4961-baec-c6a09def0fb1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_047,repository numbers,,,,,,,,,,,,,,
+a9179a4c-706a-5fb7-8e8b-036e95c05141,tg:rubgr:234,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_004_047,titles proper,Dutch (language),,,,,,,,,,,

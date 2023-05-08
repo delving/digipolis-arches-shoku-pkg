@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2360,https://data.rubenianum.be//ark:/86530/664bf011-d18f-5436-a928-be74b5427ede,Foto's,,,,
+664bf011-d18f-5436-a928-be74b5427ede,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6204a34-1b11-4577-b663-487eee506a82"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bdb5a4a9-fc5d-4a85-977c-a569448bc0cb"", ""inverseOntologyProperty"": """"}]"
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto; [Notitie in onbekend handschrift]: P. Bruegel d. J., Liechtenstein Inventar Nr. 1134, Leinwand 119 x 162 cm; [toegevoegde vermelding]: 'F.G. eher Jan B. Behandlung des Baumen, der Landschaft, des Luft, heistens der rechts zum Galgen führt-Jan B.; Die Kostümen der Liebesgarten, Figuren verändert, ebenso der Kopf des Kaisers.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,kostuum,,,,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002360,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4603</priref>
+			<number>AFG_077_044</number>
+			<content>1 zw/w foto; [Notitie in onbekend handschrift]: P. Bruegel d. J., Liechtenstein Inventar Nr. 1134, Leinwand 119 x 162 cm; [toegevoegde vermelding]: 'F.G. eher Jan B. Behandlung des Baumen, der Landschaft, des Luft, heistens der rechts zum Galgen f&#252;hrt-Jan B.; Die Kost&#252;men der Liebesgarten, Figuren ver&#228;ndert, ebenso der Kopf des Kaisers.</content>
+			<object.object_number>AFG_077</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>Grossmann 242</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>inventaris</keyword>
+			<keyword>kostuum</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-06-05</input.date>
+			<edit.date>2014-11-28</edit.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2013-06-21</edit.date>
+			<edit.date>2013-06-05</edit.date>
+			<edit.date>2013-06-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:57:24</edit.time>
+			<edit.time>15:26:55</edit.time>
+			<edit.time>14:15:26</edit.time>
+			<edit.time>12:01:14</edit.time>
+			<edit.time>15:54:47</edit.time>
+			<edit.time>15:50:51</edit.time>
+			<input.time>15:49:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2360,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2360/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f05a6a91-e7f0-5fe1-b9d9-ca70b6a001dd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09598340-caa1-4a6a-b6b9-acc9144e9e47"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,keywords,au::3027:1,au::3027g:1,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,keywords,au::3025:1,au::3025g:1,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_044,repository numbers,,,,,,,,,,,
+664bf011-d18f-5436-a928-be74b5427ede,tg:rubgr:2360,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_044,titles proper,Dutch (language),,,,,,,,

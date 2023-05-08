@@ -1,0 +1,75 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:318,https://data.rubenianum.be//ark:/86530/5e437406-216f-51e8-93d1-b62ec6df831b,Handschriften,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:350,Verwijzing naar Grossmann object,,b6387191-2593-55bb-bf10-ea1950f589ee,"[{""resourceId"": ""b6387191-2593-55bb-bf10-ea1950f589ee"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3f5d3d9e-aae8-4a36-8b4e-c53c79dab712"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8ef1e609-0bc9-4db5-8d09-88cf61d13581"", ""ontologyProperty"": """", ""resourceXresourceId"": ""397a9fed-6a8c-41f3-b67c-675c97f79aac"", ""inverseOntologyProperty"": """"}]"
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19710729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971-07-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Belvoir Castle 29-7-71. Teniers: Proverbs based on Bruegel.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_ExternalRelationsExtras,a::rub.10,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260959,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Belvoir Castle,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000318,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2567</priref>
+			<number>AFG_006_032</number>
+			<part_of_reference>AFG_006_064</part_of_reference>
+			<date.precise>1971-07-29</date.precise>
+			<content>Belvoir Castle 29-7-71. Teniers: Proverbs based on Bruegel.</content>
+			<object.object_number>AFG_006</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Belvoir Castle, D. of Rutland.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Netherlandish proverbs</object.title>
+			<keyword>Teniers, David (II)</keyword>
+			<keyword>Belvoir Castle</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-20</input.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-15</edit.date>
+			<edit.date>2011-11-15</edit.date>
+			<edit.date>2011-11-15</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-20</edit.date>
+			<edit.date>2011-09-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:29:08</edit.time>
+			<edit.time>09:27:14</edit.time>
+			<edit.time>09:27:05</edit.time>
+			<edit.time>15:08:46</edit.time>
+			<edit.time>15:08:07</edit.time>
+			<edit.time>09:40:19</edit.time>
+			<edit.time>15:24:27</edit.time>
+			<edit.time>16:02:49</edit.time>
+			<edit.time>13:47:34</edit.time>
+			<input.time>13:40:11</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:318,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:318/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5841f466-0547-55de-952d-d274edbc6025"", ""ontologyProperty"": """", ""resourceXresourceId"": ""40758914-8fc7-40a1-8ebc-72facbf61359"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_OriginalBrocade,,,au::18139,,,,,,,,,,,,,,rub,255184a8-df8e-5816-9baa-a373b28a9f77,kw,,au::18139:1,au::18139g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1940873"",""au::18139"",""au::18139:1"",""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""David Teniers de Jonge""],""name"":""David Teniers de Jonge"",""ark"":""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""uri"":""/agents/people/1940873"",""id"":""au::18139:1"",""isCapacity"":false}",ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77,agent,,,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_032,repository numbers,,,,,,,,,,,,,,
+5e437406-216f-51e8-93d1-b62ec6df831b,tg:rubgr:318,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_032,titles proper,Dutch (language),,,,,,,,,,,

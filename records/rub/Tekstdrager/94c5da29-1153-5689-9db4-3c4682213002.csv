@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2916,https://data.rubenianum.be//ark:/86530/94c5da29-1153-5689-9db4-3c4682213002,Handschriften,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2915,Verwijzing naar Grossmann object,,7b106e81-b9fd-59a3-9aa6-af83b8851b26,"[{""resourceId"": ""7b106e81-b9fd-59a3-9aa6-af83b8851b26"", ""ontologyProperty"": """", ""resourceXresourceId"": ""01c3059c-4d8a-4477-9ecf-dd6f7f0641ef"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33332dcb-f472-46c1-aa90-8f959229f102"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f1f32d45-a8e0-43a0-88c7-015d706739b7"", ""inverseOntologyProperty"": """"}]"
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel's Journey: Van Mander: France, Italy: 1) Lyon [...] 14) [...] Clovio in Rom 1552 This as well as beginning of treat landscape series in 1555 and the curious route he took makes [...] absence likely. Oberes Tessintal= Leventinatal unterhalb St. Gotthard [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002916,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5158</priref>
+			<number>AFG_086_174</number>
+			<part_of_reference>AFG_086_173</part_of_reference>
+			<content>Bruegel's Journey: Van Mander: France, Italy: 1) Lyon [...] 14) [...] Clovio in Rom 1552 This as well as beginning of treat landscape series in 1555 and the curious route he took makes [...] absence likely. Oberes Tessintal= Leventinatal unterhalb St. Gotthard [scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[recto] Friedl&#228;nder, Bruegel, 1921, citaat p. 41 Berliner Zeichnung (T.A. 6) mit dem datum 1554: zeigt eine nordisch gotische Kirche und sicherlich diesseits der Alpen entstanden. Die Zeichnung lt. T (richtig) [onleesbaar]. Wir wissen nicht, wie lange er in Italien war. Eine Zeichnung 1552 datiert (T. 2) zeigt ital. Architektur die sp&#228;teren Birglandschaften datiert T. um 1554, scheint also diese Zeit noch Abwesenheit von Antw. anzunehmen. Der Stich von Georgs Tor Eislauf wae f&#252;r Friedl&#228;nder Anhaltspunkt f&#252;r Anwesenheit in Antw. 1553 aber Friedl&#228;nder selbst sagt, der Stich nicht  [onleesbaar] zuverl&#228;ssig sein mu&#223;; [verso] [...][scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-11</input.date>
+			<edit.date>2014-04-17</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:48:40</edit.time>
+			<edit.time>11:27:48</edit.time>
+			<input.time>11:24:01</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2916,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2916/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b74f7e90-2f51-5f9b-a605-79f1092d755c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b90eb390-a6a0-4e16-a53f-1d81d2138fe4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_174,repository numbers,,,,,,,,,,,,,,
+94c5da29-1153-5689-9db4-3c4682213002,tg:rubgr:2916,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_174,titles proper,Dutch (language),,,,,,,,,,,

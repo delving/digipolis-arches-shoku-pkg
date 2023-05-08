@@ -1,0 +1,71 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1903,https://data.rubenianum.be//ark:/86530/d17fc0e8-9166-5149-8997-f266a5711e95,Handschriften,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1900,Verwijzing naar Grossmann object,,0f7bfc59-1622-50e2-93f3-11a9c1355bf6,"[{""resourceId"": ""0f7bfc59-1622-50e2-93f3-11a9c1355bf6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b171226a-45f6-4f97-9121-fcaa4c8891c4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0f6f3aaf-1eb0-410b-ad53-52ecd2de4f39"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf9dc972-a2a5-40d4-bf15-26e80a82fd37"", ""inverseOntologyProperty"": """"}]"
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Jacob von] Falke, Katalog Fürstlich Liechtensteinischen Bildergalerie im Gartenpalais der Rossau zu Wien, Wien: Verlag von Miethke & Wawra, 1873, p. 128, N° 1110.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Falke, Jacob von",,,,,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fürstlich Liechtensteinsche Gemäldegalerie [Wien],,,,,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001903,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4142</priref>
+			<number>AFG_053_004</number>
+			<part_of_reference>AFG_053_001</part_of_reference>
+			<content>[Jacob von] Falke, Katalog F&#252;rstlich Liechtensteinischen Bildergalerie im Gartenpalais der Rossau zu Wien, Wien: Verlag von Miethke &amp; Wawra, 1873, p. 128, N&#176; 1110.</content>
+			<object.object_number>AFG_053</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Autumn Exhibition of Flemish, Dutch and Italian Old Masters: Catalogue 3/6, November 2nd to 30th 1959, London: Leonard Koetser, 1959; s.v. Pieter Brueghel the Elder, 17. Head of a Peasant;[afmetingen doorstreept en vervangen door]: 25 x 18 cm. [notitie bij 'Literature']: Brueghel dit le Paysan 282. Une belle t&#234;te de paysan. Peinte sur bois, hauteur 9 pouces, sur autant de largeur; [Jacob von Falke] Katalog der f&#252;rstlich Liechtensteinischen Bilder-Galerie im Gartenpalais der Rossau zu Wien, Wien 1873, p. 128, N&#176; 1110 [notitie] Peter Brueghel d.&#196;lt. Kopf eines b&#228;uerischen Mannes mit kurzem Bart und schmarzer Kappe, H. 0.25 -0.18.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Fotokopie</editorial_form>
+			<object.title>Heads, Liechtenstein</object.title>
+			<keyword>Falke, Jacob von</keyword>
+			<keyword>F&#252;rstlich Liechtensteinsche Gem&#228;ldegalerie [Wien]</keyword>
+			<object.creator/>
+			<input.date>2013-02-18</input.date>
+			<edit.date>2013-11-05</edit.date>
+			<edit.date>2013-10-31</edit.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>08:39:31</edit.time>
+			<edit.time>10:10:38</edit.time>
+			<edit.time>12:13:32</edit.time>
+			<edit.time>11:20:41</edit.time>
+			<edit.time>11:08:51</edit.time>
+			<edit.time>09:50:44</edit.time>
+			<edit.time>09:50:20</edit.time>
+			<edit.time>09:48:13</edit.time>
+			<edit.time>09:48:00</edit.time>
+			<input.time>09:44:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1903,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1903/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f91fc495-68cc-50af-a9ce-2828cf49eb63"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e42e96ee-ce0d-4540-81f9-4b4c04069404"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_053_004,repository numbers,,,,,,,,,,,,,,
+d17fc0e8-9166-5149-8997-f266a5711e95,tg:rubgr:1903,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_053_004,titles proper,Dutch (language),,,,,,,,,,,

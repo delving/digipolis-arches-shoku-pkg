@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3438,https://data.rubenianum.be//ark:/86530/2898159f-054a-5611-baa1-dad5a5cb6079,Brieven,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""59b51d38-92c9-4fd7-bb4c-84cc60df575b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9e9b3973-623c-417b-9815-a064fbd458b6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1d5619f3-da70-4ccf-b79c-683ccf7b02cd"", ""inverseOntologyProperty"": """"}]"
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_Correspondence,1,,,,,,,,,,,,,,,,"Bruyn, J.",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19691127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1969-11-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Toezegging om bij te dragen aan het Album Amicorum van Gelder. Wijst op jarenlange vriendschap.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruyn, J.",,,,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003438,referentienummer,False,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5691</priref>
+			<recipient>Bruyn, J.</recipient>
+			<number>AFG_094_002</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<date.precise>1969-11-27</date.precise>
+			<content>Korte inhoud: Toezegging om bij te dragen aan het Album Amicorum van Gelder. Wijst op jarenlange vriendschap.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Bruyn, J.</keyword>
+			<keyword>Gelder, Jan Gerrit van</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2014-06-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:58:28</edit.time>
+			<input.time>10:56:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3438,brocade id,False,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3438/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""47e2c2f7-53e0-55e9-9dbe-a512c2e32e0d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0d1975a3-8db1-47c1-8fe2-dcf10b6a169e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_OriginalBrocade,,,au::110014,,,,,,,,,,,,,,,,rub,,df8d0808-2f42-514f-ab20-996682149ef7,kw,au::110014:1,au::110014g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11771498"",""au::110014"",""au::110014:1"",""ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7"",""Jan Gerrit van Gelder""],""name"":""Jan Gerrit van Gelder"",""ark"":""ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7"",""uri"":""/agents/people/11771498"",""id"":""au::110014:1"",""isCapacity"":false}",ark:/83110/x0/df8d0808-2f42-514f-ab20-996682149ef7,agent,,,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_002,repository numbers,,,,,,,,,,,
+2898159f-054a-5611-baa1-dad5a5cb6079,tg:rubgr:3438,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_002,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3776,https://data.rubenianum.be//ark:/86530/675ad524-cfb6-5d06-9684-ac3f31dd37ec,Brieven,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3773,Verwijzing naar Grossmann object,,be415676-bbca-5af1-b0e7-badbf3214ca4,"[{""resourceId"": ""be415676-bbca-5af1-b0e7-badbf3214ca4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""890b82a5-517b-4cc1-849f-a04ce0dadb9b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0ad9fd89-9fbb-4c28-a7a0-6a8b8855b4f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5520ac44-5a09-4fdd-a442-794b3da88eb9"", ""inverseOntologyProperty"": """"}]"
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_Correspondence,1,,,,,,,,,,,,,,,,"Spicer, Joaneath A.",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19680604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1968-06-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Verwijst voor Flowercollectie door naar Colnaghi. Deelt mee wanneer hij kan bereikt worden.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003776,referentienummer,False,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6029</priref>
+			<recipient>Spicer, Joaneath A.</recipient>
+			<number>AFG_099_014</number>
+			<part_of_reference>AFG_099_011</part_of_reference>
+			<date.precise>1968-06-04</date.precise>
+			<content>Korte inhoud: Verwijst voor Flowercollectie door naar Colnaghi. Deelt mee wanneer hij kan bereikt worden.</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>F. Grossmann, Naer het Leven.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>13:58:15</edit.time>
+			<edit.time>13:49:26</edit.time>
+			<input.time>13:41:23</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3776,brocade id,False,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3776/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8d44aeb9-5092-52de-9397-7cb1d83ff1b6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""58faacb7-0f96-4447-9386-d5f0b6448d8a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_014,repository numbers,,,,,,,,,,,
+675ad524-cfb6-5d06-9684-ac3f31dd37ec,tg:rubgr:3776,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_014,titles proper,Dutch (language),,,,,,,,

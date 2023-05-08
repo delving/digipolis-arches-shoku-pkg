@@ -1,0 +1,71 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1974,https://data.rubenianum.be//ark:/86530/7629c025-8b1c-57bf-a37c-0ef12bd06807,Handschriften,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1970,Verwijzing naar Grossmann object,,4df5c77e-ff3e-5376-9dbf-9e62791f746b,"[{""resourceId"": ""4df5c77e-ff3e-5376-9dbf-9e62791f746b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5d224a34-070a-4381-aee1-f664cab427bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4c2fd5c5-0b1b-4978-992c-a5df169d1c70"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36ed686f-8074-4d21-94ed-dd49f9b511a4"", ""inverseOntologyProperty"": """"}]"
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 47. Witt Library. P.B.I. Extraction of proof of Madness 'Operating for the Stone': 1) [onleesbaar] Coll. Budapest, signed and dated 1556. Panel 74 x 103 cm. Sale G. von Gerhardt -Budapest, part II, Lepke Berlin 10.XI. 1911, N° 93 as P.B.I; 2) Photogr. St. Omer nothing written on the document as well; [toegevoegde vermelding]: 'F.G. Isn't P.Huys the inventor?'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Huys, Pieter",,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gerhardt, Gustav von",,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Berlijn, Rudolph Lepke",,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001974,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4210</priref>
+			<number>AFG_055_005</number>
+			<part_of_reference>AFG_055_001</part_of_reference>
+			<content>Ad [Addendum] 47. Witt Library. P.B.I. Extraction of proof of Madness 'Operating for the Stone': 1) [onleesbaar] Coll. Budapest, signed and dated 1556. Panel 74 x 103 cm. Sale G. von Gerhardt -Budapest, part II, Lepke Berlin 10.XI. 1911, N&#176; 93 as P.B.I; 2) Photogr. St. Omer nothing written on the document as well; [toegevoegde vermelding]: 'F.G. Isn't P.Huys the inventor?'</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Doorstreept]: 48: Steinoperation. [Doorstreept]: Neu 54. My 47.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Huys, Pieter</keyword>
+			<keyword>Gerhardt, Gustav von</keyword>
+			<keyword>Berlijn, Rudolph Lepke</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator/>
+			<input.date>2013-03-04</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2013-11-07</edit.date>
+			<edit.date>2013-11-07</edit.date>
+			<edit.date>2013-03-04</edit.date>
+			<edit.date>2013-03-04</edit.date>
+			<edit.date>2013-03-04</edit.date>
+			<edit.date>2013-03-04</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:43:29</edit.time>
+			<edit.time>13:57:07</edit.time>
+			<edit.time>10:13:38</edit.time>
+			<edit.time>10:06:34</edit.time>
+			<edit.time>12:26:48</edit.time>
+			<edit.time>12:24:42</edit.time>
+			<edit.time>12:19:45</edit.time>
+			<edit.time>12:17:54</edit.time>
+			<input.time>12:11:41</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1974,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1974/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ac95d59e-7429-59af-8e9c-f6e7c1fd6f04"", ""ontologyProperty"": """", ""resourceXresourceId"": ""32152ae7-d10c-47f5-a126-14718acc841e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_005,repository numbers,,,,,,,,,,,,,,
+7629c025-8b1c-57bf-a37c-0ef12bd06807,tg:rubgr:1974,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_005,titles proper,Dutch (language),,,,,,,,,,,

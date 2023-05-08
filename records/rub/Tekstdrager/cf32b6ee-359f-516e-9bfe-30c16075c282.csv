@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2825,https://data.rubenianum.be//ark:/86530/cf32b6ee-359f-516e-9bfe-30c16075c282,Handschriften,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2811,Verwijzing naar Grossmann object,,d182e3a1-22e0-539b-8569-56addb7651c5,"[{""resourceId"": ""d182e3a1-22e0-539b-8569-56addb7651c5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""79da5c8c-da7c-4985-8dea-e5c05ee6a0c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""93438d5a-20d1-4159-8927-af2dc44e2df3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""51d935fb-92f9-417a-b382-f2b3aa95e5e7"", ""inverseOntologyProperty"": """"}]"
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1, recto-verso] V&A [plaatskenmerk] [Joachim von] Sandrart, Teutsche Academie der Bild-Bau-und Mahlerey-Künste, Nürnberg, II. Teil 1675, II. Teil, 3. Band, IX Capitel, p. 259 Portrait plate HH (oval based on Spranger-Sadeler), Teutsche Academie der Bau- Bildhauer- und Maler-Kunst ...zusammengetragen mit vielen Kupfer gezieret durch Joachim von Sandrart auf Stockau. Nunmehr aber bey dieser neuen Ausgabe verändert, in eine bessere Ordnung gebracht und durchgehends verbessert von Johann Jacob Volkmann Dr., VII Bänden, Nürnburg, 1774, citaat p. 248 [scan]; [blad 2, recto] Ed. Michel, Bruegel et la critique moderne, Gaz.B.-A. 6e per. XIX, Janvier 1938, citaat p. 29.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13269746,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sadeler, Aegidius",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Spranger, Bartholomeus",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sandrart, Joachim I von",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Volkmann, Johann Jacob",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Victoria and Albert National Art Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002825,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5067</priref>
+			<number>AFG_086_083</number>
+			<part_of_reference>AFG_086_069</part_of_reference>
+			<content>[2 bladen] [blad 1, recto-verso] V&amp;A [plaatskenmerk] [Joachim von] Sandrart, Teutsche Academie der Bild-Bau-und Mahlerey-K&#252;nste, N&#252;rnberg, II. Teil 1675, II. Teil, 3. Band, IX Capitel, p. 259 Portrait plate HH (oval based on Spranger-Sadeler), Teutsche Academie der Bau- Bildhauer- und Maler-Kunst ...zusammengetragen mit vielen Kupfer gezieret durch Joachim von Sandrart auf Stockau. Nunmehr aber bey dieser neuen Ausgabe ver&#228;ndert, in eine bessere Ordnung gebracht und durchgehends verbessert von Johann Jacob Volkmann Dr., VII B&#228;nden, N&#252;rnburg, 1774, citaat p. 248 [scan]; [blad 2, recto] Ed. Michel, Bruegel et la critique moderne, Gaz.B.-A. 6e per. XIX, Janvier 1938, citaat p. 29.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Fame from contemporaries to XX C. Also early sources, see also [Hans-Wolfgang von] L&#246;hneysen [Die &#228;ltere niederl&#228;ndische Malerei: Kunst und Kritiker, Eisenach: R&#246;th, 1956
+</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Sadeler, Aegidius</keyword>
+			<keyword>Spranger, Bartholomeus</keyword>
+			<keyword>Michel, Edouard</keyword>
+			<keyword>Sandrart, Joachim I von</keyword>
+			<keyword>Volkmann, Johann Jacob</keyword>
+			<keyword>Londen, Victoria and Albert National Art Library</keyword>
+			<object.creator/>
+			<documentation.author>Sandrart, Joachim von</documentation.author>
+			<input.date>2014-03-27</input.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<edit.date>2014-03-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Teutsche Academie der Bau-, Bild- und Mahlerey-K&#252;nste</documentation.title>
+			<edit.time>14:30:47</edit.time>
+			<edit.time>14:29:05</edit.time>
+			<edit.time>14:28:44</edit.time>
+			<edit.time>14:28:23</edit.time>
+			<edit.time>14:27:37</edit.time>
+			<edit.time>14:15:50</edit.time>
+			<edit.time>14:12:48</edit.time>
+			<edit.time>14:12:21</edit.time>
+			<input.time>14:04:40</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2825,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2825/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eab4e105-755a-5968-bf0c-e00c565c4809"", ""ontologyProperty"": """", ""resourceXresourceId"": ""987e894f-0e4d-4b34-8063-287f84fdef37"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_OriginalBrocade,,,au::12812,,,,,,,,,,,,,,rub,a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4,kw,,au::12812:1,au::12812g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1370884"",""au::12812"",""au::12812:1"",""ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4"",""Edouard Michel""],""name"":""Edouard Michel"",""ark"":""ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4"",""uri"":""/agents/people/1370884"",""id"":""au::12812:1"",""isCapacity"":false}",ark:/83110/x0/a4c82dfd-0f0e-5a3b-9afe-9dc9ba124da4,agent,,,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_083,repository numbers,,,,,,,,,,,,,,
+cf32b6ee-359f-516e-9bfe-30c16075c282,tg:rubgr:2825,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_083,titles proper,Dutch (language),,,,,,,,,,,

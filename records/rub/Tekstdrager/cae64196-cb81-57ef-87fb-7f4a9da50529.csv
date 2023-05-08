@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3488,https://data.rubenianum.be//ark:/86530/cae64196-cb81-57ef-87fb-7f4a9da50529,Handschriften,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_AssociatedArchives,2,,,,,,AFG_038,isad:rub:2968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6f1fe309-a558-4201-97c0-0a1ebdaad732"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b8999fc8-cd7a-45c5-9790-4e689ceadb53"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2e6c702c-6801-49f0-876f-7b8219d4ce80"", ""inverseOntologyProperty"": """"}]"
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lucas van Leyden & Bruegel: 1) Roundel with Christ Carrying the Cross [...]; 2) Conversion of St. Paul [...];3) Crucifixion [...]; 4) Peasant Motifs [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54753,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003488,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5741</priref>
+			<number>AFG_094_052</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<content>Lucas van Leyden &amp; Bruegel: 1) Roundel with Christ Carrying the Cross [...]; 2) Conversion of St. Paul [...];3) Crucifixion [...]; 4) Peasant Motifs [...]</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<keyword>Leyden, Lucas van</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2014-08-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:56:01</edit.time>
+			<input.time>15:54:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3488,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3488/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7b1e8bff-1dad-5b43-9f91-f04b60f9aaf9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6a809aab-67bf-47c7-8151-566c7263a154"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_OriginalBrocade,,,au::58101,,,,,,,,,,,,,,rub,328930e6-66ef-5795-9622-f5b6ddb518f3,kw,,au::58101:1,au::58101g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/6216807"",""au::58101"",""au::58101:1"",""ark:/83110/x0/328930e6-66ef-5795-9622-f5b6ddb518f3"",""Lucas van Leyden""],""name"":""Lucas van Leyden"",""ark"":""ark:/83110/x0/328930e6-66ef-5795-9622-f5b6ddb518f3"",""uri"":""/agents/people/6216807"",""id"":""au::58101:1"",""isCapacity"":false}",ark:/83110/x0/328930e6-66ef-5795-9622-f5b6ddb518f3,agent,,,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_052,repository numbers,,,,,,,,,,,,,,
+cae64196-cb81-57ef-87fb-7f4a9da50529,tg:rubgr:3488,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_052,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:278,https://data.rubenianum.be//ark:/86530/e418f07a-897a-5340-a9f5-d92f221f4e8c,Handschriften,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_AssociatedArchives,2,,,,,,AFG_022,isad:rub:2952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_AssociatedArchives,3,,,,,,AFG_041,isad:rub:2971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""38fb4177-58d9-448e-8775-f4bead437ecc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f3a6d196-5184-4d61-b556-3c7d6bb627b5"", ""inverseOntologyProperty"": """"}]"
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Carnival & Lent. Der Kirche (spirituell) rechts ist links das Gasthuis-Materialistischen Fleischeslust gegenübergestellt; hohe Horizont benutzt, um möglich viel geben zu können; Komposition mit Figuren aber nicht in den Figuren wie Paulussturz oder Bauerhochzeit wo die Figuren; [verso] selbst [onleesbaar] oder auch sonst im Monatsbilder [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_ExternalRelationsExtras,a::rub.41,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221181,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000278,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2526</priref>
+			<number>AFG_005_042</number>
+			<content>Carnival &amp; Lent. Der Kirche (spirituell) rechts ist links das Gasthuis-Materialistischen Fleischeslust gegen&#252;bergestellt; hohe Horizont benutzt, um m&#246;glich viel geben zu k&#246;nnen; Komposition mit Figuren aber nicht in den Figuren wie Paulussturz oder Bauerhochzeit wo die Figuren; [verso] selbst [onleesbaar] oder auch sonst im Monatsbilder [...]</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_number>AFG_041</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<object.title>The Conversion of St. Paul</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:21:44</edit.time>
+			<edit.time>12:20:48</edit.time>
+			<edit.time>11:13:26</edit.time>
+			<edit.time>15:08:06</edit.time>
+			<edit.time>14:53:23</edit.time>
+			<edit.time>09:35:03</edit.time>
+			<edit.time>16:35:43</edit.time>
+			<input.time>16:34:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:278,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:278/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bfa38c67-cf08-5c1d-b4b8-049597fcacdc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76e2301f-f1bd-4240-bc3e-894c40d308a9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_042,repository numbers,,,,,,,,,,,,,,
+e418f07a-897a-5340-a9f5-d92f221f4e8c,tg:rubgr:278,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_042,titles proper,Dutch (language),,,,,,,,,,,

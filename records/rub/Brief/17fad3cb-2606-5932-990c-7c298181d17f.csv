@@ -1,0 +1,134 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2561,https://data.rubenianum.be//ark:/86530/17fad3cb-2606-5932-990c-7c298181d17f,Brieven,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:2562,Verwijzing naar Grossmann object,,dff802bf-c6c4-5a5f-b0df-d2ac7519bb50,"[{""resourceId"": ""dff802bf-c6c4-5a5f-b0df-d2ac7519bb50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bcc1df3c-1972-49b5-8445-2e067dd05587"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_AssociatedRecords,2,,,,,,,,,rubgr_brief,gerelateerd onderdeel,tg:rubgr:2563,Verwijzing naar Grossmann object,,b3747eca-26de-55f1-9df9-860e90cfb19a,"[{""resourceId"": ""b3747eca-26de-55f1-9df9-860e90cfb19a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69a48657-d430-407d-8836-d2a9f4da0a83"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6336ed3-6760-4b20-ac4e-65ac4bd20f87"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1f560fe6-c5d1-494d-b82e-50914d4cb0a2"", ""inverseOntologyProperty"": """"}]"
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Correspondence,1,,,,,,,,,,,,,,,,"Heim-Gairac, G.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19690519,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1969-05-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Handtekening G. Heim] Korte inhoud: [Taal, Frans] Vraagt advies over een schilderij dat hij situeert in de omgeving van Pieter Bruegel I of Pieter Brueghel II. Geeft en beschrijving van de precieze techniek. Wijst erop dat de figuren minder realistisch zijn. Het paneel verkeert in goede staat en is enkele malen gerestaureerd. Afmetingen:  H. 0, 51 x B 0,678. Stuurt in bijlage een foto [niet bewaard] en dia. In bijlage ektachrome.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heim-Gairac, G.",,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adviezen,,,,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002561,referentienummer,False,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>4803</priref>
+<recipient>Grossmann, F.</recipient>
+<number>AFG_083_111</number>
+<date.precise>1969-05-19</date.precise>
+<content>[Handtekening G. Heim] Korte inhoud: [Taal, Frans] Vraagt advies over een schilderij dat hij situeert in de omgeving van Pieter Bruegel I of Pieter Brueghel II. Geeft en beschrijving van de precieze techniek. Wijst erop dat de figuren minder realistisch zijn. Het paneel verkeert in goede staat en is enkele malen gerestaureerd. Afmetingen:  H. 0, 51 x B 0,678. Stuurt in bijlage een foto [niet bewaard] en dia. In bijlage ektachrome.</content>
+<object.object_number>AFG_083</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<parts.title>Korte inhoud: De compositie schrijft hij toe aan Martin van Cleve maar kan op basis van de foto geen uitspraak doen over de uitvoering. Het schilderij kan hetzij door de schilder zelf of door zijn atelier zijn uitgevoerd. Zegt geen certificaten te schrijven en wil niet betaald worden voor zijn werk. Wil de foto [niet bewaard] en het ektachrome bewaren voor zijn documentatie.[scan]</parts.title>
+<parts.title>Korte inhoud: Legde het werk intussen voor aan dhr. Genaille, vriend van Georges Marlier. Deze schrijft de compositie eveneens toe aan Martin van Cleve. Genaille vond de uitvoering beter dan ander gekende werken van deze kunstenaar.</parts.title>
+<class>AFG</class>
+<editorial_form>brief</editorial_form>
+<editorial_form>transparant</editorial_form>
+<object.title>Cleve, Marten van</object.title>
+<keyword>Heim-Gairac, G.</keyword>
+<keyword>Adviezen</keyword>
+<sender>Heim-Gairac, G.</sender>
+<object.creator/>
+<input.date>2014-01-23</input.date>
+<edit.date>2015-02-26</edit.date>
+<edit.date>2014-02-06</edit.date>
+<edit.date>2014-01-30</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<edit.date>2014-01-23</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<parts_reference>AFG_083_112</parts_reference>
+<parts_reference>AFG_083_113</parts_reference>
+<edit.time>14:27:03</edit.time>
+<edit.time>15:43:40</edit.time>
+<edit.time>16:36:58</edit.time>
+<edit.time>09:51:35</edit.time>
+<edit.time>09:49:04</edit.time>
+<edit.time>09:48:50</edit.time>
+<edit.time>09:47:44</edit.time>
+<edit.time>09:19:28</edit.time>
+<edit.time>09:19:16</edit.time>
+<edit.time>09:19:04</edit.time>
+<edit.time>09:18:07</edit.time>
+<edit.time>09:16:40</edit.time>
+<edit.time>09:15:43</edit.time>
+<edit.time>09:00:10</edit.time>
+<edit.time>08:59:57</edit.time>
+<edit.time>08:58:54</edit.time>
+<edit.time>08:58:15</edit.time>
+<edit.time>08:57:10</edit.time>
+<edit.time>08:54:39</edit.time>
+<edit.time>08:53:26</edit.time>
+<edit.time>08:51:49</edit.time>
+<edit.time>08:50:00</edit.time>
+<input.time>08:48:03</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2561,brocade id,False,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2561/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""83adc507-3973-592a-a7d3-a410be5aa152"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9f96e4c3-b37f-4eff-b668-5bd7da626a85"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_111,repository numbers,,,,,,,,,,,
+17fad3cb-2606-5932-990c-7c298181d17f,tg:rubgr:2561,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_111,titles proper,Dutch (language),,,,,,,,

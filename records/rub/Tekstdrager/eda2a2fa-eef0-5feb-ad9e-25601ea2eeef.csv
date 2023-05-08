@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3610,https://data.rubenianum.be//ark:/86530/eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,Handschriften,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4df64067-f030-4653-a8ee-4dd5b9d6bee7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4300f7a2-3f2b-42e2-afb3-256fe13e1b4c"", ""inverseOntologyProperty"": """"}]"
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jan Bialostocki, 'Les bêtes et les humains de Roelant Savery', Musées des B.A. Bulletin, vol. 7, 1958, pp. 69-92, citaten [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bialostocki, Jan",,,,,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003610,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5863</priref>
+			<number>AFG_097_056</number>
+			<content>Jan Bialostocki, 'Les b&#234;tes et les humains de Roelant Savery', Mus&#233;es des B.A. Bulletin, vol. 7, 1958, pp. 69-92, citaten [...]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>Bialostocki, Jan</keyword>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:09:38</edit.time>
+			<edit.time>11:04:59</edit.time>
+			<input.time>16:17:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3610,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3610/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7b841c38-5aec-53c4-874f-79c8698ac844"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4bcaae7e-d70c-4a8e-834d-a08c129df3d6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_056,repository numbers,,,,,,,,,,,,,,
+eda2a2fa-eef0-5feb-ad9e-25601ea2eeef,tg:rubgr:3610,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_056,titles proper,Dutch (language),,,,,,,,,,,

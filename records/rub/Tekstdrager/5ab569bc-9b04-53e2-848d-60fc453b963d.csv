@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4282,https://data.rubenianum.be//ark:/86530/5ab569bc-9b04-53e2-848d-60fc453b963d,Handschriften,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""42f17d03-62a4-496d-bed0-72b4819905d7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""56f6abee-3d90-45f0-9b18-635ba5051897"", ""inverseOntologyProperty"": """"}]"
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"F. Smekens, 'Het schip bij Pieter Bruegel de Oude: een authenticiteitscriterium?, Jaarboek Koninklijk Museum van Antwerpen 1961, pp. 5-53.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Smekens, Frans",,,,,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004282,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6535</priref>
+			<number>AFG_111_077</number>
+			<content>F. Smekens, 'Het schip bij Pieter Bruegel de Oude: een authenticiteitscriterium?, Jaarboek Koninklijk Museum van Antwerpen 1961, pp. 5-53.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Smekens, Frans</keyword>
+			<object.creator/>
+			<input.date>2014-07-08</input.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-07-08</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:39:32</edit.time>
+			<edit.time>11:38:09</edit.time>
+			<input.time>11:36:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4282,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4282/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d36d972a-782f-559f-b56a-e0c7132e3b96"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c8bdf63-2e68-4106-a1d6-4a859abf0b9b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_077,repository numbers,,,,,,,,,,,,,,
+5ab569bc-9b04-53e2-848d-60fc453b963d,tg:rubgr:4282,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_077,titles proper,Dutch (language),,,,,,,,,,,

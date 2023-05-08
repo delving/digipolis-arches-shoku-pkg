@@ -1,0 +1,59 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:739,https://data.rubenianum.be//ark:/86530/d4365486-32b9-5d0f-bec3-394d19762fbe,Handschriften,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:738,Verwijzing naar Grossmann object,,91498f9d-67a4-5ca3-be5d-205abc32ae50,"[{""resourceId"": ""91498f9d-67a4-5ca3-be5d-205abc32ae50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8edc08ae-1f4b-438c-92c5-ea6585dda39a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3de06480-fd41-4448-ae47-b06941cda795"", ""ontologyProperty"": """", ""resourceXresourceId"": ""721f3bd0-25d9-4107-88d9-15934930bb44"", ""inverseOntologyProperty"": """"}]"
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 13 [doorstreept: Neu 20] 15. Turmbau zu Babel. Denucé, II, p. 5.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000739,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2990</priref>
+			<number>AFG_017_032</number>
+			<part_of_reference>AFG_017_031</part_of_reference>
+			<content>Ad [Addendum] 13 [doorstreept: Neu 20] 15. Turmbau zu Babel. Denuc&#233;, II, p. 5.</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>References to Tower of Babel Sales etc.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-27</input.date>
+			<edit.date>2015-02-27</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-01-27</edit.date>
+			<edit.date>2012-01-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:23:05</edit.time>
+			<edit.time>13:18:09</edit.time>
+			<edit.time>13:14:13</edit.time>
+			<edit.time>13:12:09</edit.time>
+			<edit.time>12:06:02</edit.time>
+			<edit.time>12:04:27</edit.time>
+			<input.time>12:04:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:739,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:739/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c4c83f00-8423-551b-a8e6-4f479825ee0d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""db5d46ed-1a39-48a9-8f66-56592d45e00e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_032,repository numbers,,,,,,,,,,,,,,
+d4365486-32b9-5d0f-bec3-394d19762fbe,tg:rubgr:739,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_032,titles proper,Dutch (language),,,,,,,,,,,

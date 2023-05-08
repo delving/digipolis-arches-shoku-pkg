@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4009,https://data.rubenianum.be//ark:/86530/eb7428cb-f6bf-5568-bc8a-192a079ad665,Handschriften,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7d95394-1d0f-405f-ac46-5108374930bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5230969b-e6a4-41a8-b1ac-0e51753fe413"", ""inverseOntologyProperty"": """"}]"
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Under Bruegel. Doubtful. Cf. Seilern, Hermit Saint; Not Bles. Not Bruegel, C. Massys ? [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004009,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6262</priref>
+			<number>AFG_104_012</number>
+			<content>Under Bruegel. Doubtful. Cf. Seilern, Hermit Saint; Not Bles. Not Bruegel, C. Massys ? [...]</content>
+			<object.object_number>AFG_104</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel &amp; 16th Flemish Painting</object.title>
+			<keyword>Seilern, Antoine</keyword>
+			<object.creator/>
+			<input.date>2014-06-30</input.date>
+			<edit.date>2014-06-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:32:18</edit.time>
+			<input.time>10:27:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4009,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4009/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""305290cb-2f01-5bee-b34f-7db1ce25d663"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36be8395-19f9-4212-915d-c19f03236b9b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_012,repository numbers,,,,,,,,,,,,,,
+eb7428cb-f6bf-5568-bc8a-192a079ad665,tg:rubgr:4009,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_012,titles proper,Dutch (language),,,,,,,,,,,

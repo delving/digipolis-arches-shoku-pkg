@@ -1,0 +1,89 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:993,https://data.rubenianum.be//ark:/86530/106dc12b-b9fa-5b24-aea4-9f032e3539d8,Handschriften,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""51f056c3-3fd7-43eb-b842-135715308c02"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76362477-3882-4328-9d6c-a105d30eb8b3"", ""inverseOntologyProperty"": """"}]"
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] Jonghelinck Haus: A.J.J. Delen, Iconographie van Antwerpen, Brussel 1930; A. [Albert] Van Laer, Bibliographie van de geschiedenis van de stad Antwerpen, ['s-Gravenhage: Nijhoff], 1927; [verso] [Otto] Benesch, Altdorfer [= Der Maler Albrecht Altdorfer, Wien: Schroll, 1939]; Denucé; Thieme-Becker: Jonghelinck; Jaarboek Genootschap voor Munt-en Penningkunde V (1918), 19 ff.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:207710,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Altdorfer, Albrecht",,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jongelinck, Niclaes",,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Benesch, Otto",,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Laar, Albert Van",,,,,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000993,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3246</priref>
+			<number>AFG_022_026</number>
+			<content>[recto] Ad [Addendum] Jonghelinck Haus: A.J.J. Delen, Iconographie van Antwerpen, Brussel 1930; A. [Albert] Van Laer, Bibliographie van de geschiedenis van de stad Antwerpen, ['s-Gravenhage: Nijhoff], 1927; [verso] [Otto] Benesch, Altdorfer [= Der Maler Albrecht Altdorfer, Wien: Schroll, 1939]; Denuc&#233;; Thieme-Becker: Jonghelinck; Jaarboek Genootschap voor Munt-en Penningkunde V (1918), 19 ff.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Altdorfer, Albrecht</keyword>
+			<keyword>Jongelinck, Niclaes</keyword>
+			<keyword>Benesch, Otto</keyword>
+			<keyword>Delen, A.J.J.</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>Laar, Albert Van</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Laar, Albert Van</documentation.author>
+			<input.date>2012-03-21</input.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-01-30</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Bibliographie van de geschiedenis van de stad Antwerpen</documentation.title>
+			<edit.time>14:51:26</edit.time>
+			<edit.time>14:51:11</edit.time>
+			<edit.time>11:15:29</edit.time>
+			<edit.time>11:03:11</edit.time>
+			<edit.time>11:02:32</edit.time>
+			<edit.time>11:01:12</edit.time>
+			<edit.time>09:58:55</edit.time>
+			<edit.time>09:54:49</edit.time>
+			<edit.time>15:57:49</edit.time>
+			<edit.time>15:06:22</edit.time>
+			<edit.time>15:19:13</edit.time>
+			<input.time>15:12:47</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:993,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:993/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1371094a-ed4d-5619-94e6-f4206b596a51"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b5fbaaa0-31f0-4dc0-b653-0d5bf3d5f2ec"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_OriginalBrocade,,,au::5193,,,,,,,,,,,,,,rub,44ccc7c3-1ff2-51fc-b9eb-eff787b82f68,kw,,au::5193:1,au::5193g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/555651"",""au::5193"",""au::5193:1"",""ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68"",""Ary J.J. Delen""],""name"":""Ary J.J. Delen"",""ark"":""ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68"",""uri"":""/agents/people/555651"",""id"":""au::5193:1"",""isCapacity"":false}",ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68,agent,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_026,repository numbers,,,,,,,,,,,,,,
+106dc12b-b9fa-5b24-aea4-9f032e3539d8,tg:rubgr:993,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_026,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4057,https://data.rubenianum.be//ark:/86530/2486e2a8-7235-5ab4-8744-07b9b26f9f18,Handschriften,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""38aa47fd-7e0e-4c38-9203-6af16826cea0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""80bb2c4c-93f8-41a0-bbfb-75949f2b803a"", ""inverseOntologyProperty"": """"}]"
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Emmanuel Neeffs, Histoire de la peinture et de la sculpture à Malines, Gand, 1876; Engravings, A.J.J. Delen, Histoire de la gravure dans les anciens Pays-Bas, II, 1935.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:912079,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13260703,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Neeffs, Emmanuel",,,,,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004057,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6310</priref>
+			<number>AFG_106_042</number>
+			<content>Emmanuel Neeffs, Histoire de la peinture et de la sculpture &#224; Malines, Gand, 1876; Engravings, A.J.J. Delen, Histoire de la gravure dans les anciens Pays-Bas, II, 1935.</content>
+			<object.object_number>AFG_106</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Inventories &amp; my contributions to Gl&#252;ck; Genealogy</object.title>
+			<keyword>Delen, A.J.J.</keyword>
+			<keyword>Neeffs, Emmanuel</keyword>
+			<object.creator/>
+			<documentation.author>Neeffs, Emmanuel</documentation.author>
+			<documentation.author>Delen, A.J.J.</documentation.author>
+			<input.date>2014-07-01</input.date>
+			<input.name>Centrum</input.name>
+			<documentation.shelfmark/>
+			<documentation.shelfmark/>
+			<documentation.title>Histoire de la peinture et de la sculpture &#224; Malines : I : La gilde de St. Luc : l'Acad&#233;mie des Beaux-Arts : les peintres malinois : II : Les sculpteurs malinois</documentation.title>
+			<documentation.title>Histoire de la gravure dans les anciens Pays-Bas &amp; dans les provinces belges : des origines jusqu'&#224; la fin du XVIIIe si&#232;cle : II, 1 : le XVIe si&#232;cle : les graveurs-illustrateurs : II, 2 : le XVIe si&#232;cle : les graveurs d'estampes</documentation.title>
+			<input.time>10:45:14</input.time>
+			<input.source>archive</input.source>
+			<documentation.title.article/>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4057,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4057/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""72777020-fe7d-5636-9808-1a4bc35ce322"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b1a65b4e-a6ac-45dc-8902-1cdc338e4eba"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_OriginalBrocade,,,au::5193,,,,,,,,,,,,,,rub,44ccc7c3-1ff2-51fc-b9eb-eff787b82f68,kw,,au::5193:1,au::5193g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/555651"",""au::5193"",""au::5193:1"",""ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68"",""Ary J.J. Delen""],""name"":""Ary J.J. Delen"",""ark"":""ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68"",""uri"":""/agents/people/555651"",""id"":""au::5193:1"",""isCapacity"":false}",ark:/83110/x0/44ccc7c3-1ff2-51fc-b9eb-eff787b82f68,agent,,,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_042,repository numbers,,,,,,,,,,,,,,
+2486e2a8-7235-5ab4-8744-07b9b26f9f18,tg:rubgr:4057,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_106_042,titles proper,Dutch (language),,,,,,,,,,,

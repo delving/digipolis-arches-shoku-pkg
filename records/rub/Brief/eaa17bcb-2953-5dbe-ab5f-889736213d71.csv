@@ -1,0 +1,65 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3843,https://data.rubenianum.be//ark:/86530/eaa17bcb-2953-5dbe-ab5f-889736213d71,Brieven,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3842,Verwijzing naar Grossmann object,,a5283ced-6276-51db-b98c-c001a0181729,"[{""resourceId"": ""a5283ced-6276-51db-b98c-c001a0181729"", ""ontologyProperty"": """", ""resourceXresourceId"": ""309f98bf-8658-4106-a901-62476d0a4070"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""62b4e3a3-f819-4bf0-839f-6a461a3bb01c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4efce076-cc2d-4bbe-a897-7d4a91eac604"", ""inverseOntologyProperty"": """"}]"
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_Correspondence,1,,,,,,,,,,,,,,,,"Cormack, Malcolm",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19650405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1965-04-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd: Fitzwilliam Museum, Cambridge] Korte inhoud: Stuurt foto van de gevraagde tekening. Vraagt een foto van een miniatuur van Isaac Oliver [bijlage: 1 zw/w foto, Bastelaer, 20][bijlage: regelment foto's Fitzwilliam]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003843,referentienummer,False,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6096</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_100_019</number>
+			<part_of_reference>AFG_100_018</part_of_reference>
+			<date.precise>1965-04-05</date.precise>
+			<content>[Briefhoofd: Fitzwilliam Museum, Cambridge] Korte inhoud: Stuurt foto van de gevraagde tekening. Vraagt een foto van een miniatuur van Isaac Oliver [bijlage: 1 zw/w foto, Bastelaer, 20][bijlage: regelment foto's Fitzwilliam]</content>
+			<object.object_number>AFG_100</object.object_number>
+			<object.object_name/>
+			<part_of.title>Fitzwilliam Museum, Cambridge. Master of the Small Landscpaes.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>Small Landscapes Series</object.title>
+			<keyword>Bastelaer, Ren&#233; van</keyword>
+			<sender>Cormack, Malcolm</sender>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:05:19</edit.time>
+			<edit.time>13:55:52</edit.time>
+			<edit.time>13:51:08</edit.time>
+			<edit.time>13:51:00</edit.time>
+			<edit.time>13:49:32</edit.time>
+			<edit.time>13:49:06</edit.time>
+			<input.time>13:48:49</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3843,brocade id,False,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3843/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""88ddee6c-2da9-5f44-815c-c6507661702b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3b766a46-8b29-43b3-b783-326be92c0c07"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_OriginalBrocade,,,au::1127,,,,,,,,,,,,,,,,rub,,d4f69e55-99df-5c54-b739-472d12fa4387,kw,au::1127:1,au::1127g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/120589"",""au::1127"",""au::1127:1"",""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""René van Bastelaer""],""name"":""René van Bastelaer"",""ark"":""ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387"",""uri"":""/agents/people/120589"",""id"":""au::1127:1"",""isCapacity"":false}",ark:/83110/x0/d4f69e55-99df-5c54-b739-472d12fa4387,agent,,,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_019,repository numbers,,,,,,,,,,,
+eaa17bcb-2953-5dbe-ab5f-889736213d71,tg:rubgr:3843,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_019,titles proper,Dutch (language),,,,,,,,

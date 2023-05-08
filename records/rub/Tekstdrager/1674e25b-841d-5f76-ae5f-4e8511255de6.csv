@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2997,https://data.rubenianum.be//ark:/86530/1674e25b-841d-5f76-ae5f-4e8511255de6,Handschriften,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""22a7fe32-a54c-4b5c-bcfd-3acd5bc72cc8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6250c800-d553-41cf-9a55-53893bac40b4"", ""inverseOntologyProperty"": """"}]"
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[doorstreept]: '2; 45'; Christophorus. My N° 44.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002997,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5402</priref>
+			<number>AFG_088_018</number>
+			<content>[doorstreept]: '2; 45'; Christophorus. My N&#176; 44.</content>
+			<object.object_number>AFG_088</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Doubtful &amp; Wrong Attributions, Copies, Lost Pictures, nos. 43-46</object.title>
+			<physical_form>beschadigd</physical_form>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2014-06-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:06:58</edit.time>
+			<input.time>12:04:43</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2997,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2997/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a92035a7-f32c-52fd-aafe-bd2eb99aa9cd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bb080bbe-54df-4588-a469-079fcce92702"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_018,repository numbers,,,,,,,,,,,,,,
+1674e25b-841d-5f76-ae5f-4e8511255de6,tg:rubgr:2997,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_018,titles proper,Dutch (language),,,,,,,,,,,

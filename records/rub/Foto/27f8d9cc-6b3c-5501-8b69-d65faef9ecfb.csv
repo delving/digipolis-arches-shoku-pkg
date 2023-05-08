@@ -1,0 +1,56 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1314,https://data.rubenianum.be//ark:/86530/27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,Foto's,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d97ca8e0-09ee-4bcc-aeba-5236f7e443a6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bdbddb0f-80db-4ba2-9046-fa20aac79864"", ""inverseOntologyProperty"": """"}]"
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"J. de Bisschop: tree on left added to Detroit - or rather this part cut off in Detroit where the man instead of leaning against the tree is leaning against nothing! -, cloth behind bride's table different, sky added. Type III.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,219317,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bisschop, Jan de",,,,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001314,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3563</priref>
+			<number>AFG_034_029</number>
+			<content>J. de Bisschop: tree on left added to Detroit - or rather this part cut off in Detroit where the man instead of leaning against the tree is leaning against nothing! -, cloth behind bride's table different, sky added. Type III.</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<keyword>Bisschop, Jan de</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-07</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-10-01</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-08-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:19:50</edit.time>
+			<edit.time>13:56:13</edit.time>
+			<edit.time>10:05:24</edit.time>
+			<edit.time>10:02:22</edit.time>
+			<edit.time>14:27:47</edit.time>
+			<edit.time>11:45:21</edit.time>
+			<input.time>11:41:23</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1314,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1314/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c96573bf-37fd-52ae-ad8d-072c66cba560"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2792a0d6-b929-4345-90da-08003483f9e3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_029,repository numbers,,,,,,,,,,,
+27f8d9cc-6b3c-5501-8b69-d65faef9ecfb,tg:rubgr:1314,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_029,titles proper,Dutch (language),,,,,,,,

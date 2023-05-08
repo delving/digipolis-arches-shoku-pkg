@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4166,https://data.rubenianum.be//ark:/86530/805f03a1-2f47-5b5e-8a10-2b7551fc9751,Handschriften,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c9e85dcd-c9b0-4102-9c8e-ddcaaa75ad28"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0386b920-c74b-4472-8b98-344f51184af8"", ""inverseOntologyProperty"": """"}]"
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Attributed to Rubens and connected with drawing at Rotterdam: Crucifixion of St Andrew with H. Terry-Engell, Apollo, June 1961, p. 212; According to LB [Burchard] 1598; Müller-Hofstede, Bulletin Musées R. 3-4, 1957, pp. 142ff.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Müller Hofstede, Justus",,,,,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004166,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6419</priref>
+			<number>AFG_109_046</number>
+			<content>Attributed to Rubens and connected with drawing at Rotterdam: Crucifixion of St Andrew with H. Terry-Engell, Apollo, June 1961, p. 212; According to LB [Burchard] 1598; M&#252;ller-Hofstede, Bulletin Mus&#233;es R. 3-4, 1957, pp. 142ff.</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Burchard, Ludwig</keyword>
+			<keyword>M&#252;ller Hofstede, Justus</keyword>
+			<object.creator/>
+			<input.date>2014-07-03</input.date>
+			<edit.date>2014-07-03</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:15:23</edit.time>
+			<input.time>12:14:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4166,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4166/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eb8e15d3-b536-580f-89ec-920c19b67ab3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9fb6a3e7-a4f2-4a9a-8ada-1c8de14e9689"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,rub,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,,au::3232:1,au::3232g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_046,repository numbers,,,,,,,,,,,,,,
+805f03a1-2f47-5b5e-8a10-2b7551fc9751,tg:rubgr:4166,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_046,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4733,https://data.rubenianum.be//ark:/86530/95177e93-fd68-5449-a662-c5cf3ebbef2c,Brieven,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5bdcfe3b-7468-4136-8112-e0634b88b10f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69dd4031-ef1d-473f-a083-cb42b5c7161b"", ""inverseOntologyProperty"": """"}]"
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_Correspondence,1,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19550630,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1955-06-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Pölnitz stemt in met formulering vermelding van zijn privé-collectie in de Nederlandse versie van het Bruegelboek.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",,,,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004733,referentienummer,False,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6986</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_128_033</number>
+			<date.precise>1955-06-30</date.precise>
+			<content>Korte inhoud: [Taal, Duits] P&#246;lnitz stemt in met formulering vermelding van zijn priv&#233;-collectie in de Nederlandse versie van het Bruegelboek.</content>
+			<object.object_number>AFG_128</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>[Folders &amp; envelopes]</object.title>
+			<keyword>P&#246;lnitz, Gerhard von</keyword>
+			<sender>P&#246;lnitz, Gerhard von</sender>
+			<object.creator/>
+			<input.date>2014-07-25</input.date>
+			<edit.date>2014-07-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:42:07</edit.time>
+			<input.time>10:38:42</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4733,brocade id,False,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4733/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f95a5ce8-ab81-5c14-b990-df820c443dba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7dc1a662-1167-4164-8efb-a6d1c70687f8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_033,repository numbers,,,,,,,,,,,
+95177e93-fd68-5449-a662-c5cf3ebbef2c,tg:rubgr:4733,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_033,titles proper,Dutch (language),,,,,,,,

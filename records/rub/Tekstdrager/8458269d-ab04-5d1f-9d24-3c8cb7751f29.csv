@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2733,https://data.rubenianum.be//ark:/86530/8458269d-ab04-5d1f-9d24-3c8cb7751f29,Handschriften,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fef48d1b-9d53-4a15-8d95-a3836c831d6a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cdfcca2d-7631-4c06-b78c-d5c3f2558686"", ""inverseOntologyProperty"": """"}]"
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wolfgang Mössner, Studien zur Farbe bei Pieter Brueghel [sic] d.Ä., (Doktor Dissertation Julius-Maximilian Univ. Würzburg. Tag der mündl. Prüfung 15. Dez. 1975) Würzburg 1975, citaten pp. 10; 181 n. 86; 182.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:6827168,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mössner, Wolfgang",,,,,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002733,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4975</priref>
+			<number>AFG_085_046</number>
+			<content>Wolfgang M&#246;ssner, Studien zur Farbe bei Pieter Brueghel [sic] d.&#196;., (Doktor Dissertation Julius-Maximilian Univ. W&#252;rzburg. Tag der m&#252;ndl. Pr&#252;fung 15. Dez. 1975) W&#252;rzburg 1975, citaten pp. 10; 181 n. 86; 182.</content>
+			<object.object_number>AFG_085</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>""Months"" Comparative Material</object.title>
+			<keyword>M&#246;ssner, Wolfgang</keyword>
+			<object.creator/>
+			<documentation.author>M&#246;ssner, Wolfgang</documentation.author>
+			<input.date>2014-03-06</input.date>
+			<edit.date>2014-03-06</edit.date>
+			<edit.date>2014-03-06</edit.date>
+			<edit.date>2014-03-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Studien zur Farbe bei Pieter Brueghel d.&#196;.</documentation.title>
+			<edit.time>11:00:32</edit.time>
+			<edit.time>11:00:01</edit.time>
+			<edit.time>10:55:24</edit.time>
+			<input.time>10:54:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2733,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2733/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8e922cc0-e007-5048-9517-fb553ae569e8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bd8ed47a-b1d3-4101-b990-2e00f3950efe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_046,repository numbers,,,,,,,,,,,,,,
+8458269d-ab04-5d1f-9d24-3c8cb7751f29,tg:rubgr:2733,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_085_046,titles proper,Dutch (language),,,,,,,,,,,

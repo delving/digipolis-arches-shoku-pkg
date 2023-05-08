@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2770,https://data.rubenianum.be//ark:/86530/d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,Handschriften,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2762,Verwijzing naar Grossmann object,,443b0704-f112-5b76-b662-633b4b4ed34e,"[{""resourceId"": ""443b0704-f112-5b76-b662-633b4b4ed34e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7786c432-086b-4632-94da-9111f8e51c33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2de66cf2-f775-4c97-8b64-62f995b7c804"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9190ed58-1f25-41d9-bebb-c7f7959e0f10"", ""inverseOntologyProperty"": """"}]"
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio. Meta Harrsen & George K. Boyce, Italian Manuscripts in the Pierpont & Morgan Library, 1953. Published by the Library in connection with an exhibition discussed in Times Literary Supplement, Dec. 4, 1953, citaat p. 792.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,getijdenboek,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"New York, Pierpont Morgan Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002770,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5012</priref>
+			<number>AFG_086_028</number>
+			<part_of_reference>AFG_086_020</part_of_reference>
+			<content>Clovio. Meta Harrsen &amp; George K. Boyce, Italian Manuscripts in the Pierpont &amp; Morgan Library, 1953. Published by the Library in connection with an exhibition discussed in Times Literary Supplement, Dec. 4, 1953, citaat p. 792.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Clovio.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>getijdenboek</keyword>
+			<keyword>New York, Pierpont Morgan Library</keyword>
+			<object.creator/>
+			<input.date>2014-03-14</input.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:14:39</edit.time>
+			<edit.time>14:03:34</edit.time>
+			<edit.time>13:56:39</edit.time>
+			<input.time>13:52:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2770,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2770/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""19c4893b-c2a3-5985-9316-e24cab9dd4af"", ""ontologyProperty"": """", ""resourceXresourceId"": ""88a0295a-de6f-41ea-89bb-03ebbc5ab045"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_028,repository numbers,,,,,,,,,,,,,,
+d7c06e13-1c87-5c76-9dc6-fa3a5861ad57,tg:rubgr:2770,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_028,titles proper,Dutch (language),,,,,,,,,,,

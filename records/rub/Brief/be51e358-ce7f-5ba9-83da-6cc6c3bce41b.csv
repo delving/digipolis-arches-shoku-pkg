@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:186,https://data.rubenianum.be//ark:/86530/be51e358-ce7f-5ba9-83da-6cc6c3bce41b,Brieven,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""15d38591-b3e2-4bcd-a020-14232854f418"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ff24ac1d-ccbd-4c06-8bab-72dd3b4bb2e9"", ""inverseOntologyProperty"": """"}]"
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,De Val van Icarus uit het KMSKB.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262344,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000186,referentienummer,False,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2432</priref>
+			<number>AFG_003_114</number>
+			<content>De Val van Icarus uit het KMSKB.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Prentbriefkaart</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-09-07</input.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:00:08</edit.time>
+			<edit.time>10:18:40</edit.time>
+			<input.time>10:17:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:186,brocade id,False,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:186/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f03bc693-bee2-5246-9d1a-4b19516d5b36"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b24eb3c3-0750-4b4b-9d2e-ffb2ed222422"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,,,rub,,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_114,repository numbers,,,,,,,,,,,
+be51e358-ce7f-5ba9-83da-6cc6c3bce41b,tg:rubgr:186,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_114,titles proper,Dutch (language),,,,,,,,

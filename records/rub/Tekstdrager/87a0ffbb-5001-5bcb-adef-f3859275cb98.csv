@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3684,https://data.rubenianum.be//ark:/86530/87a0ffbb-5001-5bcb-adef-f3859275cb98,Handschriften,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3678,Verwijzing naar Grossmann object,,9ec4e8b9-83c5-5797-9a11-32ded20dd9bb,"[{""resourceId"": ""9ec4e8b9-83c5-5797-9a11-32ded20dd9bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e402998a-55d4-48f1-b9b4-3941bc120778"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""81bb8582-6341-410d-9bde-05d4d2eb38f3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5921d0f5-1b3b-4318-ae0e-2514c2e2c548"", ""inverseOntologyProperty"": """"}]"
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Proef-werkgroepbulletin, December 1970",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14936728,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Miedema, Hessel",,,,,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003684,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>5937</priref>
+<number>AFG_097_130</number>
+<part_of_reference>AFG_097_124</part_of_reference>
+<content>Proef-werkgroepbulletin, December 1970</content>
+<object.object_number>AFG_097</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<part_of.title>Who wrote the words 'naert leven'? Th esame artist who made the drawings & the colour notes? Handwriting:van Leeuwen (2x), Marijnissen, see Spicer's dissertation on Savery, Bijlage Varekamp [...]</part_of.title>
+<class>AFG</class>
+<editorial_form>tijdschrift</editorial_form>
+<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina & Courtauld Galleries)</object.title>
+<keyword>Miedema, Hessel</keyword>
+<object.creator/>
+<input.date>2014-06-23</input.date>
+<edit.date>2018-05-31</edit.date>
+<edit.date>2018-05-31</edit.date>
+<edit.date>2014-06-23</edit.date>
+<edit.date>2014-06-23</edit.date>
+<edit.date>2014-06-23</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>sa73120</edit.name>
+<edit.name>sa73120</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.time>11:58:47</edit.time>
+<edit.time>11:15:59</edit.time>
+<edit.time>12:12:14</edit.time>
+<edit.time>12:11:24</edit.time>
+<edit.time>12:09:14</edit.time>
+<input.time>12:08:41</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3684,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3684/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""60ce1823-a92a-5a34-b821-200635e88d5c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c57676e1-e21f-428e-bccb-3d12f05bb2ea"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_130,repository numbers,,,,,,,,,,,,,,
+87a0ffbb-5001-5bcb-adef-f3859275cb98,tg:rubgr:3684,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_130,titles proper,Dutch (language),,,,,,,,,,,

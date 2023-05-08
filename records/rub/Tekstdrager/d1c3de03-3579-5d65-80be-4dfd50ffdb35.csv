@@ -1,0 +1,86 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1198,https://data.rubenianum.be//ark:/86530/d1c3de03-3579-5d65-80be-4dfd50ffdb35,Handschriften,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bfa3c162-dffa-4617-a193-9ed8bdd39c94"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7fc0d801-7d63-4375-a62d-83d3456eefca"", ""inverseOntologyProperty"": """"}]"
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto-verso] Murder of Innocents. [Theodor von] Frimmel, Kleine Galeriestudien, N.F. Die Gemäldesammlung in Hermannstadt, Wien 1894, citaten p. 21 nr. 75; p. 22.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13268264,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brukenthal, Samuel von",,,,,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frimmel, Theodor von",,,,,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sibiu, Muzeul Brukenthal",,,,,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001198,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3455</priref>
+			<number>AFG_029_007</number>
+			<content>[recto-verso] Murder of Innocents. [Theodor von] Frimmel, Kleine Galeriestudien, N.F. Die Gem&#228;ldesammlung in Hermannstadt, Wien 1894, citaten p. 21 nr. 75; p. 22.</content>
+			<object.object_number>AFG_029</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Massacre of the Innocents</object.title>
+			<keyword>Brukenthal, Samuel von</keyword>
+			<keyword>Frimmel, Theodor von</keyword>
+			<keyword>Sibiu, Muzeul Brukenthal</keyword>
+			<keyword>Wenen, Kunsthistorisches Museum</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Frimmel, Theodor von</documentation.author>
+			<input.date>2012-07-16</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-07-31</edit.date>
+			<edit.date>2012-07-31</edit.date>
+			<edit.date>2012-07-31</edit.date>
+			<edit.date>2012-07-26</edit.date>
+			<edit.date>2012-07-17</edit.date>
+			<edit.date>2012-07-16</edit.date>
+			<edit.date>2012-07-16</edit.date>
+			<edit.date>2012-07-16</edit.date>
+			<edit.date>2012-07-16</edit.date>
+			<edit.date>2012-07-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Kleine Galeriestudien : neue Folge :</documentation.title>
+			<edit.time>08:55:56</edit.time>
+			<edit.time>15:14:19</edit.time>
+			<edit.time>13:17:59</edit.time>
+			<edit.time>13:17:40</edit.time>
+			<edit.time>12:25:19</edit.time>
+			<edit.time>09:42:52</edit.time>
+			<edit.time>16:06:11</edit.time>
+			<edit.time>16:05:32</edit.time>
+			<edit.time>16:02:36</edit.time>
+			<edit.time>14:38:28</edit.time>
+			<edit.time>14:08:15</edit.time>
+			<input.time>14:02:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1198,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1198/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""77d7212e-518b-5f33-a0eb-ee6da166c570"", ""ontologyProperty"": """", ""resourceXresourceId"": ""44965d92-f25b-4f07-9696-e27bb7d8976d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_OriginalBrocade,,,au::28097,,,,,,,,,,,,,,rub,4fd76377-5c60-5949-a1f5-8d7453c6c945,kw,,au::28097:1,au::28097g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3006379"",""au::28097"",""au::28097:1"",""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""Kunsthistorisches Museum [Wenen (A)]""],""name"":""Kunsthistorisches Museum [Wenen (A)]"",""ark"":""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""uri"":""/agents/corporate_entities/3006379"",""id"":""au::28097:1"",""isCapacity"":false}",ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945,agent,,,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_007,repository numbers,,,,,,,,,,,,,,
+d1c3de03-3579-5d65-80be-4dfd50ffdb35,tg:rubgr:1198,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_007,titles proper,Dutch (language),,,,,,,,,,,

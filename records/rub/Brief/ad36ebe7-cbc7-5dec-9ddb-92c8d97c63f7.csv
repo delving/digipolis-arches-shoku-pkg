@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2925,https://data.rubenianum.be//ark:/86530/ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,Brieven,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2914,Verwijzing naar Grossmann object,,b70cbb85-5e5c-581b-902f-dfd90aa6b51b,"[{""resourceId"": ""b70cbb85-5e5c-581b-902f-dfd90aa6b51b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2dc1b7fe-b0bd-4fea-acd7-ed8c567cc3b9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""482baa57-f66b-43b1-922c-b731e0172cba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""77740b20-cd41-4d8c-8164-3ea36081f7c6"", ""inverseOntologyProperty"": """"}]"
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[recto] Ontwerpbrief in het Italiaans; [verso] reisschema voor een reis doorheen Italië tijdens de maand augustus.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002925,referentienummer,False,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>5167</priref>
+<number>AFG_086_183</number>
+<part_of_reference>AFG_086_172</part_of_reference>
+<content>[recto] Ontwerpbrief in het Italiaans; [verso] reisschema voor een reis doorheen Italië tijdens de maand augustus.</content>
+<object.object_number>AFG_086</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<part_of.title>Bruegel. Biography: Details about Italian Journey, Birth, Death dates, Place of birth, Clovio, Ortelius, Theatrum Orbis, Bruegel's ship drawings used.</part_of.title>
+<class>AFG</class>
+<editorial_form>Notitie</editorial_form>
+<editorial_form>ontwerpbrief</editorial_form>
+<object.title>Bruegel. Introduction, Inventories</object.title>
+<object.creator/>
+<input.date>2014-04-11</input.date>
+<edit.date>2014-07-25</edit.date>
+<edit.date>2014-07-18</edit.date>
+<edit.date>2014-04-11</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.time>11:00:19</edit.time>
+<edit.time>08:46:10</edit.time>
+<edit.time>15:04:29</edit.time>
+<input.time>13:57:57</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2925,brocade id,False,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2925/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f433c9c6-4389-5d46-8910-1c84b9b0cee5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea0891de-fd4a-4ec3-a1f4-466dccdd2481"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_183,repository numbers,,,,,,,,,,,
+ad36ebe7-cbc7-5dec-9ddb-92c8d97c63f7,tg:rubgr:2925,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_183,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,84 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2579,https://data.rubenianum.be//ark:/86530/2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,Handschriften,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_AssociatedArchives,2,,,,,,AFG_034,isad:rub:2964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""07893ecd-9be8-4d07-b83d-7c6a7c1d7251"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0124045-b215-46df-872c-29e5dec1e71b"", ""inverseOntologyProperty"": """"}]"
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel 'Nachwirkung': a) direct collaboration: Martin van Cleve (Johnson Wedding), Vienna Massacre workshop, Peasants falling out at Cards, Assassins; b) Gillis Mostaert, NY (former N°1) Way to Calvary, Luxemburg; c) Works left unfinished: Work completed by Jan: Shepherd Kronacker; d) Copies and imitations: P.B.II, Jan BI, Hans Bol, Vinckeboons, P. Balten, Jacques & Roland Savery, Grimmer, Valckenborch, Rubens; See also Scheyer article ab[ou]t Detroit Wedding Dance.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,219317,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Savery, Jacob (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Valckenborch, Lucas van",,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Scheyer, Ernst",,,,,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002579,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4821</priref>
+			<number>AFG_083_129</number>
+			<content>Bruegel 'Nachwirkung': a) direct collaboration: Martin van Cleve (Johnson Wedding), Vienna Massacre workshop, Peasants falling out at Cards, Assassins; b) Gillis Mostaert, NY (former N&#176;1) Way to Calvary, Luxemburg; c) Works left unfinished: Work completed by Jan: Shepherd Kronacker; d) Copies and imitations: P.B.II, Jan BI, Hans Bol, Vinckeboons, P. Balten, Jacques &amp; Roland Savery, Grimmer, Valckenborch, Rubens; See also Scheyer article ab[ou]t Detroit Wedding Dance.</content>
+			<object.object_number>AFG_083</object.object_number>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Cleve, Marten van</object.title>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<keyword>Balten, Pieter</keyword>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Grimmer, Jacob</keyword>
+			<keyword>Mostaert, Gillis (I)</keyword>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Savery, Jacob (I)</keyword>
+			<keyword>Savery, Roelant</keyword>
+			<keyword>Valckenborch, Lucas van</keyword>
+			<keyword>Vinckboons, David (I)</keyword>
+			<keyword>Scheyer, Ernst</keyword>
+			<keyword>Detroit, Detroit Institute of Arts</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-01-29</input.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-02-06</edit.date>
+			<edit.date>2014-01-29</edit.date>
+			<edit.date>2014-01-29</edit.date>
+			<edit.date>2014-01-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:56:01</edit.time>
+			<edit.time>14:53:19</edit.time>
+			<edit.time>16:24:34</edit.time>
+			<edit.time>15:28:11</edit.time>
+			<edit.time>15:06:28</edit.time>
+			<edit.time>15:06:11</edit.time>
+			<input.time>14:59:12</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2579,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2579/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""75ec4c7a-3abe-561b-bb71-0266a4f64536"", ""ontologyProperty"": """", ""resourceXresourceId"": ""702fc984-1b48-4656-a59a-13b9c6f42109"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::107091,,,,,,,,,,,,,,rub,e47332ce-b469-52a9-805d-e269fd7476d8,kw,,au::107091:1,au::107091g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11458737"",""au::107091"",""au::107091:1"",""ark:/83110/x0/e47332ce-b469-52a9-805d-e269fd7476d8"",""Pieter Balten""],""name"":""Pieter Balten"",""ark"":""ark:/83110/x0/e47332ce-b469-52a9-805d-e269fd7476d8"",""uri"":""/agents/people/11458737"",""id"":""au::107091:1"",""isCapacity"":false}",ark:/83110/x0/e47332ce-b469-52a9-805d-e269fd7476d8,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::7952,,,,,,,,,,,,,,rub,e8092b9d-5063-55e9-8eb3-1529a5350ef9,kw,,au::7952:1,au::7952g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/850864"",""au::7952"",""au::7952:1"",""ark:/83110/x0/e8092b9d-5063-55e9-8eb3-1529a5350ef9"",""Jacob Grimmer""],""name"":""Jacob Grimmer"",""ark"":""ark:/83110/x0/e8092b9d-5063-55e9-8eb3-1529a5350ef9"",""uri"":""/agents/people/850864"",""id"":""au::7952:1"",""isCapacity"":false}",ark:/83110/x0/e8092b9d-5063-55e9-8eb3-1529a5350ef9,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::13200,,,,,,,,,,,,,,rub,9c5baa02-0c78-5afe-9c2b-969ef35e27eb,kw,,au::13200:1,au::13200g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1412400"",""au::13200"",""au::13200:1"",""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""Gillis I Mostaert""],""name"":""Gillis I Mostaert"",""ark"":""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""uri"":""/agents/people/1412400"",""id"":""au::13200:1"",""isCapacity"":false}",ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,rub,68745e68-be77-5308-846a-b1ac1c29f49d,kw,,au::16398:1,au::16398g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::19993,,,,,,,,,,,,,,rub,6304894d-67e4-5fcd-9072-31676a16c00c,kw,,au::19993:1,au::19993g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2139251"",""au::19993"",""au::19993:1"",""ark:/83110/x0/6304894d-67e4-5fcd-9072-31676a16c00c"",""David Vinckboons""],""name"":""David Vinckboons"",""ark"":""ark:/83110/x0/6304894d-67e4-5fcd-9072-31676a16c00c"",""uri"":""/agents/people/2139251"",""id"":""au::19993:1"",""isCapacity"":false}",ark:/83110/x0/6304894d-67e4-5fcd-9072-31676a16c00c,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OriginalBrocade,,,au::32542,,,,,,,,,,,,,,rub,eebbf388-8ad2-50b0-85ee-1bd9dc72b98d,kw,,au::32542:1,au::32542g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3481994"",""au::32542"",""au::32542:1"",""ark:/83110/x0/eebbf388-8ad2-50b0-85ee-1bd9dc72b98d"",""The Detroit Institute of Arts (USA)""],""name"":""The Detroit Institute of Arts (USA)"",""ark"":""ark:/83110/x0/eebbf388-8ad2-50b0-85ee-1bd9dc72b98d"",""uri"":""/agents/corporate_entities/3481994"",""id"":""au::32542:1"",""isCapacity"":false}",ark:/83110/x0/eebbf388-8ad2-50b0-85ee-1bd9dc72b98d,agent,,,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_129,repository numbers,,,,,,,,,,,,,,
+2cfcb6ef-0afb-5fc3-8f19-8321c7fb5cce,tg:rubgr:2579,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_129,titles proper,Dutch (language),,,,,,,,,,,

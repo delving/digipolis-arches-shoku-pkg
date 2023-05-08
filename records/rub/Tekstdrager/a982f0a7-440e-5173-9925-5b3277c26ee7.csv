@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4523,https://data.rubenianum.be//ark:/86530/a982f0a7-440e-5173-9925-5b3277c26ee7,Handschriften,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1be5bb7a-a188-48dd-949b-00799683542f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2ff801ae-514e-456e-b5cb-5ed23eac4b8a"", ""inverseOntologyProperty"": """"}]"
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bosch & Bruegel. Vice represented realistically in high Gothic already see Moxey [?] Medieval Art, citaat p. 259.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Moxey, Keith P.F.",,,,,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004523,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6776</priref>
+			<number>AFG_116_010</number>
+			<content>Ad [Addendum] Bosch &amp; Bruegel. Vice represented realistically in high Gothic already see Moxey [?] Medieval Art, citaat p. 259.</content>
+			<object.object_number>AFG_116</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Miscellanea Bruegel &amp; others not needed at present</object.title>
+			<keyword>Moxey, Keith P.F.</keyword>
+			<object.creator/>
+			<input.date>2014-07-16</input.date>
+			<edit.date>2014-07-16</edit.date>
+			<edit.date>2014-07-16</edit.date>
+			<edit.date>2014-07-16</edit.date>
+			<edit.date>2014-07-16</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:07:32</edit.time>
+			<edit.time>09:07:20</edit.time>
+			<edit.time>08:57:16</edit.time>
+			<edit.time>08:57:09</edit.time>
+			<input.time>08:56:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4523,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4523/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cd74528c-405e-56c8-a753-baf0d2ead955"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e35c5951-85a3-426d-9249-0b2e25ada18c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_010,repository numbers,,,,,,,,,,,,,,
+a982f0a7-440e-5173-9925-5b3277c26ee7,tg:rubgr:4523,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_010,titles proper,Dutch (language),,,,,,,,,,,

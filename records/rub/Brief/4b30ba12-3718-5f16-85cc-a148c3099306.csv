@@ -1,0 +1,44 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3106,https://data.rubenianum.be//ark:/86530/4b30ba12-3718-5f16-85cc-a148c3099306,Brieven,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:3105,Verwijzing naar Grossmann object,,7d5dfc56-8f38-59e6-80cc-3c470e6451f2,"[{""resourceId"": ""7d5dfc56-8f38-59e6-80cc-3c470e6451f2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09e26195-e12d-488f-8c53-b62906f2e49b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fac1c031-3e64-4f4e-a1aa-22f115e71bb7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""079906e1-b710-4377-bea0-349139582c8e"", ""inverseOntologyProperty"": """"}]"
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_Correspondence,1,,,,,,,,,,,,,,,,"Harris, Tomas",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19550414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1955-04-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Grotendeels geschrapt] Korte inhoud:  [...] 'to Cornelis Massys.',descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003106,referentienummer,False,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>5431</priref>
+<recipient>Harris, Tomas</recipient>
+<number>AFG_090_026</number>
+<part_of_reference>AFG_090_025</part_of_reference>
+<date.precise>1955-04-14</date.precise>
+<content>[Grotendeels geschrapt] Korte inhoud:  [...] 'to Cornelis Massys.'</content>
+<object.object_number>AFG_090</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<part_of.title>[Briefhoofd Campo de Mar, Mallorca] Korte inhoud: Handelt over een werk dat vroeger in zijn bezit was. De foto's van werken uit zijn collectie zijn verloren gegaan in WO II. Weet alleen nog dat het een landschap was van ca. 30 inches.</part_of.title>
+<class>AFG</class>
+<editorial_form>conceptbrief</editorial_form>
+<object.title>Lost Pictures & Wrong Attributions to be filed</object.title>
+<keyword>Massijs, Cornelis</keyword>
+<sender>Grossmann, F.G.</sender>
+<object.creator/>
+<input.date>2014-06-11</input.date>
+<edit.date>2014-06-11</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.time>16:26:22</edit.time>
+<input.time>16:24:02</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3106,brocade id,False,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3106/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""54227045-4c68-5cb4-b31b-77893aff1103"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f6ec626e-7407-4911-bc0e-7575eaf85c12"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_OriginalBrocade,,,au::12357,,,,,,,,,,,,,,,,rub,,126aa01e-9148-54f2-bfce-99090c97d227,kw,au::12357:1,au::12357g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1322199"",""au::12357"",""au::12357:1"",""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""Cornelis Matsijs""],""name"":""Cornelis Matsijs"",""ark"":""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""uri"":""/agents/people/1322199"",""id"":""au::12357:1"",""isCapacity"":false}",ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227,agent,,,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_026,repository numbers,,,,,,,,,,,
+4b30ba12-3718-5f16-85cc-a148c3099306,tg:rubgr:3106,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_026,titles proper,Dutch (language),,,,,,,,

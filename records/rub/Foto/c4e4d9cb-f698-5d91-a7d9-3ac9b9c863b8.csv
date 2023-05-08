@@ -1,0 +1,66 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2378,https://data.rubenianum.be//ark:/86530/c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,Foto's,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_AssociatedArchives,2,,,,,,AFG_009,isad:rub:2939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ac5beae5-e72e-4fbf-bb00-461b0a68eace"", ""ontologyProperty"": """", ""resourceXresourceId"": ""39fc5f2d-e209-4e31-9f46-78a2ecbb224e"", ""inverseOntologyProperty"": """"}]"
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto. [Notitie in onbekend handschrift]: '881 Dresden. Jan Brueghel d.Ä (Sammet B.) 1568-1625. Landschaft und Rohrdommeljäger, 1605, 42 x 71; [Notitie FG]: Rechtsunten Pferdeskelet aber anders wie in Triumph des Todes nach P.B.I.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,56714,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,dier,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002378,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4621</priref>
+			<number>AFG_077_062</number>
+			<content>1 zw/w foto. [Notitie in onbekend handschrift]: '881 Dresden. Jan Brueghel d.&#196; (Sammet B.) 1568-1625. Landschaft und Rohrdommelj&#228;ger, 1605, 42 x 71; [Notitie FG]: Rechtsunten Pferdeskelet aber anders wie in Triumph des Todes nach P.B.I.</content>
+			<object.object_number>AFG_077</object.object_number>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Grossmann 242</object.title>
+			<object.title>The Triumph of Death</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Dresden, Staatliche Kunstsammlungen, Gem&#228;ldegalerie</keyword>
+			<keyword>dier</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-06-20</input.date>
+			<edit.date>2013-06-20</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<edit.date>2013-06-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:00:29</edit.time>
+			<edit.time>13:59:22</edit.time>
+			<edit.time>13:59:02</edit.time>
+			<edit.time>13:56:50</edit.time>
+			<edit.time>13:53:35</edit.time>
+			<edit.time>13:51:55</edit.time>
+			<input.time>13:51:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2378,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2378/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7f61a70b-a51a-5346-a876-cd55cce0f9a9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7c493b26-115d-4aa1-9b3d-1a61e29241db"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,keywords,au::3028:1,au::3028g:1,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,keywords,au::3025:1,au::3025g:1,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_OriginalBrocade,,,au::32609,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,a0a908ee-8ba2-5922-acef-4dab4e351d82,kw,keywords,au::32609:1,au::32609g:1,,"dlod={""suggest"":[""/agents/corporate_entities/3489163"",""au::32609"",""au::32609:1"",""ark:/83110/x0/a0a908ee-8ba2-5922-acef-4dab4e351d82"",""Staatliche Kunstsammlungen Albertinum [Dresden (DO)]""],""name"":""Staatliche Kunstsammlungen Albertinum [Dresden (DO)]"",""ark"":""ark:/83110/x0/a0a908ee-8ba2-5922-acef-4dab4e351d82"",""uri"":""/agents/corporate_entities/3489163"",""id"":""au::32609:1"",""isCapacity"":false}",ark:/83110/x0/a0a908ee-8ba2-5922-acef-4dab4e351d82,agent,,,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_062,repository numbers,,,,,,,,,,,
+c4e4d9cb-f698-5d91-a7d9-3ac9b9c863b8,tg:rubgr:2378,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_062,titles proper,Dutch (language),,,,,,,,

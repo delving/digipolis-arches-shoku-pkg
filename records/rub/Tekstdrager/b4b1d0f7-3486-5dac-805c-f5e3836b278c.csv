@@ -1,0 +1,69 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:417,https://data.rubenianum.be//ark:/86530/b4b1d0f7-3486-5dac-805c-f5e3836b278c,Handschriften,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3d0723b7-bc81-4c8c-aa77-b51ec618dd7a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6b47b4e5-a1b4-43ff-9a40-09ece91f93f0"", ""inverseOntologyProperty"": """"}]"
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"BRUEGEL. Triumph of Death. Leonard WILLEMS, Elckerlyc-studiën, Hague ['s-Gravenhage: Nijhoff], 1934; Jan VANDERHEIJDEN, Het thema en de uitbeelding van den dood in de poëzie der late Middeleeuwen en der vroege renaissance in de Nederlanden, [Koninklijke Vlaamsche Academie voor Taal- en Letterkunde. Reeks 6, Bekroonde werken; 47)], Gent [Drukkerij Erasmus], 1927 [1930].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_ExternalRelationsExtras,a::rub.13,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56714,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vanderheijden, Jan",,,,,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Willems, Leonard",,,,,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000417,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2635</priref>
+			<number>AFG_009_006</number>
+			<content>BRUEGEL. Triumph of Death. Leonard WILLEMS, Elckerlyc-studi&#235;n, Hague ['s-Gravenhage: Nijhoff], 1934; Jan VANDERHEIJDEN, Het thema en de uitbeelding van den dood in de po&#235;zie der late Middeleeuwen en der vroege renaissance in de Nederlanden, [Koninklijke Vlaamsche Academie voor Taal- en Letterkunde. Reeks 6, Bekroonde werken; 47)], Gent [Drukkerij Erasmus], 1927 [1930].</content>
+			<object.object_number>AFG_009</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Triumph of Death</object.title>
+			<keyword>Vanderheijden, Jan</keyword>
+			<keyword>Willems, Leonard</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-26</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-11-30</edit.date>
+			<edit.date>2011-11-24</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-10-04</edit.date>
+			<edit.date>2011-09-26</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:23:15</edit.time>
+			<edit.time>16:19:36</edit.time>
+			<edit.time>16:18:58</edit.time>
+			<edit.time>09:46:43</edit.time>
+			<edit.time>12:05:25</edit.time>
+			<edit.time>09:54:17</edit.time>
+			<edit.time>09:26:15</edit.time>
+			<edit.time>09:07:50</edit.time>
+			<edit.time>14:15:25</edit.time>
+			<input.time>14:07:23</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:417,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:417/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e78f03ad-4d50-5375-a0ef-d0dc4d83aa0c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2d1ec2b7-f1d2-4c27-a77a-0b9b74b07ad3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_006,repository numbers,,,,,,,,,,,,,,
+b4b1d0f7-3486-5dac-805c-f5e3836b278c,tg:rubgr:417,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_009_006,titles proper,Dutch (language),,,,,,,,,,,

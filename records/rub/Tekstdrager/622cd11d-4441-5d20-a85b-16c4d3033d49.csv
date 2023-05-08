@@ -1,0 +1,84 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:881,https://data.rubenianum.be//ark:/86530/622cd11d-4441-5d20-a85b-16c4d3033d49,Handschriften,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""96df8bdb-dd33-49e9-bae3-de8dfabb183f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9f70ff80-875b-497b-b672-b97adcd38557"", ""inverseOntologyProperty"": """"}]"
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"BRUEGEL, Way to Calvary. Composition with fantastic steep rock background in centre of the left half... [sic] the whole procession moves across the composition to the right and ending in group under tree (in Bruegel's picture pole with wheel) on right edge, similar in engraving by Cornelis Bos 'The Israelites carrying the Ark across the Jordan', ([Sune] Schéle, Cornelis Bos. [ A Study of the Origins of the Netherland Grotesque, Stockholm: Almqvist & Wiksell, 1965, N° 19, (pls. 6&7) Hollstein 22. Signed and dated 1547, p. 116 According to the dimensions after Giovanni de Molne; According to André de Hevesy, [Quelques tableaux inconnus de Jean Scorel], Oud Holland 1932, [pp. 138-144], p. 138 a painting by Scorel, now lost but described by van Mander!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:959682,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_ExternalRelationsExtras,a::rub.23,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260966,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bos, Cornelis",,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Scorel, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hevesy, André de",,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Schéle, Sune",,,,,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000881,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3132</priref>
+			<number>AFG_019_052</number>
+			<content>BRUEGEL, Way to Calvary. Composition with fantastic steep rock background in centre of the left half... [sic] the whole procession moves across the composition to the right and ending in group under tree (in Bruegel's picture pole with wheel) on right edge, similar in engraving by Cornelis Bos 'The Israelites carrying the Ark across the Jordan', ([Sune] Sch&#233;le, Cornelis Bos. [ A Study of the Origins of the Netherland Grotesque, Stockholm: Almqvist &amp; Wiksell, 1965, N&#176; 19, (pls. 6&amp;7) Hollstein 22. Signed and dated 1547, p. 116 According to the dimensions after Giovanni de Molne; According to Andr&#233; de Hevesy, [Quelques tableaux inconnus de Jean Scorel], Oud Holland 1932, [pp. 138-144], p. 138 a painting by Scorel, now lost but described by van Mander!</content>
+			<object.object_number>AFG_019</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Procession to Calvary</object.title>
+			<keyword>Bos, Cornelis</keyword>
+			<keyword>Scorel, Jan van</keyword>
+			<keyword>Mander, Karel van</keyword>
+			<keyword>Hevesy, Andr&#233; de</keyword>
+			<keyword>Sch&#233;le, Sune</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Sch&#233;le, Sune</documentation.author>
+			<input.date>2012-02-17</input.date>
+			<edit.date>2015-03-05</edit.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2012-06-19</edit.date>
+			<edit.date>2012-02-27</edit.date>
+			<edit.date>2012-02-27</edit.date>
+			<edit.date>2012-02-27</edit.date>
+			<edit.date>2012-02-27</edit.date>
+			<edit.date>2012-02-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Cornelis Bos : a study of the origins of the Netherland grotesque</documentation.title>
+			<edit.time>16:54:00</edit.time>
+			<edit.time>14:05:57</edit.time>
+			<edit.time>15:23:16</edit.time>
+			<edit.time>14:28:48</edit.time>
+			<edit.time>15:05:04</edit.time>
+			<edit.time>10:55:53</edit.time>
+			<edit.time>08:58:40</edit.time>
+			<edit.time>08:56:08</edit.time>
+			<edit.time>08:54:46</edit.time>
+			<edit.time>09:06:26</edit.time>
+			<input.time>11:17:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:881,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:881/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5cf01708-eaad-5872-8983-ebb16d6fdd1a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f5bf3bcc-7917-49bd-b16a-e13b47fda14d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_OriginalBrocade,,,au::12149,,,,,,,,,,,,,,rub,8f971df1-092b-5a37-8e0f-d345790debe5,kw,,au::12149:1,au::12149g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1299943"",""au::12149"",""au::12149:1"",""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""Carel van Mander""],""name"":""Carel van Mander"",""ark"":""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""uri"":""/agents/people/1299943"",""id"":""au::12149:1"",""isCapacity"":false}",ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5,agent,,,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_052,repository numbers,,,,,,,,,,,,,,
+622cd11d-4441-5d20-a85b-16c4d3033d49,tg:rubgr:881,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_019_052,titles proper,Dutch (language),,,,,,,,,,,

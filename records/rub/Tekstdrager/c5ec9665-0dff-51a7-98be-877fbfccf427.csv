@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5175,https://data.rubenianum.be//ark:/86530/c5ec9665-0dff-51a7-98be-877fbfccf427,Handschriften,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5169,Verwijzing naar Grossmann object,,9345cabd-9602-5f0c-a008-6bc91c50f8b4,"[{""resourceId"": ""9345cabd-9602-5f0c-a008-6bc91c50f8b4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9dd7f1fc-c71e-46e2-9935-2bff285e12a5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""20bb8b8a-0853-4cc6-815c-e5745d14f16f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b974a3ac-98e4-4aaf-b47c-e472d09024c8"", ""inverseOntologyProperty"": """"}]"
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For Hampden see Lugt, Marques 1239 & 2837 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Reveley, Henry",,,,,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005175,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7431</priref>
+			<number>AFG_143_054</number>
+			<part_of_reference>AFG_143_048</part_of_reference>
+			<content>For Hampden see Lugt, Marques 1239 &amp; 2837 [...]</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Antonius Sanderus, Flandria Illustrata, 2nd. ed. 1735 (3 vol.), vol. II p. 316.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>Lugt, Frits</keyword>
+			<keyword>Reveley, Henry</keyword>
+			<object.creator/>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>14:58:10</edit.time>
+			<input.time>14:42:57</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5175,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5175/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3c4a96ad-ccba-58ba-890b-0cf273850359"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7604da23-be20-4ecc-9fed-586bea7d07a4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_054,repository numbers,,,,,,,,,,,,,,
+c5ec9665-0dff-51a7-98be-877fbfccf427,tg:rubgr:5175,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_054,titles proper,Dutch (language),,,,,,,,,,,

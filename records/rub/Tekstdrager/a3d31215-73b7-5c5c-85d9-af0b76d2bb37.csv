@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2870,https://data.rubenianum.be//ark:/86530/a3d31215-73b7-5c5c-85d9-af0b76d2bb37,Handschriften,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2858,Verwijzing naar Grossmann object,,abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b,"[{""resourceId"": ""abaa7a8a-6f0f-5c07-99af-bd7ffc2d673b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d49b1e38-82b7-4871-aa46-b8f438e409cc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9bf3462d-5686-4676-8985-4dfe62b1bb47"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bb4b0434-d2d1-48f5-81ac-2affd5284fd9"", ""inverseOntologyProperty"": """"}]"
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Art teaching a moral usefulness of art. Dedication of Neue Künstliche Figuren Biblischer Historien/ grüntlich von Tobia Stimmer gerissen [Vnd zu Gotsförchtiger ergetzung andächtiger hertzen, mit artigen Reimen begriffen / durch J[ohan] F[ischart] G. M. Zu] Basel bei Thoma Gwarin 1576. By Johann Fischart, citaten s.p.; Quoting many examples of illusionisten in art (Zeuxis, Parrhasius, etc.) Defence against iconoclasts.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fischart, Johann",,,,,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002870,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5112</priref>
+			<number>AFG_086_128</number>
+			<part_of_reference>AFG_086_116</part_of_reference>
+			<content>Art teaching a moral usefulness of art. Dedication of Neue K&#252;nstliche Figuren Biblischer Historien/ gr&#252;ntlich von Tobia Stimmer gerissen [Vnd zu Gotsf&#246;rchtiger ergetzung and&#228;chtiger hertzen, mit artigen Reimen begriffen / durch J[ohan] F[ischart] G. M. Zu] Basel bei Thoma Gwarin 1576. By Johann Fischart, citaten s.p.; Quoting many examples of illusionisten in art (Zeuxis, Parrhasius, etc.) Defence against iconoclasts.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[zonder onderwerp]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Fischart, Johann</keyword>
+			<object.creator/>
+			<input.date>2014-04-03</input.date>
+			<edit.date>2014-04-03</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:58:56</edit.time>
+			<input.time>16:46:09</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2870,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2870/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""03493892-26aa-58cc-a3fb-ce043a802f2e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4411d49c-e6d8-49f3-8100-199218f2c27d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_128,repository numbers,,,,,,,,,,,,,,
+a3d31215-73b7-5c5c-85d9-af0b76d2bb37,tg:rubgr:2870,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_128,titles proper,Dutch (language),,,,,,,,,,,

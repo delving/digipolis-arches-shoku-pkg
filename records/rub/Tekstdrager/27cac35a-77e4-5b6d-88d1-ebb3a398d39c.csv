@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1000,https://data.rubenianum.be//ark:/86530/27cac35a-77e4-5b6d-88d1-ebb3a398d39c,Handschriften,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c667e863-1b3f-401b-ad5e-fe9c916a1887"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b42e5e67-907d-49a0-8223-54b880a0158a"", ""inverseOntologyProperty"": """"}]"
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heu. u. Kornernte zu vgl. für details der Stich ( u[nd] Zeichnung): Sommer in Hamburg, dat. 1568; Frühling, Wien.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hamburg, Hamburger Kunsthalle",,,,,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001000,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3253</priref>
+			<number>AFG_022_033</number>
+			<content>Heu. u. Kornernte zu vgl. f&#252;r details der Stich ( u[nd] Zeichnung): Sommer in Hamburg, dat. 1568; Fr&#252;hling, Wien.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Hamburg, Hamburger Kunsthalle</keyword>
+			<keyword>Wenen, Graphische Sammlung Albertina</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-22</input.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-04-20</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:48:16</edit.time>
+			<edit.time>13:47:55</edit.time>
+			<edit.time>11:35:18</edit.time>
+			<edit.time>15:33:55</edit.time>
+			<edit.time>10:37:39</edit.time>
+			<edit.time>15:56:28</edit.time>
+			<edit.time>15:07:40</edit.time>
+			<edit.time>13:23:15</edit.time>
+			<input.time>13:15:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1000,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1000/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ebc80d7-208b-57df-ad60-e881592fc14e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""280dfd48-2534-42f9-8d73-ad975bbcdb3a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_OriginalBrocade,,,au::32507,,,,,,,,,,,,,,rub,3dce806e-0337-5f22-9c0e-01bffc770398,kw,,au::32507:1,au::32507g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3478249"",""au::32507"",""au::32507:1"",""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""Grafische Sammlung Albertina""],""name"":""Grafische Sammlung Albertina"",""ark"":""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""uri"":""/agents/corporate_entities/3478249"",""id"":""au::32507:1"",""isCapacity"":false}",ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398,agent,,,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_033,repository numbers,,,,,,,,,,,,,,
+27cac35a-77e4-5b6d-88d1-ebb3a398d39c,tg:rubgr:1000,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_033,titles proper,Dutch (language),,,,,,,,,,,

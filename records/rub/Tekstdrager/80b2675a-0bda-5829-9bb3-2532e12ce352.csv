@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3825,https://data.rubenianum.be//ark:/86530/80b2675a-0bda-5829-9bb3-2532e12ce352,Handschriften,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""66dbc4da-9fce-436d-aa98-aad5ff2e4053"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33e1e550-d850-4bd4-93c6-3043d9dc6761"", ""inverseOntologyProperty"": """"}]"
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haverkamp-Begemann & Master of Little Landscapes.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Haverkamp-Begemann, Egbert",,,,,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003825,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6078</priref>
+			<number>AFG_100_001</number>
+			<content>Haverkamp-Begemann &amp; Master of Little Landscapes.</content>
+			<object.object_number>AFG_100</object.object_number>
+			<object.object_name/>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Small Landscapes Series</object.title>
+			<keyword>Haverkamp-Begemann, Egbert</keyword>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:52:49</edit.time>
+			<edit.time>13:44:10</edit.time>
+			<edit.time>11:00:19</edit.time>
+			<input.time>10:59:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3825,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3825/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""39f7fbbf-7223-5873-baa2-11a47f413cb1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""768eb407-2ff5-447c-a55f-f3768b13c6e0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_001,repository numbers,,,,,,,,,,,,,,
+80b2675a-0bda-5829-9bb3-2532e12ce352,tg:rubgr:3825,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_001,titles proper,Dutch (language),,,,,,,,,,,

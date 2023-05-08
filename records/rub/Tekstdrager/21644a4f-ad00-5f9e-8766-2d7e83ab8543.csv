@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3441,https://data.rubenianum.be//ark:/86530/21644a4f-ad00-5f9e-8766-2d7e83ab8543,Handschriften,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a6744613-ec4d-4a4f-b317-e28b09be9e4b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""313daeb7-fd7e-464f-9597-9cac74cd46cc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dbfabdc2-93e5-4fda-81f4-eeec6acca4c8"", ""inverseOntologyProperty"": """"}]"
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Versie] [11 bladen met correcties] Notes on Some Sources of Bruegel's Art; [8 bladen, handgeschreven] Footnotes.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003441,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5694</priref>
+			<number>AFG_094_005</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<content>[Versie] [11 bladen met correcties] Notes on Some Sources of Bruegel's Art; [8 bladen, handgeschreven] Footnotes.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2014-09-25</edit.date>
+			<edit.date>2014-06-19</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:48:00</edit.time>
+			<edit.time>11:07:02</edit.time>
+			<input.time>11:06:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3441,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3441/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f87f04e3-a03b-5727-b6dd-aad2422f1537"", ""ontologyProperty"": """", ""resourceXresourceId"": ""10d9a6dd-3365-4cdd-9791-e57b223ae7ca"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_005,repository numbers,,,,,,,,,,,,,,
+21644a4f-ad00-5f9e-8766-2d7e83ab8543,tg:rubgr:3441,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_005,titles proper,Dutch (language),,,,,,,,,,,

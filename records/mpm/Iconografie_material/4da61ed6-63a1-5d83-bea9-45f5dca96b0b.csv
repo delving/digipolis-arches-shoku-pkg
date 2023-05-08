@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,source_field,Dimension Value,Dimension Type,Dimension Measurement Unit,dataset,adm.id_mat,Plaatsingsnummer,Warehouse Location (begin),adm.uuid_mat,adm.isadPartOf,Volgnummer,Mark Text,Mark Type,Mark Language,col_source_field,mat_source_field,Material Colour,Material,source_code,Object Type,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Type,Keeper,Object Number,Object Identifier,source_date,Restriction Type
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmtk:19_#1,https://data.museumplantinmoretus.be/ark:/11975/4da61ed6-63a1-5d83-bea9-45f5dca96b0b,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_Carrier,1,,,,kenmerken.mpmdragertk,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,175,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,229,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_Items,1,,,,,,,,,,mpmtk,tg:mpmtk:19_#1,TK 218,10 K 1 K,4da61ed6-63a1-5d83-bea9-45f5dca96b0b,,,,,,,,,,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_Marks,1,,,,,,,,,,,,,,,,,"<p>In lit. R. nae der ordenienge van mijn / lijste ofte catalogus, an mijn heer / Balthasar Moretus, voor / 14 dagen naer Antwerpen / ghesonden. / Anno 1646. 19/29 Septem.</p>
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_MaterialColour,,,,,,,,,,,mpmtk,,,,,,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,ink,,,,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_ObjectTypes,1,,,,,,kenmerken.mpmtypetk,,,,,,,,,,,,,,,,,,tttek,drawings (visual works),,,,,,,,,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_ProductionTechniques,1,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,,,,,,,,,,,,,,,,,tpe,,,,,,,,pens (drawing and writing implements),,,,,
+4da61ed6-63a1-5d83-bea9-45f5dca96b0b,tg:mpmtk:19_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1646,open

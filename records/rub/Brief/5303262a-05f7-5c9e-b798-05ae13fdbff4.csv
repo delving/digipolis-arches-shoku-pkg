@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4859,https://data.rubenianum.be//ark:/86530/5303262a-05f7-5c9e-b798-05ae13fdbff4,Brieven,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f009949d-5177-4b81-b49e-98fe2efa90d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aa8f9809-1949-452e-b52d-6836f14d29bd"", ""inverseOntologyProperty"": """"}]"
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Correspondence,1,,,,,,,,,,,,,,,,"Haverkamp-Begemann, E.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19550122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1955-01-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd Museum Boymans, Rotterdam] [2 bladen] Korte inhoud: Het artikel wordt drukklaar gemaakt. Opmerking m.b.t. het Engels. Suggereert een oplossing m.b.t. Benesch. Deelt mee welke illustraties opgenomen worden.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Benesch, Otto",,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004859,referentienummer,False,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7112</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_135_005</number>
+			<date.precise>1955-01-22</date.precise>
+			<content>[Briefhoofd Museum Boymans, Rotterdam] [2 bladen] Korte inhoud: Het artikel wordt drukklaar gemaakt. Opmerking m.b.t. het Engels. Suggereert een oplossing m.b.t. Benesch. Deelt mee welke illustraties opgenomen worden.</content>
+			<object.object_number>AFG_135</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape: My Landscape drawings; Baldass 1918; Benesch, Review 1953; Gombrich 1953; Burchard 1913</object.title>
+			<keyword>Benesch, Otto</keyword>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<sender>Haverkamp-Begemann, E.</sender>
+			<object.creator/>
+			<input.date>2014-07-31</input.date>
+			<edit.date>2014-07-31</edit.date>
+			<edit.date>2014-07-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:09:55</edit.time>
+			<edit.time>11:34:25</edit.time>
+			<input.time>11:29:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4859,brocade id,False,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4859/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e67ee007-861e-5bfa-9603-36b361cb99d2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""da54d824-1190-41e9-aecf-193598301494"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,,,rub,,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_135_005,repository numbers,,,,,,,,,,,
+5303262a-05f7-5c9e-b798-05ae13fdbff4,tg:rubgr:4859,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_135_005,titles proper,Dutch (language),,,,,,,,

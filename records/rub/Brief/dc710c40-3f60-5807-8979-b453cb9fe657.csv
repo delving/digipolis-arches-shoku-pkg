@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5131,https://data.rubenianum.be//ark:/86530/dc710c40-3f60-5807-8979-b453cb9fe657,Brieven,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_AssociatedArchives,2,,,,,,AFG_011,isad:rub:2941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4ce46a3d-ec6e-4e42-bfcf-8fef5babda08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""396cc08a-cfb4-465d-86ef-96e724bb53e1"", ""inverseOntologyProperty"": """"}]"
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1952.0,2067,In Copyright,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_Correspondence,1,,,,,,,,,,,,,,,,"Fastnedge, Ralph",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19520404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1952-04-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd City of Liverpool, Walker Art Gallery] Korte inhoud: Antwoord op brief FG d.d. 2 april 1952 met vraag over 'Resurrection'. Beschrijving van de kleuren.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_ExternalRelationsExtras,a::rub.15,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,261160,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fastnedge, Ralph",,,,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005131,referentienummer,False,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7387</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_143_010</number>
+			<date.precise>1952-04-04</date.precise>
+			<content>[Briefhoofd City of Liverpool, Walker Art Gallery] Korte inhoud: Antwoord op brief FG d.d. 2 april 1952 met vraag over 'Resurrection'. Beschrijving van de kleuren.</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_number>AFG_011</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>tekening</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<object.title>The Resurrection of Christ</object.title>
+			<keyword>Fastnedge, Ralph</keyword>
+			<sender>Fastnedge, Ralph</sender>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:06:07</edit.time>
+			<edit.time>09:05:12</edit.time>
+			<edit.time>09:04:44</edit.time>
+			<input.time>09:02:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5131,brocade id,False,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5131/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e0d92d16-8b28-5969-b2da-da41ad3e96a9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e68a86f0-3615-4938-9480-5110fbfa82d8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_010,repository numbers,,,,,,,,,,,
+dc710c40-3f60-5807-8979-b453cb9fe657,tg:rubgr:5131,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_010,titles proper,Dutch (language),,,,,,,,

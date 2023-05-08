@@ -1,0 +1,40 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4818,https://data.rubenianum.be//ark:/86530/d557154c-ad55-5829-be94-23fecb55498e,Handschriften,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:4822,Verwijzing naar Grossmann object,,992d434b-e335-53c7-b597-a22a3529a5d8,"[{""resourceId"": ""992d434b-e335-53c7-b597-a22a3529a5d8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""827c784e-91ab-423f-a160-a990314d94f4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:4821,Verwijzing naar Grossmann object,,c544ebd0-11fe-58cf-ae00-c4ccbbcb3d96,"[{""resourceId"": ""c544ebd0-11fe-58cf-ae00-c4ccbbcb3d96"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e9f6f5a4-8f6d-423f-a007-0ad4a3b36aaa"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6926634-2261-4905-85a3-44ab477cafdb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c4d8817-4c62-4713-9727-0bcdcf372aea"", ""inverseOntologyProperty"": """"}]"
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bruegel II. Introduction. Completed Text.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004818,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7071</priref>
+			<number>AFG_134_002</number>
+			<content>Bruegel II. Introduction. Completed Text.</content>
+			<object.object_number>AFG_134</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title/>
+			<parts.title>Flower Symbolism. Rolf Fritz, 'Aquilegia. Die symbolische Bedeutung der Akelei', Wallraf-Richartz-Jahrbuch  14 (1952), pp. 99-110.</parts.title>
+			<parts.title>Fall of Rebel Angels in Biblia Pauperum. W. [Walter] Lehmann, Die Parabel von den klugen und t&#246;richten Jungfrau, Berlin 1916 (Freibuger Dissertation).</parts.title>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Bruegel: Literature</object.title>
+			<object.creator/>
+			<input.date>2014-07-30</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<parts_reference/>
+			<parts_reference>AFG_134_006</parts_reference>
+			<parts_reference>AFG_134_005</parts_reference>
+			<edit.time>10:53:13</edit.time>
+			<input.time>10:40:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4818,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4818/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c77dc02e-68fb-595f-8ed6-376cf9823785"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9e32abe6-6ebe-4a3a-ab99-b3ba1c2d73f6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_002,repository numbers,,,,,,,,,,,,,,
+d557154c-ad55-5829-be94-23fecb55498e,tg:rubgr:4818,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_002,titles proper,Dutch (language),,,,,,,,,,,

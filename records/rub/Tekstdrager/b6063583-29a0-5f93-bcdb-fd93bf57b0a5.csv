@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2912,https://data.rubenianum.be//ark:/86530/b6063583-29a0-5f93-bcdb-fd93bf57b0a5,Handschriften,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2891,Verwijzing naar Grossmann object,,d94f901a-54f8-560e-bbed-211d613333d0,"[{""resourceId"": ""d94f901a-54f8-560e-bbed-211d613333d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ee73601-718e-4c85-a0b2-4fdc51d9ddcc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""35cec061-01a9-48f6-a361-079d3e8c77c1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7a324319-0dd1-489a-8fc1-51995f718135"", ""inverseOntologyProperty"": """"}]"
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[vouwblad] A. Riegl, Das holländische Gruppenporträt, Jahrbuch der kunsthistorischen Sammlungen des allerhöchsten Kaiserhauses XXIII (1902), Buchausgabe 1931, ciaten pp. 105-106.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:453591,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Riegl, Alois",,,,,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002912,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5154</priref>
+			<number>AFG_086_170</number>
+			<part_of_reference>AFG_086_149</part_of_reference>
+			<content>[vouwblad] A. Riegl, Das holl&#228;ndische Gruppenportr&#228;t, Jahrbuch der kunsthistorischen Sammlungen des allerh&#246;chsten Kaiserhauses XXIII (1902), Buchausgabe 1931, ciaten pp. 105-106.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Composition. Form. Entwicklung.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Riegl, Alois</keyword>
+			<object.creator/>
+			<documentation.author>Riegl, Alois</documentation.author>
+			<input.date>2014-04-10</input.date>
+			<edit.date>2014-04-11</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>holl&#228;ndische Gruppenportr&#228;t</documentation.title>
+			<edit.time>09:56:55</edit.time>
+			<edit.time>09:55:41</edit.time>
+			<edit.time>09:53:01</edit.time>
+			<input.time>17:07:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Das</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2912,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2912/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2e8f1909-37f3-5c7b-a3ad-5cc29eb295fb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d63b2fce-1bc0-4dfd-8b04-bba0609de46f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_170,repository numbers,,,,,,,,,,,,,,
+b6063583-29a0-5f93-bcdb-fd93bf57b0a5,tg:rubgr:2912,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_170,titles proper,Dutch (language),,,,,,,,,,,

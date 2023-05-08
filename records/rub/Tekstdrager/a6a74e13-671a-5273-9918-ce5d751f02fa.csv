@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3103,https://data.rubenianum.be//ark:/86530/a6a74e13-671a-5273-9918-ce5d751f02fa,Handschriften,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b42039ce-c3df-4c74-9485-1a64f5a4beac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0e88328-5b1a-475b-8a49-e417abc217d9"", ""inverseOntologyProperty"": """"}]"
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Besuch bei der Arme. Denucé: Herman de Neyt, 1642: Eenen voesterheer van Bos op paneel, met binnenlyst, N° 159 get.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Neyt, Herman de",,,,,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003103,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5428</priref>
+			<number>AFG_090_023</number>
+			<content>Ad [Addendum] Besuch bei der Arme. Denuc&#233;: Herman de Neyt, 1642: Eenen voesterheer van Bos op paneel, met binnenlyst, N&#176; 159 get.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Neyt, Herman de</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2014-07-16</edit.date>
+			<edit.date>2014-07-16</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:31:20</edit.time>
+			<edit.time>10:31:07</edit.time>
+			<input.time>16:07:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3103,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3103/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9781ca9d-7e0d-5824-adb6-35bf6c77a81f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f8f2c33d-f423-4c33-933f-7880cf484ed6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_023,repository numbers,,,,,,,,,,,,,,
+a6a74e13-671a-5273-9918-ce5d751f02fa,tg:rubgr:3103,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_023,titles proper,Dutch (language),,,,,,,,,,,
