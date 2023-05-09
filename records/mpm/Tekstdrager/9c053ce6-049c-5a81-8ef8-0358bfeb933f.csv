@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3708,https://data.rubenianum.be//ark:/86530/9c053ce6-049c-5a81-8ef8-0358bfeb933f,Handschriften,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_097,isad:rub:3021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_AssociatedArchives,3,kenmerken.rubobjnrgr,,,,,AFG_028,isad:rub:2958,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b2fcae6c-a15d-4fec-93bd-8d06445078fc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f0982a78-5bce-4895-b9e5-5c7d67379870"", ""inverseOntologyProperty"": """"}]"
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Naer het Leven. Ad Handwriting of Bruegel see Berlin, Alchemist with inscriptions; Return of Herd, Vienna [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_ExternalRelationsExtras,a::rub.30,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221183,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003708,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5961</priref>
+			<number>AFG_098_016</number>
+			<content>Ad [Addendum] Naer het Leven. Ad Handwriting of Bruegel see Berlin, Alchemist with inscriptions; Return of Herd, Vienna [...]</content>
+			<object.object_number>AFG_098</object.object_number>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_number>AFG_028</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Watermarks. Costume</object.title>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<object.title>The Months: The Return of the Herd</object.title>
+			<object.creator/>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<edit.date>2018-06-06</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>17:34:45</edit.time>
+			<edit.time>17:09:56</edit.time>
+			<edit.time>12:32:21</edit.time>
+			<edit.time>15:06:52</edit.time>
+			<input.time>15:01:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3708,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3708/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""aedbedd0-61ba-504b-b208-8808f2b83fb9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ada6c43-f8e0-475e-a717-3863ff2a9e7e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_016,repository numbers,,,,,,,,,,,,,,
+9c053ce6-049c-5a81-8ef8-0358bfeb933f,tg:rubgr:3708,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_016,titles proper,Dutch (language),,,,,,,,,,,

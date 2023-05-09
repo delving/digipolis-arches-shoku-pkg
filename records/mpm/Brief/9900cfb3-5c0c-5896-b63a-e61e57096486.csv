@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3551,https://data.rubenianum.be//ark:/86530/9900cfb3-5c0c-5896-b63a-e61e57096486,Brieven,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""64e078d6-ba81-426c-bc4c-5eb762d922fe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11c0a921-a30c-43dc-b0b3-f56c5c2294ad"", ""inverseOntologyProperty"": """"}]"
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Correspondence,1,,,,,,,,,,,,,,,,"Demus, Klaus",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19760129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1976-01-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd Kunsthistorisches Museum] Korte inhoud: Zag een werk van M. van Cleve met dezelfde motieven als in 'Kreupelen (Louvre). Vraagt FG's mening over het Bedaux artikel.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bedaux, Jan Baptist",,,,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003551,referentienummer,False,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5805</priref>
+			<recipient>Grossmann, Fritz</recipient>
+			<number>AFG_096_003</number>
+			<date.precise>1976-01-29</date.precise>
+			<content>[Briefhoofd Kunsthistorisches Museum] Korte inhoud: Zag een werk van M. van Cleve met dezelfde motieven als in 'Kreupelen (Louvre). Vraagt FG's mening over het Bedaux artikel.</content>
+			<object.object_number>AFG_096</object.object_number>
+			<object.object_name>correspondentie</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Correspondence with Klaus Demus (Bruegel &amp; M. van Cleve)</object.title>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Bedaux, Jan Baptist</keyword>
+			<sender>Demus, Klaus</sender>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2014-06-20</edit.date>
+			<edit.date>2014-06-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:19:55</edit.time>
+			<edit.time>11:19:10</edit.time>
+			<input.time>11:08:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3551,brocade id,False,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3551/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c9c58536-293c-56c9-9780-620b98a0d5be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea4de3a3-fefb-43ee-aec8-e0b5a877d91c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_096_003,repository numbers,,,,,,,,,,,
+9900cfb3-5c0c-5896-b63a-e61e57096486,tg:rubgr:3551,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_096_003,titles proper,Dutch (language),,,,,,,,

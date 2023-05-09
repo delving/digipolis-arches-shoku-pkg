@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1286,https://data.rubenianum.be//ark:/86530/b014b1f5-693d-5e78-a632-f784c21b8de6,Brieven,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d89c1a4d-c645-4184-a872-298697d4d896"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c0340dee-1a72-47cf-a285-45a76ba7126e"", ""inverseOntologyProperty"": """"}]"
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_Correspondence,1,,,,,,,,,,,,,,,,"Grafe, I.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19660613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1966-06-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd: Phaidon Press]. Korte inhoud: Zending afdrukken van 'Wedding Dance' in Detroit.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,219317,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grafe, I.",,,,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001286,referentienummer,False,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3535</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_034_001</number>
+			<date.precise>1966-06-13</date.precise>
+			<content>[Briefhoofd: Phaidon Press]. Korte inhoud: Zending afdrukken van 'Wedding Dance' in Detroit.</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<keyword>Grafe, I.</keyword>
+			<sender>Grafe, I.</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-03</input.date>
+			<edit.date>2013-11-07</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-08-03</edit.date>
+			<edit.date>2012-08-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:31:49</edit.time>
+			<edit.time>11:00:03</edit.time>
+			<edit.time>12:05:38</edit.time>
+			<edit.time>12:01:42</edit.time>
+			<input.time>11:32:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1286,brocade id,False,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1286/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""185eaaa9-661d-514f-926e-9ec535a4167d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ca8cf4d4-8d43-425d-b762-03b99cd32c7f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_001,repository numbers,,,,,,,,,,,
+b014b1f5-693d-5e78-a632-f784c21b8de6,tg:rubgr:1286,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_001,titles proper,Dutch (language),,,,,,,,

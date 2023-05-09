@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3778,https://data.rubenianum.be//ark:/86530/9892cbc0-4a4a-5640-aeb0-cdeb492180e6,Handschriften,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3773,Verwijzing naar Grossmann object,,be415676-bbca-5af1-b0e7-badbf3214ca4,"[{""resourceId"": ""be415676-bbca-5af1-b0e7-badbf3214ca4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf6e17cd-4bc0-40b9-a1a4-14fc91215b68"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3c1a74d9-6583-474e-9f4f-ea90fdfc999c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1362dbcf-f71d-44b5-b71c-ea00db6a7677"", ""inverseOntologyProperty"": """"}]"
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel technique, Winner, p. 130",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winner, Matthias",,,,,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003778,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6031</priref>
+			<number>AFG_099_016</number>
+			<part_of_reference>AFG_099_011</part_of_reference>
+			<content>Ad [Addendum] Bruegel technique, Winner, p. 130</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>F. Grossmann, Naer het Leven.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Winner, Matthias</keyword>
+			<object.creator/>
+			<input.date>2014-06-24</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:58:15</edit.time>
+			<edit.time>13:49:31</edit.time>
+			<edit.time>13:53:22</edit.time>
+			<input.time>13:53:17</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3778,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3778/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6ce3f675-7d8e-59c7-919c-4a7cba34833f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8fa0fd1d-e0c1-4b24-9478-8129cd4b7b24"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_016,repository numbers,,,,,,,,,,,,,,
+9892cbc0-4a4a-5640-aeb0-cdeb492180e6,tg:rubgr:3778,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_016,titles proper,Dutch (language),,,,,,,,,,,

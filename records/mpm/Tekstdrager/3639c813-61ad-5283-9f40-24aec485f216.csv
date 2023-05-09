@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4428,https://data.rubenianum.be//ark:/86530/3639c813-61ad-5283-9f40-24aec485f216,Handschriften,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_094,isad:rub:3020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4ef2e901-22ed-49b3-baa9-e9af9799e535"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1a3e8cd9-481f-4a1c-929a-253a275d049d"", ""inverseOntologyProperty"": """"}]"
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bruegel: Encyclopaedia Brittannica.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004428,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6681</priref>
+			<number>AFG_112_035</number>
+			<content>Bruegel: Encyclopaedia Brittannica.</content>
+			<object.object_number>AFG_112</object.object_number>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Van Gelder Album Amicorum &amp; Encyclopedia Britannica</object.title>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2014-07-14</input.date>
+			<edit.date>2014-07-14</edit.date>
+			<edit.date>2014-07-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:30:03</edit.time>
+			<edit.time>09:16:50</edit.time>
+			<input.time>09:15:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4428,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4428/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b82df369-7d08-5c9c-92ee-aacbc77578f3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0cbfb41d-380f-4ec2-8083-d13f4c6e6c1f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_112_035,repository numbers,,,,,,,,,,,,,,
+3639c813-61ad-5283-9f40-24aec485f216,tg:rubgr:4428,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_112_035,titles proper,Dutch (language),,,,,,,,,,,

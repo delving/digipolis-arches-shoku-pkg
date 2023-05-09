@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4546,https://data.rubenianum.be//ark:/86530/830f894d-b9d0-585b-b541-087f9da42f8c,Handschriften,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""32e4a441-bc92-462d-8c70-becb1f1dda6c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ee13dbc-5b8b-4d4a-a138-4cae86581229"", ""inverseOntologyProperty"": """"}]"
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"F. Hogenberg stellt der 1562 Verbildung der Prophezeiung in Matth. 25, Hollstein; Alba partly rehabilitated by R.B Merriman & E.L. Tenison [= The rise of the Spanish empire in the old world and in the new, 4v. New York: Cooper, 1962]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004546,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6799</priref>
+			<number>AFG_116_033</number>
+			<content>F. Hogenberg stellt der 1562 Verbildung der Prophezeiung in Matth. 25, Hollstein; Alba partly rehabilitated by R.B Merriman &amp; E.L. Tenison [= The rise of the Spanish empire in the old world and in the new, 4v. New York: Cooper, 1962]</content>
+			<object.object_number>AFG_116</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Miscellanea Bruegel &amp; others not needed at present</object.title>
+			<keyword>Hogenberg, Frans</keyword>
+			<object.creator/>
+			<input.date>2014-07-16</input.date>
+			<edit.date>2014-07-16</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:39:15</edit.time>
+			<input.time>13:31:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4546,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4546/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f5cec745-e321-56cb-84d1-c5af301e5411"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5de470b7-ffcc-4e01-8e84-6676cd2e627b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_OriginalBrocade,,,au::107096,,,,,,,,,,,,,,rub,5810a6b6-9a25-5c10-833c-f5f6534dce64,kw,,au::107096:1,au::107096g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11459272"",""au::107096"",""au::107096:1"",""ark:/83110/x0/5810a6b6-9a25-5c10-833c-f5f6534dce64"",""Frans Hogenberg""],""name"":""Frans Hogenberg"",""ark"":""ark:/83110/x0/5810a6b6-9a25-5c10-833c-f5f6534dce64"",""uri"":""/agents/people/11459272"",""id"":""au::107096:1"",""isCapacity"":false}",ark:/83110/x0/5810a6b6-9a25-5c10-833c-f5f6534dce64,agent,,,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_033,repository numbers,,,,,,,,,,,,,,
+830f894d-b9d0-585b-b541-087f9da42f8c,tg:rubgr:4546,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_116_033,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2325,https://data.rubenianum.be//ark:/86530/b026ccb7-f796-534d-8307-71faa11e34eb,Handschriften,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7952729-ad04-47c3-a665-718c2db03310"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b3bc60ed-3bc8-4db4-81e6-7c1766983756"", ""inverseOntologyProperty"": """"}]"
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gianfranco CHIODAROLI, Un quadro di Giovanni Brueghel per il Cardinale Federico Borromeo, in: Arte Lombarda, II, 1956, pp. 186-187= A Temptation of St. Anthony, now in a Milan private coll. (repr. p. 187) painted by Jan B. in 1608.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Borromeo, Federico",,,,,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Chiodaroli, Gianfranco",,,,,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002325,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4568</priref>
+			<number>AFG_077_009</number>
+			<content>Gianfranco CHIODAROLI, Un quadro di Giovanni Brueghel per il Cardinale Federico Borromeo, in: Arte Lombarda, II, 1956, pp. 186-187= A Temptation of St. Anthony, now in a Milan private coll. (repr. p. 187) painted by Jan B. in 1608.</content>
+			<object.object_number>AFG_077</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Grossmann 242</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Borromeo, Federico</keyword>
+			<keyword>Chiodaroli, Gianfranco</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-06-04</input.date>
+			<edit.date>2014-11-27</edit.date>
+			<edit.date>2014-11-27</edit.date>
+			<edit.date>2013-06-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:36:00</edit.time>
+			<edit.time>15:34:16</edit.time>
+			<edit.time>10:14:32</edit.time>
+			<input.time>12:14:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2325,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2325/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""72dfc8ee-02e1-51f4-8f48-1609b05c0f8f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6d9f2668-2b11-432f-8f00-30dbea601178"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_009,repository numbers,,,,,,,,,,,,,,
+b026ccb7-f796-534d-8307-71faa11e34eb,tg:rubgr:2325,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_009,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,69 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:660,https://data.rubenianum.be//ark:/86530/de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,Handschriften,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""59737087-cd7d-4a58-a051-90a418eb48a9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c831ff9-59ad-48c1-a949-c3629a05ae6c"", ""inverseOntologyProperty"": """"}]"
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] F.J. [Jos] van den Branden, Geschiedenis der Antwerpsche schilderschool, Antwerpen [Buschmann] 1883, pp. 604-606: Marten Ryckaert (8 Dec. 1587- 28-10?-1631), citaten p. 605 [...] conflict of sister with brother, p. 606 [...] een landschapken wesende een vlidinge van Onse Lieve Vrouwe naer Egypte [...] ; [verso] p. 606: andere Landschappen waervan twee onvoltooid [...] p. 466 (collection Hendrik van Balen) Het portret van den schilder Marten Ryckaert.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:151741,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_ExternalRelationsExtras,a::rub.19,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,259911,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Balen, Hendrick van",,,,,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ryckaert, Marten",,,,,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000660,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2911</priref>
+			<number>AFG_015_017</number>
+			<content>[recto] F.J. [Jos] van den Branden, Geschiedenis der Antwerpsche schilderschool, Antwerpen [Buschmann] 1883, pp. 604-606: Marten Ryckaert (8 Dec. 1587- 28-10?-1631), citaten p. 605 [...] conflict of sister with brother, p. 606 [...] een landschapken wesende een vlidinge van Onse Lieve Vrouwe naer Egypte [...] ; [verso] p. 606: andere Landschappen waervan twee onvoltooid [...] p. 466 (collection Hendrik van Balen) Het portret van den schilder Marten Ryckaert.</content>
+			<object.object_number>AFG_015</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Flight into Egypt</object.title>
+			<keyword>Balen, Hendrick van</keyword>
+			<keyword>Ryckaert, Marten</keyword>
+			<keyword>Branden, F. Jos. van den</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Branden, F. Jos. van den</documentation.author>
+			<input.date>2012-01-18</input.date>
+			<edit.date>2015-02-20</edit.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Geschiedenis der Antwerpsche schilderschool</documentation.title>
+			<edit.time>16:26:16</edit.time>
+			<edit.time>13:42:59</edit.time>
+			<edit.time>12:42:07</edit.time>
+			<edit.time>12:39:45</edit.time>
+			<edit.time>15:53:09</edit.time>
+			<edit.time>10:45:32</edit.time>
+			<edit.time>10:44:05</edit.time>
+			<input.time>10:40:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:660,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:660/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8598d655-c8e5-54cc-9743-0494d2301418"", ""ontologyProperty"": """", ""resourceXresourceId"": ""510485bc-be36-4268-8f25-8bf3c80139e6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_OriginalBrocade,,,au::2751,,,,,,,,,,,,,,rub,5a9653b2-3bb8-55fd-b302-883f2a39bcf3,kw,,au::2751:1,au::2751g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/294357"",""au::2751"",""au::2751:1"",""ark:/83110/x0/5a9653b2-3bb8-55fd-b302-883f2a39bcf3"",""Frans Jos van den Branden""],""name"":""Frans Jos van den Branden"",""ark"":""ark:/83110/x0/5a9653b2-3bb8-55fd-b302-883f2a39bcf3"",""uri"":""/agents/people/294357"",""id"":""au::2751:1"",""isCapacity"":false}",ark:/83110/x0/5a9653b2-3bb8-55fd-b302-883f2a39bcf3,agent,,,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_017,repository numbers,,,,,,,,,,,,,,
+de85f5aa-1d4e-5dfe-8622-c1f5b1c12f24,tg:rubgr:660,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_017,titles proper,Dutch (language),,,,,,,,,,,

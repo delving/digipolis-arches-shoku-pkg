@@ -1,0 +1,109 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2135,https://data.rubenianum.be//ark:/86530/279df6b0-d5ee-595b-abd1-0611543727eb,Handschriften,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2134,Verwijzing naar Grossmann object,,a1abfd6f-fbc9-5071-b8f5-4fee5c7cdac9,"[{""resourceId"": ""a1abfd6f-fbc9-5071-b8f5-4fee5c7cdac9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bb2e89c2-d661-43f7-b2fc-89337344fc94"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b868e518-334a-4be2-b607-0a3c68b3013e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d5f20280-4d30-4e60-9c3a-4b7586aeb910"", ""inverseOntologyProperty"": """"}]"
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 87. Ad Baum. Clovio. Denucé, p. 101: Inv. Herman de Neyt, Oct. 1642. Een lantschapken van Bruegel, hebbende eenen hoogen boom int midden, get. zynde; [toegevoegde vermelding FG]: 'cf. Landschaftsgemälde wiedergegeben rechts unten auf einem 'gemalte Galerie: Venus und Amor in einer Kunstkammer von Jan Bruegel (?) in Johnson Coll. Philadelphia repr. Denucé, pl.5 (gegenüber p.97) und diese Landschaft hat eine gewiße Ähnlichkeit mit der Landschaft auf Grecos Clovio Porträt. Das Bild bei Johnson; [verso] auch in Ausstellung [C.C. Cunningham], Pictures within Pictures, Hartford, Conn.], 1949, N°8, pl. VI. Diese Landschaft ist im Austellungskatalog Jan Brueghel zugeschrieben -könnte aber auch nach meinen Meinung von Savery, oder sonst jemanden später als P. Bruegel sein, kommt also hier nicht in Betrachtung.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13254094,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greco, El",,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Neyt, Herman de",,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Philadelphia, Philadelphia Museum of Art",,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Napels, Museo Nazionale di Capodimonte",,,,,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002135,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4369</priref>
+			<number>AFG_058_049</number>
+			<part_of_reference>AFG_058_048</part_of_reference>
+			<content>[recto] Ad [Addendum] 87. Ad Baum. Clovio. Denuc&#233;, p. 101: Inv. Herman de Neyt, Oct. 1642. Een lantschapken van Bruegel, hebbende eenen hoogen boom int midden, get. zynde; [toegevoegde vermelding FG]: 'cf. Landschaftsgem&#228;lde wiedergegeben rechts unten auf einem 'gemalte Galerie: Venus und Amor in einer Kunstkammer von Jan Bruegel (?) in Johnson Coll. Philadelphia repr. Denuc&#233;, pl.5 (gegen&#252;ber p.97) und diese Landschaft hat eine gewi&#223;e &#196;hnlichkeit mit der Landschaft auf Grecos Clovio Portr&#228;t. Das Bild bei Johnson; [verso] auch in Ausstellung [C.C. Cunningham], Pictures within Pictures, Hartford, Conn.], 1949, N&#176;8, pl. VI. Diese Landschaft ist im Austellungskatalog Jan Brueghel zugeschrieben -k&#246;nnte aber auch nach meinen Meinung von Savery, oder sonst jemanden sp&#228;ter als P. Bruegel sein, kommt also hier nicht in Betrachtung.</content>
+			<object.object_number>AFG_058</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Clovio. 63b: Turm von Babel; 63c: Ansicht von Lyon; 63d: Baumstudie; 63e: Miniatur gemeinsam mit Clovio (74-77); My Nos. 85-88.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost works known from literary sources</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>Greco, El</keyword>
+			<keyword>Savery, Roelant</keyword>
+			<keyword>Neyt, Herman de</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>Philadelphia, Philadelphia Museum of Art</keyword>
+			<keyword>Napels, Museo Nazionale di Capodimonte</keyword>
+			<object.creator/>
+			<documentation.author>Cunningham, C.C.</documentation.author>
+			<input.date>2013-04-04</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<edit.date>2013-04-04</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pictures within pictures</documentation.title>
+			<edit.time>13:38:05</edit.time>
+			<edit.time>12:36:36</edit.time>
+			<edit.time>11:19:28</edit.time>
+			<edit.time>11:18:56</edit.time>
+			<edit.time>11:16:14</edit.time>
+			<edit.time>11:16:03</edit.time>
+			<edit.time>11:15:08</edit.time>
+			<edit.time>11:14:17</edit.time>
+			<edit.time>11:12:43</edit.time>
+			<edit.time>11:04:15</edit.time>
+			<edit.time>11:04:06</edit.time>
+			<edit.time>11:03:15</edit.time>
+			<edit.time>10:59:08</edit.time>
+			<edit.time>10:56:05</edit.time>
+			<input.time>10:29:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2135,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2135/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fc7cefd5-062f-50b3-a9b1-5ebad692bc47"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0b1718b9-0ed1-4e57-8f15-c2ceeed38e94"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,rub,68745e68-be77-5308-846a-b1ac1c29f49d,kw,,au::16398:1,au::16398g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_049,repository numbers,,,,,,,,,,,,,,
+279df6b0-d5ee-595b-abd1-0611543727eb,tg:rubgr:2135,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_058_049,titles proper,Dutch (language),,,,,,,,,,,

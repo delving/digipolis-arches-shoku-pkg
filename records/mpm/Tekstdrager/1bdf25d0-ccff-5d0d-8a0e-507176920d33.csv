@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5319,https://data.rubenianum.be//ark:/86530/1bdf25d0-ccff-5d0d-8a0e-507176920d33,Handschriften,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6c31d358-192d-47f4-8e42-a78ac6b18c8e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2b16709c-cc97-4585-b284-f6bb2b5b8594"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9398f7ff-0c2b-41a7-b362-f5ab982ef610"", ""inverseOntologyProperty"": """"}]"
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1975.0,2090,In Copyright,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19751023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1975-10-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto-verso] Bruegel exh. Ad [Addendum] 179 Die Verdammten (Abb. 2) Central figure like in Michelangelo relief of Lapith & Centaurs, very delicate lines behind the figure [...]; [verso] A. Châtelet, 'Sur un jugement dernier de Dieric Bouts', Nederlands Kunsthistorisch Jaarboek XVI (1965), pp. 17-42[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Michelangelo,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Châtelet, Albert",,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winkler, Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005319,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7576</priref>
+			<number>AFG_145_049</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<date.precise>1975-10-23</date.precise>
+			<content>[recto-verso] Bruegel exh. Ad [Addendum] 179 Die Verdammten (Abb. 2) Central figure like in Michelangelo relief of Lapith &amp; Centaurs, very delicate lines behind the figure [...]; [verso] A. Ch&#226;telet, 'Sur un jugement dernier de Dieric Bouts', Nederlands Kunsthistorisch Jaarboek XVI (1965), pp. 17-42[scan]</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Bouts, Dirk I</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>Michelangelo</keyword>
+			<keyword>Ch&#226;telet, Albert</keyword>
+			<keyword>Winkler, Friedrich</keyword>
+			<object.creator/>
+			<input.date>2014-08-20</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>11:58:34</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5319,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5319/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c7fe3608-de84-5389-bf3a-b4df994e3c8f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""abee0804-aaa4-4e2c-985c-acc171832937"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_OriginalBrocade,,,au::2629,,,,,,,,,,,,,,rub,87da1219-cff3-5517-b1a8-73df5a10a5f0,kw,,au::2629:1,au::2629g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/281303"",""au::2629"",""au::2629:1"",""ark:/83110/x0/87da1219-cff3-5517-b1a8-73df5a10a5f0"",""Dirk Bouts""],""name"":""Dirk Bouts"",""ark"":""ark:/83110/x0/87da1219-cff3-5517-b1a8-73df5a10a5f0"",""uri"":""/agents/people/281303"",""id"":""au::2629:1"",""isCapacity"":false}",ark:/83110/x0/87da1219-cff3-5517-b1a8-73df5a10a5f0,agent,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_049,repository numbers,,,,,,,,,,,,,,
+1bdf25d0-ccff-5d0d-8a0e-507176920d33,tg:rubgr:5319,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_049,titles proper,Dutch (language),,,,,,,,,,,

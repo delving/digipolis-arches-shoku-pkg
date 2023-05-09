@@ -1,0 +1,105 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:792,https://data.rubenianum.be//ark:/86530/b493631f-97e7-5507-812e-fc6a24f0c2c6,Handschriften,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:746,Verwijzing naar Grossmann object,,c7a63c4f-68c5-5880-8654-aebc9c88ae40,"[{""resourceId"": ""c7a63c4f-68c5-5880-8654-aebc9c88ae40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d3644b18-faeb-469d-86bd-8c039d4d4100"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_AssociatedRecords,3,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:793,Verwijzing naar Grossmann object,,55bb53fc-3d06-5cd2-b7ff-c6b88f9ec773,"[{""resourceId"": ""55bb53fc-3d06-5cd2-b7ff-c6b88f9ec773"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5d8d74dc-aa88-4a90-ae28-1f9d973d23bc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9a9c69b9-7125-4854-938b-bb1fa49aa646"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f1c8f779-bc66-4a51-9da3-fe8433d631ad"", ""inverseOntologyProperty"": """"}]"
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"In Italy: in XV & XVI. Towers of Babel apparently only in Venice (to be explained by presence of Patenier's picture and Breviarium Grimani?) in several bookillustrations (see [Arthur M.] Hind, History of Woodcut, [London: Constable, 1935], (Venetian woodcuts may have influenced Holbein's woodcut of Babel)/ index; and [Leandro] Bassano (National Gallery, N° 60 - according to Mrs. Sauerländer); [verso] Breviarium Grimani was the source for Clovio's tower of Babel and perhaps for Bruegel last one too. Bruegel may have got to know Breviarium Grimani through Clovio. Query: since when was Scorel's Tower of Babel in Venice?",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:6686268,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bassano, Leandro",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Scorel, Jan van",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,breviarium Grimani,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,6,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verlucht handschrift,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,7,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,8,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hind, Arthur Mayger",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Keywords,9,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, National Gallery of Art",,,,,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000792,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3043</priref>
+			<number>AFG_017_085</number>
+			<part_of_reference>AFG_017_039</part_of_reference>
+			<part_of_reference>AFG_017_086</part_of_reference>
+			<content>In Italy: in XV &amp; XVI. Towers of Babel apparently only in Venice (to be explained by presence of Patenier's picture and Breviarium Grimani?) in several bookillustrations (see [Arthur M.] Hind, History of Woodcut, [London: Constable, 1935], (Venetian woodcuts may have influenced Holbein's woodcut of Babel)/ index; and [Leandro] Bassano (National Gallery, N&#176; 60 - according to Mrs. Sauerl&#228;nder); [verso] Breviarium Grimani was the source for Clovio's tower of Babel and perhaps for Bruegel last one too. Bruegel may have got to know Breviarium Grimani through Clovio. Query: since when was Scorel's Tower of Babel in Venice?</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Towers of Babel. Reproductions. Towers of Babel by other Artists.</part_of.title>
+			<part_of.title>Ad [Addendum] Bruegel. Hind, Woodcut. Turm von Babel, p. 357, 457 (fig. 217), 458, 466, 724, 730, 733, 741. Look up Hind, [Early] Italian Engraving [A Critical Catalogue with Complete Reproduction of All the Prints Described] 7 vols., London: Quaritch, 1938-1948].</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Bassano, Leandro</keyword>
+			<keyword>Clovio, Giulio</keyword>
+			<keyword>Holbein, Hans II</keyword>
+			<keyword>Patinir, Joachim</keyword>
+			<keyword>Scorel, Jan van</keyword>
+			<keyword>breviarium Grimani</keyword>
+			<keyword>verlucht handschrift</keyword>
+			<keyword>prentkunst</keyword>
+			<keyword>Hind, Arthur Mayger</keyword>
+			<keyword>Londen, National Gallery of Art</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Hind, Arthur M.</documentation.author>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2014-08-29</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2012-12-11</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-06-14</edit.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark>Niet in R.</documentation.shelfmark>
+			<documentation.title>introduction to a history of woodcut</documentation.title>
+			<edit.time>11:56:35</edit.time>
+			<edit.time>11:56:20</edit.time>
+			<edit.time>16:31:28</edit.time>
+			<edit.time>10:18:03</edit.time>
+			<edit.time>14:44:07</edit.time>
+			<edit.time>14:43:01</edit.time>
+			<edit.time>15:29:31</edit.time>
+			<edit.time>14:03:50</edit.time>
+			<edit.time>11:03:14</edit.time>
+			<edit.time>10:48:38</edit.time>
+			<edit.time>10:47:15</edit.time>
+			<input.time>10:39:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>An</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:792,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:792/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""628dbe11-4632-50db-b1de-cae29aa9e774"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ee97507-2916-458a-8cd2-c07efffca5a0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_OriginalBrocade,,,au::45623,,,,,,,,,,,,,,rub,7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,kw,,au::45623:1,au::45623g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4881661"",""au::45623"",""au::45623:1"",""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""Joachim Patenir""],""name"":""Joachim Patenir"",""ark"":""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""uri"":""/agents/people/4881661"",""id"":""au::45623:1"",""isCapacity"":false}",ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,agent,,,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_085,repository numbers,,,,,,,,,,,,,,
+b493631f-97e7-5507-812e-fc6a24f0c2c6,tg:rubgr:792,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_085,titles proper,Dutch (language),,,,,,,,,,,

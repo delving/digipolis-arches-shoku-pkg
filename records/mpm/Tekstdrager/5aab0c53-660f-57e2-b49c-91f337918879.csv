@@ -1,0 +1,73 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1341,https://data.rubenianum.be//ark:/86530/5aab0c53-660f-57e2-b49c-91f337918879,Handschriften,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_035,isad:rub:2965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1342,Verwijzing naar Grossmann object,,d60be965-c5d4-5af2-a2bc-a5b58777763a,"[{""resourceId"": ""d60be965-c5d4-5af2-a2bc-a5b58777763a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2cce0e3a-9dce-4fc5-ba17-2eac290f1b9a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:1343,Verwijzing naar Grossmann object,,a9b29e87-76d4-5cc5-94d3-b8f2cab024b2,"[{""resourceId"": ""a9b29e87-76d4-5cc5-94d3-b8f2cab024b2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""994efa95-8be7-4300-977d-d7700535b2ea"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8d68cb7-a15f-423a-bdbb-74d0cd9e2033"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a0f2af2f-c559-465f-a0f5-0e6c44f74fd1"", ""inverseOntologyProperty"": """"}]"
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[1 blad] Svetlana Alpers, University of California, Berkeley. Festive Peasants from Bruegel to Rubens. C.A.A. Meeting Detroit 1974. Renaissance and Baroque: New Approaches to Old Art. Chairman: David Rosand, Columbia University; [notitie Alpers]: 'For F.G.'; [notitie FG bij punt 1: ""genuine burst of interest in peasants ...16th century""] : ""This existed already in XV C.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,219317,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Alpers, Svetlana",,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rosand, David",,,,,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001341,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3588</priref>
+			<number>AFG_035_007</number>
+			<part_of_reference>AFG_035_008</part_of_reference>
+			<content>[1 blad] Svetlana Alpers, University of California, Berkeley. Festive Peasants from Bruegel to Rubens. C.A.A. Meeting Detroit 1974. Renaissance and Baroque: New Approaches to Old Art. Chairman: David Rosand, Columbia University; [notitie Alpers]: 'For F.G.'; [notitie FG bij punt 1: ""genuine burst of interest in peasants ...16th century""] : ""This existed already in XV C.""</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_number>AFG_035</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>correspondentie</object.object_name>
+			<part_of.title>[38 pagina's] Svetlana Alpers, Bruegel's Festive Peasants; [toegevoegde vermelding] [F.G. handschrift] published in Simiolus VI, 1972/73, pp. 163-176.</part_of.title>
+			<parts.title>[2 bladen] [blad 1, recto] General good analysis [onleesbaar] comic element: I was insisting in opposition to Friedl&#228;nder and van Bastelaer, perhaps overstating my case. 1) Kermis of Hoboken (Lebeer, N&#176;30) whether Bruegel or Hogenberg. The inscription condemns the behavior of the peasants [onleesbaar] 2) on the other hand, in the Kermis of St. George (Lebeer, N&#176; 52) the banner is inscribed Laet die boeren haer kermis houwen; 3) Wedding Dance (Lebeer N&#176; 61) Inscription contains no moral judgment; [toegevoegde vermelding bij de 3 punten]: 'communicated to S. Alpers in postcard 5-3-75; 
+[blad 1, verso] Alpers: where to be published? Comparison with other Netherlandish Kermis? Dance representation needed: Aertsen Peasant Feast, Drawing Dresden (for Vienna painting, look up), in J. Bruyn Master Drawings III/4, 165, pl. 3b (Look up Emmens on Aertsen); p. 8 doubtful. Also inscription on one of the prints: Let the peasants have their [onleesbaar][=Kermis]. Schlosser  (Arme Leute Kunst) [= Julius von Schlosser, Armeleutekunst, in: Jahrbuch f&#252;r Kunstsammler 1 (1921), pp. 47-66] about peasant &amp; court to be mentioned go back to 1400; [toegevoegde vermelding]: 'F.G. Turning to Peasants rethinkable turning to vernacular in literature; p. 14/15 on relationship of observant figures-very good; [blad 2, recto] Dog toying stealing food from a basket: 1) Master of Prodigal Son (Marlier) L'Atelier du Ma&#238;tre du Fils Prodigue, Jaarboek 1961, Koninklijk Museum voor Schone Kunsten, p. 11, fig. 3; Ma&#238;tre du Fils Prodique, Les Oeuvres de Mis&#233;ricorde, Valenciennes, Mus&#233;e des Beaux-Arts; 2) Mandijn (Faggin) G.T. Faggin, La pittura ad Anversa al cinquecento, Florence 1918, pl. 97 Grotesque Banquet attrib. to Jan Mandijn (I am not sure) Gilboa, Museo; [blad 2, verso] de Bellas Artes. The attrib. to Mandijn is not wholly convincing.</parts.title>
+			<class>AFG</class>
+			<editorial_form>typoscript</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.title/>
+			<keyword>Alpers, Svetlana</keyword>
+			<keyword>Rosand, David</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-20</input.date>
+			<edit.date>2012-10-02</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<edit.date>2012-08-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_035_009</parts_reference>
+			<edit.time>13:37:04</edit.time>
+			<edit.time>11:07:50</edit.time>
+			<edit.time>11:06:58</edit.time>
+			<edit.time>11:05:58</edit.time>
+			<edit.time>14:23:18</edit.time>
+			<edit.time>14:14:58</edit.time>
+			<edit.time>14:08:25</edit.time>
+			<input.time>14:03:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1341,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1341/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""291608bb-a96d-5868-8319-a48d37909801"", ""ontologyProperty"": """", ""resourceXresourceId"": ""39d8e7e9-cfcc-4ec7-9060-f6610a0eac13"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_035_007,repository numbers,,,,,,,,,,,,,,
+5aab0c53-660f-57e2-b49c-91f337918879,tg:rubgr:1341,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_035_007,titles proper,Dutch (language),,,,,,,,,,,

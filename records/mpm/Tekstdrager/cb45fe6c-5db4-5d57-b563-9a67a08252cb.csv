@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3681,https://data.rubenianum.be//ark:/86530/cb45fe6c-5db4-5d57-b563-9a67a08252cb,Handschriften,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3678,Verwijzing naar Grossmann object,,9ec4e8b9-83c5-5797-9a11-32ded20dd9bb,"[{""resourceId"": ""9ec4e8b9-83c5-5797-9a11-32ded20dd9bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b0c44e08-6f20-4940-bbb7-4924f457b8f6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3a836a57-7c3f-49f7-9e32-89caf90bea99"", ""ontologyProperty"": """", ""resourceXresourceId"": ""de530d96-3218-45d1-a363-5d0838022e56"", ""inverseOntologyProperty"": """"}]"
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1]Handwriting: Apart from formalised signatures and as formalised inscriptions [...]; [blad 2] Teh alphabet as put together by only partly van Leenwen, fig. 3 [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003681,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5934</priref>
+			<number>AFG_097_127</number>
+			<part_of_reference>AFG_097_124</part_of_reference>
+			<content>[2 bladen] [blad 1]Handwriting: Apart from formalised signatures and as formalised inscriptions [...]; [blad 2] Teh alphabet as put together by only partly van Leenwen, fig. 3 [...][scan]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Who wrote the words 'naert leven'? Th esame artist who made the drawings &amp; the colour notes? Handwriting:van Leeuwen (2x), Marijnissen, see Spicer's dissertation on Savery, Bijlage Varekamp [...]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:58:46</edit.time>
+			<edit.time>11:15:52</edit.time>
+			<input.time>11:57:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3681,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3681/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""051df791-f40f-5a88-a1d4-123a671064b9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""50075cce-26d4-483a-bfb3-7b4bdcac6b2b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_127,repository numbers,,,,,,,,,,,,,,
+cb45fe6c-5db4-5d57-b563-9a67a08252cb,tg:rubgr:3681,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_127,titles proper,Dutch (language),,,,,,,,,,,

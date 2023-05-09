@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1211,https://data.rubenianum.be//ark:/86530/4d14c284-092e-500d-99e1-16aaa3726240,Handschriften,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d957953b-4171-4414-a630-312b15c5f8c3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""62b41a19-106e-47df-ad67-354fd9ba520d"", ""inverseOntologyProperty"": """"}]"
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Kindermord. [Frits] Lugt, Marques [= Les marques de collections de dessins & d'estampes, Amsterdam: Vereenigde drukkerij, 1921-1956] Nrs. 1462, 1463: Joseph Grünling, Vente, Vienne, 25 Febr[uary] - 19 Mars 1823, Dessins. Descriptions très détaillés, p. 266 P. Brueghel le Vieux, Le Massacre des Innocents, dessin pour le tableau de Vienne 15FL. 3kr. Look up!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13264005,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001211,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3468</priref>
+			<number>AFG_029_020</number>
+			<content>Bruegel: Kindermord. [Frits] Lugt, Marques [= Les marques de collections de dessins &amp; d'estampes, Amsterdam: Vereenigde drukkerij, 1921-1956] Nrs. 1462, 1463: Joseph Gr&#252;nling, Vente, Vienne, 25 Febr[uary] - 19 Mars 1823, Dessins. Descriptions tr&#232;s d&#233;taill&#233;s, p. 266 P. Brueghel le Vieux, Le Massacre des Innocents, dessin pour le tableau de Vienne 15FL. 3kr. Look up!</content>
+			<object.object_number>AFG_029</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Massacre of the Innocents</object.title>
+			<keyword>Lugt, Frits</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Lugt, Frits</documentation.author>
+			<input.date>2012-07-18</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-12-11</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>marques de collections de dessins &amp; d'estampes : marques estampill&#233;es et &#233;crites de collections particuli&#232;res et publiques : marques de marchands, de monteurs et d'imprimeurs : cachets de vente d'artistes d&#233;c&#233;d&#233;s : marques de graveurs appos&#233;es apr&#232;s le tirage des planches : timbres d'&#233;dition : etc. : avec des notices historiques sur les collectionneurs, les collections, les ventes, les marchands et &#233;diteurs, etc.</documentation.title>
+			<edit.time>09:27:53</edit.time>
+			<edit.time>10:52:52</edit.time>
+			<edit.time>09:35:19</edit.time>
+			<edit.time>09:34:35</edit.time>
+			<edit.time>09:32:56</edit.time>
+			<edit.time>09:20:35</edit.time>
+			<edit.time>09:14:58</edit.time>
+			<input.time>09:13:46</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Les</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1211,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1211/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1b241f7a-5422-50fa-a3da-317092a8080d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fcfa9096-b092-4039-8646-1f74da4fab77"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_020,repository numbers,,,,,,,,,,,,,,
+4d14c284-092e-500d-99e1-16aaa3726240,tg:rubgr:1211,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_020,titles proper,Dutch (language),,,,,,,,,,,

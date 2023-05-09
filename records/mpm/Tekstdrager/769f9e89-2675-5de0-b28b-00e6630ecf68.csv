@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:662,https://data.rubenianum.be//ark:/86530/769f9e89-2675-5de0-b28b-00e6630ecf68,Handschriften,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5cf6c96e-1539-4f20-b7e8-644d7fd14914"", ""ontologyProperty"": """", ""resourceXresourceId"": ""45806217-145d-443c-9619-40da024e4f59"", ""inverseOntologyProperty"": """"}]"
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Flight into Egypt. The falling idol in shrine attached to a tree already in Patinier, Beuningen (Catal. Harmonie, N° 27 (Pl. 32), with important note!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_ExternalRelationsExtras,a::rub.19,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,259911,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000662,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2913</priref>
+			<number>AFG_015_019</number>
+			<content>Bruegel: Flight into Egypt. The falling idol in shrine attached to a tree already in Patinier, Beuningen (Catal. Harmonie, N&#176; 27 (Pl. 32), with important note!</content>
+			<object.object_number>AFG_015</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Flight into Egypt</object.title>
+			<keyword>Patinir, Joachim</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-18</input.date>
+			<edit.date>2012-06-11</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<edit.date>2012-01-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:19:55</edit.time>
+			<edit.time>13:24:27</edit.time>
+			<edit.time>16:14:17</edit.time>
+			<edit.time>11:04:42</edit.time>
+			<input.time>10:56:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:662,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:662/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ce9883b7-3082-5d59-b6d1-7eb4a68a5413"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1550c943-f854-4ac6-9a9b-2dc21231a9c2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_OriginalBrocade,,,au::45623,,,,,,,,,,,,,,rub,7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,kw,,au::45623:1,au::45623g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4881661"",""au::45623"",""au::45623:1"",""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""Joachim Patenir""],""name"":""Joachim Patenir"",""ark"":""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""uri"":""/agents/people/4881661"",""id"":""au::45623:1"",""isCapacity"":false}",ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,agent,,,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_019,repository numbers,,,,,,,,,,,,,,
+769f9e89-2675-5de0-b28b-00e6630ecf68,tg:rubgr:662,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_019,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5203,https://data.rubenianum.be//ark:/86530/ba35fd61-2f30-5beb-8d8d-72d5974ee937,Handschriften,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5192,Verwijzing naar Grossmann object,,9b7b8e3a-42c0-502b-a70d-0da6565f8ef2,"[{""resourceId"": ""9b7b8e3a-42c0-502b-a70d-0da6565f8ef2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aefa8cd9-7283-46c4-a163-15f3925f6f00"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""646392fa-1ee1-4800-ad74-9f667de3fc15"", ""ontologyProperty"": """", ""resourceXresourceId"": ""68a3a2c7-dfdb-41d3-abeb-a2a6f7685a02"", ""inverseOntologyProperty"": """"}]"
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hermann Rüttimann, Der Bau- und Kunstbetrieb der Cistercienser unter dem Einflusse der Ordensgesetzgebung im 12. und 13. Jahrhundert, Bregenz, 1911, citaten p. 44-46",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glasschilderkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005203,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7459</priref>
+			<number>AFG_143_082</number>
+			<part_of_reference>AFG_143_071</part_of_reference>
+			<content>Hermann R&#252;ttimann, Der Bau- und Kunstbetrieb der Cistercienser unter dem Einflusse der Ordensgesetzgebung im 12. und 13. Jahrhundert, Bregenz, 1911, citaten p. 44-46</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Grisaille. Printing. Bosch-Thyssen.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>glasschilderkunst</keyword>
+			<object.creator/>
+			<input.date>2014-08-18</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>08:51:03</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5203,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5203/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e3ee16c5-df13-58c9-9ff7-c1d526a97290"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ba8d76e-d692-4eee-8e53-0341279c0cf5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_082,repository numbers,,,,,,,,,,,,,,
+ba35fd61-2f30-5beb-8d8d-72d5974ee937,tg:rubgr:5203,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_082,titles proper,Dutch (language),,,,,,,,,,,

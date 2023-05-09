@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2897,https://data.rubenianum.be//ark:/86530/e3c3f872-96ea-588c-a047-2907deb48e6d,Handschriften,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2891,Verwijzing naar Grossmann object,,d94f901a-54f8-560e-bbed-211d613333d0,"[{""resourceId"": ""d94f901a-54f8-560e-bbed-211d613333d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2f43eece-090b-4213-b689-7825efce2b89"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""603cc968-0a4b-41f0-9ce2-8d2df0bf7804"", ""ontologyProperty"": """", ""resourceXresourceId"": ""997d8e69-51d5-4975-8277-6921a6abb710"", ""inverseOntologyProperty"": """"}]"
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Eckfüll Figur unten links: a) sitzend mit Sense in ) Stich B. 12 Solicitudo Rustica rechts unten, 2) Raudnitzer Bild; b) Sitzen ohne Sense (Knochen bearbeiten ?); 3) Cuisine Maigre, B. 154; c) Verschiedene Haltung 4) Der Wein eingiester in des Wiener Bauernhochzeit, 5) Triumph des Todes.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002897,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5141</priref>
+			<number>AFG_086_155</number>
+			<part_of_reference>AFG_086_149</part_of_reference>
+			<content>Eckf&#252;ll Figur unten links: a) sitzend mit Sense in ) Stich B. 12 Solicitudo Rustica rechts unten, 2) Raudnitzer Bild; b) Sitzen ohne Sense (Knochen bearbeiten ?); 3) Cuisine Maigre, B. 154; c) Verschiedene Haltung 4) Der Wein eingiester in des Wiener Bauernhochzeit, 5) Triumph des Todes.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Composition. Form. Entwicklung.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-10</input.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:45:27</edit.time>
+			<edit.time>14:43:51</edit.time>
+			<edit.time>14:42:11</edit.time>
+			<edit.time>14:41:25</edit.time>
+			<edit.time>14:39:49</edit.time>
+			<edit.time>14:36:36</edit.time>
+			<input.time>14:29:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2897,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2897/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0a7358ca-87c8-5565-ac6b-9e7d78183f4c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""74d36657-13ec-4ab2-a67a-43a44b5edf9b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_155,repository numbers,,,,,,,,,,,,,,
+e3c3f872-96ea-588c-a047-2907deb48e6d,tg:rubgr:2897,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_155,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,103 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:135,https://data.rubenianum.be//ark:/86530/8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,Brieven,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:127,Verwijzing naar Grossmann object,,4408f47c-0982-5920-8895-398bac985ada,"[{""resourceId"": ""4408f47c-0982-5920-8895-398bac985ada"", ""ontologyProperty"": """", ""resourceXresourceId"": ""af87032a-995d-4945-aa4e-f20c7add5056"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9435c1bf-5f1e-47d6-af61-ff367b39e93f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e7c50544-444d-443d-bbac-89fe5b99f001"", ""inverseOntologyProperty"": """"}]"
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_CreationActors,,,au::9228,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,ec6d3693-5e6d-5a6c-b558-266f9b81456b,be,au::9228:1,au::9228g:1,"dlod={""suggest"":[""/agents/people/987396"",""au::9228"",""au::9228:1"",""ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b"",""Roger Adolf d' Hulst""],""name"":""Roger Adolf d' Hulst"",""ark"":""ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b"",""uri"":""/agents/people/987396"",""id"":""au::9228:1"",""isCapacity"":false}",ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19530621,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Engels] Dankbetuiging voor de interessante brief en zending d.d. 17 juni 1953. Mededeling omtrent de staat van de foto na zending en het ontbreken van de foto van de 'Bâilleur'. Vindt het moeilijk om zijn mening te herzien zonder de werken in situ nogmaals te zien. Gaat wel akkoord over de superieure kwaliteit van de van Buuren. De kwaliteit van de foto's van de van Buuren is slecht, dat bemoeilijkt een uitspraak. Heeft daarom om betere foto's gevraagd. Kondigt een reis naar Wenen aan. Heeft nog geen antwoord van Chatsworth.[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,262344,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toeschrijvingsproblematiek,,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Chatsworth, privé-collectie",,,,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000135,referentienummer,False,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2374</priref>
+			<recipient>Hulst, Roger-Adolf d'</recipient>
+			<number>AFG_003_063</number>
+			<part_of_reference>AFG_003_055</part_of_reference>
+			<date.precise>1953-06-21</date.precise>
+			<content>Korte inhoud: [Taal, Engels] Dankbetuiging voor de interessante brief en zending d.d. 17 juni 1953. Mededeling omtrent de staat van de foto na zending en het ontbreken van de foto van de 'B&#226;illeur'. Vindt het moeilijk om zijn mening te herzien zonder de werken in situ nogmaals te zien. Gaat wel akkoord over de superieure kwaliteit van de van Buuren. De kwaliteit van de foto's van de van Buuren is slecht, dat bemoeilijkt een uitspraak. Heeft daarom om betere foto's gevraagd. Kondigt een reis naar Wenen aan. Heeft nog geen antwoord van Chatsworth.[scan]</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Correspondentie Grossmann en d'Hulst, 1953-1954. Samengehouden in briefomslag met briefhoofd Mus&#233;es Royaux des Beaux-Arts de Belgique. Bevat: 9 brieven van d'Hulst en 8 van FG. Daarnaast nog 3 brieven m.b.t. vraag om foto uit Chatsworth en 1 rekening.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Hulst, Roger-Adolf d'</keyword>
+			<keyword>Toeschrijvingsproblematiek</keyword>
+			<keyword>Brussel, Mus&#233;e David et Alice van Buuren</keyword>
+			<keyword>Chatsworth, priv&#233;-collectie</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-25</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-07-18</edit.date>
+			<edit.date>2013-09-24</edit.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2012-01-04</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-25</edit.date>
+			<edit.date>2011-08-25</edit.date>
+			<edit.date>2011-08-25</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:11:29</edit.time>
+			<edit.time>14:27:32</edit.time>
+			<edit.time>13:39:40</edit.time>
+			<edit.time>11:41:00</edit.time>
+			<edit.time>11:40:16</edit.time>
+			<edit.time>10:37:11</edit.time>
+			<edit.time>10:10:44</edit.time>
+			<edit.time>13:34:07</edit.time>
+			<edit.time>13:32:32</edit.time>
+			<edit.time>15:40:38</edit.time>
+			<edit.time>12:23:53</edit.time>
+			<edit.time>11:00:23</edit.time>
+			<edit.time>11:00:05</edit.time>
+			<edit.time>10:59:52</edit.time>
+			<input.time>10:49:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:135,brocade id,False,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:135/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a3e2a421-cb6c-55d1-90af-bd0e598a629e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""031fc09d-3e9e-4df7-86d7-eaf3664d5544"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_OriginalBrocade,,,au::9228,,,,,,,,,,,,,,,,rub,,ec6d3693-5e6d-5a6c-b558-266f9b81456b,kw,au::9228:1,au::9228g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/987396"",""au::9228"",""au::9228:1"",""ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b"",""Roger Adolf d' Hulst""],""name"":""Roger Adolf d' Hulst"",""ark"":""ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b"",""uri"":""/agents/people/987396"",""id"":""au::9228:1"",""isCapacity"":false}",ark:/83110/x0/ec6d3693-5e6d-5a6c-b558-266f9b81456b,agent,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_OriginalBrocade,,,au::48144,,,,,,,,,,,,,,,,rub,,df393854-c276-5a23-9e82-42808aab2993,kw,au::48144:1,au::48144g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/5151408"",""au::48144"",""au::48144:1"",""ark:/83110/x0/df393854-c276-5a23-9e82-42808aab2993"",""Museum David en Alice van Buuren""],""name"":""Museum David en Alice van Buuren"",""ark"":""ark:/83110/x0/df393854-c276-5a23-9e82-42808aab2993"",""uri"":""/agents/corporate_entities/5151408"",""id"":""au::48144:1"",""isCapacity"":false}",ark:/83110/x0/df393854-c276-5a23-9e82-42808aab2993,agent,,,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_063,repository numbers,,,,,,,,,,,
+8d0c5943-caa9-59dc-b3b6-61b3baa2cd3b,tg:rubgr:135,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_063,titles proper,Dutch (language),,,,,,,,

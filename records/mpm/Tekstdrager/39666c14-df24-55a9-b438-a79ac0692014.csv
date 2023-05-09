@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3736,https://data.rubenianum.be//ark:/86530/39666c14-df24-55a9-b438-a79ac0692014,Handschriften,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3734,Verwijzing naar Grossmann object,,c3ee760f-c670-5e5d-ac92-9afc22b8ad4b,"[{""resourceId"": ""c3ee760f-c670-5e5d-ac92-9afc22b8ad4b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cd43418a-8e65-4a6d-9705-6a8572c31f83"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""641edaf3-7b49-4f8b-a1ed-a65e03c5caf8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fc5a1235-7109-4126-9203-d072a39e6cb3"", ""inverseOntologyProperty"": """"}]"
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19740501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974-05-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Bibliotheekformulier V&A] Abraham de Bruyn, Omnium pene Europae Antwerp 1581; Diversarum gentium 1575",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruyn, Abraham de",,,,,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003736,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5989</priref>
+			<number>AFG_098_044</number>
+			<part_of_reference>AFG_098_042</part_of_reference>
+			<date.precise>1974-05-01</date.precise>
+			<content>[Bibliotheekformulier V&amp;A] Abraham de Bruyn, Omnium pene Europae Antwerp 1581; Diversarum gentium 1575</content>
+			<object.object_number>AFG_098</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Costume &amp; Animals [...]; Polish or Hungarian Soldiers (D&#252;rer: Turkish Woman); Varekamp, p. 38 Bruegel perhaps in Bohemia on his return journey from Italy?</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Watermarks. Costume</object.title>
+			<keyword>Bruyn, Abraham de</keyword>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:51:14</edit.time>
+			<edit.time>12:33:31</edit.time>
+			<edit.time>17:01:59</edit.time>
+			<edit.time>17:01:19</edit.time>
+			<input.time>16:58:09</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3736,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3736/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7802f64c-51c3-54e8-a689-7c17b9492bd1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""00ce234d-9d87-42ce-a6f4-c35e95903a19"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_044,repository numbers,,,,,,,,,,,,,,
+39666c14-df24-55a9-b438-a79ac0692014,tg:rubgr:3736,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_098_044,titles proper,Dutch (language),,,,,,,,,,,

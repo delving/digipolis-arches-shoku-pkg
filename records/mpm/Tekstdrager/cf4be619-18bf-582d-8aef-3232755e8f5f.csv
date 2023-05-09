@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2855,https://data.rubenianum.be//ark:/86530/cf4be619-18bf-582d-8aef-3232755e8f5f,Handschriften,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2848,Verwijzing naar Grossmann object,,80d06081-5b16-50b6-8e6c-c59a8dc0a87b,"[{""resourceId"": ""80d06081-5b16-50b6-8e6c-c59a8dc0a87b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""254f0a08-782b-4db6-ae96-7e6dda5bdc91"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7093f906-79cc-43a0-a0a3-42fbe04e23f5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""17fd73e5-44eb-4da9-8791-4f4368ef3d98"", ""inverseOntologyProperty"": """"}]"
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel. Realism. Carrying the Cross.Spring. Rain has produced mind holes... Spring=i.e. Easter time. As Bruegel places Adoration, Numbering, Murder of Innocents in accordance with the liturgic year in Winter and shows the Winter, he places logically Carrying of Cross in Spring and shows Spring. What about the other scenes from New Testament?",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002855,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5097</priref>
+			<number>AFG_086_113</number>
+			<part_of_reference>AFG_086_106</part_of_reference>
+			<content>Bruegel. Realism. Carrying the Cross.Spring. Rain has produced mind holes... Spring=i.e. Easter time. As Bruegel places Adoration, Numbering, Murder of Innocents in accordance with the liturgic year in Winter and shows the Winter, he places logically Carrying of Cross in Spring and shows Spring. What about the other scenes from New Testament?</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel. Landscape.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-03-28</input.date>
+			<edit.date>2014-03-28</edit.date>
+			<edit.date>2014-03-28</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:38:40</edit.time>
+			<edit.time>15:38:24</edit.time>
+			<input.time>15:36:33</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2855,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2855/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f21cbbf7-648a-5763-bdfe-0a5383d4a768"", ""ontologyProperty"": """", ""resourceXresourceId"": ""265b6880-b7da-49d7-8f28-9633aadc46e2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_113,repository numbers,,,,,,,,,,,,,,
+cf4be619-18bf-582d-8aef-3232755e8f5f,tg:rubgr:2855,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_113,titles proper,Dutch (language),,,,,,,,,,,

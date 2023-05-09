@@ -1,0 +1,59 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2203,https://data.rubenianum.be//ark:/86530/2ddf9cda-ac9d-508a-9be0-d68df3d78c07,Handschriften,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_001,isad:rub:2930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca26fa2b-a612-4944-9f39-388819f548b5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c6cb2ea0-b27d-44df-b699-f40494abdda0"", ""inverseOntologyProperty"": """"}]"
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bles-Bruegel (Boston) Treatment of mountains cf. distant hill with castle in Pölnitz picture, and mountains in Naples picture. The town (church spire = Antwerp cathedral?) different from Bruegel?? [sic] cf. Cornelis Massys (?) [sic] background in Jan Massys, Flora, Hamburg. Probably not Bles-but who? Bruegel???[sic]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bles, Herri met de",,,,,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Metsys, Jan",,,,,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",,,,,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002203,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4446</priref>
+			<number>AFG_065_003</number>
+			<content>Bles-Bruegel (Boston) Treatment of mountains cf. distant hill with castle in P&#246;lnitz picture, and mountains in Naples picture. The town (church spire = Antwerp cathedral?) different from Bruegel?? [sic] cf. Cornelis Massys (?) [sic] background in Jan Massys, Flora, Hamburg. Probably not Bles-but who? Bruegel???[sic]</content>
+			<object.object_number>AFG_065</object.object_number>
+			<object.object_number>AFG_001</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bles-Bruegel (?). Riverlandscape with burning town</object.title>
+			<object.title>Landscape with Christ appearing to the apostles at the sea of Tiberias</object.title>
+			<keyword>Bles, Herri met de</keyword>
+			<keyword>Massijs, Cornelis</keyword>
+			<keyword>Metsys, Jan</keyword>
+			<keyword>P&#246;lnitz, Gerhard von</keyword>
+			<keyword>Boston, Museum of Fine Arts</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2013-04-19</input.date>
+			<edit.date>2014-11-06</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2013-04-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:04:19</edit.time>
+			<edit.time>10:31:52</edit.time>
+			<edit.time>10:31:36</edit.time>
+			<edit.time>16:39:26</edit.time>
+			<input.time>16:37:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2203,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2203/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1dc843b9-92f8-5869-8d3c-3783c287a139"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1cf98b87-8186-4641-ab8f-4635f3f61123"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_OriginalBrocade,,,au::12357,,,,,,,,,,,,,,rub,126aa01e-9148-54f2-bfce-99090c97d227,kw,,au::12357:1,au::12357g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1322199"",""au::12357"",""au::12357:1"",""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""Cornelis Matsijs""],""name"":""Cornelis Matsijs"",""ark"":""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""uri"":""/agents/people/1322199"",""id"":""au::12357:1"",""isCapacity"":false}",ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227,agent,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_OriginalBrocade,,,au::32595,,,,,,,,,,,,,,rub,e96d5ca5-f85d-5034-9bb0-7c11af8169c6,kw,,au::32595:1,au::32595g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3487665"",""au::32595"",""au::32595:1"",""ark:/83110/x0/e96d5ca5-f85d-5034-9bb0-7c11af8169c6"",""Museum of Fine Arts [Boston (USA)]""],""name"":""Museum of Fine Arts [Boston (USA)]"",""ark"":""ark:/83110/x0/e96d5ca5-f85d-5034-9bb0-7c11af8169c6"",""uri"":""/agents/corporate_entities/3487665"",""id"":""au::32595:1"",""isCapacity"":false}",ark:/83110/x0/e96d5ca5-f85d-5034-9bb0-7c11af8169c6,agent,,,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_065_003,repository numbers,,,,,,,,,,,,,,
+2ddf9cda-ac9d-508a-9be0-d68df3d78c07,tg:rubgr:2203,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_065_003,titles proper,Dutch (language),,,,,,,,,,,

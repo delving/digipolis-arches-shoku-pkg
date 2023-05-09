@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1331,https://data.rubenianum.be//ark:/86530/894503ac-6d4f-5f28-a184-867c177f0281,Handschriften,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e5818ee3-5875-4f67-b8f9-7ff50de3ab27"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1f9364af-b456-460c-8d33-dd8539f53287"", ""inverseOntologyProperty"": """"}]"
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[recto-verso] Bauernhochzeittanze. Komposition lassen sich auss drei Typen zurückführen: 1) Van der heyden [...]; 2) Dasselbe inverted [sic] [...]; 3) Detroit [...] [scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,219317,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001331,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3580</priref>
+			<number>AFG_034_046</number>
+			<content>[recto-verso] Bauernhochzeittanze. Komposition lassen sich auss drei Typen zur&#252;ckf&#252;hren: 1) Van der heyden [...]; 2) Dasselbe inverted [sic] [...]; 3) Detroit [...] [scan]</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-13</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-08-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:49:41</edit.time>
+			<edit.time>13:27:59</edit.time>
+			<edit.time>13:20:06</edit.time>
+			<edit.time>13:43:19</edit.time>
+			<input.time>13:42:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1331,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1331/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a48efce0-9f5a-5992-b765-8e0de576c7b3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""23681fbc-a635-44e5-b394-762b9bbd7232"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_046,repository numbers,,,,,,,,,,,,,,
+894503ac-6d4f-5f28-a184-867c177f0281,tg:rubgr:1331,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_046,titles proper,Dutch (language),,,,,,,,,,,

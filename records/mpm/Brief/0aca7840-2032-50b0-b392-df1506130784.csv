@@ -1,0 +1,88 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1035,https://data.rubenianum.be//ark:/86530/0aca7840-2032-50b0-b392-df1506130784,Brieven,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:1031,Verwijzing naar Grossmann object,,97a244bc-9922-5a75-a7ea-959b808d017a,"[{""resourceId"": ""97a244bc-9922-5a75-a7ea-959b808d017a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b7f52a85-c16b-4bc5-8580-01e7485fb9d6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""411ee1a2-6740-4828-9d04-86a3e6b989db"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d733d545-d5d2-426a-b44c-1599ffc2fbb2"", ""inverseOntologyProperty"": """"}]"
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1952.0,2067,In Copyright,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_CreationActors,,,au::37698,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,ff6a51ba-e98d-5a1d-8a59-563e60dad251,be,au::37698:1,au::37698g:1,"dlod={""suggest"":[""/agents/people/4033686"",""au::37698"",""au::37698:1"",""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""Wolfgang Stechow""],""name"":""Wolfgang Stechow"",""ark"":""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""uri"":""/agents/people/4033686"",""id"":""au::37698:1"",""isCapacity"":false}",ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19521002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1952-10-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: Vermeldt langdurig verblijf in Oostenrijk en België. Wil het artikel gepubliceerd zien kort na de verjaardag van Professor Wilde. Is op de hoogte van de lezing door anonieme specialisten. Hijzelf doet het ook. Vraagt niettemin om een gunst, nl. dat het artikel niet zou gelezen worden door een direct betrokkene. Het artikel weerlegt immers de theorie van Tolnay. Vreest dat het nog enige tijd zal duren vooraleer de Catalogue Raisonné over Rubens zal gepubliceerd worden.[scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gombrich, Ernst H.",,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Novotny, Fritz",,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wilde, Johannes",,,,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001035,referentienummer,False,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3288</priref>
+			<recipient>Stechow, Wolfgang</recipient>
+			<number>AFG_022_068</number>
+			<part_of_reference>AFG_022_064</part_of_reference>
+			<date.precise>1952-10-02</date.precise>
+			<content>Korte inhoud: Vermeldt langdurig verblijf in Oostenrijk en Belgi&#235;. Wil het artikel gepubliceerd zien kort na de verjaardag van Professor Wilde. Is op de hoogte van de lezing door anonieme specialisten. Hijzelf doet het ook. Vraagt niettemin om een gunst, nl. dat het artikel niet zou gelezen worden door een direct betrokkene. Het artikel weerlegt immers de theorie van Tolnay. Vreest dat het nog enige tijd zal duren vooraleer de Catalogue Raisonn&#233; over Rubens zal gepubliceerd worden.[scan]</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bundel: voorbereiding van een artikel bestemd voor The Art Bulletin: niet gepubliceerd.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Gombrich, Ernst H.</keyword>
+			<keyword>Novotny, Fritz</keyword>
+			<keyword>Stechow, Wolfgang</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Wilde, Johannes</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-29</input.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-06-28</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-16</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:29:20</edit.time>
+			<edit.time>15:28:25</edit.time>
+			<edit.time>08:51:47</edit.time>
+			<edit.time>15:37:06</edit.time>
+			<edit.time>16:17:54</edit.time>
+			<edit.time>09:25:14</edit.time>
+			<edit.time>11:57:58</edit.time>
+			<edit.time>15:50:04</edit.time>
+			<edit.time>15:14:33</edit.time>
+			<edit.time>14:55:19</edit.time>
+			<input.time>14:45:15</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1035,brocade id,False,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1035/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fa98994b-e806-59f1-adb5-cf43dbe20fdf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8c2dafd5-48a1-4211-815c-320244ccb37f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_OriginalBrocade,,,au::37698,,,,,,,,,,,,,,,,rub,,ff6a51ba-e98d-5a1d-8a59-563e60dad251,kw,au::37698:1,au::37698g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4033686"",""au::37698"",""au::37698:1"",""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""Wolfgang Stechow""],""name"":""Wolfgang Stechow"",""ark"":""ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251"",""uri"":""/agents/people/4033686"",""id"":""au::37698:1"",""isCapacity"":false}",ark:/83110/x0/ff6a51ba-e98d-5a1d-8a59-563e60dad251,agent,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,,,rub,,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_068,repository numbers,,,,,,,,,,,
+0aca7840-2032-50b0-b392-df1506130784,tg:rubgr:1035,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_068,titles proper,Dutch (language),,,,,,,,

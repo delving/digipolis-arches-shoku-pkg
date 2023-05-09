@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1208,https://data.rubenianum.be//ark:/86530/69d232b3-13c8-5fc9-851a-11c177c05a56,Brieven,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_AnnotationsImmaterial,1,note.rubalg,"<p>Zie ook <strong>RA 009 / 228</strong>.</p>
+","<p>Zie ook <strong>RA 009 / 228</strong>.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9a2f2eb9-10b2-425a-a973-75dab901a933"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8baad2dc-2eda-4783-aa0f-cf7f4acd4cce"", ""inverseOntologyProperty"": """"}]"
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1954.0,2069,In Copyright,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Correspondence,1,,,,,,,,,,,,,,,,"Klauner, Friderike",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19541202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1954-12-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Aanvraag röntgenopnames.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Klauner, Friderike",,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wilde, Johannes",,,,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001208,referentienummer,False,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>3465</priref>
+<recipient>Klauner, Friderike</recipient>
+<number>AFG_029_017</number>
+<date.precise>1954-12-02</date.precise>
+<content>Korte inhoud: [Taal, Duits] Aanvraag röngtenopnames.</content>
+<object.object_number>AFG_029</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>brief</editorial_form>
+<object.title>The Massacre of the Innocents</object.title>
+<keyword>Klauner, Friderike</keyword>
+<keyword>Wilde, Johannes</keyword>
+<keyword>Wenen, Kunsthistorisches Museum</keyword>
+<sender>Grossmann, Fritz</sender>
+<object.creator>Bruegel, Pieter I</object.creator>
+<input.date>2012-07-17</input.date>
+<edit.date>2014-09-02</edit.date>
+<edit.date>2012-07-17</edit.date>
+<edit.date>2012-07-17</edit.date>
+<edit.date>2012-07-17</edit.date>
+<edit.date>2012-07-17</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.time>09:11:53</edit.time>
+<edit.time>16:05:45</edit.time>
+<edit.time>16:05:32</edit.time>
+<edit.time>16:05:11</edit.time>
+<edit.time>16:04:32</edit.time>
+<input.time>16:02:31</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1208,brocade id,False,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1208/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d331f28b-17f0-501a-ab80-2d941f9f9b1e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4eab33ba-9ae3-4a2c-9fb4-3d17323c3566"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_OriginalBrocade,,,au::28097,,,,,,,,,,,,,,,,rub,,4fd76377-5c60-5949-a1f5-8d7453c6c945,kw,au::28097:1,au::28097g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3006379"",""au::28097"",""au::28097:1"",""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""Kunsthistorisches Museum [Wenen (A)]""],""name"":""Kunsthistorisches Museum [Wenen (A)]"",""ark"":""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""uri"":""/agents/corporate_entities/3006379"",""id"":""au::28097:1"",""isCapacity"":false}",ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945,agent,,,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_017,repository numbers,,,,,,,,,,,
+69d232b3-13c8-5fc9-851a-11c177c05a56,tg:rubgr:1208,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_017,titles proper,Dutch (language),,,,,,,,

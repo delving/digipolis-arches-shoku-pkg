@@ -1,0 +1,69 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4796,https://data.rubenianum.be//ark:/86530/763dd238-cb55-57bf-a6ec-c3cdc05db1d7,Brieven,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8c9b10c6-6733-4097-986e-44c1c04d0a2c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54a37d74-82b6-4cff-aceb-2ab84da4d4b9"", ""inverseOntologyProperty"": """"}]"
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Correspondence,1,,,,,,,,,,,,,,,,"Zeitler, Rudolf",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19561127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-11-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] Korte inhoud: [Taal, Duits] Zeitler feliceert FG met zijn artikel over de Oostenrijkse schilderkunst. Vermeldt FG's lezing en bespreekt FG's methodiek. Stelt vragen bij het begrip 'natura' zoals gebruikt door Ortelius. Informeert naar FG's manuscript over Holbein  [scan].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Holbein, Hans II",,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Zeitler, Rudolf",,,,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004796,referentienummer,False,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7048</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_132_002</number>
+			<date.precise>1956-11-27</date.precise>
+			<content>[3 bladen] Korte inhoud: [Taal, Duits] Zeitler feliceert FG met zijn artikel over de Oostenrijkse schilderkunst. Vermeldt FG's lezing en bespreekt FG's methodiek. Stelt vragen bij het begrip 'natura' zoals gebruikt door Ortelius. Informeert naar FG's manuscript over Holbein  [scan].</content>
+			<object.object_number>AFG_132</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Epitaph &amp; Ortelius &amp; relations to artists. At end letter referring to Bruegel &amp; de Vos</object.title>
+			<keyword>Holbein, Hans II</keyword>
+			<keyword>Ortelius, Abraham</keyword>
+			<keyword>Zeitler, Rudolf</keyword>
+			<sender>Zeitler, Rudolf</sender>
+			<object.creator/>
+			<input.date>2014-07-29</input.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<edit.date>2014-07-29</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:32:25</edit.time>
+			<edit.time>13:08:33</edit.time>
+			<edit.time>11:51:47</edit.time>
+			<edit.time>11:36:24</edit.time>
+			<edit.time>11:29:09</edit.time>
+			<edit.time>11:26:33</edit.time>
+			<edit.time>11:12:15</edit.time>
+			<input.time>11:11:12</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4796,brocade id,False,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4796/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6b26ef2e-5eea-5a59-99f9-564c95220ace"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9cbeb849-55f6-4711-8673-bbeb885fdb6c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_OriginalBrocade,,,au::14164,,,,,,,,,,,,,,,,rub,,80abb133-7c38-5ef5-aa40-d82d46a3245d,kw,au::14164:1,au::14164g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1515548"",""au::14164"",""au::14164:1"",""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""Abraham Ortelius""],""name"":""Abraham Ortelius"",""ark"":""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""uri"":""/agents/people/1515548"",""id"":""au::14164:1"",""isCapacity"":false}",ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d,agent,,,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_132_002,repository numbers,,,,,,,,,,,
+763dd238-cb55-57bf-a6ec-c3cdc05db1d7,tg:rubgr:4796,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_132_002,titles proper,Dutch (language),,,,,,,,

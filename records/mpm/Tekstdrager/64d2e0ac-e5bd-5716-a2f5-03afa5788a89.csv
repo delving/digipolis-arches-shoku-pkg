@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:355,https://data.rubenianum.be//ark:/86530/64d2e0ac-e5bd-5716-a2f5-03afa5788a89,Handschriften,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8bbbff69-5d7f-4594-8858-0eceee911aca"", ""ontologyProperty"": """", ""resourceXresourceId"": ""53831c51-82d1-4097-b68c-7937cf907ae2"", ""inverseOntologyProperty"": """"}]"
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Reference to Rabelais. For Children's Games in the Netherlands see: J. [Johannes] ter Gouw, De Volksvermaken, Haarlem [Bohn], 1871, pp. 280-320 with literature and many references to XVI & XVII cent.; November 1861 &1863.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_ExternalRelationsExtras,a::rub.11:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,111680,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,volkskunde,,,,,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, British Museum Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000355,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>2603</priref>
+<number>AFG_007_004</number>
+<content>Reference to Rabelais. For Children's Games in the Netherlands see: J. [Johannes] ter Gouw, De Volksvermaken, Haarlem [Bohn], 1871, pp. 280-320 with literature and many references to XVI & XVII cent.; November 1861 &1863.</content>
+<object.object_number>AFG_007</object.object_number>
+<object.object_name>schilderij</object.object_name>
+<class>AFG</class>
+<editorial_form>Referentie</editorial_form>
+<editorial_form>knipsels</editorial_form>
+<object.title>Children's games</object.title>
+<keyword>Rabelais, François</keyword>
+<keyword>volkskunde</keyword>
+<keyword>Londen, British Museum Library</keyword>
+<object.creator>Bruegel, Pieter I</object.creator>
+<input.date>2011-09-21</input.date>
+<edit.date>2014-08-22</edit.date>
+<edit.date>2012-01-06</edit.date>
+<edit.date>2011-12-01</edit.date>
+<edit.date>2011-11-22</edit.date>
+<edit.date>2011-11-22</edit.date>
+<edit.date>2011-11-22</edit.date>
+<edit.date>2011-09-28</edit.date>
+<edit.date>2011-09-21</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.time>15:03:30</edit.time>
+<edit.time>09:48:26</edit.time>
+<edit.time>10:50:58</edit.time>
+<edit.time>09:44:15</edit.time>
+<edit.time>09:44:00</edit.time>
+<edit.time>09:41:21</edit.time>
+<edit.time>15:56:11</edit.time>
+<edit.time>13:48:13</edit.time>
+<input.time>13:46:01</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:355,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:355/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""759a723d-1151-5019-be65-9031e259af96"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1888cd07-acb4-4682-8af7-0d55f49567af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_OriginalBrocade,,,au::54822,,,,,,,,,,,,,,rub,d88df62e-28bd-51fd-b79e-a09947e7ea30,kw,,au::54822:1,au::54822g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/5865954"",""au::54822"",""au::54822:1"",""ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30"",""François Rabelais""],""name"":""François Rabelais"",""ark"":""ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30"",""uri"":""/agents/people/5865954"",""id"":""au::54822:1"",""isCapacity"":false}",ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30,agent,,,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_004,repository numbers,,,,,,,,,,,,,,
+64d2e0ac-e5bd-5716-a2f5-03afa5788a89,tg:rubgr:355,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_004,titles proper,Dutch (language),,,,,,,,,,,

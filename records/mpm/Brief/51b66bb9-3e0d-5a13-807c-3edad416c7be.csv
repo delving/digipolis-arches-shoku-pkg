@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4748,https://data.rubenianum.be//ark:/86530/51b66bb9-3e0d-5a13-807c-3edad416c7be,Brieven,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4b13ee1b-9587-4538-81be-308231901056"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d7e56b44-72f7-4f0d-97d6-50dba4ec8713"", ""inverseOntologyProperty"": """"}]"
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_Correspondence,1,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19561026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-10-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 brieven] Korte inhoud: [Taal, Duits] Wil afschrift van brief Bruegel aan Borromeo; [naschrift] idem Granvelle.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004748,referentienummer,False,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7001</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_128_048</number>
+			<date.precise>1956-10-26</date.precise>
+			<content>[2 brieven] Korte inhoud: [Taal, Duits] Wil afschrift van brief Bruegel aan Borromeo; [naschrift] idem Granvelle.</content>
+			<object.object_number>AFG_128</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>[Folders &amp; envelopes]</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<sender>P&#246;lnitz, Gerhard von</sender>
+			<object.creator/>
+			<input.date>2014-07-25</input.date>
+			<edit.date>2014-07-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:24:03</edit.time>
+			<input.time>12:22:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4748,brocade id,False,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4748/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6fc88e3a-3cf1-5b63-81e1-ec515e869c0c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d36cda3a-e10e-4982-9d41-1c6f47a09fe1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,rub,,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_048,repository numbers,,,,,,,,,,,
+51b66bb9-3e0d-5a13-807c-3edad416c7be,tg:rubgr:4748,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_048,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,68 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1102,https://data.rubenianum.be//ark:/86530/aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,Handschriften,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""68815e06-718c-4bf1-8fb0-1f8c378cfde5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2fd6bd16-b8e0-4039-871a-40fc8cd86f54"", ""inverseOntologyProperty"": """"}]"
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Months. Petrus de CRESCENTIIS (1233-1321), Liber Ruralium commodorum, (a fundamental work on husbandry, XIC C[entury],  completed 1304-05, printed in many languages from 2/2 XV). 
+Bibliography: Book XII: Recapitulation of main duties & tasks month by month. 
+[Tommaso Alfonsi (ed.)], Pier de' Crescenzi (1233-1321), Studi est Documents (published by several scholars in Bologna), [Società Agraria di Bologna: Cappelli], 1933;
+[George] SARTON, Introduction to the History of Science, III, I, (1927), pp. 811-17;
+THIÉBAUT [= J. Thiébaud], Bibliographie sur la Chasse [= Bibliographie des ouvrages français sur la chasse, 2 vols., Paris: Noury, 1934-1953], cols. 218-230;
+[André L.] SIMON, Bibliotheca bacchica [= Bibliotheca bacchica: bibliographie raisonnée des ouvrages imprimés avant 1800 et illustrant la soif humaine sous tous ses aspects, chez tous les peuples et dans tous les temps, 2 vols., London ; Paris : Maggs Brothers, 1927-1932], I, pp. 35-38, II, pp. 50-55.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sarton, George",,,,,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001102,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3356</priref>
+			<number>AFG_023_050</number>
+			<content>Ad [Addendum] Bruegel: Months. Petrus de CRESCENTIIS (1233-1321), Liber Ruralium commodorum, (a fundamental work on husbandry, XIC C[entury],  completed 1304-05, printed in many languages from 2/2 XV). 
+Bibliography: Book XII: Recapitulation of main duties &amp; tasks month by month. 
+[Tommaso Alfonsi (ed.)], Pier de' Crescenzi (1233-1321), Studi est Documents (published by several scholars in Bologna), [Societ&#224; Agraria di Bologna: Cappelli], 1933;
+[George] SARTON, Introduction to the History of Science, III, I, (1927), pp. 811-17;
+THI&#201;BAUT [= J. Thi&#233;baud], Bibliographie sur la Chasse [= Bibliographie des ouvrages fran&#231;ais sur la chasse, 2 vols., Paris: Noury, 1934-1953], cols. 218-230;
+[Andr&#233; L.] SIMON, Bibliotheca bacchica [= Bibliotheca bacchica: bibliographie raisonn&#233;e des ouvrages imprim&#233;s avant 1800 et illustrant la soif humaine sous tous ses aspects, chez tous les peuples et dans tous les temps, 2 vols., London ; Paris : Maggs Brothers, 1927-1932], I, pp. 35-38, II, pp. 50-55.</content>
+			<object.object_number>AFG_023</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Series of the Months</object.title>
+			<keyword>Sarton, George</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-27</input.date>
+			<edit.date>2015-03-13</edit.date>
+			<edit.date>2012-07-06</edit.date>
+			<edit.date>2012-05-04</edit.date>
+			<edit.date>2012-05-04</edit.date>
+			<edit.date>2012-05-02</edit.date>
+			<edit.date>2012-04-27</edit.date>
+			<edit.date>2012-04-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:27:18</edit.time>
+			<edit.time>13:41:23</edit.time>
+			<edit.time>10:16:09</edit.time>
+			<edit.time>10:07:08</edit.time>
+			<edit.time>10:18:47</edit.time>
+			<edit.time>10:25:05</edit.time>
+			<edit.time>10:05:40</edit.time>
+			<input.time>10:04:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1102,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1102/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""75142acd-17da-58bd-8be6-6116719e96be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4d240bbd-685c-4ebb-bc1e-b3608201615e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_050,repository numbers,,,,,,,,,,,,,,
+aaac8b8c-7f4a-5079-8d7f-ef9698960a4d,tg:rubgr:1102,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_050,titles proper,Dutch (language),,,,,,,,,,,
