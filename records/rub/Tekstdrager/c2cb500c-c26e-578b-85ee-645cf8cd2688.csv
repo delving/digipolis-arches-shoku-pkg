@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:381,https://data.rubenianum.be//ark:/86530/c2cb500c-c26e-578b-85ee-645cf8cd2688,Handschriften,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eb697588-c447-436c-a694-96376be5b211"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c8035a1-423e-43aa-b7db-429f0aa3529b"", ""inverseOntologyProperty"": """"}]"
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jost Amman, Kunst und Lehrbüchlein. A Eugrammia Press  facsimile, London, [1971].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_ExternalRelationsExtras,a::rub.11,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,111680,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Amman, Jost",,,,,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000381,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2631</priref>
+			<number>AFG_007_030</number>
+			<content>Jost Amman, Kunst und Lehrb&#252;chlein. A Eugrammia Press  facsimile, London, [1971].</content>
+			<object.object_number>AFG_007</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>prospectus</editorial_form>
+			<object.title>Children's games</object.title>
+			<keyword>Amman, Jost</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-26</input.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-11-22</edit.date>
+			<edit.date>2011-09-26</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:21:57</edit.time>
+			<edit.time>09:21:01</edit.time>
+			<edit.time>13:56:13</edit.time>
+			<edit.time>12:43:53</edit.time>
+			<input.time>12:42:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:381,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:381/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2e4f0815-ba6c-5f1a-ad9f-c23e340141a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""72a5c56c-8b9b-469e-92ad-68f8758b4a94"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_030,repository numbers,,,,,,,,,,,,,,
+c2cb500c-c26e-578b-85ee-645cf8cd2688,tg:rubgr:381,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_007_030,titles proper,Dutch (language),,,,,,,,,,,

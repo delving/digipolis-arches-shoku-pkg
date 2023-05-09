@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1362,https://data.rubenianum.be//ark:/86530/fe892939-784f-56c4-8dbf-0c769c5ca7d5,Foto's,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""99c7a6db-64e0-4753-b01c-bee3db954862"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8e74407-e166-4a90-9480-169d10b8ac0e"", ""inverseOntologyProperty"": """"}]"
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"2 zw/w foto's met stempel Kunsthistorisches museum, Wien: 1 van het geheel (beschadigd) d.d. 19-12-1949; 1 detail banier d.d. 03-09-1953.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_ExternalRelationsExtras,a::rub.36,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,261053,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001362,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3609</priref>
+			<number>AFG_036_015</number>
+			<content>2 zw/w foto's met stempel Kunsthistorisches museum, Wien: 1 van het geheel (beschadigd) d.d. 19-12-1949; 1 detail banier d.d. 03-09-1953.</content>
+			<object.object_number>AFG_036</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Peasant's Dance</object.title>
+			<physical_form>beschadigd</physical_form>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-21</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-10-10</edit.date>
+			<edit.date>2012-10-10</edit.date>
+			<edit.date>2012-08-21</edit.date>
+			<edit.date>2012-08-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:04:04</edit.time>
+			<edit.time>09:39:38</edit.time>
+			<edit.time>09:39:01</edit.time>
+			<edit.time>14:41:33</edit.time>
+			<edit.time>13:48:16</edit.time>
+			<input.time>13:47:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1362,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1362/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d593eb96-354d-5fd2-a819-05142d0a0a02"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b2f934a0-de57-4c7d-a7c5-afbfbf89bf12"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_036_015,repository numbers,,,,,,,,,,,
+fe892939-784f-56c4-8dbf-0c769c5ca7d5,tg:rubgr:1362,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_036_015,titles proper,Dutch (language),,,,,,,,

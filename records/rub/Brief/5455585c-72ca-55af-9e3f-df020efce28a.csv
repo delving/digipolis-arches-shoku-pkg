@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4217,https://data.rubenianum.be//ark:/86530/5455585c-72ca-55af-9e3f-df020efce28a,Brieven,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_070,isad:rub:3000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5b851c79-e9e9-460c-8d56-0364ccd06b9c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5c2f119c-ea88-4237-93aa-b54ba879350c"", ""inverseOntologyProperty"": """"}]"
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_Correspondence,1,,,,,,,,,,,,,,,,"Munhall, Edgar",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19650913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1965-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Zag het werk in 1964 toen het slechts gedeeltelijk gereinigd was. Het signatuur ziet er goed uit maar verder overtuigd het werk niet voldoende. Indien het werk nu beter gereinigd is wil hij het opnieuw betsuderen.[scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Munhall, Edgar",,,,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004217,referentienummer,False,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6470</priref>
+			<recipient>Munhall, Edgar</recipient>
+			<number>AFG_111_012</number>
+			<date.precise>1965-09-13</date.precise>
+			<content>Korte inhoud: Zag het werk in 1964 toen het slechts gedeeltelijk gereinigd was. Het signatuur ziet er goed uit maar verder overtuigd het werk niet voldoende. Indien het werk nu beter gereinigd is wil hij het opnieuw betsuderen.[scan]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_070</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>The Tree Soldiers</object.title>
+			<keyword>Munhall, Edgar</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator/>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2014-07-07</input.date>
+			<edit.date>2014-07-07</edit.date>
+			<edit.date>2014-07-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:38:41</edit.time>
+			<edit.time>10:26:28</edit.time>
+			<input.time>10:25:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4217,brocade id,False,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4217/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b9b07269-6596-5257-a267-57597319bf3d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5107e50d-c581-4461-a33a-0971e471b9bf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_012,repository numbers,,,,,,,,,,,
+5455585c-72ca-55af-9e3f-df020efce28a,tg:rubgr:4217,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_012,titles proper,Dutch (language),,,,,,,,

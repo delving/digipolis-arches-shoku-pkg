@@ -1,0 +1,86 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:343,https://data.rubenianum.be//ark:/86530/e51571ea-7877-5f44-a5db-13a3ea7aedce,Brieven,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f1804457-3070-48e9-9d7b-5de4689fe169"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f215fd6d-71ac-43f8-9b0c-34c051449652"", ""inverseOntologyProperty"": """"}]"
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_CreationActors,,,au::7887,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8a8cdd97-0fe0-527a-afd5-e0d6da51084f,be,au::7887:1,au::7887g:1,"dlod={""suggest"":[""/agents/people/843909"",""au::7887"",""au::7887:1"",""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""Jan Grauls""],""name"":""Jan Grauls"",""ark"":""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""uri"":""/agents/people/843909"",""id"":""au::7887:1"",""isCapacity"":false}",ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19560704,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-07-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dankbetuiging voor overdruk: 'Onsen Heeren eenen vlassen baard aensetten' en andere artikels. Informeert Grauls over zijn opzoekingswerk rond Thomas Murner en de Wickram editie uit 1556.[scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_ExternalRelationsExtras,a::rub.10,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,260959,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Murner, Thomas",,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wickram, Jörg",,,,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000343,referentienummer,False,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2592</priref>
+			<recipient>Grauls, Jan</recipient>
+			<number>AFG_006_057</number>
+			<date.precise>1956-07-04</date.precise>
+			<content>Dankbetuiging voor overdruk: 'Onsen Heeren eenen vlassen baard aensetten' en andere artikels. Informeert Grauls over zijn opzoekingswerk rond Thomas Murner en de Wickram editie uit 1556.[scan]</content>
+			<object.object_number>AFG_006</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>The Netherlandish proverbs</object.title>
+			<keyword>Murner, Thomas</keyword>
+			<keyword>Wickram, J&#246;rg</keyword>
+			<keyword>Grauls, Jan</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-21</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-21</edit.date>
+			<edit.date>2011-09-21</edit.date>
+			<edit.date>2011-09-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:53:05</edit.time>
+			<edit.time>14:52:50</edit.time>
+			<edit.time>16:10:00</edit.time>
+			<edit.time>12:13:49</edit.time>
+			<edit.time>11:24:35</edit.time>
+			<edit.time>09:03:58</edit.time>
+			<edit.time>15:39:25</edit.time>
+			<edit.time>15:38:00</edit.time>
+			<edit.time>10:09:45</edit.time>
+			<edit.time>10:08:20</edit.time>
+			<edit.time>10:07:18</edit.time>
+			<input.time>10:05:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:343,brocade id,False,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:343/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ca257f6-a759-5a1d-a1aa-ac0a5073f21e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a9b5bed1-50b9-4d27-8b26-4eedbb83ea02"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_OriginalBrocade,,,au::7887,,,,,,,,,,,,,,,,rub,,8a8cdd97-0fe0-527a-afd5-e0d6da51084f,kw,au::7887:1,au::7887g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/843909"",""au::7887"",""au::7887:1"",""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""Jan Grauls""],""name"":""Jan Grauls"",""ark"":""ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f"",""uri"":""/agents/people/843909"",""id"":""au::7887:1"",""isCapacity"":false}",ark:/83110/x0/8a8cdd97-0fe0-527a-afd5-e0d6da51084f,agent,,,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_057,repository numbers,,,,,,,,,,,
+e51571ea-7877-5f44-a5db-13a3ea7aedce,tg:rubgr:343,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_006_057,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2625,https://data.rubenianum.be//ark:/86530/aa6416d4-8fd5-5f8a-b5f2-488535743d03,Handschriften,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""53d440e8-0f7d-4151-b490-d6e7e5410b27"", ""ontologyProperty"": """", ""resourceXresourceId"": ""80950748-8a6d-4713-9c20-a5561bdabebd"", ""inverseOntologyProperty"": """"}]"
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[12 bladen] Samenvatting: F. Winkler, 'Die Wiener Kreuztragung', Nederlands Kunsthistorisch Jaarboek 9 (1958), pp. 83-108 [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winkler, Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002625,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4867</priref>
+			<number>AFG_084_039</number>
+			<content>[12 bladen] Samenvatting: F. Winkler, 'Die Wiener Kreuztragung', Nederlands Kunsthistorisch Jaarboek 9 (1958), pp. 83-108 [scan]</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Winkler, Friedrich</keyword>
+			<object.creator/>
+			<input.date>2014-02-10</input.date>
+			<edit.date>2014-07-08</edit.date>
+			<edit.date>2014-02-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:10:17</edit.time>
+			<edit.time>13:33:21</edit.time>
+			<input.time>16:36:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2625,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2625/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dfde3e0f-ba6e-5d07-a693-e1fe9651ad9e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""25a737d7-8ce7-4ed1-9f26-e0daf8d0612f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_039,repository numbers,,,,,,,,,,,,,,
+aa6416d4-8fd5-5f8a-b5f2-488535743d03,tg:rubgr:2625,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_039,titles proper,Dutch (language),,,,,,,,,,,

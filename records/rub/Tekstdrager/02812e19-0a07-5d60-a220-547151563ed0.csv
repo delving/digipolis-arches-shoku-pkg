@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3369,https://data.rubenianum.be//ark:/86530/02812e19-0a07-5d60-a220-547151563ed0,Handschriften,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3350,Verwijzing naar Grossmann object,,cd52b8c2-1b55-581d-9a17-61e0b6e71c69,"[{""resourceId"": ""cd52b8c2-1b55-581d-9a17-61e0b6e71c69"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0ea21ace-e96d-4832-a9dd-b4c6ecae707e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e6621552-0e68-4247-9e97-602cb3ba11f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0484aa40-ca09-4fce-ae86-4cc282d4181a"", ""inverseOntologyProperty"": """"}]"
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denucé, Inventaires: Corn. Cheeus, 1621, p. 34; p. 50: Inv. Jehan Wils, 6 Juli 1628; p. 337 Inv. Joannes Phillippus Happart, 1686: Verbeeck.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Verbeeck, Frans",,,,,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003369,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5622</priref>
+			<number>AFG_093_032</number>
+			<part_of_reference>AFG_093_013</part_of_reference>
+			<content>Denuc&#233;, Inventaires: Corn. Cheeus, 1621, p. 34; p. 50: Inv. Jehan Wils, 6 Juli 1628; p. 337 Inv. Joannes Phillippus Happart, 1686: Verbeeck.</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Mechelen.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<keyword>Verbeeck, Frans</keyword>
+			<keyword>Verbeeck, Jan</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<edit.date>2014-06-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:34:41</edit.time>
+			<input.time>11:34:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3369,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3369/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ad5d5be6-7bb8-53be-8a01-973e7439352a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5a9413b0-5e18-4f1b-b154-69835e9aaea7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_OriginalBrocade,,,au::19226,,,,,,,,,,,,,,rub,3e70daae-f48d-5f0e-8efe-e9138cab08f3,kw,,au::19226:1,au::19226g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2057182"",""au::19226"",""au::19226:1"",""ark:/83110/x0/3e70daae-f48d-5f0e-8efe-e9138cab08f3"",""Jan Verbeeck""],""name"":""Jan Verbeeck"",""ark"":""ark:/83110/x0/3e70daae-f48d-5f0e-8efe-e9138cab08f3"",""uri"":""/agents/people/2057182"",""id"":""au::19226:1"",""isCapacity"":false}",ark:/83110/x0/3e70daae-f48d-5f0e-8efe-e9138cab08f3,agent,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_032,repository numbers,,,,,,,,,,,,,,
+02812e19-0a07-5d60-a220-547151563ed0,tg:rubgr:3369,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_032,titles proper,Dutch (language),,,,,,,,,,,

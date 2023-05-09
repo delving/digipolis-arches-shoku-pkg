@@ -1,0 +1,82 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:108,https://data.rubenianum.be//ark:/86530/f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,Handschriften,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:105,Verwijzing naar Grossmann object,,3a56d602-9a46-5c5b-a7cc-309bdc34ce40,"[{""resourceId"": ""3a56d602-9a46-5c5b-a7cc-309bdc34ce40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""70514e5e-b242-423d-a3a2-1feba63a2234"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:107,Verwijzing naar Grossmann object,,b9627e75-86f9-5ac3-af74-54e56d4e01f9,"[{""resourceId"": ""b9627e75-86f9-5ac3-af74-54e56d4e01f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""feb2ad80-b15a-4643-847f-d25e380756f1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8628f14-dfb5-44d6-b67f-517a634ea4df"", ""ontologyProperty"": """", ""resourceXresourceId"": ""528f860d-5f88-45dd-bca4-597ddae2caa8"", ""inverseOntologyProperty"": """"}]"
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Icarus. H.K. [Hans Konrad] Röthel, 'Die Ausstellung flämischer Malerei in London', Kunstchronik VII, 1954, [pp. 86-91]  citaat p. 87.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Röthel, Hans Konrad",,,,,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000108,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2347</priref>
+			<number>AFG_003_036</number>
+			<part_of_reference>AFG_003_033</part_of_reference>
+			<content>Bruegel: Icarus. H.K. [Hans Konrad] R&#246;thel, 'Die Ausstellung fl&#228;mischer Malerei in London', Kunstchronik VII, 1954, [pp. 86-91]  citaat p. 87.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel Icarus: bevat correspondentie, notities en referenties.</part_of.title>
+			<parts.title>Korte inhoud: [Taal, Engels] Stelt met genoegen vast dat bestemmeling eveneens overtuigd is van de betere kwaliteit van het van Buuren-werk, dat ook dichter staat bij het origineel. Voegt er een bijkomend argument aan toe: Icarus staat afgebeeld net boven de patrijs. Hierdoor worden ze met elkaar vergeleken. Bruegel legt daardoor de nadruk op Ovidius' Perdix. Omdat de tegenstelling Perdix-Icarus hem onbekend was heeft de kopiist van het Museum-schilderij de Perdix opgeschoven naar links. Wijst er op dat zowel Friedl&#228;nder, de Tolnay en hij het er over eens dat datering moeilijk is; [verso] [...][scan]</parts.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>R&#246;thel, Hans Konrad</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2011-08-22</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-22</edit.date>
+			<edit.date>2011-08-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference>AFG_003_035</parts_reference>
+			<edit.time>15:54:10</edit.time>
+			<edit.time>14:52:00</edit.time>
+			<edit.time>15:19:06</edit.time>
+			<edit.time>11:39:00</edit.time>
+			<edit.time>11:38:46</edit.time>
+			<edit.time>11:12:05</edit.time>
+			<edit.time>11:08:55</edit.time>
+			<edit.time>15:35:22</edit.time>
+			<edit.time>09:55:56</edit.time>
+			<edit.time>11:31:54</edit.time>
+			<edit.time>11:30:11</edit.time>
+			<input.time>11:20:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:108,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:108/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5b087a04-857f-537a-a37e-cc3f18f46b22"", ""ontologyProperty"": """", ""resourceXresourceId"": ""af897f64-476e-4be7-b8da-691d512e2617"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_036,repository numbers,,,,,,,,,,,,,,
+f6537c78-ab04-5fe4-8c5b-6ca2c3bff724,tg:rubgr:108,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_036,titles proper,Dutch (language),,,,,,,,,,,

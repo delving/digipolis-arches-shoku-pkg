@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4242,https://data.rubenianum.be//ark:/86530/66270dd1-d758-5388-89e7-e0e640946637,Handschriften,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1269d326-8b90-426e-ad57-469697c3a194"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6e765e17-8b29-41a0-b4d8-d6d74e928d4d"", ""inverseOntologyProperty"": """"}]"
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Fortitudo drawing (Rotterdam); Bosch, Prado Adoration; Baldass, Bosch, pl. 108 [...$",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004242,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6495</priref>
+			<number>AFG_111_037</number>
+			<content>Bruegel: Fortitudo drawing (Rotterdam); Bosch, Prado Adoration; Baldass, Bosch, pl. 108 [...$</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>tekenkunst</keyword>
+			<keyword>Madrid, Museo del Prado</keyword>
+			<keyword>Baldass, Ludwig</keyword>
+			<object.creator/>
+			<input.date>2014-07-07</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>13:59:06</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4242,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4242/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""faf42179-37d4-5d38-ae6d-b5156fd0c8ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fed320bb-9e9d-4fcc-8218-1dfd9039cf3e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_OriginalBrocade,,,au::28130,,,,,,,,,,,,,,rub,0bc6db4d-3389-5774-a695-f08f748e3fa2,kw,,au::28130:1,au::28130g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3009910"",""au::28130"",""au::28130:1"",""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""Prado [Museum, Madrid (E)]""],""name"":""Prado [Museum, Madrid (E)]"",""ark"":""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""uri"":""/agents/corporate_entities/3009910"",""id"":""au::28130:1"",""isCapacity"":false}",ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2,agent,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_OriginalBrocade,,,au::28096,,,,,,,,,,,,,,rub,3e4698ed-6200-5ca0-a212-ee6236fdd173,kw,,au::28096:1,au::28096g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3006272"",""au::28096"",""au::28096:1"",""ark:/83110/x0/3e4698ed-6200-5ca0-a212-ee6236fdd173"",""Ludwig von Baldass""],""name"":""Ludwig von Baldass"",""ark"":""ark:/83110/x0/3e4698ed-6200-5ca0-a212-ee6236fdd173"",""uri"":""/agents/people/3006272"",""id"":""au::28096:1"",""isCapacity"":false}",ark:/83110/x0/3e4698ed-6200-5ca0-a212-ee6236fdd173,agent,,,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_037,repository numbers,,,,,,,,,,,,,,
+66270dd1-d758-5388-89e7-e0e640946637,tg:rubgr:4242,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_037,titles proper,Dutch (language),,,,,,,,,,,

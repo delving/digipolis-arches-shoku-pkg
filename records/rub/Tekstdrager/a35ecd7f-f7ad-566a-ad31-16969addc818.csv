@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2780,https://data.rubenianum.be//ark:/86530/a35ecd7f-f7ad-566a-ad31-16969addc818,Handschriften,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""00cc1ee7-ad5e-4fdd-a272-185c1d9cf371"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1d89d3b6-1e18-442a-9870-7fb95a194a73"", ""inverseOntologyProperty"": """"}]"
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Bibliotheekformulier British Library d.d. 11-1-1955] [William Cotton], Sir Reynolds and His Works, [London: Longman], 1856",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Reynolds, Joshua",,,,,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002780,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5022</priref>
+			<number>AFG_086_038</number>
+			<content>[Bibliotheekformulier British Library d.d. 11-1-1955] [William Cotton], Sir Reynolds and His Works, [London: Longman], 1856</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Reynolds, Joshua</keyword>
+			<object.creator/>
+			<input.date>2014-03-14</input.date>
+			<edit.date>2014-03-20</edit.date>
+			<edit.date>2014-03-20</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:21:31</edit.time>
+			<edit.time>09:14:34</edit.time>
+			<edit.time>16:53:26</edit.time>
+			<edit.time>16:52:20</edit.time>
+			<input.time>16:52:11</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2780,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2780/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""27e60fcf-a204-57cc-9b9f-0f2b0cb44646"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5ee6ac0d-b07d-4a85-8c18-4c36db1bddf0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_038,repository numbers,,,,,,,,,,,,,,
+a35ecd7f-f7ad-566a-ad31-16969addc818,tg:rubgr:2780,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_038,titles proper,Dutch (language),,,,,,,,,,,

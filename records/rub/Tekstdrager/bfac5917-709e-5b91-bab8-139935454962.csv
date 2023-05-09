@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3647,https://data.rubenianum.be//ark:/86530/bfac5917-709e-5b91-bab8-139935454962,Handschriften,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3645,Verwijzing naar Grossmann object,,e17ee43a-dbde-51af-8c2b-2014f98c1236,"[{""resourceId"": ""e17ee43a-dbde-51af-8c2b-2014f98c1236"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c501bb4-ff72-45d4-b914-96207b83a667"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e86b4e44-b49c-4662-9630-011362a6d6fc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c1467e76-e630-49bc-ba68-b2a5f6ca0ed9"", ""inverseOntologyProperty"": """"}]"
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"In the manner of the 'Naer het Leven' drawings: H. Saftleven-Edinburgh (Seleted drawings) F. Lugt, Musée du Louvre [...], III, N-Z (1928) 1931, N° 699, 700, pl. XXXVII; [toegevoegde vermelding]: 'F.G. [...]'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Saftleven, Herman",,,,,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003647,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5900</priref>
+			<number>AFG_097_093</number>
+			<part_of_reference>AFG_097_091</part_of_reference>
+			<content>In the manner of the 'Naer het Leven' drawings: H. Saftleven-Edinburgh (Seleted drawings) F. Lugt, Mus&#233;e du Louvre [...], III, N-Z (1928) 1931, N&#176; 699, 700, pl. XXXVII; [toegevoegde vermelding]: 'F.G. [...]'</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Attributions to Savery. Earlier opinions (see van Leeuwen in Simiolus) Add Quast &amp; Saftleven, Varekamp, p. 11.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>Saftleven, Herman</keyword>
+			<keyword>Lugt, Frits</keyword>
+			<object.creator/>
+			<input.date>2014-06-23</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:47:05</edit.time>
+			<edit.time>11:14:22</edit.time>
+			<edit.time>10:01:24</edit.time>
+			<input.time>10:00:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3647,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3647/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""98aeff6b-3fef-5a58-b335-07f37f3f3180"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b5edf849-4b45-4b5f-9e86-9ca2cfb27568"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_093,repository numbers,,,,,,,,,,,,,,
+bfac5917-709e-5b91-bab8-139935454962,tg:rubgr:3647,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_093,titles proper,Dutch (language),,,,,,,,,,,

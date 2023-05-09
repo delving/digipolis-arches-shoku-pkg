@@ -1,0 +1,58 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3820,https://data.rubenianum.be//ark:/86530/3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,Handschriften,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3819,Verwijzing naar Grossmann object,,0bf9e0a0-b7ea-545d-b8a4-c082af8ad394,"[{""resourceId"": ""0bf9e0a0-b7ea-545d-b8a4-c082af8ad394"", ""ontologyProperty"": """", ""resourceXresourceId"": ""17d5af79-7eb8-4427-a483-ad35202fd0e0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4b3759f2-ee13-4ea9-90cc-644519452ac4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fe93b354-8135-4da9-aee6-03f180d245db"", ""inverseOntologyProperty"": """"}]"
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19631021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963-10-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Simon Fleet, The Saleroom. Old Masterpieces; [Notitie FG]: 'bought by Lugt.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003820,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6073</priref>
+			<number>AFG_099_058</number>
+			<part_of_reference>AFG_099_057</part_of_reference>
+			<date.precise>1963-10-21</date.precise>
+			<content>Simon Fleet, The Saleroom. Old Masterpieces; [Notitie FG]: 'bought by Lugt.'</content>
+			<object.object_number>AFG_099</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Karl Arndt, 'Unbekannte Zeichnungen von Pieter Bruegel d.&#196;.', Pantheon. Internationale Zeitschrift f&#252;r Kunst. Sonderdruck, XXV, IV Juli-August 1966.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>Naer het Leven:  Literature</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>tekenkunst</keyword>
+			<keyword>Lugt, Frits</keyword>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2018-05-31</edit.date>
+			<edit.date>2014-06-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:09:16</edit.time>
+			<edit.time>14:07:05</edit.time>
+			<edit.time>13:52:12</edit.time>
+			<edit.time>10:19:20</edit.time>
+			<input.time>10:15:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3820,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3820/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4c8a0699-6ee4-5335-912d-9a4109836808"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5dd386b6-d733-40d3-b367-10cbde430bfc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_058,repository numbers,,,,,,,,,,,,,,
+3dfa81e8-1598-5bac-b16d-2b01fe0dfe02,tg:rubgr:3820,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_099_058,titles proper,Dutch (language),,,,,,,,,,,

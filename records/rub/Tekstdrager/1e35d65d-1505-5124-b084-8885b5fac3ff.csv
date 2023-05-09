@@ -1,0 +1,108 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1933,https://data.rubenianum.be//ark:/86530/1e35d65d-1505-5124-b084-8885b5fac3ff,Handschriften,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1911,Verwijzing naar Grossmann object,,7c289d27-de8b-5637-bc52-a35fd8b75ca7,"[{""resourceId"": ""7c289d27-de8b-5637-bc52-a35fd8b75ca7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54a76454-067f-41a6-8044-0552137799ca"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eb15a399-1bc8-4330-bb40-5d2d50eff230"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8f2591b3-1766-4507-95c2-86197e9b7d7d"", ""inverseOntologyProperty"": """"}]"
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 bladen] [blad 1, recto] [Edouard de] Callatay, Cornelis Massys paysagiste, collaborateur de son père et de son frère et auteur de l'Album Errera, Bulletin Musées R. [= Bulletin Koninklijke Musea voor Schone Kunsten van België] XIV, 1965, p. 49ff. Here the landscape in the Hamburg Flora (by Jan Massys) which Tolnay, G.B.A. 1957, 73-80 attrib. partly to Bruegel, partly to Cornelis Massys given to Cornelis Massys; [blad 2, recto] F.G. Cornelis Massys & the Destruction of Sodom (Fischer, Lucerne) The landscape drawings assembled by Zwollo as she says herself, very different in mood, but the panoramic river [onleesbaar] with rocks (arco naturale) and with small houses on the right also in the River Landscape in Boymans (her figure 13) and the formation of the rocks related in landscape with Castle, Göttingen, University Coll., her figure 10. (both are attributions). The Berlin landscape drawing with Lot & Daughters does not show destruction of Sodom, but the 3 figures are in front of rocks and there is some distant relationship with the Lucerne figures. (The Dresden drawing of the 3 figures completely different); [blad 3, recto] An Zwollo, De landschaptekeningen van Cornelis Massys, in: Nederlands Kunsthistorisch Jaarboek 16, 1965, pp. 43-65, citaten pp. 60, 61 n. 27, 62 n. 28, 63.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Meester van het Errera-Schetsboek,,,,,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Metsys, Jan",,,,,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Göttingen, Kunstsammlung der Universität",,,,,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001933,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4169</priref>
+			<number>AFG_054_024</number>
+			<part_of_reference>AFG_054_002</part_of_reference>
+			<content>[3 bladen] [blad 1, recto] [Edouard de] Callatay, Cornelis Massys paysagiste, collaborateur de son p&#232;re et de son fr&#232;re et auteur de l'Album Errera, Bulletin Mus&#233;es R. [= Bulletin Koninklijke Musea voor Schone Kunsten van Belgi&#235;] XIV, 1965, p. 49ff. Here the landscape in the Hamburg Flora (by Jan Massys) which Tolnay, G.B.A. 1957, 73-80 attrib. partly to Bruegel, partly to Cornelis Massys given to Cornelis Massys; [blad 2, recto] F.G. Cornelis Massys &amp; the Destruction of Sodom (Fischer, Lucerne) The landscape drawings assembled by Zwollo as she says herself, very different in mood, but the panoramic river [onleesbaar] with rocks (arco naturale) and with small houses on the right also in the River Landscape in Boymans (her figure 13) and the formation of the rocks related in landscape with Castle, G&#246;ttingen, University Coll., her figure 10. (both are attributions). The Berlin landscape drawing with Lot &amp; Daughters does not show destruction of Sodom, but the 3 figures are in front of rocks and there is some distant relationship with the Lucerne figures. (The Dresden drawing of the 3 figures completely different); [blad 3, recto] An Zwollo, De landschaptekeningen van Cornelis Massys, in: Nederlands Kunsthistorisch Jaarboek 16, 1965, pp. 43-65, citaten pp. 60, 61 n. 27, 62 n. 28, 63.</content>
+			<object.object_number>AFG_054</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel: Becker Landscape</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with Sailing Boats and a Burning Town</object.title>
+			<keyword>Massijs, Cornelis</keyword>
+			<keyword>Meester van het Errera-Schetsboek</keyword>
+			<keyword>Metsys, Jan</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Zwollo, An</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<keyword>G&#246;ttingen, Kunstsammlung der Universit&#228;t</keyword>
+			<keyword>Rotterdam, Museum Boijmans van Beuningen</keyword>
+			<object.creator/>
+			<input.date>2013-02-19</input.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2014-10-10</edit.date>
+			<edit.date>2014-02-07</edit.date>
+			<edit.date>2013-10-31</edit.date>
+			<edit.date>2013-10-31</edit.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-10-15</edit.date>
+			<edit.date>2013-10-15</edit.date>
+			<edit.date>2013-03-29</edit.date>
+			<edit.date>2013-03-29</edit.date>
+			<edit.date>2013-02-19</edit.date>
+			<edit.date>2013-02-19</edit.date>
+			<edit.date>2013-02-19</edit.date>
+			<edit.date>2013-02-19</edit.date>
+			<edit.date>2013-02-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:39:09</edit.time>
+			<edit.time>15:51:44</edit.time>
+			<edit.time>11:04:33</edit.time>
+			<edit.time>15:00:42</edit.time>
+			<edit.time>15:00:16</edit.time>
+			<edit.time>14:37:06</edit.time>
+			<edit.time>16:49:09</edit.time>
+			<edit.time>16:47:57</edit.time>
+			<edit.time>15:10:51</edit.time>
+			<edit.time>15:07:43</edit.time>
+			<edit.time>10:34:48</edit.time>
+			<edit.time>10:31:59</edit.time>
+			<edit.time>10:25:19</edit.time>
+			<edit.time>10:18:13</edit.time>
+			<edit.time>10:15:53</edit.time>
+			<input.time>10:14:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1933,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1933/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d8f9acab-0080-50b6-80ab-286e97d7ffde"", ""ontologyProperty"": """", ""resourceXresourceId"": ""74dfc1a7-b24d-421c-af61-64875292f18c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OriginalBrocade,,,au::12357,,,,,,,,,,,,,,rub,126aa01e-9148-54f2-bfce-99090c97d227,kw,,au::12357:1,au::12357g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1322199"",""au::12357"",""au::12357:1"",""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""Cornelis Matsijs""],""name"":""Cornelis Matsijs"",""ark"":""ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227"",""uri"":""/agents/people/1322199"",""id"":""au::12357:1"",""isCapacity"":false}",ark:/83110/x0/126aa01e-9148-54f2-bfce-99090c97d227,agent,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OriginalBrocade,,,au::32563,,,,,,,,,,,,,,rub,dc3244f2-86f5-5247-a04c-d95095e33f02,kw,,au::32563:1,au::32563g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3484241"",""au::32563"",""au::32563:1"",""ark:/83110/x0/dc3244f2-86f5-5247-a04c-d95095e33f02"",""A. (Juffr.) Zwollo""],""name"":""A. (Juffr.) Zwollo"",""ark"":""ark:/83110/x0/dc3244f2-86f5-5247-a04c-d95095e33f02"",""uri"":""/agents/people/3484241"",""id"":""au::32563:1"",""isCapacity"":false}",ark:/83110/x0/dc3244f2-86f5-5247-a04c-d95095e33f02,agent,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OriginalBrocade,,,au::13299,,,,,,,,,,,,,,rub,0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,kw,,au::13299:1,au::13299g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1422993"",""au::13299"",""au::13299:1"",""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""Museum Boymans-Van Beuningen""],""name"":""Museum Boymans-Van Beuningen"",""ark"":""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""uri"":""/agents/corporate_entities/1422993"",""id"":""au::13299:1"",""isCapacity"":false}",ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,agent,,,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_024,repository numbers,,,,,,,,,,,,,,
+1e35d65d-1505-5124-b084-8885b5fac3ff,tg:rubgr:1933,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_024,titles proper,Dutch (language),,,,,,,,,,,

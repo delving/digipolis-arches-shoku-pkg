@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2902,https://data.rubenianum.be//ark:/86530/b4c25ecb-7f1b-57a3-9230-025e0b67100f,Handschriften,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2891,Verwijzing naar Grossmann object,,d94f901a-54f8-560e-bbed-211d613333d0,"[{""resourceId"": ""d94f901a-54f8-560e-bbed-211d613333d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a5fbab00-8b87-46fd-b791-9e0e4f887dc0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8a566fbd-9671-41c1-858f-1916500fb365"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5a97ff76-1c17-4cf2-a0a8-4c2610144eba"", ""inverseOntologyProperty"": """"}]"
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bewegung bei Bruegel. Schlosser, Materialen, VI, citaten pp. 49-50, 66-68.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Danti, Vincenzo",,,,,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Schlosser, Julius von",,,,,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002902,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5144</priref>
+			<number>AFG_086_160</number>
+			<part_of_reference>AFG_086_149</part_of_reference>
+			<content>Bewegung bei Bruegel. Schlosser, Materialen, VI, citaten pp. 49-50, 66-68.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Composition. Form. Entwicklung.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Danti, Vincenzo</keyword>
+			<keyword>Schlosser, Julius von</keyword>
+			<object.creator/>
+			<input.date>2014-04-10</input.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:38:42</edit.time>
+			<edit.time>15:37:53</edit.time>
+			<edit.time>15:37:31</edit.time>
+			<input.time>15:30:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2902,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2902/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c7d2e33e-ce37-5210-9bf4-b588b7e8f5c1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""399e6656-0f58-4919-9dd8-844875dc41c0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_160,repository numbers,,,,,,,,,,,,,,
+b4c25ecb-7f1b-57a3-9230-025e0b67100f,tg:rubgr:2902,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_160,titles proper,Dutch (language),,,,,,,,,,,

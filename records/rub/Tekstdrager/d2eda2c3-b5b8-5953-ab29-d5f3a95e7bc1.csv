@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:796,https://data.rubenianum.be//ark:/86530/d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,Handschriften,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""68b6cc46-4157-4273-9ee3-76c90678b40e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bad5d4a5-154b-4c60-b60b-832da75961cc"", ""inverseOntologyProperty"": """"}]"
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[16 bladen] Genealogy of Bruegel's Tower.[scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_ExternalRelationsExtras,a::rub.21,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000796,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3047</priref>
+			<number>AFG_017_089</number>
+			<content>[16 bladen] Genealogy of Bruegel's Tower.[scan]</content>
+			<object.object_number>AFG_017</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-02-01</input.date>
+			<edit.date>2012-02-09</edit.date>
+			<edit.date>2012-02-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:34:39</edit.time>
+			<edit.time>11:51:05</edit.time>
+			<input.time>11:49:47</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:796,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:796/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b0ecc133-43af-5dcb-8f76-d7f9abcda942"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a4225b48-7530-458e-a3dc-f997ea4da61b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_089,repository numbers,,,,,,,,,,,,,,
+d2eda2c3-b5b8-5953-ab29-d5f3a95e7bc1,tg:rubgr:796,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_017_089,titles proper,Dutch (language),,,,,,,,,,,

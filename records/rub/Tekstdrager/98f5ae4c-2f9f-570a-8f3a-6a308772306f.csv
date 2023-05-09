@@ -1,0 +1,67 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2074,https://data.rubenianum.be//ark:/86530/98f5ae4c-2f9f-570a-8f3a-6a308772306f,Handschriften,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""850b5dea-9171-42a5-8d64-e71923973c3f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0329cee-8d20-43fd-a1b1-5a22d1e23bd1"", ""inverseOntologyProperty"": """"}]"
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Lost Temptation of Christ. Cf. Drawing of this subject, pen & wash, Weimar, Staatl. Kunstsammlungen, Schlossmuseum, signed and dated 1573 (perhaps some echo of Bruegel), repr. [H.G.] Franz, [Hans Bol als Landschaftszeichner], Jahrbuch des Kunsthistorischen Institutes der Universität Graz, I, 1965, [pp. 19-67], pl. 84. Franz p. 43 notices connections with Bruegel 'large landscape engraving-yes- See also another drawing of this subject by Bol, Albertina Inv.7916, signed and dated 1574. Roundel. (\*)(Photo adest)(Franz, Ibid., pl. 90) This latter probably closer to Bruegel, agreeing better with van Mander's description. There are also Temptations of Christ on Mountain by L. van Valckenborch. See A. Wied, Jb. Wien 1971.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Valckenborch, Lucas van",,,,,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wied, Alexander",,,,,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Weimar, Kunstsammlungen zu Weimar, Schloßmuseum",,,,,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002074,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4308</priref>
+			<number>AFG_057_001</number>
+			<content>Bruegel: Lost Temptation of Christ. Cf. Drawing of this subject, pen &amp; wash, Weimar, Staatl. Kunstsammlungen, Schlossmuseum, signed and dated 1573 (perhaps some echo of Bruegel), repr. [H.G.] Franz, [Hans Bol als Landschaftszeichner], Jahrbuch des Kunsthistorischen Institutes der Universit&#228;t Graz, I, 1965, [pp. 19-67], pl. 84. Franz p. 43 notices connections with Bruegel 'large landscape engraving-yes- See also another drawing of this subject by Bol, Albertina Inv.7916, signed and dated 1574. Roundel. (*)(Photo adest)(Franz, Ibid., pl. 90) This latter probably closer to Bruegel, agreeing better with van Mander's description. There are also Temptations of Christ on Mountain by L. van Valckenborch. See A. Wied, Jb. Wien 1971.</content>
+			<object.object_number>AFG_057</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Painting: Temptation of Christ</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Valckenborch, Lucas van</keyword>
+			<keyword>Mander, Karel van</keyword>
+			<keyword>Franz, H. Gerhard</keyword>
+			<keyword>Wied, Alexander</keyword>
+			<keyword>Wenen, Graphische Sammlung Albertina</keyword>
+			<keyword>Weimar, Kunstsammlungen zu Weimar, Schlo&#223;museum</keyword>
+			<object.creator/>
+			<input.date>2013-03-14</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-18</edit.date>
+			<edit.date>2013-03-18</edit.date>
+			<edit.date>2013-03-18</edit.date>
+			<edit.date>2013-03-14</edit.date>
+			<edit.date>2013-03-14</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:06:03</edit.time>
+			<edit.time>09:30:16</edit.time>
+			<edit.time>09:29:40</edit.time>
+			<edit.time>09:28:35</edit.time>
+			<edit.time>12:24:38</edit.time>
+			<edit.time>11:53:48</edit.time>
+			<input.time>11:52:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2074,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2074/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1f1a244d-89f3-57f7-b0c6-bf8abf8da37b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""350a9b82-b189-4f13-a33f-e3e74e744a0c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_OriginalBrocade,,,au::12149,,,,,,,,,,,,,,rub,8f971df1-092b-5a37-8e0f-d345790debe5,kw,,au::12149:1,au::12149g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1299943"",""au::12149"",""au::12149:1"",""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""Carel van Mander""],""name"":""Carel van Mander"",""ark"":""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""uri"":""/agents/people/1299943"",""id"":""au::12149:1"",""isCapacity"":false}",ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5,agent,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_OriginalBrocade,,,au::32512,,,,,,,,,,,,,,rub,a87f6432-2c9a-592e-a260-f23025e701c2,kw,,au::32512:1,au::32512g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3478784"",""au::32512"",""au::32512:1"",""ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2"",""H.G. Franz""],""name"":""H.G. Franz"",""ark"":""ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2"",""uri"":""/agents/people/3478784"",""id"":""au::32512:1"",""isCapacity"":false}",ark:/83110/x0/a87f6432-2c9a-592e-a260-f23025e701c2,agent,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_OriginalBrocade,,,au::32507,,,,,,,,,,,,,,rub,3dce806e-0337-5f22-9c0e-01bffc770398,kw,,au::32507:1,au::32507g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3478249"",""au::32507"",""au::32507:1"",""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""Grafische Sammlung Albertina""],""name"":""Grafische Sammlung Albertina"",""ark"":""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""uri"":""/agents/corporate_entities/3478249"",""id"":""au::32507:1"",""isCapacity"":false}",ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398,agent,,,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_057_001,repository numbers,,,,,,,,,,,,,,
+98f5ae4c-2f9f-570a-8f3a-6a308772306f,tg:rubgr:2074,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_057_001,titles proper,Dutch (language),,,,,,,,,,,

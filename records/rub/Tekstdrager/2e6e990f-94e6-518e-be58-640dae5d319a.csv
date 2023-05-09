@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:646,https://data.rubenianum.be//ark:/86530/2e6e990f-94e6-518e-be58-640dae5d319a,Handschriften,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:644,Verwijzing naar Grossmann object,,83ce614c-5c83-5295-9566-031cb94f4fa2,"[{""resourceId"": ""83ce614c-5c83-5295-9566-031cb94f4fa2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7d65babc-a3e7-4a26-96b9-d04b607ba537"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""92600c6d-5ff7-4b95-b367-9b235dac72b4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c03ac22-6334-4aa8-9652-20a3f9e0bbce"", ""inverseOntologyProperty"": """"}]"
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1] [Bijlage verkoopcatalogus, Mrs. Frank Holbrooke, p. 19]: Lugt, Repert. 6720: A Catalogue of the Distinguished and Truly Valuable Collection of ...Pictures, the ...Property of WILLIAM NEALE, Esq. of Hackney, ...Which wille be Sold by Auction, by Ms. Edwards at Tour's Coffee House, Cornhill, on Wednesday, December 14, 1803. Brueghel - 22 Flight into Egypt, a cabinet picture; [toegevoegde vermelding]: Communicated to Dr. Burchard and Count Seilern October 1940, to Dr. Glück Dec. 1944. exempl. C/L.; [notitie s.v.] Paolo Morando Cavazzola, 150, The Astromer [toegevoegde vermelding]: wäre zu vgl. mit Büste Giovanni Emilio de'Megli. Nicht bei Berenson, Italian Pictures of the Renaissance, Oxford 1932; [blad 2] [Bijlage verkoopcatalogus, Mrs. Frank Holbrooke, p. 32] 1939. Porträt, Italien XVI. N° 150. Halbfigur Mann in schwarzen Tracht, langes braunes Haar [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_ExternalRelationsExtras,a::rub.19,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,259911,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Berenson, Bernard",,,,,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000646,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2897</priref>
+			<number>AFG_015_003</number>
+			<part_of_reference>AFG_015_001</part_of_reference>
+			<content>[2 bladen] [blad 1] [Bijlage verkoopcatalogus, Mrs. Frank Holbrooke, p. 19]: Lugt, Repert. 6720: A Catalogue of the Distinguished and Truly Valuable Collection of ...Pictures, the ...Property of WILLIAM NEALE, Esq. of Hackney, ...Which wille be Sold by Auction, by Ms. Edwards at Tour's Coffee House, Cornhill, on Wednesday, December 14, 1803. Brueghel - 22 Flight into Egypt, a cabinet picture; [toegevoegde vermelding]: Communicated to Dr. Burchard and Count Seilern October 1940, to Dr. Gl&#252;ck Dec. 1944. exempl. C/L.; [notitie s.v.] Paolo Morando Cavazzola, 150, The Astromer [toegevoegde vermelding]: w&#228;re zu vgl. mit B&#252;ste Giovanni Emilio de'Megli. Nicht bei Berenson, Italian Pictures of the Renaissance, Oxford 1932; [blad 2] [Bijlage verkoopcatalogus, Mrs. Frank Holbrooke, p. 32] 1939. Portr&#228;t, Italien XVI. N&#176; 150. Halbfigur Mann in schwarzen Tracht, langes braunes Haar [...]</content>
+			<object.object_number>AFG_015</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Christie's Pictures by Old Masters, The Properties of C.A. Bentinck, Esq. Deceased; Mrs. Frank Holbrooke Deceased [...], on Friday, July 14, 1939.[Beschadigd]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Flight into Egypt</object.title>
+			<keyword>Seilern, Antoine</keyword>
+			<keyword>Berenson, Bernard</keyword>
+			<keyword>Burchard, Ludwig</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Lugt, Frits</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-17</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2014-02-07</edit.date>
+			<edit.date>2012-06-08</edit.date>
+			<edit.date>2012-02-13</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-02-07</edit.date>
+			<edit.date>2012-01-17</edit.date>
+			<edit.date>2012-01-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>13:21:56</edit.time>
+			<edit.time>10:50:09</edit.time>
+			<edit.time>13:38:21</edit.time>
+			<edit.time>14:01:25</edit.time>
+			<edit.time>13:39:52</edit.time>
+			<edit.time>10:57:45</edit.time>
+			<edit.time>10:50:25</edit.time>
+			<edit.time>15:22:27</edit.time>
+			<edit.time>15:18:12</edit.time>
+			<input.time>15:17:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:646,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:646/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2f6542e1-30ac-5636-b178-be8d906d39c4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ac076690-9f94-4e60-803a-dad6033b83d3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,rub,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,,au::3232:1,au::3232g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_OriginalBrocade,,,au::24409,,,,,,,,,,,,,,rub,d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,kw,,au::24409:1,au::24409g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2611763"",""au::24409"",""au::24409:1"",""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""Frits Lugt""],""name"":""Frits Lugt"",""ark"":""ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86"",""uri"":""/agents/people/2611763"",""id"":""au::24409:1"",""isCapacity"":false}",ark:/83110/x0/d3b00787-b5a3-5c7e-97c6-9a1a5410ec86,agent,,,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_003,repository numbers,,,,,,,,,,,,,,
+2e6e990f-94e6-518e-be58-640dae5d319a,tg:rubgr:646,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_015_003,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5152,https://data.rubenianum.be//ark:/86530/102ef1e5-537b-5600-9c96-125a155329bc,Handschriften,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_021,isad:rub:2951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5138,Verwijzing naar Grossmann object,,53ee5291-159f-57ab-b0ed-83a11472f1e4,"[{""resourceId"": ""53ee5291-159f-57ab-b0ed-83a11472f1e4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8e2b8ef2-d47e-4162-bf94-a3720cef18c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b846d002-7c2b-46d0-a981-2bdfbdd1a9d4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5a751ca7-53fd-4e97-a25b-3ce6f625b8d4"", ""inverseOntologyProperty"": """"}]"
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iconography. Bruxelles, Musée, Catalogue Edoard Fétis [= Musées Royaux de Peinture et de Sculpture de Belgique : catalogue descriptif et historique des tableaux anciens] 1889, N° 113, p. 222f. [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13265359,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fétis, Edouard",,,,,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005152,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7408</priref>
+			<number>AFG_143_031</number>
+			<part_of_reference>AFG_143_017</part_of_reference>
+			<content>Iconography. Bruxelles, Mus&#233;e, Catalogue Edoard F&#233;tis [= Mus&#233;es Royaux de Peinture et de Sculpture de Belgique : catalogue descriptif et historique des tableaux anciens] 1889, N&#176; 113, p. 222f. [...]</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Iconography</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>F&#233;tis, Edouard</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>F&#233;tis, Edouard</documentation.author>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-08-14</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Mus&#233;es Royaux de Peinture et de Sculpture de Belgique : catalogue descriptif et historique des tableaux anciens</documentation.title>
+			<edit.time>13:20:06</edit.time>
+			<edit.time>11:46:10</edit.time>
+			<input.time>11:44:15</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5152,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5152/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""556476e4-7d62-5caa-aa88-8f0dfa4eabf4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9e668a0b-8215-4df4-8004-f9405fe592a6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_031,repository numbers,,,,,,,,,,,,,,
+102ef1e5-537b-5600-9c96-125a155329bc,tg:rubgr:5152,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_031,titles proper,Dutch (language),,,,,,,,,,,

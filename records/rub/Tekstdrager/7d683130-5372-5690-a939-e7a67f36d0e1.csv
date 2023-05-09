@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2661,https://data.rubenianum.be//ark:/86530/7d683130-5372-5690-a939-e7a67f36d0e1,Handschriften,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4d83877c-1ecc-4e1b-9ea0-41d56a8eadac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4fbca52-ea2f-4556-9a4c-c9e1e9243b87"", ""inverseOntologyProperty"": """"}]"
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dessins des écoles du Nord: dans les collections privées françaises, May-June 1974. Important exhibition. (No owners given of any of the drawings), 14. H. Bol, Paysage, pl. 15. Coll. part...figures perhaps by other hand; 21.J. Brueghel I (pl. 22) Bateaux et pêcheurs sur une rivière. Coll .part. cf Basrode (but different perspective; 22 J. Brueghel I (pl. 23) Village. Street with several figures, pigs a chickens signed and dated: Brueghel fecit 1616; 24 (pl. 25) Matthijs Cock: ??? draught of fishes (called 'Prédication de St. Pierre) with St. Peter in water, and Christ on the shore. Attrib. acceptable; R. Savery.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13248463,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bol, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cock, Matthijs",,,,,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002661,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4903</priref>
+			<number>AFG_084_075</number>
+			<content>Dessins des &#233;coles du Nord: dans les collections priv&#233;es fran&#231;aises, May-June 1974. Important exhibition. (No owners given of any of the drawings), 14. H. Bol, Paysage, pl. 15. Coll. part...figures perhaps by other hand; 21.J. Brueghel I (pl. 22) Bateaux et p&#234;cheurs sur une rivi&#232;re. Coll .part. cf Basrode (but different perspective; 22 J. Brueghel I (pl. 23) Village. Street with several figures, pigs a chickens signed and dated: Brueghel fecit 1616; 24 (pl. 25) Matthijs Cock: ??? draught of fishes (called 'Pr&#233;dication de St. Pierre) with St. Peter in water, and Christ on the shore. Attrib. acceptable; R. Savery.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Bol, Hans</keyword>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Cock, Matthijs</keyword>
+			<keyword>Savery, Roelant</keyword>
+			<object.creator/>
+			<documentation.author>Fourcade, Dominique</documentation.author>
+			<input.date>2014-02-12</input.date>
+			<edit.date>2014-02-12</edit.date>
+			<edit.date>2014-02-12</edit.date>
+			<edit.date>2014-02-12</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Dessins des &#233;coles du Nord dans les collections priv&#233;es fran&#231;aises</documentation.title>
+			<edit.time>16:59:21</edit.time>
+			<edit.time>16:53:28</edit.time>
+			<edit.time>16:51:33</edit.time>
+			<input.time>16:44:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2661,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2661/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c71e7189-86bf-53a3-b009-f79c5dea57c2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""83d9216e-c20c-4988-a7bc-38f6d8ca1ff4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,rub,68745e68-be77-5308-846a-b1ac1c29f49d,kw,,au::16398:1,au::16398g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_075,repository numbers,,,,,,,,,,,,,,
+7d683130-5372-5690-a939-e7a67f36d0e1,tg:rubgr:2661,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_075,titles proper,Dutch (language),,,,,,,,,,,

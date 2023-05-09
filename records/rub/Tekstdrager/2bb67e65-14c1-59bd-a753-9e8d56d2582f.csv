@@ -1,0 +1,85 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3167,https://data.rubenianum.be//ark:/86530/2bb67e65-14c1-59bd-a753-9e8d56d2582f,Handschriften,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f80612e3-d604-4e28-974c-b5e2bfbcc899"", ""ontologyProperty"": """", ""resourceXresourceId"": ""911a5c70-ea14-45e0-8ad9-727edb8d6434"", ""inverseOntologyProperty"": """"}]"
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] Martinsfest. See drawings attributed to Abraham Govaerts 1589-1626 of the same subject in Stockholm, National Museum Dutch & Flemish Drawings, Stockholm 1953, N° 115 (pl. 20) not a feast, but St. Martin with beggars and on the side a man drinking. cf. painting signed and dated 1626 in Brussels (Yvonne Thiéry in Bull. des Musées R. des Beaux-Arts, Bruxelles, December 1952, p. 135ff; [verso] See also Denucé, Inventar & De Maeyer, Albrecht & Isabella inventory.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13260515,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:12893604,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Govaerts, Abraham",,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Maeyer, Marcel De",,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thiery, Yvonne",,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stockholm, Nationalmuseum",,,,,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003167,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5493</priref>
+			<number>AFG_090_087</number>
+			<content>[recto] Ad [Addendum] Martinsfest. See drawings attributed to Abraham Govaerts 1589-1626 of the same subject in Stockholm, National Museum Dutch &amp; Flemish Drawings, Stockholm 1953, N&#176; 115 (pl. 20) not a feast, but St. Martin with beggars and on the side a man drinking. cf. painting signed and dated 1626 in Brussels (Yvonne Thi&#233;ry in Bull. des Mus&#233;es R. des Beaux-Arts, Bruxelles, December 1952, p. 135ff; [verso] See also Denuc&#233;, Inventar &amp; De Maeyer, Albrecht &amp; Isabella inventory.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Govaerts, Abraham</keyword>
+			<keyword>inventaris</keyword>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<keyword>Maeyer, Marcel De</keyword>
+			<keyword>Thiery, Yvonne</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<keyword>Stockholm, Nationalmuseum</keyword>
+			<object.creator/>
+			<documentation.author>Maeyer, Marcel De</documentation.author>
+			<documentation.author>Thiery, Yvonne</documentation.author>
+			<input.date>2014-06-13</input.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<edit.date>2014-06-13</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.shelfmark/>
+			<documentation.title>Albrecht en Isabella en de schilderkunst : bijdrage tot de geschiedenis van de XVIIe-eeuwse schilderkunst in de Zuidelijke Nederlanden</documentation.title>
+			<documentation.title>Auberge"" d'Abraham Govaerts</documentation.title>
+			<edit.time>15:33:50</edit.time>
+			<edit.time>10:48:20</edit.time>
+			<edit.time>10:16:56</edit.time>
+			<edit.time>10:16:13</edit.time>
+			<edit.time>10:15:17</edit.time>
+			<edit.time>10:14:28</edit.time>
+			<edit.time>10:14:08</edit.time>
+			<edit.time>10:13:24</edit.time>
+			<input.time>10:12:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+			<documentation.title.article>L'""</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3167,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3167/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ea251f2-3e83-53e2-805b-8e0f6ac978f3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e4dc007d-dfeb-479e-8f8b-9dbbe18c3d82"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_087,repository numbers,,,,,,,,,,,,,,
+2bb67e65-14c1-59bd-a753-9e8d56d2582f,tg:rubgr:3167,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_087,titles proper,Dutch (language),,,,,,,,,,,

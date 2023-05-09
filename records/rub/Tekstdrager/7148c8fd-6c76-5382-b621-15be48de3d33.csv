@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1547,https://data.rubenianum.be//ark:/86530/7148c8fd-6c76-5382-b621-15be48de3d33,Handschriften,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_014,isad:rub:2944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4fb1b1f3-dbfb-478a-bb23-4a1349eb9f5f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""379100c4-3bc1-4a76-acaf-c54682c95629"", ""inverseOntologyProperty"": """"}]"
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Conversion of St. Paul: of great importance for composition: The Albertina drawing of the Way to Calvary. Generally: Way to Calvary composition contains the germ of the composition with the place of execution (= paralleled by place of Saul's fall) in the distance to which the procession is moving cf. e.g. Aertsen (Lucas Galerie) 1553 and in others.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_ExternalRelationsExtras,a::rub.18,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260961,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_ExternalRelationsExtras,a::rub.41,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,221181,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001547,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3798</priref>
+			<number>AFG_041_021</number>
+			<content>Conversion of St. Paul: of great importance for composition: The Albertina drawing of the Way to Calvary. Generally: Way to Calvary composition contains the germ of the composition with the place of execution (= paralleled by place of Saul's fall) in the distance to which the procession is moving cf. e.g. Aertsen (Lucas Galerie) 1553 and in others.</content>
+			<object.object_number>AFG_041</object.object_number>
+			<object.object_number>AFG_014</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Conversion of St. Paul</object.title>
+			<object.title>The Suicide of Saul</object.title>
+			<keyword>Aertsen, Pieter</keyword>
+			<keyword>Wenen, Graphische Sammlung Albertina</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-12</input.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2012-12-04</edit.date>
+			<edit.date>2012-11-27</edit.date>
+			<edit.date>2012-11-12</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:21:33</edit.time>
+			<edit.time>09:32:48</edit.time>
+			<edit.time>10:25:56</edit.time>
+			<edit.time>15:15:46</edit.time>
+			<input.time>15:11:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1547,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1547/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""193effe2-68b5-5201-868d-de6a157b6047"", ""ontologyProperty"": """", ""resourceXresourceId"": ""98b30439-98d0-4803-8b9e-9b74edb67ca6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_OriginalBrocade,,,au::180,,,,,,,,,,,,,,rub,0342b051-d515-56a8-aabb-40dcf1fade92,kw,,au::180:1,au::180g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/19260"",""au::180"",""au::180:1"",""ark:/83110/x0/0342b051-d515-56a8-aabb-40dcf1fade92"",""Pieter Aertsen""],""name"":""Pieter Aertsen"",""ark"":""ark:/83110/x0/0342b051-d515-56a8-aabb-40dcf1fade92"",""uri"":""/agents/people/19260"",""id"":""au::180:1"",""isCapacity"":false}",ark:/83110/x0/0342b051-d515-56a8-aabb-40dcf1fade92,agent,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_OriginalBrocade,,,au::32507,,,,,,,,,,,,,,rub,3dce806e-0337-5f22-9c0e-01bffc770398,kw,,au::32507:1,au::32507g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3478249"",""au::32507"",""au::32507:1"",""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""Grafische Sammlung Albertina""],""name"":""Grafische Sammlung Albertina"",""ark"":""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""uri"":""/agents/corporate_entities/3478249"",""id"":""au::32507:1"",""isCapacity"":false}",ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398,agent,,,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_041_021,repository numbers,,,,,,,,,,,,,,
+7148c8fd-6c76-5382-b621-15be48de3d33,tg:rubgr:1547,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_041_021,titles proper,Dutch (language),,,,,,,,,,,

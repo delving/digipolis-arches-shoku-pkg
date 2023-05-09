@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2901,https://data.rubenianum.be//ark:/86530/a67ce291-25be-54f5-b9e9-8f1d5b107288,Handschriften,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2891,Verwijzing naar Grossmann object,,d94f901a-54f8-560e-bbed-211d613333d0,"[{""resourceId"": ""d94f901a-54f8-560e-bbed-211d613333d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3a9a7012-2624-44bf-9c67-c17be3ba2da8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9d9b440d-3615-4cad-9961-721fd32ad0a0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9717486c-15fe-4b3c-89e0-c463acfa8a47"", ""inverseOntologyProperty"": """"}]"
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel beginnt und endet mit Landschaft, zu der schließlich der Menschkampf. Die Verbindung mit Bosch (1556-1564) eine wenn auch sehr wichtige Zwischenstufe (auch kompostionell wichtig) Bosch führt Bruegel zur menschl. Gestalt 1557. Symbolisches in Sämann noch ohne Bosch. Mittel ausgedruckt, aber schon immer in Zeichnung und Stich [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002901,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5143</priref>
+			<number>AFG_086_159</number>
+			<part_of_reference>AFG_086_149</part_of_reference>
+			<content>Bruegel beginnt und endet mit Landschaft, zu der schlie&#223;lich der Menschkampf. Die Verbindung mit Bosch (1556-1564) eine wenn auch sehr wichtige Zwischenstufe (auch kompostionell wichtig) Bosch f&#252;hrt Bruegel zur menschl. Gestalt 1557. Symbolisches in S&#228;mann noch ohne Bosch. Mittel ausgedruckt, aber schon immer in Zeichnung und Stich [...][scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Composition. Form. Entwicklung.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-10</input.date>
+			<edit.date>2014-04-10</edit.date>
+			<edit.date>2014-04-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:10:01</edit.time>
+			<edit.time>15:03:36</edit.time>
+			<input.time>14:47:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2901,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2901/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""079d8ce9-7d02-5a78-9a87-cd9c0a5c8bf6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""34a5e813-ad75-4178-beee-4afc8a049c73"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_159,repository numbers,,,,,,,,,,,,,,
+a67ce291-25be-54f5-b9e9-8f1d5b107288,tg:rubgr:2901,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_159,titles proper,Dutch (language),,,,,,,,,,,

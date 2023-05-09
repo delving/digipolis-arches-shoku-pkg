@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2817,https://data.rubenianum.be//ark:/86530/d3baadc9-6cdc-5df0-b3cb-02e3a390906c,Handschriften,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2811,Verwijzing naar Grossmann object,,d182e3a1-22e0-539b-8569-56addb7651c5,"[{""resourceId"": ""d182e3a1-22e0-539b-8569-56addb7651c5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a6ee215f-2be1-429e-94ab-0133585bfc10"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2aef63f2-2be6-4459-af8b-4d15f0ee6b29"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6007b1a2-8a55-4696-8afd-f223dcfac697"", ""inverseOntologyProperty"": """"}]"
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"BM [plaatskenmerk] Bruegel's Fame. Isaac Bullart, Académie des sciences et des arts, 2 vols, Brussels, 1682, vol. II, pp. 372-501 Livre sixième: Peintres Illustres des Pays-Bas & autres de deça les Monts, citaten pp. 428-489 [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261797,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bullart, Isaac",,,,,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002817,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5059</priref>
+			<number>AFG_086_075</number>
+			<part_of_reference>AFG_086_069</part_of_reference>
+			<content>BM [plaatskenmerk] Bruegel's Fame. Isaac Bullart, Acad&#233;mie des sciences et des arts, 2 vols, Brussels, 1682, vol. II, pp. 372-501 Livre sixi&#232;me: Peintres Illustres des Pays-Bas &amp; autres de de&#231;a les Monts, citaten pp. 428-489 [scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Fame from contemporaries to XX C. Also early sources, see also [Hans-Wolfgang von] L&#246;hneysen [Die &#228;ltere niederl&#228;ndische Malerei: Kunst und Kritiker, Eisenach: R&#246;th, 1956
+</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Bullart, Isaac</keyword>
+			<object.creator/>
+			<documentation.author>Bullart, Isaac</documentation.author>
+			<input.date>2014-03-27</input.date>
+			<edit.date>2014-03-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Academie des sciences et des arts, contenant les vies &amp; les &#233;loges historiques des hommes illustres, qui ont excell&#233; en ces professions depuis environ quatre si&#232;cles parmy diverses nations de l'Europe : avec leurs pourtraits tirez sur des originaux au naturel, &amp; plusieurs inscriptions funebres, exactement recueillies de leurs tombeaux</documentation.title>
+			<edit.time>11:42:23</edit.time>
+			<input.time>11:31:43</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2817,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2817/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8da312eb-459a-5cd0-9c96-d58bfb82c59b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a90389be-858f-4421-a5cf-e17c7732454e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_075,repository numbers,,,,,,,,,,,,,,
+d3baadc9-6cdc-5df0-b3cb-02e3a390906c,tg:rubgr:2817,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_075,titles proper,Dutch (language),,,,,,,,,,,

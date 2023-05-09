@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5211,https://data.rubenianum.be//ark:/86530/759ee8a2-47af-5e52-8255-17ee968167f3,Handschriften,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_021,isad:rub:2951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5207,Verwijzing naar Grossmann object,,6bf86cc3-3f5a-5ce7-beb9-36322eb9bb56,"[{""resourceId"": ""6bf86cc3-3f5a-5ce7-beb9-36322eb9bb56"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e392017b-5a6f-4d67-9606-8616c5f26ea5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d4e3c952-2ee3-4cf3-b81d-05b819350979"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9f011240-8d85-4a7c-9dd2-8275aacd1010"", ""inverseOntologyProperty"": """"}]"
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Versions. Bruegel, Woman taken in Adultery: 1) Original; 2) Print by P. Perret; 3) Drawing coll. Arthur Kay, Edinburgh 1938; 4) Grisaille, Munich; 5) ...[sic][...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Perret, Pieter",,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kay, Arthur",,,,,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005211,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7467</priref>
+			<number>AFG_143_090</number>
+			<part_of_reference>AFG_143_086</part_of_reference>
+			<content>Versions. Bruegel, Woman taken in Adultery: 1) Original; 2) Print by P. Perret; 3) Drawing coll. Arthur Kay, Edinburgh 1938; 4) Grisaille, Munich; 5) ...[sic][...]</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Description. Versions. Composition. Light in keeping with development.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>Perret, Pieter</keyword>
+			<keyword>Kay, Arthur</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-08-18</input.date>
+			<edit.date>2014-08-18</edit.date>
+			<edit.date>2014-08-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:41:44</edit.time>
+			<edit.time>09:40:31</edit.time>
+			<input.time>09:40:16</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5211,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5211/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""512b70fc-e92b-5060-8e72-d6c16b19a29c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3a13fd76-34ba-47f3-8738-3c0f1034d0c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_090,repository numbers,,,,,,,,,,,,,,
+759ee8a2-47af-5e52-8255-17ee968167f3,tg:rubgr:5211,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_090,titles proper,Dutch (language),,,,,,,,,,,

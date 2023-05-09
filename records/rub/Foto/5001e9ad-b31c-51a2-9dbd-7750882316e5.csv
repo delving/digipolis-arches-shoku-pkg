@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2058,https://data.rubenianum.be//ark:/86530/5001e9ad-b31c-51a2-9dbd-7750882316e5,Foto's,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3cffe149-43e3-4635-b64a-c1045fe701e8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7f2952b8-0fe0-4793-87a4-c534c483a9c3"", ""inverseOntologyProperty"": """"}]"
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"Oct.1972. On the right Rocks cf. Mountain Landscape by 'Savery' (B. on Hatvany) Exposition Rubens et son temps, Paris 1936, N° 92, pl. XXXIII (In St. Nicolas de Chadonnet the rocks are different see also Glück, N° 66). Ex. Coll. Th. Bramkamp, Düren. [Stempel] Matthiesen Ltd.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/rub/opacrub/,c:lvd:13258060,gepubliceerd in /als,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Savery, Jacob (I)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parijs, Saint-Nicolas du Chardonnet",,,,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002058,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4292</priref>
+			<number>AFG_056_002</number>
+			<content>Oct.1972. On the right Rocks cf. Mountain Landscape by 'Savery' (B. on Hatvany) Exposition Rubens et son temps, Paris 1936, N&#176; 92, pl. XXXIII (In St. Nicolas de Chadonnet the rocks are different see also Gl&#252;ck, N&#176; 66). Ex. Coll. Th. Bramkamp, D&#252;ren. [Stempel] Matthiesen Ltd.</content>
+			<object.object_number>AFG_056</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>Lost Pictures: Crucifixion</object.title>
+			<keyword>Savery, Jacob (I)</keyword>
+			<keyword>Savery, Roelant</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Parijs, Saint-Nicolas du Chardonnet</keyword>
+			<object.creator/>
+			<documentation.author>Huyghe, Ren&#233;</documentation.author>
+			<input.date>2013-03-14</input.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2014-10-23</edit.date>
+			<edit.date>2013-03-14</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Rubens et son temps au Mus&#233;e de l'Orangerie</documentation.title>
+			<edit.time>09:28:33</edit.time>
+			<edit.time>09:26:52</edit.time>
+			<edit.time>09:22:49</edit.time>
+			<input.time>09:19:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2058,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2058/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1adb94d4-4850-550d-b35d-896c8249212f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4286d07e-b6bc-4b12-ad6a-b07ab196aee4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,68745e68-be77-5308-846a-b1ac1c29f49d,kw,keywords,au::16398:1,au::16398g:1,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,keywords,au::28177:1,au::28177g:1,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_056_002,repository numbers,,,,,,,,,,,
+5001e9ad-b31c-51a2-9dbd-7750882316e5,tg:rubgr:2058,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_056_002,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1206,https://data.rubenianum.be//ark:/86530/08d61989-3ff3-5472-9888-adef3c9db67e,Handschriften,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ad8d17e7-5a06-4fec-8bc8-d185572c54b6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bec255dd-2160-4428-bd04-618265a04418"", ""inverseOntologyProperty"": """"}]"
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Kindermord [Olof] Granberg Appendix Prague 1648. Frizell, Pictures from Prague, Burl. Mag. 1947, p. 23 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13264832,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Granberg, Olof",,,,,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001206,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3463</priref>
+			<number>AFG_029_015</number>
+			<content>Ad [Addendum] Kindermord [Olof] Granberg Appendix Prague 1648. Frizell, Pictures from Prague, Burl. Mag. 1947, p. 23 [...]</content>
+			<object.object_number>AFG_029</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Massacre of the Innocents</object.title>
+			<keyword>Granberg, Olof</keyword>
+			<physical_form>beschadigd</physical_form>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Granberg, Olof</documentation.author>
+			<input.date>2012-07-17</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2012-07-26</edit.date>
+			<edit.date>2012-07-26</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-18</edit.date>
+			<edit.date>2012-07-17</edit.date>
+			<edit.date>2012-07-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Catalogue raisonn&#233; de tableaux anciens inconnus jusqu'ici dans les collections priv&#233;es de la Su&#232;de : I : contenant 500 tableaux, prinicpalement des &#233;coles hollandaise et flamande du XVIIe si&#232;cle</documentation.title>
+			<edit.time>09:10:40</edit.time>
+			<edit.time>09:10:27</edit.time>
+			<edit.time>13:58:45</edit.time>
+			<edit.time>13:58:29</edit.time>
+			<edit.time>13:27:48</edit.time>
+			<edit.time>13:25:58</edit.time>
+			<edit.time>14:53:47</edit.time>
+			<edit.time>14:44:40</edit.time>
+			<edit.time>14:44:03</edit.time>
+			<edit.time>15:51:15</edit.time>
+			<edit.time>15:39:51</edit.time>
+			<input.time>15:39:09</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1206,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1206/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2430ce04-1131-5c01-8778-867d55f8c9a6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f429da1-7a7b-4198-8665-936045d86e23"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_015,repository numbers,,,,,,,,,,,,,,
+08d61989-3ff3-5472-9888-adef3c9db67e,tg:rubgr:1206,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_029_015,titles proper,Dutch (language),,,,,,,,,,,

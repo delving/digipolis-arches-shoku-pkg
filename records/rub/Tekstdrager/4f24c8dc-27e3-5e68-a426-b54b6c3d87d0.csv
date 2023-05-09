@@ -1,0 +1,59 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3375,https://data.rubenianum.be//ark:/86530/4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,Handschriften,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_034,isad:rub:2964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_AssociatedArchives,3,kenmerken.rubobjnrgr,,,,,AFG_055,isad:rub:2985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_AssociatedArchives,4,kenmerken.rubobjnrgr,,,,,AFG_084,isad:rub:3014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3338,Verwijzing naar Grossmann object,,909a2567-7565-51a1-a51e-6d5c7af27196,"[{""resourceId"": ""909a2567-7565-51a1-a51e-6d5c7af27196"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1455701f-929d-46f2-b07d-315e8c9d39ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3970b90f-723c-4672-b65b-523287c6328a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b176e53e-323f-417b-9abc-618a19fe9715"", ""inverseOntologyProperty"": """"}]"
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Peasant Wedding (Borchard) [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,219317,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Borchard, Samuel",,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Borchard Metzger, Evelyn",,,,,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003375,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5628</priref>
+			<number>AFG_093_038</number>
+			<part_of_reference>AFG_093_001</part_of_reference>
+			<content>Peasant Wedding (Borchard) [...]</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Flemish Painting around and later than Bruegel. Also: Comparative Material.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<object.title>Drawings</object.title>
+			<keyword>Borchard, Samuel</keyword>
+			<keyword>Borchard Metzger, Evelyn</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator/>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>17:32:28</edit.time>
+			<edit.time>12:02:37</edit.time>
+			<input.time>12:01:28</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3375,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3375/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""53af661f-3006-5fd9-b46e-4418eae399df"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fa996ee5-149d-4fab-b0b7-4b7f4aa6baa8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_038,repository numbers,,,,,,,,,,,,,,
+4f24c8dc-27e3-5e68-a426-b54b6c3d87d0,tg:rubgr:3375,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_038,titles proper,Dutch (language),,,,,,,,,,,

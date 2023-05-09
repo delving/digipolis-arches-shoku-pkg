@@ -1,0 +1,94 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:273,https://data.rubenianum.be//ark:/86530/c5a2c63b-83cf-5056-a155-03f86221e0c7,Handschriften,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4061075a-d023-448e-a406-df408534a7af"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9a69ce4a-1c29-4665-8435-7218efcad2f3"", ""inverseOntologyProperty"": """"}]"
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] Inv. Arundel 1654, [= Lionel Cust, 'Notes on the collections formed by Thomas Howard, Earl of Arundel and Surrey, K.G.'], Burl. Mag. [XIX (1911), pp. 278-286], p. 283 a. Querella de Carnavale & Quaressima in aquazzo Bruegel vecchio; aber zur 2. Komposition?; [blad 2] Ad [Addendum] alt 7, Neu 12, Arundel Inv. 1654/55, Burl. Mag. XIX, 1911, citaat p. 283.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cust, Lionel",,,,,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Arundel, Thomas Howard, Earl of",,,,,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000273,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2521</priref>
+			<number>AFG_005_037</number>
+			<content>[2 bladen] Inv. Arundel 1654, [= Lionel Cust, 'Notes on the collections formed by Thomas Howard, Earl of Arundel and Surrey, K.G.'], Burl. Mag. [XIX (1911), pp. 278-286], p. 283 a. Querella de Carnavale &amp; Quaressima in aquazzo Bruegel vecchio; aber zur 2. Komposition?; [blad 2] Ad [Addendum] alt 7, Neu 12, Arundel Inv. 1654/55, Burl. Mag. XIX, 1911, citaat p. 283.</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>Cust, Lionel</keyword>
+			<keyword>Arundel, Thomas Howard, Earl of</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-07</edit.date>
+			<edit.date>2011-11-07</edit.date>
+			<edit.date>2011-11-07</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-09-22</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:08:05</edit.time>
+			<edit.time>12:07:31</edit.time>
+			<edit.time>12:07:06</edit.time>
+			<edit.time>12:06:24</edit.time>
+			<edit.time>13:15:23</edit.time>
+			<edit.time>11:01:23</edit.time>
+			<edit.time>14:46:44</edit.time>
+			<edit.time>15:40:26</edit.time>
+			<edit.time>12:10:46</edit.time>
+			<edit.time>12:09:54</edit.time>
+			<edit.time>12:01:21</edit.time>
+			<edit.time>16:23:00</edit.time>
+			<edit.time>11:44:46</edit.time>
+			<edit.time>16:19:28</edit.time>
+			<edit.time>16:17:54</edit.time>
+			<input.time>16:17:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:273,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:273/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""216369cf-f9ec-5029-9df3-5058d25824e3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""96229752-a1ff-4bd3-845f-1296ac3f9a43"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_037,repository numbers,,,,,,,,,,,,,,
+c5a2c63b-83cf-5056-a155-03f86221e0c7,tg:rubgr:273,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_037,titles proper,Dutch (language),,,,,,,,,,,

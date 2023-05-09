@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1007,https://data.rubenianum.be//ark:/86530/8c927de3-136c-5852-b3c9-97d3ad1ccd0d,Handschriften,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""35f5b44d-789d-4302-ac88-4378910ddc37"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e81b5f76-2f33-42fc-b9e0-db03dce4f684"", ""inverseOntologyProperty"": """"}]"
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Monatsbilderserie. Hinweis L.B. [Burchard] Aufsatz von Woermann (in Rep.f. Kw? [sic]) über Kirchenlandschaften, d.h. Landschaftbilder in Kirchen. [= Karl Woermann, 'Kirchenlandschaften. Ein Abschnitt aus der Geschichte der Landschaftsmalerei', in: Repertorium für Kunstwissenschaft 13 (1890) 5, pp. 337-362].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Woermann, Karl",,,,,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001007,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3260</priref>
+			<number>AFG_022_040</number>
+			<content>Ad [Addendum] Bruegel: Monatsbilderserie. Hinweis L.B. [Burchard] Aufsatz von Woermann (in Rep.f. Kw? [sic]) &#252;ber Kirchenlandschaften, d.h. Landschaftbilder in Kirchen. [= Karl Woermann, 'Kirchenlandschaften. Ein Abschnitt aus der Geschichte der Landschaftsmalerei', in: Repertorium f&#252;r Kunstwissenschaft 13 (1890) 5, pp. 337-362].</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Burchard, Ludwig</keyword>
+			<keyword>Woermann, Karl</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-23</input.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-27</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-04-20</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-23</edit.date>
+			<edit.date>2012-03-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:01:49</edit.time>
+			<edit.time>13:30:20</edit.time>
+			<edit.time>16:12:29</edit.time>
+			<edit.time>15:58:58</edit.time>
+			<edit.time>15:55:23</edit.time>
+			<edit.time>15:09:01</edit.time>
+			<edit.time>13:20:15</edit.time>
+			<edit.time>12:36:49</edit.time>
+			<input.time>12:34:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1007,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1007/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""03547bf5-cd4a-513d-8a4f-7052fb38c1f2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8d1eaf4b-b3ed-495e-8908-dbf19b13b84a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,rub,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,,au::3232:1,au::3232g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_040,repository numbers,,,,,,,,,,,,,,
+8c927de3-136c-5852-b3c9-97d3ad1ccd0d,tg:rubgr:1007,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_040,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4590,https://data.rubenianum.be//ark:/86530/67478663-62dc-502d-800b-4fe9de2ed62d,Brieven,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b269c6a3-e094-4462-a8d0-58ce2f9b9172"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f5ddc486-3b60-49f9-bba7-04191f7174af"", ""inverseOntologyProperty"": """"}]"
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1954.0,2069,In Copyright,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_Correspondence,1,,,,,,,,,,,,,,,,"Haverkamp-Begemann, E.",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19540518,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1954-05-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: Antwoord op de brieven van 12 mei. Een eerdere brief van FG ging waarschijnlijk verloren. Legt laatste hand aan artikel dat uitgebreider werd dan voorzien. Betrekt er ook de 'naer het leven' reeks bij. Sluit Savery nu definitief uit. Noemt Tolnay 81a (Le Clerq collectie, Den Haag) sleutelwerk in de Bruegel-Savery kwestie. Nog geen bericht van de Boer.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004590,referentienummer,False,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6839</priref>
+			<recipient>Haverkamp-Begemann, E.</recipient>
+			<number>AFG_118_016</number>
+			<date.precise>1954-05-18</date.precise>
+			<content>Korte inhoud: Antwoord op de brieven van 12 mei. Een eerdere brief van FG ging waarschijnlijk verloren. Legt laatste hand aan artikel dat uitgebreider werd dan voorzien. Betrekt er ook de 'naer het leven' reeks bij. Sluit Savery nu definitief uit. Noemt Tolnay 81a (Le Clerq collectie, Den Haag) sleutelwerk in de Bruegel-Savery kwestie. Nog geen bericht van de Boer.</content>
+			<object.object_number>AFG_118</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel Drawings: Boymans, Amsterdam, Lugt</object.title>
+			<keyword>Savery, Roelant</keyword>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2014-07-17</input.date>
+			<edit.date>2014-07-17</edit.date>
+			<edit.date>2014-07-17</edit.date>
+			<edit.date>2014-07-17</edit.date>
+			<edit.date>2014-07-17</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:43:58</edit.time>
+			<edit.time>12:07:40</edit.time>
+			<edit.time>12:06:07</edit.time>
+			<edit.time>12:01:24</edit.time>
+			<input.time>11:45:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4590,brocade id,False,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4590/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1f501679-692e-5674-beda-a4369cd9024a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""565097cf-1970-4290-8749-363b77f38d1f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,,,rub,,68745e68-be77-5308-846a-b1ac1c29f49d,kw,au::16398:1,au::16398g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_118_016,repository numbers,,,,,,,,,,,
+67478663-62dc-502d-800b-4fe9de2ed62d,tg:rubgr:4590,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_118_016,titles proper,Dutch (language),,,,,,,,

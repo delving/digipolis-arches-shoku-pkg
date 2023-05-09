@@ -1,0 +1,97 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1106,https://data.rubenianum.be//ark:/86530/0c6753b2-7185-5042-b021-9dc36a024e40,Handschriften,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_017,isad:rub:2947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_AssociatedArchives,3,kenmerken.rubobjnrgr,,,,,AFG_018,isad:rub:2948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,gerelateerd object,tg:rubgr:814,Verwijzing naar Grossmann object,,441deb00-cbff-5b82-a6dc-bcc510311a62,"[{""resourceId"": ""441deb00-cbff-5b82-a6dc-bcc510311a62"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7aa56c9c-6d64-42d2-a9db-959de1622cdf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""200c5399-3519-4ba2-a9a9-07ce9310a3a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9a59bf77-a81e-4e7c-99a1-32f18e53c705"", ""inverseOntologyProperty"": """"}]"
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Charles de Tolnay, La seconde Tour de Babel de Pierre Bruegel l'Ancien, Annuaire des Musées Royaux de Belgique, I, 1938, [pp. 113-121], citaat p. 121.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14745337,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_ExternalRelationsExtras,a::rub.21:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,241870,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_ExternalRelationsExtras,a::rub.22:1,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,26043,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001106,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>3360</priref>
+<number>AFG_023_054</number>
+<content>Charles de Tolnay, La seconde Tour de Babel de Pierre Bruegel l'Ancien, Annuaire des Musées Royaux de Belgique, I, 1938, [pp. 113-121], citaat p. 121.</content>
+<object.object_number>AFG_023</object.object_number>
+<object.object_number>AFG_017</object.object_number>
+<object.object_number>AFG_018</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<object.object_name>schilderij</object.object_name>
+<object.object_name>schilderij</object.object_name>
+<related_object.title>[4 bladen] Charles de Tolnay, La seconde Tour de Babel de Pierre Bruegel l'Ancien, Annuaire des Musées Royaux de Belgique, I, 1938, pp. 113-121, passim; [blad 2, verso] [toegevoegde vermelding]: 'F.G. Addendum Elisabeth Farnese: see [Pedro de] Madrazo, Catalogue [des Tableaux] du Musée du Prado, [Madrid: J. Lacoste], 1913, citaat p. 269 [nr. 1346]</related_object.title>
+<class>AFG</class>
+<editorial_form>Notitie</editorial_form>
+<editorial_form>Referentie</editorial_form>
+<object.title>The Series of the Months</object.title>
+<object.title>The Tower of Babel</object.title>
+<object.title>The Tower of Babel</object.title>
+<keyword>Tolnay, Charles de</keyword>
+<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van België</keyword>
+<object.creator>Bruegel, Pieter I</object.creator>
+<object.creator>Bruegel, Pieter I</object.creator>
+<object.creator>Bruegel, Pieter I</object.creator>
+<documentation.author/>
+<input.date>2012-04-27</input.date>
+<edit.date>2015-03-13</edit.date>
+<edit.date>2015-03-13</edit.date>
+<edit.date>2014-09-01</edit.date>
+<edit.date>2012-12-11</edit.date>
+<edit.date>2012-12-11</edit.date>
+<edit.date>2012-07-06</edit.date>
+<edit.date>2012-07-06</edit.date>
+<edit.date>2012-05-04</edit.date>
+<edit.date>2012-04-27</edit.date>
+<edit.date>2012-04-27</edit.date>
+<edit.date>2012-04-27</edit.date>
+<input.name>valkeneers</input.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>Centrum</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<edit.name>valkeneers</edit.name>
+<related_object.reference>AFG_018_003</related_object.reference>
+<documentation.shelfmark>1 S 1 / JAA 7</documentation.shelfmark>
+<documentation.title>Jaarboek der Koninklijke Musea voor Schone Kunsten van België</documentation.title>
+<edit.time>09:30:01</edit.time>
+<edit.time>09:29:50</edit.time>
+<edit.time>16:12:51</edit.time>
+<edit.time>11:08:59</edit.time>
+<edit.time>11:07:53</edit.time>
+<edit.time>14:26:00</edit.time>
+<edit.time>14:25:23</edit.time>
+<edit.time>10:28:18</edit.time>
+<edit.time>12:31:29</edit.time>
+<edit.time>12:30:06</edit.time>
+<edit.time>12:29:18</edit.time>
+<input.time>12:29:04</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<edit.source>archive</edit.source>
+<documentation.title.article/>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1106,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1106/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""65f33a56-67d5-597f-ae90-b0077e59169c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7fa12dcd-0818-4196-aca9-034ab677f771"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_054,repository numbers,,,,,,,,,,,,,,
+0c6753b2-7185-5042-b021-9dc36a024e40,tg:rubgr:1106,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_054,titles proper,Dutch (language),,,,,,,,,,,

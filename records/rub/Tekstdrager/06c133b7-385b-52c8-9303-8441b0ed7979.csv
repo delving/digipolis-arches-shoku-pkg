@@ -1,0 +1,112 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:15,https://data.rubenianum.be//ark:/86530/06c133b7-385b-52c8-9303-8441b0ed7979,Handschriften,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:42,Verwijzing naar Grossmann object,,cfa1a910-6da9-529d-9fef-7330e249dba9,"[{""resourceId"": ""cfa1a910-6da9-529d-9fef-7330e249dba9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3e2cab14-9c19-40cd-97b6-6a52bb4c4961"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5c9c42d6-3bfa-400f-8a3c-784d0c43487f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2caeccc2-1994-4879-a29b-b3ea3116f5b3"", ""inverseOntologyProperty"": """"}]"
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1939.0,2054,In Copyright,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19390314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1939-03-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bericht über die Besprechung bei Hulin de Loo am 7. März 1939  in Gent [...] [handtekening] Prof. Georg Biermann, Berlin, den 14. März 1939.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pölnitz, Gerhard von",,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toeschrijving,,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Biermann, Georg",,,,,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000015,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2253</priref>
+			<number>AFG_001_015</number>
+			<part_of_reference>AFG_001_042</part_of_reference>
+			<date.precise>1939-03-14</date.precise>
+			<content>Bericht &#252;ber die Besprechung bei Hulin de Loo am 7. M&#228;rz 1939  in Gent [...] [handtekening] Prof. Georg Biermann, Berlin, den 14. M&#228;rz 1939.</content>
+			<object.object_number>AFG_001</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: [Taal, Duits] Meldt zending van foto's van de toestand voor de reiniging. In deze toestand was het 'kasteel' op de achtergrond niet zichtbaar, net zomin als de vogels. Stuurt foto's van Jan Bruegel van een 'Kirchweihtanz' [Kermisdans]  en een 'Dorpstraat' van Abel Grimmer. Beide werken gingen in de oorlog verloren. Biedt informatie over houtsoort, afmetingen. Neemt de oude inventarissen door om meer informatie terug te vinden over het bezit van schilderijen en zijn 'school', maar vermoedt niets meer te vinden.
+Maakt F.G. attent op overeenkomst in de weergave van het kasteel in het werk van Jan Bruegel en dat van Pieter Bruegel de Oude m.n. in het werk 'der S&#228;mann'. Het was de Tolnay die hem daar op wees. Met het oog op de catalogus die F.G. voorbereidt, vestigt hij diens aandacht op het feit dat Prof.Dr. Ludwig Baldass (Wenen) zich positief uitliet over het Bruegelschilderij. In bijlage zendt hij hiervan een fotokopie. Bovendien had hij in maart 1939 tijdens een studiereis met Prof. Dr. Biermann een ontmoeting met Prof. Hulin de Loo. De foto van het schilderij werd toen besproken. Biermann heeft daarvan een certificaat gemaakt dat eveneens in bijlage als fotokopie wordt verzonden.
+Kondigt een bezoek aan Londen aan. Vraagt of Graaf Sailern [sic]  dan in Londen zal verblijven.[scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Fotokopie</editorial_form>
+			<object.title>Landscape with Christ appearing to the apostles at the sea of Tiberias</object.title>
+			<keyword>P&#246;lnitz, Gerhard von</keyword>
+			<keyword>toeschrijving</keyword>
+			<keyword>Hulin de Loo, Georges</keyword>
+			<keyword>Biermann, Georg</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-08-11</input.date>
+			<edit.date>2014-10-30</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-25</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-08-31</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-17</edit.date>
+			<edit.date>2011-08-16</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-12</edit.date>
+			<edit.date>2011-08-11</edit.date>
+			<edit.date>2011-08-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:35:19</edit.time>
+			<edit.time>12:06:40</edit.time>
+			<edit.time>14:27:08</edit.time>
+			<edit.time>09:16:28</edit.time>
+			<edit.time>09:16:15</edit.time>
+			<edit.time>14:28:57</edit.time>
+			<edit.time>08:58:10</edit.time>
+			<edit.time>09:18:57</edit.time>
+			<edit.time>15:47:23</edit.time>
+			<edit.time>09:18:01</edit.time>
+			<edit.time>09:25:02</edit.time>
+			<edit.time>15:32:57</edit.time>
+			<edit.time>15:28:06</edit.time>
+			<edit.time>15:27:48</edit.time>
+			<edit.time>15:26:57</edit.time>
+			<edit.time>09:55:00</edit.time>
+			<edit.time>09:54:07</edit.time>
+			<input.time>09:53:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:15,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:15/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e04c0941-6c50-554a-81fb-593f3f22e99c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""edb2d9e5-aba7-45d2-8d16-ce86dc180f33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_OriginalBrocade,,,au::9212,,,,,,,,,,,,,,rub,330db244-c742-5752-a85a-e00f1ba63114,kw,,au::9212:1,au::9212g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/985684"",""au::9212"",""au::9212:1"",""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""Georges Hulin de Loo""],""name"":""Georges Hulin de Loo"",""ark"":""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""uri"":""/agents/people/985684"",""id"":""au::9212:1"",""isCapacity"":false}",ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114,agent,,,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_001_015,repository numbers,,,,,,,,,,,,,,
+06c133b7-385b-52c8-9303-8441b0ed7979,tg:rubgr:15,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_001_015,titles proper,Dutch (language),,,,,,,,,,,

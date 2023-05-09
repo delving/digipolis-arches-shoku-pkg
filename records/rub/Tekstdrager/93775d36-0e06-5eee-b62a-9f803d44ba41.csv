@@ -1,0 +1,127 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:985,https://data.rubenianum.be//ark:/86530/93775d36-0e06-5eee-b62a-9f803d44ba41,Handschriften,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_003,isad:rub:2933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ec6fef9-e404-4fe5-b463-7e545804ca3d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee2c40d6-9b5d-4f1a-a3b5-6e88bd2549b6"", ""inverseOntologyProperty"": """"}]"
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Bruegel, Monatsbilder. Die Heimkehr der Herde in keinem -bisheren- Monatsbild; ? [sic] Erfindung Bruegels: aus eigener Beobachtung ? [sic] oder auf Grund eines klassischen Gedichts (in zeitgenössischen Weise verbreitet) Virgil, Ekologia, Bucolia; ??  [sic] Hesiod, Werken en dagen [= in Griekse letters], s. Katalog der Ausst. Paris Bibl. Nat. 1939: Travaux et jours [= Les Travaux et les jours dans l'ancienne France: Exposition organisée pour commémorer le IVe centenaire d'Olivier de Serres, Paris: Bibliothèque nationale, 1939]. Kenntnis auch klassischen Dichtung (Beziehung zu Ortelius) und genaue Kenntnis Ovids im Icarusbild. Stich mit Phaëton Sturz; [verso] Zur Wirkung der Verbindung Bruegel Dez. u. Rubens Winterlandschaft: Rubens Beziehung zu Bruegel: 1) Bilder besitz; 2) Pitti u. Heuernte (Glück); 3) Raufende Bauern (L.B.); Wenn Tolnais Theorie (dass nur April-Mai fehlt) stimmt, dann fehlt eine der wichtigsten Darstellungen (Pflüger) Saat die das Gegensück zur Ernte ist u. die Bruegel [ausser Betracht?] ihrer tiefen Bedeutung sicher nicht weggelassen hat. Gibt es eine Monaten oder Jahreszeitenzyklus ohne saën?",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vergilius Maro, Publius",,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hesiodus,,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ovidius,,,,,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000985,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3238</priref>
+			<number>AFG_022_018</number>
+			<content>[recto] Bruegel, Monatsbilder. Die Heimkehr der Herde in keinem -bisheren- Monatsbild; ? [sic] Erfindung Bruegels: aus eigener Beobachtung ? [sic] oder auf Grund eines klassischen Gedichts (in zeitgen&#246;ssischen Weise verbreitet) Virgil, Ekologia, Bucolia; ??  [sic] Hesiod, Werken en dagen [= in Griekse letters], s. Katalog der Ausst. Paris Bibl. Nat. 1939: Travaux et jours [= Les Travaux et les jours dans l'ancienne France: Exposition organis&#233;e pour comm&#233;morer le IVe centenaire d'Olivier de Serres, Paris: Biblioth&#232;que nationale, 1939]. Kenntnis auch klassischen Dichtung (Beziehung zu Ortelius) und genaue Kenntnis Ovids im Icarusbild. Stich mit Pha&#235;ton Sturz; [verso] Zur Wirkung der Verbindung Bruegel Dez. u. Rubens Winterlandschaft: Rubens Beziehung zu Bruegel: 1) Bilder besitz; 2) Pitti u. Heuernte (Gl&#252;ck); 3) Raufende Bauern (L.B.); Wenn Tolnais Theorie (dass nur April-Mai fehlt) stimmt, dann fehlt eine der wichtigsten Darstellungen (Pfl&#252;ger) Saat die das Gegens&#252;ck zur Ernte ist u. die Bruegel [ausser Betracht?] ihrer tiefen Bedeutung sicher nicht weggelassen hat. Gibt es eine Monaten oder Jahreszeitenzyklus ohne sa&#235;n?</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Vergilius Maro, Publius</keyword>
+			<keyword>Hesiodus</keyword>
+			<keyword>Ortelius, Abraham</keyword>
+			<keyword>Ovidius</keyword>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Burchard, Ludwig</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<input.date>2012-03-19</input.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-26</edit.date>
+			<edit.date>2012-06-26</edit.date>
+			<edit.date>2012-06-26</edit.date>
+			<edit.date>2012-06-26</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-04-20</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-04</edit.date>
+			<edit.date>2012-04-04</edit.date>
+			<edit.date>2012-03-21</edit.date>
+			<edit.date>2012-03-19</edit.date>
+			<edit.date>2012-03-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:23:20</edit.time>
+			<edit.time>14:45:42</edit.time>
+			<edit.time>15:57:11</edit.time>
+			<edit.time>15:37:35</edit.time>
+			<edit.time>15:36:59</edit.time>
+			<edit.time>15:36:08</edit.time>
+			<edit.time>16:05:21</edit.time>
+			<edit.time>16:04:50</edit.time>
+			<edit.time>13:28:42</edit.time>
+			<edit.time>10:25:46</edit.time>
+			<edit.time>11:53:30</edit.time>
+			<edit.time>10:19:53</edit.time>
+			<edit.time>10:05:50</edit.time>
+			<edit.time>09:54:45</edit.time>
+			<edit.time>15:15:24</edit.time>
+			<edit.time>14:55:23</edit.time>
+			<edit.time>09:33:35</edit.time>
+			<edit.time>16:03:11</edit.time>
+			<edit.time>15:34:10</edit.time>
+			<input.time>15:09:35</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:985,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:985/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""973483ae-25e5-5718-9e8b-d6bc6fbcbf91"", ""ontologyProperty"": """", ""resourceXresourceId"": ""14d75603-4b31-48b2-a38b-57fb02524ab4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OriginalBrocade,,,au::14164,,,,,,,,,,,,,,rub,80abb133-7c38-5ef5-aa40-d82d46a3245d,kw,,au::14164:1,au::14164g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1515548"",""au::14164"",""au::14164:1"",""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""Abraham Ortelius""],""name"":""Abraham Ortelius"",""ark"":""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""uri"":""/agents/people/1515548"",""id"":""au::14164:1"",""isCapacity"":false}",ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d,agent,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OriginalBrocade,,,au::3232,,,,,,,,,,,,,,rub,d01a462a-1d54-5ba8-8442-1e49b3ca723e,kw,,au::3232:1,au::3232g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/345824"",""au::3232"",""au::3232:1"",""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""Ludwig Burchard""],""name"":""Ludwig Burchard"",""ark"":""ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e"",""uri"":""/agents/people/345824"",""id"":""au::3232:1"",""isCapacity"":false}",ark:/83110/x0/d01a462a-1d54-5ba8-8442-1e49b3ca723e,agent,,,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_018,repository numbers,,,,,,,,,,,,,,
+93775d36-0e06-5eee-b62a-9f803d44ba41,tg:rubgr:985,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_018,titles proper,Dutch (language),,,,,,,,,,,

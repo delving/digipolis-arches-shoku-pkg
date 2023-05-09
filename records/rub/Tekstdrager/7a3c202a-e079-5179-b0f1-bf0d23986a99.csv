@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2016,https://data.rubenianum.be//ark:/86530/7a3c202a-e079-5179-b0f1-bf0d23986a99,Handschriften,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:2019,Verwijzing naar Grossmann object,,9b7e0a9b-c127-5d17-b09a-400c3504ab0d,"[{""resourceId"": ""9b7e0a9b-c127-5d17-b09a-400c3504ab0d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a9f2b7d2-ea24-42d2-88e4-1e4bfee3dfb5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6bc50122-ee6d-4154-9220-28f68ece6094"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1771d483-b586-4452-8143-1453a6a95042"", ""inverseOntologyProperty"": """"}]"
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72. Neu 87. Dorfkirmes mit Bühne und Prozession. My N° 54? cf. Kermess of St. George.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002016,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4252</priref>
+			<number>AFG_055_047</number>
+			<content>72. Neu 87. Dorfkirmes mit B&#252;hne und Prozession. My N&#176; 54? cf. Kermess of St. George.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<parts.title/>
+			<parts.title>[recto] Ad [Addendum] 54. Witt Library. P.B.II. Kermess. Graz, Fitzwilliam etc. Reversed, with alteration in the bottom corners: 1) Galerie van Buuren, London, Exh. Antwerp 1930, N&#176; 59, 'La Kermesse d'Hoboken' (Stimmt nicht!), Panel 175 x 150 cm, recte 118 x 168 cm; 2) Der Witt Library under P. Balten Amsterdam, Rijksmuseum 425 a, where also as Balten; [verso] [doorstreept]</parts.title>
+			<class>AFG</class>
+			<editorial_form>Dossier</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<object.creator/>
+			<input.date>2013-03-08</input.date>
+			<edit.date>2013-03-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<parts_reference/>
+			<parts_reference>AFG_055_050</parts_reference>
+			<edit.time>09:06:59</edit.time>
+			<input.time>09:00:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2016,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2016/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cda2df9b-b081-5867-a15b-f1fb4447b937"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08a519e0-57ea-4a73-b887-97495f1a8146"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_047,repository numbers,,,,,,,,,,,,,,
+7a3c202a-e079-5179-b0f1-bf0d23986a99,tg:rubgr:2016,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_047,titles proper,Dutch (language),,,,,,,,,,,

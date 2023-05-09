@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4614,https://data.rubenianum.be//ark:/86530/d55ceb57-0406-5cf2-8354-512dc85e71fc,Handschriften,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d410e1f9-4191-49e0-8257-6bdee72b73a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1cc68bc5-91a4-4ccd-bc9b-962e05e0e9ea"", ""inverseOntologyProperty"": """"}]"
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boymans [lijst van collectie]; The diffrence between the drawing of the Resurrection & the print has a parallel in Albertina & Korda drawing of Connoisseur [...]',descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korda, Vincent",,,,,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004614,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6867</priref>
+			<number>AFG_118_040</number>
+			<content>Boymans [lijst van collectie]; The diffrence between the drawing of the Resurrection &amp; the print has a parallel in Albertina &amp; Korda drawing of Connoisseur [...]'</content>
+			<object.object_number>AFG_118</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel Drawings: Boymans, Amsterdam, Lugt</object.title>
+			<keyword>Korda, Vincent</keyword>
+			<keyword>Rotterdam, Museum Boijmans van Beuningen</keyword>
+			<keyword>Wenen, Graphische Sammlung Albertina</keyword>
+			<object.creator/>
+			<input.date>2014-07-18</input.date>
+			<edit.date>2014-07-18</edit.date>
+			<edit.date>2014-07-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:12:10</edit.time>
+			<edit.time>09:03:31</edit.time>
+			<input.time>08:55:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4614,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4614/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cbc01302-e29b-5a96-9b88-4ebc5ebec197"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0545795b-67dd-44fa-93d2-3970bb9fbf4f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_OriginalBrocade,,,au::13299,,,,,,,,,,,,,,rub,0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,kw,,au::13299:1,au::13299g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1422993"",""au::13299"",""au::13299:1"",""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""Museum Boymans-Van Beuningen""],""name"":""Museum Boymans-Van Beuningen"",""ark"":""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""uri"":""/agents/corporate_entities/1422993"",""id"":""au::13299:1"",""isCapacity"":false}",ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,agent,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_OriginalBrocade,,,au::32507,,,,,,,,,,,,,,rub,3dce806e-0337-5f22-9c0e-01bffc770398,kw,,au::32507:1,au::32507g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3478249"",""au::32507"",""au::32507:1"",""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""Grafische Sammlung Albertina""],""name"":""Grafische Sammlung Albertina"",""ark"":""ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398"",""uri"":""/agents/corporate_entities/3478249"",""id"":""au::32507:1"",""isCapacity"":false}",ark:/83110/x0/3dce806e-0337-5f22-9c0e-01bffc770398,agent,,,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_118_040,repository numbers,,,,,,,,,,,,,,
+d55ceb57-0406-5cf2-8354-512dc85e71fc,tg:rubgr:4614,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_118_040,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,52 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1523,https://data.rubenianum.be//ark:/86530/c3b5b073-5b64-5a1c-bf40-4071d3851bbc,Handschriften,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""36b672d4-9cf5-4432-be75-5db175f48aad"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1e3c849b-ea58-4f77-b53a-5fde9ea07851"", ""inverseOntologyProperty"": """"}]"
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Reinhardt [sic]. R. [Richard] SEIFFERT-WATTENBERG, Aus der Sammlung Oskar Reinhart, Hannover [München: Bruckmann], 1935 [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_ExternalRelationsExtras,a::rub.40,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260965,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seiffert-Wattenberg, Richard",,,,,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001523,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3774</priref>
+			<number>AFG_040_013</number>
+			<content>Bruegel: Reinhardt [sic]. R. [Richard] SEIFFERT-WATTENBERG, Aus der Sammlung Oskar Reinhart, Hannover [M&#252;nchen: Bruckmann], 1935 [scan]</content>
+			<object.object_number>AFG_040</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Adoration of the Kings in the Snow</object.title>
+			<keyword>Seiffert-Wattenberg, Richard</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-12</input.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2012-11-12</edit.date>
+			<edit.date>2012-11-12</edit.date>
+			<edit.date>2012-11-12</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:44:49</edit.time>
+			<edit.time>11:43:32</edit.time>
+			<edit.time>13:31:07</edit.time>
+			<edit.time>13:25:30</edit.time>
+			<edit.time>13:23:31</edit.time>
+			<input.time>13:22:36</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1523,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1523/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""788d7f4b-18cb-594e-838b-0e4325740c40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aeabb45e-4c70-46e4-a1ad-637afd1b451d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_040_013,repository numbers,,,,,,,,,,,,,,
+c3b5b073-5b64-5a1c-bf40-4071d3851bbc,tg:rubgr:1523,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_040_013,titles proper,Dutch (language),,,,,,,,,,,

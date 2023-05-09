@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:978,https://data.rubenianum.be//ark:/86530/13b56485-f085-5c7c-b461-ad8d1b0d0a25,Handschriften,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4ce92678-0d13-47f7-8a5e-dde310e3589e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08b20405-45d5-4f48-b0f7-b196a51735ae"", ""inverseOntologyProperty"": """"}]"
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Bibliotheekformulier: British Museum] AUSTRIA: Der Grosse österreichische Hausschatz. C.v. [Constantin von] WURZBACH, Biographisches Lexikon [des Kaiserthums des] Oesterreich, [Vienna : K. K. Hof, 1876].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ernst van Oostenrijk (aartshertog),,,,,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wurzbach, Constantin von",,,,,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000978,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3231</priref>
+			<number>AFG_022_011</number>
+			<content>[Bibliotheekformulier: British Museum] AUSTRIA: Der Grosse &#246;sterreichische Hausschatz. C.v. [Constantin von] WURZBACH, Biographisches Lexikon [des Kaiserthums des] Oesterreich, [Vienna : K. K. Hof, 1876].</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Ernst van Oostenrijk (aartshertog)</keyword>
+			<keyword>Wurzbach, Constantin von</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-19</input.date>
+			<edit.date>2015-01-30</edit.date>
+			<edit.date>2015-01-30</edit.date>
+			<edit.date>2012-06-26</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-04</edit.date>
+			<edit.date>2012-03-19</edit.date>
+			<edit.date>2012-03-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:49:30</edit.time>
+			<edit.time>09:48:26</edit.time>
+			<edit.time>14:00:35</edit.time>
+			<edit.time>09:25:02</edit.time>
+			<edit.time>14:13:05</edit.time>
+			<edit.time>13:15:01</edit.time>
+			<edit.time>13:09:41</edit.time>
+			<input.time>13:09:24</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:978,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:978/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""21e785a0-ff8b-5a9f-b121-cd474d162eae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""be76cec1-ac34-48f2-8066-fc1ca7311790"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_011,repository numbers,,,,,,,,,,,,,,
+13b56485-f085-5c7c-b461-ad8d1b0d0a25,tg:rubgr:978,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_011,titles proper,Dutch (language),,,,,,,,,,,

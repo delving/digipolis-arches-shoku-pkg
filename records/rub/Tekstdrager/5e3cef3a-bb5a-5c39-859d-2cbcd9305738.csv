@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4002,https://data.rubenianum.be//ark:/86530/5e3cef3a-bb5a-5c39-859d-2cbcd9305738,Handschriften,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d05849a1-3e78-4afb-9a31-113bf71c2f4a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fc6ecf98-6f07-4ff3-a99f-74eab2c0a734"", ""inverseOntologyProperty"": """"}]"
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio. John W. Bradley, The life and works of Giorgio Giulio Clovio, miniaturist, [with notices of his contemporaries and of the art of book decoration in the sixteenth century], London 1891 on Soane Ms. pp. 140-145; Fourier, Bonnard, Don Giulio Clovio, miniaturiste, Rome, Paris 1929  [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clovio, Giulio",,,,,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004002,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6255</priref>
+			<number>AFG_104_005</number>
+			<content>Clovio. John W. Bradley, The life and works of Giorgio Giulio Clovio, miniaturist, [with notices of his contemporaries and of the art of book decoration in the sixteenth century], London 1891 on Soane Ms. pp. 140-145; Fourier, Bonnard, Don Giulio Clovio, miniaturiste, Rome, Paris 1929  [...][scan]</content>
+			<object.object_number>AFG_104</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; 16th Flemish Painting</object.title>
+			<keyword>Clovio, Giulio</keyword>
+			<object.creator/>
+			<input.date>2014-06-30</input.date>
+			<edit.date>2014-06-30</edit.date>
+			<edit.date>2014-06-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:31:20</edit.time>
+			<edit.time>09:24:56</edit.time>
+			<input.time>09:22:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4002,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4002/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f04a12d7-1fd0-58d0-8fdf-56c98c66d7f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""01039273-ba85-4f1e-8288-285215e85366"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_005,repository numbers,,,,,,,,,,,,,,
+5e3cef3a-bb5a-5c39-859d-2cbcd9305738,tg:rubgr:4002,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_104_005,titles proper,Dutch (language),,,,,,,,,,,

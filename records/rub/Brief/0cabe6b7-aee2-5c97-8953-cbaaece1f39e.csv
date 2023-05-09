@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2933,https://data.rubenianum.be//ark:/86530/0cabe6b7-aee2-5c97-8953-cbaaece1f39e,Brieven,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2932,Verwijzing naar Grossmann object,,74015fc8-0444-5cce-8022-7361d0e88805,"[{""resourceId"": ""74015fc8-0444-5cce-8022-7361d0e88805"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e3375dba-36e4-4065-aceb-25a9b43f24ce"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d1441dd6-aed6-49ef-97c1-ae33a50d2a9b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2134e116-319e-4dfe-8517-4e3e01d0a19d"", ""inverseOntologyProperty"": """"}]"
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1985.0,2100,In Copyright,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Correspondence,1,,,,,,,,,,,,,,,,"Sauerländer, Willibald",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19850428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1985-04-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Taal, Duits] Korte inhoud: Nodigt FG uit om tijdens het Internationale congres in Parijs, zomer 1958 hem op te zoeken. Het artikel van Sedlmayr dat hij opzond moet niet direct teruggeven worden. Het is een typisch artikel van Sedlmayr en brengt niets nieuws bij.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sauerländer, Willibald",,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sedlmayr, Hans",,,,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002933,referentienummer,False,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5175</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_086_191</number>
+			<part_of_reference>AFG_086_190</part_of_reference>
+			<date.precise>1985-04-28</date.precise>
+			<content>[Taal, Duits] Korte inhoud: Nodigt FG uit om tijdens het Internationale congres in Parijs, zomer 1958 hem op te zoeken. Het artikel van Sedlmayr dat hij opzond moet niet direct teruggeven worden. Het is een typisch artikel van Sedlmayr en brengt niets nieuws bij.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[10 bladen recto-verso] Bibliography P. &amp; J. Bruegel [scan]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Sauerl&#228;nder, Willibald</keyword>
+			<keyword>Sedlmayr, Hans</keyword>
+			<sender>Sauerl&#228;nder, Willibald</sender>
+			<object.creator/>
+			<input.date>2014-04-11</input.date>
+			<edit.date>2014-04-11</edit.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:45:14</edit.time>
+			<edit.time>15:44:24</edit.time>
+			<input.time>15:39:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2933,brocade id,False,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2933/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""405f0b07-3c27-56d8-8b6c-08bbb41b5bd1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08c591c4-aa93-4e4a-9548-70d3925bb163"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_191,repository numbers,,,,,,,,,,,
+0cabe6b7-aee2-5c97-8953-cbaaece1f39e,tg:rubgr:2933,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_191,titles proper,Dutch (language),,,,,,,,

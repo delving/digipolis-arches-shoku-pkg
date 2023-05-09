@@ -1,0 +1,77 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2040,https://data.rubenianum.be//ark:/86530/2bdda5d1-eb31-5f9d-860c-5affe009c091,Handschriften,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2038,Verwijzing naar Grossmann object,,56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e,"[{""resourceId"": ""56aa9b29-8636-5e4e-b9c8-f23cfa7ffe9e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2ba643bd-c443-4458-b78c-89b4871e0446"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1db00ecf-ca67-4840-8b73-7e621eb008a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cc8e5d20-b0cc-46f1-ad6b-003e7b61ab12"", ""inverseOntologyProperty"": """"}]"
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"After lost Bruegel. Peasants Falling out at Cards. Kremsier, see A. [Antonín Breitenbacher, Katalog arcibiskupské obrazarny v Kromerizi, Kromerizi [Nakladem Olomouckého arcibiskupstvi], 1930, citaat p. 76, N° 94; see also Breitenbacher, pp. 184 & 232, 238; Also Breitenbacher, Dejiny [arcibiskupské obrazarny v Kromerizi : archivni studie"", 143, CXXV], p. LVI, Seznam XIV, Verzeichnis der Gemälde die sich 1800 in der Erzbischöfl. Residenz in Kremsier ... befanden (13) 1 St. Eine Rauferey von hollandischen [sic] Bauern vor einem Wirtshause von Breugel; ? [sic] But see also Seznam XVII. Verzeichnis sämtlicher ...[sic] als unbrauchbar vorgekomenen und daher zum Verkaufe bestimmten [Gegenstände] 1830, Okt. 22, p. LXXVI, 117. Die Streitenden. Grosse Gruppe auf Leinwand 1 Stück; Seznam XVIII Zusammenstellung sämtlicher zu Olmütz vom 16ten bis incl. 23ten November 1830 ...[sic] verausserten [inventarischer] Effecten, [p. LXXIX] 33. Die Kämpfenden - H. Mayer (Käufer).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13266057,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Breitenbacher, A.",,,,,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002040,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4276</priref>
+			<number>AFG_055_071</number>
+			<part_of_reference>AFG_055_069</part_of_reference>
+			<content>After lost Bruegel. Peasants Falling out at Cards. Kremsier, see A. [Anton&#237;n Breitenbacher, Katalog arcibiskupsk&#233; obrazarny v Kromerizi, Kromerizi [Nakladem Olomouck&#233;ho arcibiskupstvi], 1930, citaat p. 76, N&#176; 94; see also Breitenbacher, pp. 184 &amp; 232, 238; Also Breitenbacher, Dejiny [arcibiskupsk&#233; obrazarny v Kromerizi : archivni studie"", 143, CXXV], p. LVI, Seznam XIV, Verzeichnis der Gem&#228;lde die sich 1800 in der Erzbisch&#246;fl. Residenz in Kremsier ... befanden (13) 1 St. Eine Rauferey von hollandischen [sic] Bauern vor einem Wirtshause von Breugel; ? [sic] But see also Seznam XVII. Verzeichnis s&#228;mtlicher ...[sic] als unbrauchbar vorgekomenen und daher zum Verkaufe bestimmten [Gegenst&#228;nde] 1830, Okt. 22, p. LXXVI, 117. Die Streitenden. Grosse Gruppe auf Leinwand 1 St&#252;ck; Seznam XVIII Zusammenstellung s&#228;mtlicher zu Olm&#252;tz vom 16ten bis incl. 23ten November 1830 ...[sic] verausserten [inventarischer] Effecten, [p. LXXIX] 33. Die K&#228;mpfenden - H. Mayer (K&#228;ufer).</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>[Briefomslag]: FG notitie: Peasants falling out at Cards. Magnaguagno version.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>inventaris</keyword>
+			<keyword>Breitenbacher, A.</keyword>
+			<object.creator/>
+			<documentation.author>Breitenbacher, Anton&#237;n</documentation.author>
+			<input.date>2013-03-13</input.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2014-06-30</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<edit.date>2013-03-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Katalog arcibiskupsk&#233; obrazarny v Kromerizi</documentation.title>
+			<edit.time>15:23:51</edit.time>
+			<edit.time>16:49:34</edit.time>
+			<edit.time>15:43:38</edit.time>
+			<edit.time>13:46:56</edit.time>
+			<edit.time>13:24:15</edit.time>
+			<edit.time>09:45:54</edit.time>
+			<edit.time>09:44:10</edit.time>
+			<edit.time>09:41:29</edit.time>
+			<edit.time>09:24:37</edit.time>
+			<input.time>09:23:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2040,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2040/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""99c91fc9-8752-5dda-ab8e-60f40e83f048"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7a194a79-3fb7-46cc-9e6d-31fc756839aa"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_071,repository numbers,,,,,,,,,,,,,,
+2bdda5d1-eb31-5f9d-860c-5affe009c091,tg:rubgr:2040,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_071,titles proper,Dutch (language),,,,,,,,,,,

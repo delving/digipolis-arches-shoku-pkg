@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:692,https://data.rubenianum.be//ark:/86530/62ca4ec1-7444-5526-af5c-868b8fb4c1e2,Handschriften,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0819646f-804f-45e5-a65f-bc4e7b06a5d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""af87522a-19d3-4898-a4df-8c1ab5ddad72"", ""inverseOntologyProperty"": """"}]"
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel. Fausto Fiorentino Editore, Catalogo 1966: [Aangekruist]: Giuseppe Porcaro, Napoli. Il suo Mare e il Porto visti da viaggiatori illustri.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_ExternalRelationsExtras,a::rub.20,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54041,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000692,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2943</priref>
+			<number>AFG_016_025</number>
+			<content>Ad [Addendum] Bruegel. Fausto Fiorentino Editore, Catalogo 1966: [Aangekruist]: Giuseppe Porcaro, Napoli. Il suo Mare e il Porto visti da viaggiatori illustri.</content>
+			<object.object_number>AFG_016</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>prospectus</editorial_form>
+			<object.title>View of Naples</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-20</input.date>
+			<edit.date>2012-01-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:27:24</edit.time>
+			<input.time>14:24:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:692,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:692/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c526fc18-131b-533e-963a-778aa840eb7c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f3b186be-99ba-4b22-93da-72097e661980"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_016_025,repository numbers,,,,,,,,,,,,,,
+62ca4ec1-7444-5526-af5c-868b8fb4c1e2,tg:rubgr:692,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_016_025,titles proper,Dutch (language),,,,,,,,,,,

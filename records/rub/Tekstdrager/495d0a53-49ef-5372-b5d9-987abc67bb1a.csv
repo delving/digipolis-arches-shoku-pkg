@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:268,https://data.rubenianum.be//ark:/86530/495d0a53-49ef-5372-b5d9-987abc67bb1a,Handschriften,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6b2af710-ac4b-48e7-b877-6ce731845064"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4bad36d0-3f36-4dc0-af49-05073171067e"", ""inverseOntologyProperty"": """"}]"
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"C. [Claude] GAIGNEBET, Le combat de Carnaval et Carême de P. Bruegel (1559), Annales, Economies, Sociétés, Civilisations 27, N° 2 (March-April) 1972, pp. 313-45 [dubbele notitie]; Peter Burke, Lunar excesses: CLAUDE GAIGNEBET: Le Carnaval, Paris: Payot [toegevoegde vermelding]: TLS 28.3.75.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Gaignebet, Claude",,,,,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000268,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2516</priref>
+			<number>AFG_005_032</number>
+			<content>C. [Claude] GAIGNEBET, Le combat de Carnaval et Car&#234;me de P. Bruegel (1559), Annales, Economies, Soci&#233;t&#233;s, Civilisations 27, N&#176; 2 (March-April) 1972, pp. 313-45 [dubbele notitie]; Peter Burke, Lunar excesses: CLAUDE GAIGNEBET: Le Carnaval, Paris: Payot [toegevoegde vermelding]: TLS 28.3.75.</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>Gaignebet, Claude</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-10</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:02:29</edit.time>
+			<edit.time>12:02:00</edit.time>
+			<edit.time>11:25:27</edit.time>
+			<edit.time>10:50:47</edit.time>
+			<edit.time>09:49:17</edit.time>
+			<edit.time>16:01:05</edit.time>
+			<edit.time>16:05:20</edit.time>
+			<input.time>16:02:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:268,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:268/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""baedf789-f9d1-55bd-b87c-afd915572344"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6f6ddf91-2029-40a3-908c-55a70bfdd002"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_032,repository numbers,,,,,,,,,,,,,,
+495d0a53-49ef-5372-b5d9-987abc67bb1a,tg:rubgr:268,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_032,titles proper,Dutch (language),,,,,,,,,,,

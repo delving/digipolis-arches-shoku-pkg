@@ -1,0 +1,46 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2616,https://data.rubenianum.be//ark:/86530/d13b7032-7d8d-5c57-99ec-71af8e3be9f1,Brieven,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:2613,Verwijzing naar Grossmann object,,5f509661-a9ca-5428-9cea-3150684758e9,"[{""resourceId"": ""5f509661-a9ca-5428-9cea-3150684758e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0102b718-1fc6-4a8e-83b0-cd3c44db4612"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""46c6caa0-b928-4fec-8c4b-06775f3fe79b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fd5710aa-316b-4c0a-b5ee-95958285ba48"", ""inverseOntologyProperty"": """"}]"
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1962.0,2077,In Copyright,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_Correspondence,1,,,,,,,,,,,,,,,,"Chaikin, Nathan",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19620619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1962-06-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: De tekening uit de Nederlanden dateert van de 16de eeuw, kort na Patinir. Wil de foto houden voor zijn documentatie. Verwerpt de connectie met Dürer. Dat de tekening op de achterzijde van de prent (wijst erop dat het B. 13 moet zijn) gevonden werd, wijst op het tegendeel.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002616,referentienummer,False,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4858</priref>
+			<recipient>Chaikin, Nathan</recipient>
+			<number>AFG_084_030</number>
+			<part_of_reference>AFG_084_027</part_of_reference>
+			<date.precise>1962-06-19</date.precise>
+			<content>Korte inhoud: De tekening uit de Nederlanden dateert van de 16de eeuw, kort na Patinir. Wil de foto houden voor zijn documentatie. Verwerpt de connectie met D&#252;rer. Dat de tekening op de achterzijde van de prent (wijst erop dat het B. 13 moet zijn) gevonden werd, wijst op het tegendeel.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Korte inhoud: Neemt op advies van Byam Shaw contact op met FG. Zendt een foto van een tekening die hij vond op de achterkant van een prent van D&#252;rer (The Crucifixion, B. 17). Oppert de mogelijkheid dat D&#252;rer het maakt tijdens zijn verblijf in Antwerpen n.a.v. zijn bezoek aan Patinir.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>D&#252;rer, Albrecht</keyword>
+			<keyword>Patinir, Joachim</keyword>
+			<sender>Grossmann, F.G.</sender>
+			<object.creator/>
+			<input.date>2014-02-10</input.date>
+			<edit.date>2014-02-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:59:37</edit.time>
+			<input.time>14:59:00</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2616,brocade id,False,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2616/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c1b5076b-1b6b-5e17-91a0-e75a33edc136"", ""ontologyProperty"": """", ""resourceXresourceId"": ""01c9d084-2466-4bea-97bb-beaac1eb9077"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_OriginalBrocade,,,au::5988,,,,,,,,,,,,,,,,rub,,0c4d1392-1949-53c5-b9fa-dbd486d50089,kw,au::5988:1,au::5988g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/640716"",""au::5988"",""au::5988:1"",""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""Albrecht Dürer""],""name"":""Albrecht Dürer"",""ark"":""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""uri"":""/agents/people/640716"",""id"":""au::5988:1"",""isCapacity"":false}",ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089,agent,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_OriginalBrocade,,,au::45623,,,,,,,,,,,,,,,,rub,,7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,kw,au::45623:1,au::45623g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/4881661"",""au::45623"",""au::45623:1"",""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""Joachim Patenir""],""name"":""Joachim Patenir"",""ark"":""ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24"",""uri"":""/agents/people/4881661"",""id"":""au::45623:1"",""isCapacity"":false}",ark:/83110/x0/7fe9ad1d-e913-5bd8-8e57-fcafecaf3f24,agent,,,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_030,repository numbers,,,,,,,,,,,
+d13b7032-7d8d-5c57-99ec-71af8e3be9f1,tg:rubgr:2616,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_030,titles proper,Dutch (language),,,,,,,,

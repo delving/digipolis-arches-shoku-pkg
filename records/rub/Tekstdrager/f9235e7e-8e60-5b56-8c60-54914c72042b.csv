@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5195,https://data.rubenianum.be//ark:/86530/f9235e7e-8e60-5b56-8c60-54914c72042b,Handschriften,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5192,Verwijzing naar Grossmann object,,9b7b8e3a-42c0-502b-a70d-0da6565f8ef2,"[{""resourceId"": ""9b7b8e3a-42c0-502b-a70d-0da6565f8ef2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3f6dd933-d95f-48c7-9894-1c2afc8b06ef"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d5db56e8-4683-4944-9524-140372b05169"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bc9abc6e-0c3e-4956-ad4a-4d6af605ecc6"", ""inverseOntologyProperty"": """"}]"
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hulin de Loo, pp. 358-359.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257359,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005195,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7451</priref>
+			<number>AFG_143_074</number>
+			<part_of_reference>AFG_143_071</part_of_reference>
+			<content>Hulin de Loo, pp. 358-359.</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Grisaille. Printing. Bosch-Thyssen.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>Hulin de Loo, Georges</keyword>
+			<object.creator/>
+			<documentation.author>Bastelaer, Ren&#233; van</documentation.author>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Peter Bruegel l'Ancien : son oeuvre et son temps : &#233;tude historique suivie des catalogues raisonn&#233;s de son oeuvre dessin&#233; et grav&#233; : et d'un catalogue raisonn&#233; de son oeuvre peint</documentation.title>
+			<edit.time>16:17:07</edit.time>
+			<input.time>16:16:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5195,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5195/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""18684edb-21c7-5b5d-a200-6440b902c986"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a1c0b5d8-9a8f-47e7-9d4f-fe17c41fb99b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_OriginalBrocade,,,au::9212,,,,,,,,,,,,,,rub,330db244-c742-5752-a85a-e00f1ba63114,kw,,au::9212:1,au::9212g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/985684"",""au::9212"",""au::9212:1"",""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""Georges Hulin de Loo""],""name"":""Georges Hulin de Loo"",""ark"":""ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114"",""uri"":""/agents/people/985684"",""id"":""au::9212:1"",""isCapacity"":false}",ark:/83110/x0/330db244-c742-5752-a85a-e00f1ba63114,agent,,,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_074,repository numbers,,,,,,,,,,,,,,
+f9235e7e-8e60-5b56-8c60-54914c72042b,tg:rubgr:5195,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_074,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:533,https://data.rubenianum.be//ark:/86530/66008fb5-1bd2-5b8d-87b2-147d52b986f8,Brieven,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:532,Verwijzing naar Grossmann object,,341a891b-62b7-541d-9161-095ed23b4874,"[{""resourceId"": ""341a891b-62b7-541d-9161-095ed23b4874"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ee52d5b-9ffe-4132-a916-25009071056c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8d7f62d-647e-43e1-a4b3-b83e0a50959d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c9d31096-819d-4a13-bbad-226a7981de12"", ""inverseOntologyProperty"": """"}]"
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Correspondence,1,,,,,,,,,,,,,,,,"Hallett, Archibald Cameron Hollis",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19741003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1974-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: Advies benoeming Graziani. Ad [Addendum] R. Graziani, 'Pieter Bruegel's 'Dulle Griet' and Dante', Burl.Mag., CXV, April 1973, pp. 209-218 [scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_ExternalRelationsExtras,a::rub.14,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,54556,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adviezen,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Graziani, René I.C.",,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,methodiek van de kunstgeschiedenis,,,,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000533,referentienummer,False,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2780</priref>
+			<recipient>Hallett, Archibald Cameron Hollis</recipient>
+			<number>AFG_010_048</number>
+			<part_of_reference>AFG_010_047</part_of_reference>
+			<date.precise>1974-10-03</date.precise>
+			<content>Korte inhoud: Advies benoeming Graziani. Ad [Addendum] R. Graziani, 'Pieter Bruegel's 'Dulle Griet' and Dante', Burl.Mag., CXV, April 1973, pp. 209-218 [scan]</content>
+			<object.object_number>AFG_010</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: Vraagt advies over benoeming Ren&#233; I.C. Graziani (University of Toronto).[Bijlage: publicatielijst]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Dulle Griet</object.title>
+			<keyword>Adviezen</keyword>
+			<keyword>Graziani, Ren&#233; I.C.</keyword>
+			<keyword>methodiek van de kunstgeschiedenis</keyword>
+			<sender>Grossmann, Fritz</sender>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-10-13</input.date>
+			<edit.date>2015-02-26</edit.date>
+			<edit.date>2015-02-19</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2013-11-21</edit.date>
+			<edit.date>2012-01-09</edit.date>
+			<edit.date>2011-12-05</edit.date>
+			<edit.date>2011-10-13</edit.date>
+			<edit.date>2011-10-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:21:21</edit.time>
+			<edit.time>14:51:45</edit.time>
+			<edit.time>15:58:17</edit.time>
+			<edit.time>15:55:25</edit.time>
+			<edit.time>10:01:48</edit.time>
+			<edit.time>10:33:30</edit.time>
+			<edit.time>14:58:42</edit.time>
+			<edit.time>10:18:43</edit.time>
+			<edit.time>10:18:18</edit.time>
+			<input.time>10:15:27</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:533,brocade id,False,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:533/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1192d141-86e0-5d06-8d4a-5ea0c54dc058"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43040dc9-3fd8-4fab-b437-6d81190458ce"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_048,repository numbers,,,,,,,,,,,
+66008fb5-1bd2-5b8d-87b2-147d52b986f8,tg:rubgr:533,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_048,titles proper,Dutch (language),,,,,,,,

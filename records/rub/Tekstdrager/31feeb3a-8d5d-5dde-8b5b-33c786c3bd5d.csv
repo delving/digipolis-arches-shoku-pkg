@@ -1,0 +1,93 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:115,https://data.rubenianum.be//ark:/86530/31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,Handschriften,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:105,Verwijzing naar Grossmann object,,3a56d602-9a46-5c5b-a7cc-309bdc34ce40,"[{""resourceId"": ""3a56d602-9a46-5c5b-a7cc-309bdc34ce40"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ee0ee32-b505-4cf9-a805-23808a8e23b6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""23dc94f5-f398-4622-83ac-96c2efe57ca3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""abd95a20-a798-41f0-b292-d6e98570e66c"", ""inverseOntologyProperty"": """"}]"
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1] Icarus: Look up: Ovide moralisé & Narrenschiff, Ovid. Metam, V,III, 166f. Icarus & Phaeton as Antichrist, Look up, Panofsky, Iconology 1939, p. 219; [blad 2] Carnival & Lent, cf. Rabelais, Gargantua, 4th book, chapters 29-32 King Lent, ch. 35-42 The Island of the chitterling (= sausages, etc.).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261224,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brandt, Sebastian",,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ovidius,,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Panofsky, Erwin",,,,,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000115,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2354</priref>
+			<number>AFG_003_043</number>
+			<part_of_reference>AFG_003_033</part_of_reference>
+			<content>[2 bladen] [blad 1] Icarus: Look up: Ovide moralis&#233; &amp; Narrenschiff, Ovid. Metam, V,III, 166f. Icarus &amp; Phaeton as Antichrist, Look up, Panofsky, Iconology 1939, p. 219; [blad 2] Carnival &amp; Lent, cf. Rabelais, Gargantua, 4th book, chapters 29-32 King Lent, ch. 35-42 The Island of the chitterling (= sausages, etc.).</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel Icarus: bevat correspondentie, notities en referenties.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Brandt, Sebastian</keyword>
+			<keyword>Ovidius</keyword>
+			<keyword>Rabelais, Fran&#231;ois</keyword>
+			<keyword>Panofsky, Erwin</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<documentation.author>Panofsky, Erwin</documentation.author>
+			<input.date>2011-08-23</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-28</edit.date>
+			<edit.date>2011-09-28</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-05</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<edit.date>2011-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Studies in iconology : humanistic themes in the art of the renaissance</documentation.title>
+			<edit.time>16:02:49</edit.time>
+			<edit.time>16:02:35</edit.time>
+			<edit.time>16:33:29</edit.time>
+			<edit.time>15:13:59</edit.time>
+			<edit.time>09:47:29</edit.time>
+			<edit.time>11:39:40</edit.time>
+			<edit.time>11:35:21</edit.time>
+			<edit.time>15:36:37</edit.time>
+			<edit.time>09:57:40</edit.time>
+			<edit.time>09:27:09</edit.time>
+			<edit.time>09:24:52</edit.time>
+			<edit.time>09:23:44</edit.time>
+			<input.time>09:04:18</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:115,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:115/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a9f0604d-f8b3-5118-beec-f3c224746473"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8fae698e-1d13-4d35-a6e3-0614fe74e6f3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_OriginalBrocade,,,au::54822,,,,,,,,,,,,,,rub,d88df62e-28bd-51fd-b79e-a09947e7ea30,kw,,au::54822:1,au::54822g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/5865954"",""au::54822"",""au::54822:1"",""ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30"",""François Rabelais""],""name"":""François Rabelais"",""ark"":""ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30"",""uri"":""/agents/people/5865954"",""id"":""au::54822:1"",""isCapacity"":false}",ark:/83110/x0/d88df62e-28bd-51fd-b79e-a09947e7ea30,agent,,,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_043,repository numbers,,,,,,,,,,,,,,
+31feeb3a-8d5d-5dde-8b5b-33c786c3bd5d,tg:rubgr:115,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_043,titles proper,Dutch (language),,,,,,,,,,,

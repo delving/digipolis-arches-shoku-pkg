@@ -1,0 +1,50 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5163,https://data.rubenianum.be//ark:/86530/c1213526-8aa3-5636-b761-88b23fd5499a,Handschriften,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d90e4ba8-ceee-47d4-8299-c1daff69c732"", ""ontologyProperty"": """", ""resourceXresourceId"": ""57cfad0e-6d52-402a-b8e1-1cdc6fb3e549"", ""inverseOntologyProperty"": """"}]"
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iconography. Bredius, Künstler-Inventare : Urkunden zur Geschichte der holländischen Kunst des XVIten, XVIIten und XVIIIten Jahrhunderts II 1916, Nachlass Catharina Deyl, Witwe, pp. 542-3",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:134411,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inventaris,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bredius, Abraham",,,,,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005163,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7419</priref>
+			<number>AFG_143_042</number>
+			<content>Iconography. Bredius, K&#252;nstler-Inventare : Urkunden zur Geschichte der holl&#228;ndischen Kunst des XVIten, XVIIten und XVIIIten Jahrhunderts II 1916, Nachlass Catharina Deyl, Witwe, pp. 542-3</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>inventaris</keyword>
+			<keyword>Bredius, Abraham</keyword>
+			<object.creator/>
+			<documentation.author>Bredius, Abraham</documentation.author>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2014-10-30</edit.date>
+			<edit.date>2014-10-29</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>K&#252;nstler-Inventare : Urkunden zur Geschichte der holl&#228;ndischen Kunst des XVIten, XVIIten und XVIIIten Jahrhunderts : III-V : [VIII] : Register</documentation.title>
+			<edit.time>10:25:33</edit.time>
+			<edit.time>15:44:14</edit.time>
+			<edit.time>13:41:03</edit.time>
+			<input.time>13:40:05</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5163,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5163/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""76f7d3fa-cc1e-5412-99bc-e4455c15992b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4bf4dc90-620f-42a7-9e1d-62ce28a26351"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_042,repository numbers,,,,,,,,,,,,,,
+c1213526-8aa3-5636-b761-88b23fd5499a,tg:rubgr:5163,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_042,titles proper,Dutch (language),,,,,,,,,,,

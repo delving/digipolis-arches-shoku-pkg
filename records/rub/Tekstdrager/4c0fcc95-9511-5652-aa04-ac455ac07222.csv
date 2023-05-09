@@ -1,0 +1,74 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1050,https://data.rubenianum.be//ark:/86530/4c0fcc95-9511-5652-aa04-ac455ac07222,Handschriften,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1049,Verwijzing naar Grossmann object,,c2a0d99f-f5e6-59aa-b806-0a7cee31e072,"[{""resourceId"": ""c2a0d99f-f5e6-59aa-b806-0a7cee31e072"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c7c095dd-c6ff-495f-9caa-40b2d4f182e9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8e9d3175-4e01-4ce1-9e4e-e33cf90f6d95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bcef1083-2e1d-42d4-a7f1-3650669e97cc"", ""inverseOntologyProperty"": """"}]"
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Months. 2 months in one painting in Metrop[olitan] Mus[eum] New York, by a [onderstreept] Follower of Watteau, Metropol[itan] Mus[eum] Art. C. [Charles] Sterling, A Catalogue of French Paintings XV- XVIII Century [in the Metropolitan Museum of Art, Cambridge, MA: Metropolitan Museum of Art, Harvard University Press], 1955, pp. 108-112 (always with signs of zodiac): 22.225.6 Jan. & Feb.; 22.225.4 March & April; (no numbers: should probably be 22.225.2?) May & June; 22.225.1 July & August; 22.225.3 Sept. & Oct; 22.225.5 Nov. & Dec.; Detailed description each time in addition to decorative framework & zodiac signs, 2 separate scenes.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Watteau, Jean Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sterling, Charles",,,,,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"New York, The Metropolitan Museum of Art",,,,,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001050,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3304</priref>
+			<number>AFG_022_083</number>
+			<part_of_reference>AFG_022_082</part_of_reference>
+			<content>Ad [Addendum] Bruegel: Months. 2 months in one painting in Metrop[olitan] Mus[eum] New York, by a [onderstreept] Follower of Watteau, Metropol[itan] Mus[eum] Art. C. [Charles] Sterling, A Catalogue of French Paintings XV- XVIII Century [in the Metropolitan Museum of Art, Cambridge, MA: Metropolitan Museum of Art, Harvard University Press], 1955, pp. 108-112 (always with signs of zodiac): 22.225.6 Jan. &amp; Feb.; 22.225.4 March &amp; April; (no numbers: should probably be 22.225.2?) May &amp; June; 22.225.1 July &amp; August; 22.225.3 Sept. &amp; Oct; 22.225.5 Nov. &amp; Dec.; Detailed description each time in addition to decorative framework &amp; zodiac signs, 2 separate scenes.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>AFG_022_082 t/m 085: los bewaard in archiefdoos: volgorde bewaard.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>Watteau, Jean Antoine</keyword>
+			<keyword>Sterling, Charles</keyword>
+			<keyword>New York, The Metropolitan Museum of Art</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-23</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-05-02</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:02:54</edit.time>
+			<edit.time>14:48:53</edit.time>
+			<edit.time>14:45:25</edit.time>
+			<edit.time>10:21:40</edit.time>
+			<edit.time>11:35:21</edit.time>
+			<edit.time>11:34:49</edit.time>
+			<edit.time>11:33:45</edit.time>
+			<edit.time>11:26:48</edit.time>
+			<edit.time>11:26:06</edit.time>
+			<input.time>11:22:38</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1050,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1050/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a248fbf-2c4a-5ec3-a38f-fc3e14557ef5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""570f930e-d815-415e-9899-cbb66e15f0ac"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_083,repository numbers,,,,,,,,,,,,,,
+4c0fcc95-9511-5652-aa04-ac455ac07222,tg:rubgr:1050,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_083,titles proper,Dutch (language),,,,,,,,,,,

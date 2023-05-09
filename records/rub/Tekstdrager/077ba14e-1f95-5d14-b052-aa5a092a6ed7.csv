@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4842,https://data.rubenianum.be//ark:/86530/077ba14e-1f95-5d14-b052-aa5a092a6ed7,Handschriften,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_040,isad:rub:2970,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4830,Verwijzing naar Grossmann object,,05c866c6-a5eb-5840-a222-7b41465a79f7,"[{""resourceId"": ""05c866c6-a5eb-5840-a222-7b41465a79f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""84edd888-aec6-4d41-89c2-04e25752cbf6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9b87f961-b504-47d7-944b-26bbb8114820"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2648b0d9-f096-4dd5-8a49-46ff02be0c98"", ""inverseOntologyProperty"": """"}]"
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Witt Library. Adoration in the snow. Under Jan Brueghel I Box 2. Copies Amsterdam Rijksmuseum.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_ExternalRelationsExtras,a::rub.40,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260965,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004842,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7095</priref>
+			<number>AFG_134_026</number>
+			<part_of_reference>AFG_134_014</part_of_reference>
+			<content>Witt Library. Adoration in the snow. Under Jan Brueghel I Box 2. Copies Amsterdam Rijksmuseum.</content>
+			<object.object_number>AFG_134</object.object_number>
+			<object.object_number>AFG_040</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Main books on Bruegel + Catalogues: Hymans; Friedl&#228;nder, Van Eyck bis Bruegel 1921, Bruegel 1921, Bruegel 1937; Conway; Michel; Benesch, Northern Renaissance.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Literature</object.title>
+			<object.title>The Adoration of the Kings in the Snow</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<keyword>Amsterdam, Rijksmuseum</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-30</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<edit.date>2014-07-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:55:40</edit.time>
+			<edit.time>16:12:54</edit.time>
+			<input.time>16:11:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4842,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4842/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4fabbdeb-633a-5cf1-8b2d-707d2f916f06"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0d820912-602b-4450-a4f7-d1d5ec9f6f88"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_OriginalBrocade,,,au::24374,,,,,,,,,,,,,,rub,46e4d3d8-86f0-58a1-9d79-defbb7fafcaa,kw,,au::24374:1,au::24374g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/2608018"",""au::24374"",""au::24374:1"",""ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa"",""Rijksmuseum""],""name"":""Rijksmuseum"",""ark"":""ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa"",""uri"":""/agents/corporate_entities/2608018"",""id"":""au::24374:1"",""isCapacity"":false}",ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa,agent,,,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_026,repository numbers,,,,,,,,,,,,,,
+077ba14e-1f95-5d14-b052-aa5a092a6ed7,tg:rubgr:4842,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_026,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4649,https://data.rubenianum.be//ark:/86530/88ff577c-9a3c-503f-86f8-c807e82994ad,Handschriften,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c2298c1c-b57a-4f59-b391-9795e97af5d8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7c25464b-b5e4-4d22-965b-39bf59f26e1b"", ""inverseOntologyProperty"": """"}]"
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Ships. O. Buyssens, 'De schepen bij Pieter Bruegel de Oude. Proeve van identificatie', Mededelingen der Academie van Marine van België VIII (1954), pp. 159-191 + ill. The Observer, November 25, 1951.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Buyssens, O.",,,,,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004649,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6902</priref>
+			<number>AFG_121_017</number>
+			<content>Bruegel: Ships. O. Buyssens, 'De schepen bij Pieter Bruegel de Oude. Proeve van identificatie', Mededelingen der Academie van Marine van Belgi&#235; VIII (1954), pp. 159-191 + ill. The Observer, November 25, 1951.</content>
+			<object.object_number>AFG_121</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>beeldmateriaal</editorial_form>
+			<object.title>Bruegel: Varia (including photographs); Drawings, Engravings</object.title>
+			<keyword>Buyssens, O.</keyword>
+			<object.creator/>
+			<input.date>2014-07-18</input.date>
+			<edit.date>2014-07-18</edit.date>
+			<edit.date>2014-07-18</edit.date>
+			<edit.date>2014-07-18</edit.date>
+			<edit.date>2014-07-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:48:30</edit.time>
+			<edit.time>15:46:18</edit.time>
+			<edit.time>15:45:37</edit.time>
+			<edit.time>15:43:10</edit.time>
+			<input.time>15:42:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4649,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4649/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""886c138e-8e86-58a6-b175-b25f4da74803"", ""ontologyProperty"": """", ""resourceXresourceId"": ""176b4e27-4353-40de-a162-5cd6c8fb125c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_121_017,repository numbers,,,,,,,,,,,,,,
+88ff577c-9a3c-503f-86f8-c807e82994ad,tg:rubgr:4649,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_121_017,titles proper,Dutch (language),,,,,,,,,,,

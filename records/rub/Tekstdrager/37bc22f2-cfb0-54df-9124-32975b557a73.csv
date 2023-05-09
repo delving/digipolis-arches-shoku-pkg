@@ -1,0 +1,76 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:58,https://data.rubenianum.be//ark:/86530/37bc22f2-cfb0-54df-9124-32975b557a73,Handschriften,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8c34fe58-0f65-4401-97af-9fe6fdd27d0c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1a6f070e-1f5f-4639-861e-0203c7da2f99"", ""inverseOntologyProperty"": """"}]"
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] 5. Säemann, J.B.F. Gils\*) hat das Bild als eine Darstellung der Parabel vom Säemann in Matthäus XIII, gedeutet, J.P. \*) Een andere kijk op Pieter Bruegel den oude‚ G‘ Haag, 1941, pp. 11-12 ; [verso] Das Thema der Parabel vom Säemann schon früher z.B. in den Heures de Hennessy (Brüssel, Bibl. Royale bei Joseph Destrée, Les Heures de Notre-Dame dites de Hennessy, Bruxelles, 1923, pl. XLVI als Randminiature; nach Destrée findet sich die Parabel bei Luk. VIII, 5-8 (also nicht Matthias!).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_ExternalRelationsExtras,a::rub.6,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261198,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bening, Simon",,,,,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brussel, Koninklijke Bibliotheek Albert I",,,,,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000058,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2298</priref>
+			<number>AFG_002_003</number>
+			<content>[recto] 5. S&#228;emann, J.B.F. Gils*) hat das Bild als eine Darstellung der Parabel vom S&#228;emann in Matth&#228;us XIII, gedeutet, J.P. *) Een andere kijk op Pieter Bruegel den oude&#8218; G&#8216; Haag, 1941, pp. 11-12 ; [verso] Das Thema der Parabel vom S&#228;emann schon fr&#252;her z.B. in den Heures de Hennessy (Br&#252;ssel, Bibl. Royale bei Joseph Destr&#233;e, Les Heures de Notre-Dame dites de Hennessy, Bruxelles, 1923, pl. XLVI als Randminiature; nach Destr&#233;e findet sich die Parabel bei Luk. VIII, 5-8 (also nicht Matthias!).</content>
+			<object.object_number>AFG_002</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Landscape with the parable of the sower</object.title>
+			<keyword>Bening, Simon</keyword>
+			<keyword>Gils, J.B.F. van</keyword>
+			<keyword>Brussel, Koninklijke Bibliotheek Albert I</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-08-17</input.date>
+			<edit.date>2014-02-20</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-27</edit.date>
+			<edit.date>2011-10-27</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-09-01</edit.date>
+			<edit.date>2011-08-31</edit.date>
+			<edit.date>2011-08-18</edit.date>
+			<edit.date>2011-08-17</edit.date>
+			<edit.date>2011-08-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:19:58</edit.time>
+			<edit.time>14:54:53</edit.time>
+			<edit.time>10:18:06</edit.time>
+			<edit.time>10:17:46</edit.time>
+			<edit.time>15:17:13</edit.time>
+			<edit.time>08:39:42</edit.time>
+			<edit.time>10:06:55</edit.time>
+			<edit.time>08:36:05</edit.time>
+			<edit.time>16:01:46</edit.time>
+			<edit.time>15:58:17</edit.time>
+			<input.time>15:48:26</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:58,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:58/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""00a23e37-f164-5cda-a969-4ce539f43eee"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fc7cba6c-1ac0-478b-ae6c-d7998798d3ea"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_OriginalBrocade,,,au::7569,,,,,,,,,,,,,,rub,15344ac6-d885-5650-95d3-a5aa99ffcb5b,kw,,au::7569:1,au::7569g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/809883"",""au::7569"",""au::7569:1"",""ark:/83110/x0/15344ac6-d885-5650-95d3-a5aa99ffcb5b"",""Johan B.F. van Gils""],""name"":""Johan B.F. van Gils"",""ark"":""ark:/83110/x0/15344ac6-d885-5650-95d3-a5aa99ffcb5b"",""uri"":""/agents/people/809883"",""id"":""au::7569:1"",""isCapacity"":false}",ark:/83110/x0/15344ac6-d885-5650-95d3-a5aa99ffcb5b,agent,,,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_002_003,repository numbers,,,,,,,,,,,,,,
+37bc22f2-cfb0-54df-9124-32975b557a73,tg:rubgr:58,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_002_003,titles proper,Dutch (language),,,,,,,,,,,

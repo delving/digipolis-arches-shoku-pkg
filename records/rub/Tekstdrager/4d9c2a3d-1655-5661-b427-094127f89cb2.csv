@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3866,https://data.rubenianum.be//ark:/86530/4d9c2a3d-1655-5661-b427-094127f89cb2,Handschriften,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9f55036c-afe7-457c-a127-1ea0b2cbbc8d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c12461cf-67e8-46a2-83a1-214451b54650"", ""inverseOntologyProperty"": """"}]"
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[14 bladen] Proefversie boekbespreking,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003866,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6119</priref>
+			<number>AFG_101_018</number>
+			<content>[14 bladen] Proefversie boekbespreking</content>
+			<object.object_number>AFG_101</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>handschrift</editorial_form>
+			<object.title>Franz Landschaftsmalerei</object.title>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>15:23:31</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3866,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3866/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2030e790-dba5-5005-8638-0bb3ee1129eb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""db47340f-8a06-4403-84d8-ff5cd6a92d04"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_101_018,repository numbers,,,,,,,,,,,,,,
+4d9c2a3d-1655-5661-b427-094127f89cb2,tg:rubgr:3866,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_101_018,titles proper,Dutch (language),,,,,,,,,,,

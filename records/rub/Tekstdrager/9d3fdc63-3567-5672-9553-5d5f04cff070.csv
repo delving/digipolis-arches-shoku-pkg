@@ -1,0 +1,67 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:828,https://data.rubenianum.be//ark:/86530/9d3fdc63-3567-5672-9553-5d5f04cff070,Handschriften,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dcbb6f73-f9c5-49be-93c6-730a0d4c4eb3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d64a9ac7-dbde-4399-9451-2a434302dc02"", ""inverseOntologyProperty"": """"}]"
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel. Tower of Babel, N°  2443. Verso with label of Isabel Farnese repr. in: Museum Boymans-van Beuningen, R[otterdam]dam, Old paintings 1400-1900. Illustrations 1972, p. 35.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13266849,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_ExternalRelationsExtras,a::rub.22,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,26043,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Farnese, Isabella",,,,,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000828,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3079</priref>
+			<number>AFG_018_017</number>
+			<content>Bruegel. Tower of Babel, N&#176;  2443. Verso with label of Isabel Farnese repr. in: Museum Boymans-van Beuningen, R[otterdam]dam, Old paintings 1400-1900. Illustrations 1972, p. 35.</content>
+			<object.object_number>AFG_018</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Tower of Babel</object.title>
+			<keyword>Farnese, Isabella</keyword>
+			<keyword>Rotterdam, Museum Boijmans van Beuningen</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author/>
+			<input.date>2012-02-03</input.date>
+			<edit.date>2015-03-05</edit.date>
+			<edit.date>2015-03-05</edit.date>
+			<edit.date>2015-02-27</edit.date>
+			<edit.date>2012-06-15</edit.date>
+			<edit.date>2012-06-15</edit.date>
+			<edit.date>2012-02-10</edit.date>
+			<edit.date>2012-02-03</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Museum Boymans-van Beuningen, Rotterdam : old paintings : 1400-1900 : illustrations</documentation.title>
+			<edit.time>09:19:17</edit.time>
+			<edit.time>09:19:03</edit.time>
+			<edit.time>15:33:18</edit.time>
+			<edit.time>12:33:12</edit.time>
+			<edit.time>12:32:59</edit.time>
+			<edit.time>13:51:33</edit.time>
+			<edit.time>12:31:55</edit.time>
+			<input.time>12:29:37</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:828,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:828/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1e9693cf-c281-5cb4-8047-1f3061b7a31f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""31596a10-ce9b-4e0f-8532-4b895c348743"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_OriginalBrocade,,,au::13299,,,,,,,,,,,,,,rub,0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,kw,,au::13299:1,au::13299g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1422993"",""au::13299"",""au::13299:1"",""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""Museum Boymans-Van Beuningen""],""name"":""Museum Boymans-Van Beuningen"",""ark"":""ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef"",""uri"":""/agents/corporate_entities/1422993"",""id"":""au::13299:1"",""isCapacity"":false}",ark:/83110/x0/0d75f2fc-eb99-51ff-9e06-7a55a66ebaef,agent,,,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_018_017,repository numbers,,,,,,,,,,,,,,
+9d3fdc63-3567-5672-9553-5d5f04cff070,tg:rubgr:828,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_018_017,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1327,https://data.rubenianum.be//ark:/86530/82e77afb-293f-5e22-868f-cbde64e16366,Foto's,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""103a3b5b-71f5-41b1-949e-8e203a105cf8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ba28c313-bc5a-4efe-9440-482561049b6c"", ""inverseOntologyProperty"": """"}]"
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"11 zw/w foto's: The Detroit Institute of Arts, The Wedding Dance: 2 van het geheel; 9 details.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,219317,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001327,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3576</priref>
+			<number>AFG_034_042</number>
+			<content>11 zw/w foto's: The Detroit Institute of Arts, The Wedding Dance: 2 van het geheel; 9 details.</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-13</input.date>
+			<edit.date>2012-08-13</edit.date>
+			<edit.date>2012-08-13</edit.date>
+			<edit.date>2012-08-13</edit.date>
+			<edit.date>2012-08-13</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:33:38</edit.time>
+			<edit.time>09:29:03</edit.time>
+			<edit.time>09:27:52</edit.time>
+			<edit.time>09:24:03</edit.time>
+			<input.time>09:23:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1327,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1327/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""496126eb-cd4e-57f6-b5c7-f1aea5fa3de8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c034a6d3-633d-4653-af90-c393994f2eb8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_042,repository numbers,,,,,,,,,,,
+82e77afb-293f-5e22-868f-cbde64e16366,tg:rubgr:1327,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_042,titles proper,Dutch (language),,,,,,,,

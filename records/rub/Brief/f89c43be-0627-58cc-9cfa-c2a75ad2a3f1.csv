@@ -1,0 +1,41 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4234,https://data.rubenianum.be//ark:/86530/f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,Brieven,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e633ee0e-6caf-40c5-bc89-f1fbea583a39"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e9b1aa85-17d8-4d5e-807f-7f8d9eb1fb76"", ""inverseOntologyProperty"": """"}]"
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_CreationActors,,,au::26569,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,73d739f9-bb6f-5cd0-b787-ab9a7724b446,bs,au::26569:1,au::26569g:1,"dlod={""suggest"":[""/agents/people/2842883"",""au::26569"",""au::26569:1"",""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""Paul Kronacker""],""name"":""Paul Kronacker"",""ark"":""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""uri"":""/agents/people/2842883"",""id"":""au::26569:1"",""isCapacity"":false}",ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19670314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1967-03-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korte inhoud: Stemt in met data voor bezoek; [Bijlage] d.d. 23-03-1967: Reservatie.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004234,referentienummer,False,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6487</priref>
+			<recipient>Grossmann, F.G.</recipient>
+			<number>AFG_111_029</number>
+			<date.precise>1967-03-14</date.precise>
+			<content>Korte inhoud: Stemt in met data voor bezoek; [Bijlage] d.d. 23-03-1967: Reservatie.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Kronacker, Paul</keyword>
+			<sender>Kronacker, Paul</sender>
+			<object.creator/>
+			<input.date>2014-07-07</input.date>
+			<edit.date>2014-07-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:21:27</edit.time>
+			<input.time>13:19:50</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4234,brocade id,False,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4234/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3b1c04ae-9ad1-5243-8111-9b69cdd5e235"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e4384da7-8da1-417f-a0ed-7e2b33d58b4f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_OriginalBrocade,,,au::26569,,,,,,,,,,,,,,,,rub,,73d739f9-bb6f-5cd0-b787-ab9a7724b446,kw,au::26569:1,au::26569g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2842883"",""au::26569"",""au::26569:1"",""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""Paul Kronacker""],""name"":""Paul Kronacker"",""ark"":""ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446"",""uri"":""/agents/people/2842883"",""id"":""au::26569:1"",""isCapacity"":false}",ark:/83110/x0/73d739f9-bb6f-5cd0-b787-ab9a7724b446,agent,,,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_029,repository numbers,,,,,,,,,,,
+f89c43be-0627-58cc-9cfa-c2a75ad2a3f1,tg:rubgr:4234,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_029,titles proper,Dutch (language),,,,,,,,

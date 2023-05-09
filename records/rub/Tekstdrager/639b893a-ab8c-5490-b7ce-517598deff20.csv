@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4695,https://data.rubenianum.be//ark:/86530/639b893a-ab8c-5490-b7ce-517598deff20,Handschriften,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9f6694f1-1307-4b68-92ac-694dd076fc98"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bcf812e9-6527-4e40-b760-d4b615d2e2e3"", ""inverseOntologyProperty"": """"}]"
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roy Strong, 'Holbein in England I and II', Burl. Mag. CIX (May 1967), pp. 276-281, passim.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strong, Roy",,,,,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004695,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6948</priref>
+			<number>AFG_126_003</number>
+			<content>Roy Strong, 'Holbein in England I and II', Burl. Mag. CIX (May 1967), pp. 276-281, passim.</content>
+			<object.object_number>AFG_126</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Roskill; Clowes Catalogue (Austrian, Bruegels, Holbein, Rubens)</object.title>
+			<keyword>Strong, Roy</keyword>
+			<object.creator/>
+			<input.date>2014-07-23</input.date>
+			<edit.date>2014-07-23</edit.date>
+			<edit.date>2014-07-23</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:18:34</edit.time>
+			<edit.time>11:16:40</edit.time>
+			<input.time>11:13:51</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4695,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4695/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""214cdd10-1966-5cf1-baca-5277b4ef8ab1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e8559fc0-f098-4eb5-9757-975bf4ceaecc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_126_003,repository numbers,,,,,,,,,,,,,,
+639b893a-ab8c-5490-b7ce-517598deff20,tg:rubgr:4695,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_126_003,titles proper,Dutch (language),,,,,,,,,,,

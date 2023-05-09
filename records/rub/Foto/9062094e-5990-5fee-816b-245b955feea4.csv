@@ -1,0 +1,36 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2539,https://data.rubenianum.be//ark:/86530/9062094e-5990-5fee-816b-245b955feea4,Foto's,,,,
+9062094e-5990-5fee-816b-245b955feea4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""84e86fac-f463-4b32-ba74-14b1b2fb77e2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a1a87c16-c006-45a3-b323-052c17921af8"", ""inverseOntologyProperty"": """"}]"
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto met stempel van John G. Johnson Art Collection, Philadelphia. [Notitie in onbekend handschrift]: J. 425. Peasant Woman with Beer Mug, Martin van Cleve.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Philadelphia, Philadelphia Museum of Art",,,,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002539,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4781</priref>
+			<number>AFG_083_089</number>
+			<content>1 zw/w foto met stempel van John G. Johnson Art Collection, Philadelphia. [Notitie in onbekend handschrift]: J. 425. Peasant Woman with Beer Mug, Martin van Cleve.</content>
+			<object.object_number>AFG_083</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Cleve, Marten van</object.title>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Philadelphia, Philadelphia Museum of Art</keyword>
+			<object.creator/>
+			<input.date>2013-11-27</input.date>
+			<edit.date>2014-02-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:15:45</edit.time>
+			<input.time>13:47:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2539,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2539/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e786be08-c984-518f-9437-aa5bcb9f97d8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dfd03597-c2e5-404e-b165-3d5397bb69f0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_089,repository numbers,,,,,,,,,,,
+9062094e-5990-5fee-816b-245b955feea4,tg:rubgr:2539,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_083_089,titles proper,Dutch (language),,,,,,,,

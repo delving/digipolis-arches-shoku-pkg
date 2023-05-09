@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5076,https://data.rubenianum.be//ark:/86530/4aeccc77-16ca-5865-b11c-6fa22124b103,Handschriften,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""75c5930b-a3ee-4d80-b474-459944bc8f21"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ef5b147-d4e1-45a6-a15f-0503874731e6"", ""inverseOntologyProperty"": """"}]"
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Louis Lebeer, 'Les estampes de Pierre Bruegel l' Ancien', Annales de la Société Royale d'Archéologie de Bruxelles, vol. 45 (1945), pp. 154-180, citaten pp. 158-9, 161.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prentkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005076,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7332</priref>
+			<number>AFG_141_014</number>
+			<content>Louis Lebeer, 'Les estampes de Pierre Bruegel l' Ancien', Annales de la Soci&#233;t&#233; Royale d'Arch&#233;ologie de Bruxelles, vol. 45 (1945), pp. 154-180, citaten pp. 158-9, 161.</content>
+			<object.object_number>AFG_141</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Varia: no title</object.title>
+			<keyword>prentkunst</keyword>
+			<keyword>Lebeer, Louis</keyword>
+			<object.creator/>
+			<input.date>2014-08-11</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>14:48:09</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5076,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5076/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f3639830-5fbc-51ff-bc4b-4fbe9b909150"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c73b355a-dac9-498f-a11b-1ca3e6bf9e0b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_OriginalBrocade,,,au::11139,,,,,,,,,,,,,,rub,662a79e3-e96d-5e11-ad7a-5eb0864138d8,kw,,au::11139:1,au::11139g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1191873"",""au::11139"",""au::11139:1"",""ark:/83110/x0/662a79e3-e96d-5e11-ad7a-5eb0864138d8"",""Louis Lebeer""],""name"":""Louis Lebeer"",""ark"":""ark:/83110/x0/662a79e3-e96d-5e11-ad7a-5eb0864138d8"",""uri"":""/agents/people/1191873"",""id"":""au::11139:1"",""isCapacity"":false}",ark:/83110/x0/662a79e3-e96d-5e11-ad7a-5eb0864138d8,agent,,,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_141_014,repository numbers,,,,,,,,,,,,,,
+4aeccc77-16ca-5865-b11c-6fa22124b103,tg:rubgr:5076,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_141_014,titles proper,Dutch (language),,,,,,,,,,,

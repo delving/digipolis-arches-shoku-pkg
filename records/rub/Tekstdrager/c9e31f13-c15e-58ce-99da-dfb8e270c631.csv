@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4792,https://data.rubenianum.be//ark:/86530/c9e31f13-c15e-58ce-99da-dfb8e270c631,Handschriften,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bb0e637a-05b1-4234-8cee-c0824d52cc04"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b0935f27-bea8-4dcc-82aa-62ceeb83f261"", ""inverseOntologyProperty"": """"}]"
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Leo van Puyvelde, 'Pierre Bruegel l'Ancien à l'exposition d'art ancien de Bruxelles 1935', Bulletin de la Société royale d' Archéologie de Bruxelles (Septembre-Novembre 1935).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13237496,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004792,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+<priref>7045</priref>
+<number>AFG_131_003</number>
+<content>Leo van Puyvelde, 'Pierre Bruegel l'Ancien à l'exposition d'art ancien de Bruxelles 1935', Bulletin de la Société royale d' Archéologie de Bruxelles (Septembre-Novembre 1935).</content>
+<object.object_number>AFG_131</object.object_number>
+<object.object_name>Dossier</object.object_name>
+<class>AFG</class>
+<editorial_form>overdruk</editorial_form>
+<object.title>Bruegel</object.title>
+<keyword>Puyvelde, Léo van</keyword>
+<object.creator/>
+<input.date>2014-07-29</input.date>
+<edit.date>2014-07-29</edit.date>
+<input.name>Centrum</input.name>
+<edit.name>Centrum</edit.name>
+<edit.time>10:25:47</edit.time>
+<input.time>10:16:21</input.time>
+<input.source>archive</input.source>
+<edit.source>archive</edit.source>
+</record>
+
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4792,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4792/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""904a17c6-8894-5fb5-b681-cc4fee7f882f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c52b216f-cdaf-4a21-a04e-b2188c96688e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_OriginalBrocade,,,au::15317,,,,,,,,,,,,,,rub,631077ff-8783-5f60-8ec6-5f5bcafe8f5f,kw,,au::15317:1,au::15317g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1638919"",""au::15317"",""au::15317:1"",""ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f"",""Leo van Puyvelde""],""name"":""Leo van Puyvelde"",""ark"":""ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f"",""uri"":""/agents/people/1638919"",""id"":""au::15317:1"",""isCapacity"":false}",ark:/83110/x0/631077ff-8783-5f60-8ec6-5f5bcafe8f5f,agent,,,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_131_003,repository numbers,,,,,,,,,,,,,,
+c9e31f13-c15e-58ce-99da-dfb8e270c631,tg:rubgr:4792,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_131_003,titles proper,Dutch (language),,,,,,,,,,,

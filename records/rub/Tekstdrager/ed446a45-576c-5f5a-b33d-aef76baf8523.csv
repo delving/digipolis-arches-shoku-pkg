@@ -1,0 +1,88 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:526,https://data.rubenianum.be//ark:/86530/ed446a45-576c-5f5a-b33d-aef76baf8523,Handschriften,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:523,Verwijzing naar Grossmann object,,197536f6-4cee-59a0-861d-743935d7c065,"[{""resourceId"": ""197536f6-4cee-59a0-861d-743935d7c065"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7a43e9dd-25a7-47ca-a7f1-b269c7a41525"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5ed8bfb6-b1f3-45b6-b9d2-b7b089945cfa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee7b486f-d2b1-4ac2-bab1-81b9e314290a"", ""inverseOntologyProperty"": """"}]"
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dulle Griet. Egg. see Kenneth CLARK, Piero della Francesca, 1951, citaten, pp. 49, 210: see also [Millard] Meiss, in Festschrift Belle da Costa Green [= '""Ovum struthionis"", Symbol and Allusion in Piero della Francesca's Montefeltro Altarpiece, in: Dorothy E. Miner (ed.), Studies for Belle da Costa Green, Princeton, N.J.: University Press, 1954, pp. 92-101].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:558393,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_ExternalRelationsExtras,a::rub.14,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54556,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Francesca, Piero della",,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vier elementen,,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clark, Kenneth",,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Meiss, Millard",,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Milaan, Pinacoteca di Brera",,,,,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000526,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2773</priref>
+			<number>AFG_010_041</number>
+			<part_of_reference>AFG_010_038</part_of_reference>
+			<content>Dulle Griet. Egg. see Kenneth CLARK, Piero della Francesca, 1951, citaten, pp. 49, 210: see also [Millard] Meiss, in Festschrift Belle da Costa Green [= '""Ovum struthionis"", Symbol and Allusion in Piero della Francesca's Montefeltro Altarpiece, in: Dorothy E. Miner (ed.), Studies for Belle da Costa Green, Princeton, N.J.: University Press, 1954, pp. 92-101].</content>
+			<object.object_number>AFG_010</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: vraagt advies over essay studente Caroline A. Crimp aan Morley College (London).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Dulle Griet</object.title>
+			<keyword>Francesca, Piero della</keyword>
+			<keyword>vier elementen</keyword>
+			<keyword>Clark, Kenneth</keyword>
+			<keyword>Meiss, Millard</keyword>
+			<keyword>Milaan, Pinacoteca di Brera</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Clark, Kenneth</documentation.author>
+			<input.date>2011-10-11</input.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2014-08-26</edit.date>
+			<edit.date>2013-01-24</edit.date>
+			<edit.date>2012-01-09</edit.date>
+			<edit.date>2011-12-05</edit.date>
+			<edit.date>2011-12-05</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Piero della Francesca</documentation.title>
+			<edit.time>15:39:15</edit.time>
+			<edit.time>15:38:55</edit.time>
+			<edit.time>15:38:03</edit.time>
+			<edit.time>15:31:26</edit.time>
+			<edit.time>13:12:34</edit.time>
+			<edit.time>10:20:12</edit.time>
+			<edit.time>10:25:15</edit.time>
+			<edit.time>10:25:01</edit.time>
+			<edit.time>15:05:45</edit.time>
+			<edit.time>15:00:53</edit.time>
+			<input.time>14:59:04</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:526,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:526/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3e9ab524-8e36-51a2-80c1-b4288973ebec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""861f278c-acbf-49f2-a3fb-e41f149e8bbd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_041,repository numbers,,,,,,,,,,,,,,
+ed446a45-576c-5f5a-b33d-aef76baf8523,tg:rubgr:526,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_041,titles proper,Dutch (language),,,,,,,,,,,

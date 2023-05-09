@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3175,https://data.rubenianum.be//ark:/86530/e1977955-b054-5111-8d4b-6fe0b4445835,Handschriften,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""78c07bd2-99b7-4354-8ce0-1301259a2015"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33cf1b82-fa84-4f89-a514-a1d278642bb8"", ""inverseOntologyProperty"": """"}]"
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Verlorenes Bild nur bekannt aus literarischen Quellen, Van Mander, Duarte. Bauernkirmes in Wasserfarben (wie zusammen Bauernhochzeit in Öl bei Duarte, 1676. See Glück, N° 55. Kan auch ein Bild in der Art des Kirmes van Hoboken oder St. Georg etc sein.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Duarte, Diego",,,,,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003175,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5501</priref>
+			<number>AFG_090_095</number>
+			<content>Verlorenes Bild nur bekannt aus literarischen Quellen, Van Mander, Duarte. Bauernkirmes in Wasserfarben (wie zusammen Bauernhochzeit in &#214;l bei Duarte, 1676. See Gl&#252;ck, N&#176; 55. Kan auch ein Bild in der Art des Kirmes van Hoboken oder St. Georg etc sein.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Gl&#252;ck, Gustav</keyword>
+			<keyword>Mander, Karel van</keyword>
+			<keyword>Duarte, Diego</keyword>
+			<object.creator/>
+			<input.date>2014-06-13</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>12:00:39</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3175,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3175/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e3fa0e8a-66df-5ba8-9df6-38dc96419268"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf0c842a-dc35-45b0-80ee-e30b1c45e8bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_OriginalBrocade,,,au::28177,,,,,,,,,,,,,,rub,51235f44-a7e4-5ca0-a78d-4890ed985df7,kw,,au::28177:1,au::28177g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/3014939"",""au::28177"",""au::28177:1"",""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""Gustave Glück""],""name"":""Gustave Glück"",""ark"":""ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7"",""uri"":""/agents/people/3014939"",""id"":""au::28177:1"",""isCapacity"":false}",ark:/83110/x0/51235f44-a7e4-5ca0-a78d-4890ed985df7,agent,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_OriginalBrocade,,,au::12149,,,,,,,,,,,,,,rub,8f971df1-092b-5a37-8e0f-d345790debe5,kw,,au::12149:1,au::12149g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1299943"",""au::12149"",""au::12149:1"",""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""Carel van Mander""],""name"":""Carel van Mander"",""ark"":""ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5"",""uri"":""/agents/people/1299943"",""id"":""au::12149:1"",""isCapacity"":false}",ark:/83110/x0/8f971df1-092b-5a37-8e0f-d345790debe5,agent,,,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_095,repository numbers,,,,,,,,,,,,,,
+e1977955-b054-5111-8d4b-6fe0b4445835,tg:rubgr:3175,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_095,titles proper,Dutch (language),,,,,,,,,,,

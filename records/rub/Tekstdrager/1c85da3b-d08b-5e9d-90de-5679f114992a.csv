@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1678,https://data.rubenianum.be//ark:/86530/1c85da3b-d08b-5e9d-90de-5679f114992a,Handschriften,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e8e5e48a-bc2d-4f95-86d0-191ab1589caa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ecd3c815-d79f-4671-918c-9bfac0aea392"", ""inverseOntologyProperty"": """"}]"
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 35. Bruegel. Blinde. Rubens Invent. Sainsbury, p. 248, 255 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257983,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_ExternalRelationsExtras,a::rub.45,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,53946,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sainsbury, W. Noël",,,,,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001678,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3929</priref>
+			<number>AFG_045_034</number>
+			<content>Ad [Addendum] 35. Bruegel. Blinde. Rubens Invent. Sainsbury, p. 248, 255 [...]</content>
+			<object.object_number>AFG_045</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Parable of the Blind</object.title>
+			<keyword>Rubens, Peter Paul</keyword>
+			<keyword>Sainsbury, W. No&#235;l</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Sainsbury, W. No&#235;l</documentation.author>
+			<input.date>2013-01-04</input.date>
+			<edit.date>2014-09-26</edit.date>
+			<edit.date>2013-01-08</edit.date>
+			<edit.date>2013-01-04</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Original unpublished papers illustrative of the life of sir Peter Paul Rubens, as an artist and a diplomatist, preserved in H.M. State Paper Office : with an appendix of documents respecting the Arundelian collection, the earl of Somerset's collection, the great Mantuan collection, the duke of Buckingham, Gentileschi,  Gerbier, Honthorst, Le Sueur, Myttens, Torrentius, Vanderdoort, etc., etc., etc.</documentation.title>
+			<edit.time>13:46:10</edit.time>
+			<edit.time>11:22:50</edit.time>
+			<edit.time>10:26:11</edit.time>
+			<input.time>10:24:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1678,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1678/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5606da09-a687-5378-83c3-8a77ccf59a72"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a5be9656-31f7-4cff-b73c-050f627bb7b5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_OriginalBrocade,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,kw,,au::16151:1,au::16151g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_034,repository numbers,,,,,,,,,,,,,,
+1c85da3b-d08b-5e9d-90de-5679f114992a,tg:rubgr:1678,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_045_034,titles proper,Dutch (language),,,,,,,,,,,

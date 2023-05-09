@@ -1,0 +1,31 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3394,https://data.rubenianum.be//ark:/86530/18912f86-8fc3-571e-ae90-a90942fe563c,Handschriften,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3387,Verwijzing naar Grossmann object,,a8d9c78d-aba3-5966-8e5a-26f8a543f9eb,"[{""resourceId"": ""a8d9c78d-aba3-5966-8e5a-26f8a543f9eb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""294e09e8-4013-41cb-befd-a4affb05f989"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6ee42f8-0984-4141-a353-53099e2541b2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""980cd22c-0d3e-4b42-9086-4f48e02e2024"", ""inverseOntologyProperty"": """"}]"
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,April. Flemish: early 16th century. Illumination from the Kalendar of a Book of Hours Simon Benninck (1483-1561) (Saltin Bequest),descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003394,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5647</priref>
+			<number>AFG_093_057</number>
+			<part_of_reference>AFG_093_050</part_of_reference>
+			<content>April. Flemish: early 16th century. Illumination from the Kalendar of a Book of Hours Simon Benninck (1483-1561) (Saltin Bequest)</content>
+			<object.object_number>AFG_093</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Comparative Material.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>beeldmateriaal</editorial_form>
+			<object.title>Comparative Material. Including Mechelen</object.title>
+			<object.creator/>
+			<input.date>2014-06-18</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>14:30:14</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3394,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3394/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1e934d55-9655-5ab9-8e48-2d620e336c02"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1300f153-0e87-40fc-a220-3bddbeb45dd9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_057,repository numbers,,,,,,,,,,,,,,
+18912f86-8fc3-571e-ae90-a90942fe563c,tg:rubgr:3394,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_093_057,titles proper,Dutch (language),,,,,,,,,,,

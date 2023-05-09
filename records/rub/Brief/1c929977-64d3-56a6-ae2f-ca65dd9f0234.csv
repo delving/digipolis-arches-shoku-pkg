@@ -1,0 +1,66 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1915,https://data.rubenianum.be//ark:/86530/1c929977-64d3-56a6-ae2f-ca65dd9f0234,Brieven,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:1911,Verwijzing naar Grossmann object,,7c289d27-de8b-5637-bc52-a35fd8b75ca7,"[{""resourceId"": ""7c289d27-de8b-5637-bc52-a35fd8b75ca7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""12bb8d8a-c377-400c-8695-099149215d07"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""07dac0d1-accc-4041-9863-68385330d618"", ""ontologyProperty"": """", ""resourceXresourceId"": ""284cf1cc-7df4-4449-bf1d-76ff081241fa"", ""inverseOntologyProperty"": """"}]"
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_Correspondence,1,,,,,,,,,,,,,,,,"Boer, P. De",recipients (people),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,bs,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19550511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1955-05-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Korte inhoud: [Taal, Duits] Stuurt de foto's terug. Wil het werk opnemen in zijn boek dat alleen de originele werken zal vermelden. Hij twijfelt niet aan de echtheid hoewel hij het werk alleen op foto heeft gezien. Geeft de Engelse tekst door waaronder het werk zal gepubliceerd worden. Wil ook een artikel wijden aan het werk en dit laten publiceren in The Burlington Magazine. Vraagt om inlichtingen over de drager en afmetingen.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001915,referentienummer,False,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4154</priref>
+			<recipient>Boer, P. De</recipient>
+			<number>AFG_054_006</number>
+			<part_of_reference>AFG_054_002</part_of_reference>
+			<date.precise>1955-05-11</date.precise>
+			<content>Korte inhoud: [Taal, Duits] Stuurt de foto's terug. Wil het werk opnemen in zijn boek dat alleen de originele werken zal vermelden. Hij twijfelt niet aan de echtheid hoewel hij het werk alleen op foto heeft gezien. Geeft de Engelse tekst door waaronder het werk zal gepubliceerd worden. Wil ook een artikel wijden aan het werk en dit laten publiceren in The Burlington Magazine. Vraagt om inlichtingen over de drager en afmetingen.</content>
+			<object.object_number>AFG_054</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bundel: Becker Landscape</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Landscape with Sailing Boats and a Burning Town</object.title>
+			<sender>Grossmann, F.</sender>
+			<object.creator/>
+			<input.date>2013-02-18</input.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-10-17</edit.date>
+			<edit.date>2013-02-22</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<edit.date>2013-02-18</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>12:30:13</edit.time>
+			<edit.time>12:29:13</edit.time>
+			<edit.time>13:57:01</edit.time>
+			<edit.time>11:53:10</edit.time>
+			<edit.time>11:42:38</edit.time>
+			<edit.time>11:41:11</edit.time>
+			<edit.time>11:40:09</edit.time>
+			<input.time>11:39:50</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1915,brocade id,False,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1915/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f31a1d78-f8f7-5b32-9e03-af0df4ce4395"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8699f1c1-5251-46d8-9c4f-54f840aec003"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_006,repository numbers,,,,,,,,,,,
+1c929977-64d3-56a6-ae2f-ca65dd9f0234,tg:rubgr:1915,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_054_006,titles proper,Dutch (language),,,,,,,,

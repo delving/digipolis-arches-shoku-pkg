@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5127,https://data.rubenianum.be//ark:/86530/3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,Brieven,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_AssociatedRecords,1,,,,,,,,,rubgr_brief,relatie naar geheel,tg:rubgr:5130,Verwijzing naar Grossmann object,,754d83f1-9929-5c0a-9429-9f339b994616,"[{""resourceId"": ""754d83f1-9929-5c0a-9429-9f339b994616"", ""ontologyProperty"": """", ""resourceXresourceId"": ""66af4aa5-a6c5-4a83-9698-50213260d795"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8ddea3b-5ec1-49b3-abe4-c37d46132a52"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab11c828-4a3b-466d-9223-3296f5eb4eb8"", ""inverseOntologyProperty"": """"}]"
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1952.0,2067,In Copyright,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_CreationActors,,,au::108637,,,,,,,rubgr_brief,,,,,,,,correspondents (correspondence writers),rub,Brief,06c3708c-6ae1-5ace-8def-fc73c1dbc54d,bs,au::108637:1,au::108637g:1,"dlod={""suggest"":[""/agents/people/11624159"",""au::108637"",""au::108637:1"",""ark:/83110/x0/06c3708c-6ae1-5ace-8def-fc73c1dbc54d"",""Arthur E. Popham""],""name"":""Arthur E. Popham"",""ark"":""ark:/83110/x0/06c3708c-6ae1-5ace-8def-fc73c1dbc54d"",""uri"":""/agents/people/11624159"",""id"":""au::108637:1"",""isCapacity"":false}",ark:/83110/x0/06c3708c-6ae1-5ace-8def-fc73c1dbc54d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19520315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Briefhoofd British Museum] Korte inhoud: Vraag om informatie over Lucas Vorstermann voor een lezing over tekeningen van Leonardo in Windsor die gekopieerd werden door Vorsterman.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leonardo da Vinci,,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vorsterman, Lucas I",,,,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005127,referentienummer,False,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7384</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_143_006</number>
+			<part_of_reference>AFG_143_009</part_of_reference>
+			<date.precise>1952-03-15</date.precise>
+			<content>[Briefhoofd British Museum] Korte inhoud: Vraag om informatie over Lucas Vorstermann voor een lezing over tekeningen van Leonardo in Windsor die gekopieerd werden door Vorsterman.</content>
+			<object.object_number>AFG_143</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Popham, Ortelius, Burl.Mag. LIX, 1931, p. 184; Tolnay</part_of.title>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>Bruegel, Gl&#252;ck 50, Adulteress</object.title>
+			<keyword>Leonardo da Vinci</keyword>
+			<keyword>Vorsterman, Lucas I</keyword>
+			<sender>Popham, A.E.</sender>
+			<object.creator/>
+			<input.date>2014-08-14</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<edit.date>2018-06-06</edit.date>
+			<edit.date>2014-08-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:47:12</edit.time>
+			<edit.time>14:47:06</edit.time>
+			<edit.time>08:40:35</edit.time>
+			<input.time>08:39:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5127,brocade id,False,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5127/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5805aec4-da99-5bdc-ac25-88d589aa1d84"", ""ontologyProperty"": """", ""resourceXresourceId"": ""027543e6-95f1-4bef-848e-39f2b2cd013b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_006,repository numbers,,,,,,,,,,,
+3b7a29d2-22b6-5c8e-95ae-3df2d15246d6,tg:rubgr:5127,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_143_006,titles proper,Dutch (language),,,,,,,,

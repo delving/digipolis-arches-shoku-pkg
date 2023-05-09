@@ -1,0 +1,51 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2619,https://data.rubenianum.be//ark:/86530/a182423b-dd22-5922-9e27-cdf5dfcc7788,Foto's,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2617,Verwijzing naar Grossmann object,,839cf30f-e509-5f0b-b1ea-09c80794debd,"[{""resourceId"": ""839cf30f-e509-5f0b-b1ea-09c80794debd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1640fb7e-1255-4115-864d-1ec020f94853"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""39eba641-de43-47a9-9e23-79b0a5d25464"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4ab188f-7961-4d87-8760-715f35922c44"", ""inverseOntologyProperty"": """"}]"
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,2 zw/w foto's met notitie Van Dyck; 1 foto met opschrift Cristo alla colonna.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bloch, Vitale",,,,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002619,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4861</priref>
+			<number>AFG_084_033</number>
+			<part_of_reference>AFG_084_031</part_of_reference>
+			<content>2 zw/w foto's met notitie Van Dyck; 1 foto met opschrift Cristo alla colonna.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>1 zw/w foto met notitie Dr. V. Bloch: Hieron Cock [sic]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Dyck, Antoon van</keyword>
+			<keyword>Bloch, Vitale</keyword>
+			<object.creator/>
+			<input.date>2014-02-10</input.date>
+			<edit.date>2014-02-13</edit.date>
+			<edit.date>2014-02-10</edit.date>
+			<edit.date>2014-02-10</edit.date>
+			<edit.date>2014-02-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:46:39</edit.time>
+			<edit.time>15:39:52</edit.time>
+			<edit.time>15:34:37</edit.time>
+			<edit.time>15:34:13</edit.time>
+			<input.time>15:19:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2619,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2619/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bb1da5fd-1a69-58cd-963f-6ccdc1e50c95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22d28121-3137-439f-8176-d6d9061eb5fb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_OriginalBrocade,,,au::6121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,c7c2d91e-bcf9-57c2-a0b3-16e65966862e,kw,keywords,au::6121:1,au::6121g:1,,"dlod={""suggest"":[""/agents/people/654947"",""au::6121"",""au::6121:1"",""ark:/83110/x0/c7c2d91e-bcf9-57c2-a0b3-16e65966862e"",""Antoon van Dyck""],""name"":""Antoon van Dyck"",""ark"":""ark:/83110/x0/c7c2d91e-bcf9-57c2-a0b3-16e65966862e"",""uri"":""/agents/people/654947"",""id"":""au::6121:1"",""isCapacity"":false}",ark:/83110/x0/c7c2d91e-bcf9-57c2-a0b3-16e65966862e,agent,,,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_033,repository numbers,,,,,,,,,,,
+a182423b-dd22-5922-9e27-cdf5dfcc7788,tg:rubgr:2619,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_033,titles proper,Dutch (language),,,,,,,,

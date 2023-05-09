@@ -1,0 +1,93 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1518,https://data.rubenianum.be//ark:/86530/32800121-f8a5-5523-81cd-5b4f4f3674ce,Handschriften,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6da47b77-93c7-4743-89e8-711c6bcb9b54"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2f319837-99b6-4fda-a0f0-04c6d27d137a"", ""inverseOntologyProperty"": """"}]"
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 28. Witt Library. J. Bruegel. Copy after Reinhardt [sic]: Adoration without snow flakes. Amsterdam Rijksmuseum, photo [...]  as Jan B. [sic] (also a poor colour repr.).",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_ExternalRelationsExtras,a::rub.40,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260965,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Reinhart, Oskar",,,,,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001518,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3769</priref>
+			<number>AFG_040_008</number>
+			<content>Ad [Addendum] 28. Witt Library. J. Bruegel. Copy after Reinhardt [sic]: Adoration without snow flakes. Amsterdam Rijksmuseum, photo [...]  as Jan B. [sic] (also a poor colour repr.).</content>
+			<object.object_number>AFG_040</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Adoration of the Kings in the Snow</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Reinhart, Oskar</keyword>
+			<keyword>Amsterdam, Rijksmuseum</keyword>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-12</input.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-12-04</edit.date>
+			<edit.date>2012-12-04</edit.date>
+			<edit.date>2012-12-04</edit.date>
+			<edit.date>2012-12-04</edit.date>
+			<edit.date>2012-12-03</edit.date>
+			<edit.date>2012-12-03</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-26</edit.date>
+			<edit.date>2012-11-12</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:33:46</edit.time>
+			<edit.time>11:31:53</edit.time>
+			<edit.time>10:17:26</edit.time>
+			<edit.time>15:10:01</edit.time>
+			<edit.time>15:09:50</edit.time>
+			<edit.time>15:05:41</edit.time>
+			<edit.time>15:05:32</edit.time>
+			<edit.time>12:20:35</edit.time>
+			<edit.time>11:57:11</edit.time>
+			<edit.time>16:27:45</edit.time>
+			<edit.time>16:27:23</edit.time>
+			<edit.time>16:26:25</edit.time>
+			<edit.time>09:54:05</edit.time>
+			<edit.time>10:21:38</edit.time>
+			<input.time>10:19:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1518,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1518/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb6ad4ec-92d4-5402-9b36-0a09daafc357"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1b903d79-01a8-4d33-9cb9-1e0e21d309f7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_OriginalBrocade,,,au::24374,,,,,,,,,,,,,,rub,46e4d3d8-86f0-58a1-9d79-defbb7fafcaa,kw,,au::24374:1,au::24374g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/2608018"",""au::24374"",""au::24374:1"",""ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa"",""Rijksmuseum""],""name"":""Rijksmuseum"",""ark"":""ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa"",""uri"":""/agents/corporate_entities/2608018"",""id"":""au::24374:1"",""isCapacity"":false}",ark:/83110/x0/46e4d3d8-86f0-58a1-9d79-defbb7fafcaa,agent,,,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_040_008,repository numbers,,,,,,,,,,,,,,
+32800121-f8a5-5523-81cd-5b4f4f3674ce,tg:rubgr:1518,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_040_008,titles proper,Dutch (language),,,,,,,,,,,

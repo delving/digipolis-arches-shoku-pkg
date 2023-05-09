@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1399,https://data.rubenianum.be//ark:/86530/708ed429-392e-5eca-8a18-65eae43c07fe,Foto's,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2ddc101a-1c7f-4535-be43-ebd88568de84"", ""ontologyProperty"": """", ""resourceXresourceId"": ""42f5c801-6f69-4331-b4b3-52e5a5da1064"", ""inverseOntologyProperty"": """"}]"
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto van het geheel, stempel F. Bruckmann A.-G. München: [notitie FG]: L.G.; L.G. Received from L. Goldscheider. In April 1976 with M. Charles de Pauw, Boulevard E. Jacqmain 162, Bruxelles, ex. Duca, Milan.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,54753,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Goldscheider, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Duca, Vittorio",,,,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pauw, Charles de",,,,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001399,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3648</priref>
+			<number>AFG_038_005</number>
+			<content>1 zw/w foto van het geheel, stempel F. Bruckmann A.-G. M&#252;nchen: [notitie FG]: L.G.; L.G. Received from L. Goldscheider. In April 1976 with M. Charles de Pauw, Boulevard E. Jacqmain 162, Bruxelles, ex. Duca, Milan.</content>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<keyword>Goldscheider, Ludwig</keyword>
+			<keyword>Duca, Vittorio</keyword>
+			<keyword>Pauw, Charles de</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-27</input.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2012-10-15</edit.date>
+			<edit.date>2012-09-19</edit.date>
+			<edit.date>2012-09-19</edit.date>
+			<edit.date>2012-08-27</edit.date>
+			<edit.date>2012-08-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:51:36</edit.time>
+			<edit.time>09:50:52</edit.time>
+			<edit.time>11:29:46</edit.time>
+			<edit.time>11:08:13</edit.time>
+			<edit.time>11:07:11</edit.time>
+			<edit.time>11:22:51</edit.time>
+			<edit.time>11:21:07</edit.time>
+			<input.time>11:18:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1399,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1399/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1afc746f-7cbf-510d-97b9-ad3f4bb2756a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6bc471e0-742c-4a41-b0fc-54fdb9804091"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_005,repository numbers,,,,,,,,,,,
+708ed429-392e-5eca-8a18-65eae43c07fe,tg:rubgr:1399,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_005,titles proper,Dutch (language),,,,,,,,

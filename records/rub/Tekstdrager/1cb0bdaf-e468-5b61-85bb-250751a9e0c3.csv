@@ -1,0 +1,31 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5017,https://data.rubenianum.be//ark:/86530/1cb0bdaf-e468-5b61-85bb-250751a9e0c3,Handschriften,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5007,Verwijzing naar Grossmann object,,7de846fc-810a-5249-b32a-4aa608bf0162,"[{""resourceId"": ""7de846fc-810a-5249-b32a-4aa608bf0162"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f6ce46fb-b43a-4839-bd5c-4686e7bc7cc8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1f043d11-c638-4b8e-8f22-93ca91dd7bd3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e440e65b-10d2-47e4-8654-d26cbac122a3"", ""inverseOntologyProperty"": """"}]"
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11 bladen referenties.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005017,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7275</priref>
+			<number>AFG_137_052</number>
+			<part_of_reference>AFG_137_042</part_of_reference>
+			<content>11 bladen referenties.</content>
+			<object.object_number>AFG_137</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Religion</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Ortelius: Religion</object.title>
+			<object.creator/>
+			<input.date>2014-08-08</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>10:16:27</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5017,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5017/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""88203340-5ede-56d6-9a06-2c3333091d00"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8deda43c-3d51-414f-b73c-f99f531e78f9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_052,repository numbers,,,,,,,,,,,,,,
+1cb0bdaf-e468-5b61-85bb-250751a9e0c3,tg:rubgr:5017,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_052,titles proper,Dutch (language),,,,,,,,,,,

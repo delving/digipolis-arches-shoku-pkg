@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3968,https://data.rubenianum.be//ark:/86530/1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,Handschriften,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4068602d-5e84-40cd-a490-d0392d611948"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fffacbd4-a539-4922-a546-fb6ea4493db0"", ""inverseOntologyProperty"": """"}]"
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[7 bladen] Alex Ludwig Romdahl, 'Pieter Brueghel der Ältere und sein Kunstschaffen’, Jahrbuch der kunsthistorischen Sammlungen in Wien 25 (1905), pp. 85-169; [1 blad] citaten pp. 85-86, 88; [6 bladen lijst]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Romdahl, Axel L.",,,,,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003968,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6221</priref>
+			<number>AFG_102_083</number>
+			<content>[7 bladen] Alex Ludwig Romdahl, 'Pieter Brueghel der &#196;ltere und sein Kunstschaffen&#8217;, Jahrbuch der kunsthistorischen Sammlungen in Wien 25 (1905), pp. 85-169; [1 blad] citaten pp. 85-86, 88; [6 bladen lijst]</content>
+			<object.object_number>AFG_102</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Varia: Grossmann 242</object.title>
+			<keyword>Romdahl, Axel L.</keyword>
+			<object.creator/>
+			<input.date>2014-06-27</input.date>
+			<edit.date>2014-06-27</edit.date>
+			<edit.date>2014-06-27</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:22:51</edit.time>
+			<edit.time>12:19:54</edit.time>
+			<input.time>12:18:33</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3968,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3968/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e71c0060-cd67-52af-a751-aace85c44d51"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b7071bf7-d711-4169-9287-aa01ee44f015"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_083,repository numbers,,,,,,,,,,,,,,
+1aa03c35-551b-5991-bfe6-d5e66cfcfbeb,tg:rubgr:3968,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_083,titles proper,Dutch (language),,,,,,,,,,,

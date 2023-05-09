@@ -1,0 +1,60 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1396,https://data.rubenianum.be//ark:/86530/fe24a941-2226-5516-95fd-fc08c52604aa,Handschriften,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f0f191b4-d68b-493e-8cf3-5f6baed8377f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1613be9c-c2de-4928-91e1-f5b8ccf7d9c9"", ""inverseOntologyProperty"": """"}]"
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Boekbespreking]: The Wrong Magic. H.C. Erik Midelfort, Witch Hunting in South-Western Germany, 1562-1684. The Social and Intellectual Foundations, Stanford: Stanford University Press, London: Oxford University Press 1972, in: Times Literary Supplement, sept. 7, 1973.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_ExternalRelationsExtras,a::rub.38,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54753,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Midelfort, H.C. Erik",,,,,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001396,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3645</priref>
+			<number>AFG_038_002</number>
+			<content>[Boekbespreking]: The Wrong Magic. H.C. Erik Midelfort, Witch Hunting in South-Western Germany, 1562-1684. The Social and Intellectual Foundations, Stanford: Stanford University Press, London: Oxford University Press 1972, in: Times Literary Supplement, sept. 7, 1973.</content>
+			<object.object_number>AFG_038</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Krantenknipsel</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Sermon of St. John the Baptist</object.title>
+			<keyword>Midelfort, H.C. Erik</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-27</input.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2014-09-11</edit.date>
+			<edit.date>2012-09-19</edit.date>
+			<edit.date>2012-08-27</edit.date>
+			<edit.date>2012-08-27</edit.date>
+			<edit.date>2012-08-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>09:42:47</edit.time>
+			<edit.time>09:37:31</edit.time>
+			<edit.time>09:36:18</edit.time>
+			<edit.time>10:29:49</edit.time>
+			<edit.time>11:13:18</edit.time>
+			<edit.time>11:12:48</edit.time>
+			<edit.time>11:11:46</edit.time>
+			<input.time>11:07:58</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1396,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1396/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""17ce3fb8-af32-59b7-99d7-da74fc83dea3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""72749c9f-1287-4c73-ae43-003af8f97632"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_002,repository numbers,,,,,,,,,,,,,,
+fe24a941-2226-5516-95fd-fc08c52604aa,tg:rubgr:1396,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_038_002,titles proper,Dutch (language),,,,,,,,,,,

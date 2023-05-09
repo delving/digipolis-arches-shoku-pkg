@@ -1,0 +1,85 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1326,https://data.rubenianum.be//ark:/86530/2f740096-4fcd-5b8f-8fc5-6aa789509a1b,Foto's,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_083,isad:rub:3013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""87bca348-33c7-4b44-ba4c-2f2375e45043"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f847c079-af66-4351-ba78-e0ebc108fae8"", ""inverseOntologyProperty"": """"}]"
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"Professor Dr. Fritz Ludwig, Berne. Execution by Martin van Cleve? Marlier, p. 193, N° 6 ""Très proche de Martin van Cleve "" (Yes!) Developed from the engraving; [toegevoegde vermelding]: 'FG The Dog typical of M. van Cleve.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/rub/opacrub/,c:lvd:174496,gepubliceerd in /als,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_ExternalRelationsExtras,a::rub.35,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,219317,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ludwig, Fritz",,,,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001326,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3575</priref>
+			<number>AFG_034_041</number>
+			<content>Professor Dr. Fritz Ludwig, Berne. Execution by Martin van Cleve? Marlier, p. 193, N&#176; 6 ""Tr&#232;s proche de Martin van Cleve "" (Yes!) Developed from the engraving; [toegevoegde vermelding]: 'FG The Dog typical of M. van Cleve.'</content>
+			<object.object_number>AFG_034</object.object_number>
+			<object.object_number>AFG_083</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<editorial_form>foto</editorial_form>
+			<object.title>The Wedding Dance in the Open Air</object.title>
+			<object.title>Cleve, Marten van</object.title>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Ludwig, Fritz</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator/>
+			<documentation.author>Folie, Jacqueline</documentation.author>
+			<input.date>2012-08-07</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2013-09-06</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-24</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-08-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pierre Brueghel le Jeune</documentation.title>
+			<edit.time>13:38:36</edit.time>
+			<edit.time>13:38:20</edit.time>
+			<edit.time>13:38:04</edit.time>
+			<edit.time>13:37:12</edit.time>
+			<edit.time>16:30:45</edit.time>
+			<edit.time>11:48:42</edit.time>
+			<edit.time>11:48:20</edit.time>
+			<edit.time>15:33:36</edit.time>
+			<edit.time>15:32:05</edit.time>
+			<edit.time>13:27:10</edit.time>
+			<input.time>13:24:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1326,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1326/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f2b8682-18a8-58ea-a24e-4b86a90a5303"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6e9ec77d-1764-4afa-9a83-2b457c5f87ee"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_041,repository numbers,,,,,,,,,,,
+2f740096-4fcd-5b8f-8fc5-6aa789509a1b,tg:rubgr:1326,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_034_041,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3020,https://data.rubenianum.be//ark:/86530/db9334dc-9263-50a2-9dfd-2f8b7e529d44,Handschriften,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fb318a02-94d9-4f85-99be-373dc256c0d9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""eb6dceec-ffe5-4d4b-9017-22cd5077f95f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c1ea734-541b-4fdd-8438-7e260ca99027"", ""inverseOntologyProperty"": """"}]"
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 61. Witt Library. P.B. II. Roundel. Frau die Eisen tragend.: a) im Sommer, Coll. Janos Biehn. Flemish exh. Budapest 1927; b) im Winter, Dessau, signiert & datiert: P.BREVGHEL.1626, leicht variert im Hintergrund von dem Roundel in Senff Sale, das auch eine Winetrszene gibt.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003020,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5244</priref>
+			<number>AFG_089_020</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>Ad [Addendum] 61. Witt Library. P.B. II. Roundel. Frau die Eisen tragend.: a) im Sommer, Coll. Janos Biehn. Flemish exh. Budapest 1927; b) im Winter, Dessau, signiert &amp; datiert: P.BREVGHEL.1626, leicht variert im Hintergrund von dem Roundel in Senff Sale, das auch eine Winetrszene gibt.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:32:05</edit.time>
+			<input.time>14:47:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3020,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3020/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c79f1c32-3b04-5c2b-a099-6ff4895aa503"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f943f802-869b-49c4-a88e-f14571051b99"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_020,repository numbers,,,,,,,,,,,,,,
+db9334dc-9263-50a2-9dfd-2f8b7e529d44,tg:rubgr:3020,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_020,titles proper,Dutch (language),,,,,,,,,,,

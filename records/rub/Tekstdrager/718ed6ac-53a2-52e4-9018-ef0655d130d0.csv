@@ -1,0 +1,49 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:684,https://data.rubenianum.be//ark:/86530/718ed6ac-53a2-52e4-9018-ef0655d130d0,Handschriften,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4afff903-1579-4a36-ae21-d9df85924c10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11d2fc61-f493-420e-9d6b-15b8eae018ba"", ""inverseOntologyProperty"": """"}]"
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[recto-verso] Hafen von Neapel: Kein Frühwerk: gehört in die 60er Jahre [...][scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_ExternalRelationsExtras,a::rub.20,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54041,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000684,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2935</priref>
+			<number>AFG_016_017</number>
+			<content>[recto-verso] Hafen von Neapel: Kein Fr&#252;hwerk: geh&#246;rt in die 60er Jahre [...][scan]</content>
+			<object.object_number>AFG_016</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>View of Naples</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-20</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2012-02-13</edit.date>
+			<edit.date>2012-02-08</edit.date>
+			<edit.date>2012-01-24</edit.date>
+			<edit.date>2012-01-20</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>14:45:15</edit.time>
+			<edit.time>14:54:46</edit.time>
+			<edit.time>11:17:15</edit.time>
+			<edit.time>08:45:10</edit.time>
+			<edit.time>10:05:06</edit.time>
+			<input.time>10:01:56</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:684,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:684/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7443f46b-fcb4-5362-a80f-603b50533174"", ""ontologyProperty"": """", ""resourceXresourceId"": ""75e0d928-eca0-45e8-8456-e7ff5465a9af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_016_017,repository numbers,,,,,,,,,,,,,,
+718ed6ac-53a2-52e4-9018-ef0655d130d0,tg:rubgr:684,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_016_017,titles proper,Dutch (language),,,,,,,,,,,

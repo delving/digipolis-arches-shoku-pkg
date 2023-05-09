@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3450,https://data.rubenianum.be//ark:/86530/bcd5fb42-81f4-51b7-90d3-79c2b27544a9,Handschriften,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3437,Verwijzing naar Grossmann object,,142e5069-1f4b-57e1-a1ee-9214e57dd5ea,"[{""resourceId"": ""142e5069-1f4b-57e1-a1ee-9214e57dd5ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6d60b7ce-e9cb-4c82-a838-9228582195de"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3447,Verwijzing naar Grossmann object,,835029fe-3a9d-52fc-a824-1ea623022d2b,"[{""resourceId"": ""835029fe-3a9d-52fc-a824-1ea623022d2b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ed360815-44a8-4ca6-93de-3e7d3d5fac31"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b0fbb4a7-226d-4cfc-9593-5b60c1237847"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e2b914d1-5a19-4457-b138-0b0ef5c3fd55"", ""inverseOntologyProperty"": """"}]"
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[4 bladen] Jacques Combe, 'Jérôme Bosch dans l'art de Pierre Bruegel', Les Arts plastiques, II, 1948 (11-12), pp. 435-446.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Combe, Jacques",,,,,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003450,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5703</priref>
+			<number>AFG_094_014</number>
+			<part_of_reference>AFG_094_001</part_of_reference>
+			<part_of_reference>AFG_094_011</part_of_reference>
+			<content>[4 bladen] Jacques Combe, 'J&#233;r&#244;me Bosch dans l'art de Pierre Bruegel', Les Arts plastiques, II, 1948 (11-12), pp. 435-446.</content>
+			<object.object_number>AFG_094</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Some Sources of Bruegel. Album Amicorum v. G.</part_of.title>
+			<part_of.title>Bosch &amp; Bruegel</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Some Sources of Bruegel. Bruegel: Encyclopedia Britannica</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Combe, Jacques</keyword>
+			<object.creator/>
+			<input.date>2014-06-19</input.date>
+			<edit.date>2018-05-30</edit.date>
+			<edit.date>2018-05-30</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:23:30</edit.time>
+			<edit.time>11:21:56</edit.time>
+			<input.time>11:44:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3450,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3450/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""41ce2124-4864-567e-92da-f4788f0c17d7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bdf03ce3-ccc8-43eb-be48-db4454d12912"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_014,repository numbers,,,,,,,,,,,,,,
+bcd5fb42-81f4-51b7-90d3-79c2b27544a9,tg:rubgr:3450,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_094_014,titles proper,Dutch (language),,,,,,,,,,,

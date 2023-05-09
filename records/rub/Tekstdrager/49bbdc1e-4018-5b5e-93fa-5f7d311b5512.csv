@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4376,https://data.rubenianum.be//ark:/86530/49bbdc1e-4018-5b5e-93fa-5f7d311b5512,Handschriften,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_042,isad:rub:2972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df8b0336-4f92-4a35-9df6-e8c8f0580d43"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4bdbda19-8f3b-42c9-83ef-90500b228200"", ""inverseOntologyProperty"": """"}]"
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: Cripples. See Sudeck, Bettlerdarstellungen [vom Ende des XV. Jahrhunderts bis zu Rembrandt, Strassburg],1931, pp. 28ff.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_ExternalRelationsExtras,a::rub.42,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,257769,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sudeck, Elisabeth",,,,,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004376,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6629</priref>
+			<number>AFG_111_171</number>
+			<content>Bruegel: Cripples. See Sudeck, Bettlerdarstellungen [vom Ende des XV. Jahrhunderts bis zu Rembrandt, Strassburg],1931, pp. 28ff.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_042</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>The Cripples</object.title>
+			<keyword>Sudeck, Elisabeth</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-10</input.date>
+			<edit.date>2014-07-10</edit.date>
+			<edit.date>2014-07-10</edit.date>
+			<edit.date>2014-07-10</edit.date>
+			<edit.date>2014-07-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:43:16</edit.time>
+			<edit.time>09:39:56</edit.time>
+			<edit.time>09:38:54</edit.time>
+			<edit.time>09:32:16</edit.time>
+			<input.time>09:31:49</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4376,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4376/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""815a1275-754d-506b-9d65-a47a5824e770"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a820dfa7-b00e-45db-96ea-0ac03055da13"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_171,repository numbers,,,,,,,,,,,,,,
+49bbdc1e-4018-5b5e-93fa-5f7d311b5512,tg:rubgr:4376,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_171,titles proper,Dutch (language),,,,,,,,,,,

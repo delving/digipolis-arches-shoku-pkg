@@ -1,0 +1,61 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1628,https://data.rubenianum.be//ark:/86530/5610a294-01c8-51a7-a6bb-634b376766bb,Handschriften,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1627,Verwijzing naar Grossmann object,,5638b898-fd82-5761-a8d0-a9a1acfbfa03,"[{""resourceId"": ""5638b898-fd82-5761-a8d0-a9a1acfbfa03"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5950780d-a2f8-4905-8146-ad6305399699"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4cf41630-fa87-4593-a0ca-d0daabef5fc9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""41d24552-4d5e-4386-b98f-cfe1cb6b58f8"", ""inverseOntologyProperty"": """"}]"
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen] [blad 1] Bird Nester. Hanns BÄCHTOLD-STÄUBLI, Handwörterbuch des deutschen Aberglaubens, VII, Berlin, Leipzig [De Gruyter], 1935/36, citaten col. 1580-1581, Seerose; [blad 2] citaat col. 1581.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_ExternalRelationsExtras,a::rub.44,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261057,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001628,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3879</priref>
+			<number>AFG_044_029</number>
+			<part_of_reference>AFG_044_028</part_of_reference>
+			<content>[2 bladen] [blad 1] Bird Nester. Hanns B&#196;CHTOLD-ST&#196;UBLI, Handw&#246;rterbuch des deutschen Aberglaubens, VII, Berlin, Leipzig [De Gruyter], 1935/36, citaten col. 1580-1581, Seerose; [blad 2] citaat col. 1581.</content>
+			<object.object_number>AFG_044</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>[Briefhoofd Ludwig Goldscheider] [recto-verso] Seerose [citaat] Jacob Grimm, Deutsche Mythologie, 3. Angabe, G&#246;ttingen 1854, p. 620 (Bd. II).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Peasant and the Bird Nester</object.title>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-12-21</input.date>
+			<edit.date>2018-05-24</edit.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2014-09-19</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<edit.date>2012-12-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:13:16</edit.time>
+			<edit.time>15:59:10</edit.time>
+			<edit.time>15:58:08</edit.time>
+			<edit.time>14:53:39</edit.time>
+			<edit.time>14:52:40</edit.time>
+			<edit.time>14:48:46</edit.time>
+			<edit.time>14:48:20</edit.time>
+			<input.time>14:48:08</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1628,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1628/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cb5625b3-94b8-571f-b24e-e64015121172"", ""ontologyProperty"": """", ""resourceXresourceId"": ""05b742c9-71ff-492e-9a51-450027605df3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_029,repository numbers,,,,,,,,,,,,,,
+5610a294-01c8-51a7-a6bb-634b376766bb,tg:rubgr:1628,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_044_029,titles proper,Dutch (language),,,,,,,,,,,

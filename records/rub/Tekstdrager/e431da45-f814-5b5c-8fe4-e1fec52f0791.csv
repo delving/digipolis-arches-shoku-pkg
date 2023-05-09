@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3558,https://data.rubenianum.be//ark:/86530/e431da45-f814-5b5c-8fe4-e1fec52f0791,Handschriften,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d39a187e-d934-418c-a0f4-dcc25ec49047"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1525aae6-44c4-45c2-abd4-8457f54a5e36"", ""inverseOntologyProperty"": """"}]"
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Naer het Leven: costumes partly agree with those in Bruegel drawing e.g. Rabbi in Temperantia and Münz, N° 109 (pl. 106) and 110 (pl. 107)[...] Icarus [...] Adultery; Carnival [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Münz, Ludwig",,,,,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003558,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5811</priref>
+			<number>AFG_097_004</number>
+			<content>Naer het Leven: costumes partly agree with those in Bruegel drawing e.g. Rabbi in Temperantia and M&#252;nz, N&#176; 109 (pl. 106) and 110 (pl. 107)[...] Icarus [...] Adultery; Carnival [...]</content>
+			<object.object_number>AFG_097</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Naer het Leven: Handwriting; Watermarks; Separation of hand; Photographs of Savery drawings (Albertina &amp; Courtauld Galleries)</object.title>
+			<keyword>M&#252;nz, Ludwig</keyword>
+			<object.creator/>
+			<input.date>2014-06-20</input.date>
+			<edit.date>2018-05-31</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>11:01:48</edit.time>
+			<input.time>13:45:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3558,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3558/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""76187213-7077-5968-af0c-494b0c775b20"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ec333e01-a1ba-4dc5-841c-559ff6066004"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_004,repository numbers,,,,,,,,,,,,,,
+e431da45-f814-5b5c-8fe4-e1fec52f0791,tg:rubgr:3558,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_097_004,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4851,https://data.rubenianum.be//ark:/86530/a0916479-42f1-517f-b489-5dcf21218e65,Handschriften,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4830,Verwijzing naar Grossmann object,,05c866c6-a5eb-5840-a222-7b41465a79f7,"[{""resourceId"": ""05c866c6-a5eb-5840-a222-7b41465a79f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7bcdd17a-d4fd-448a-9124-2939d685173f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a685e53f-6efd-40a1-b3bc-94632ccb6a28"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e9706ce8-c0a0-4f51-8868-def954525eda"", ""inverseOntologyProperty"": """"}]"
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Christie's Forthcoming Sales, October 1958, A Wooded Landscape (recto) by Jan Brueghel the Elder, pen and water-colour 6 by 75/8, Sale 14th October.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004851,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7104</priref>
+			<number>AFG_134_035</number>
+			<part_of_reference>AFG_134_014</part_of_reference>
+			<content>Christie's Forthcoming Sales, October 1958, A Wooded Landscape (recto) by Jan Brueghel the Elder, pen and water-colour 6 by 75/8, Sale 14th October.</content>
+			<object.object_number>AFG_134</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Main books on Bruegel + Catalogues: Hymans; Friedl&#228;nder, Van Eyck bis Bruegel 1921, Bruegel 1921, Bruegel 1937; Conway; Michel; Benesch, Northern Renaissance.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>prospectus</editorial_form>
+			<object.title>Bruegel: Literature</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>tekenkunst</keyword>
+			<object.creator/>
+			<input.date>2014-07-31</input.date>
+			<edit.date>2018-06-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>10:56:23</edit.time>
+			<input.time>10:23:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4851,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4851/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ee8e4708-8328-5166-a7bb-a03073655508"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ed1123d2-926a-421f-9cdf-ccc27b0630a3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,rub,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_035,repository numbers,,,,,,,,,,,,,,
+a0916479-42f1-517f-b489-5dcf21218e65,tg:rubgr:4851,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_134_035,titles proper,Dutch (language),,,,,,,,,,,

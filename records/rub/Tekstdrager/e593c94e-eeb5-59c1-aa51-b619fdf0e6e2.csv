@@ -1,0 +1,70 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1061,https://data.rubenianum.be//ark:/86530/e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,Handschriften,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:1055,Verwijzing naar Grossmann object,,11fb9cd5-abd7-5dcc-9727-e860e6b4433c,"[{""resourceId"": ""11fb9cd5-abd7-5dcc-9727-e860e6b4433c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""60d8b5d5-cf14-490f-9733-e15e09c7ebf9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""837bae25-a858-4c67-90a0-3994fe05af2b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5debcf8b-6341-49eb-939d-2c5031c44638"", ""inverseOntologyProperty"": """"}]"
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Months & Martin van Cleve. Koninklijk Museum voor Schone Kunsten [Antwerpen], Jaarboek 1964, pp. 89-104 Giorgio T. Faggin, Gillis Mostaert als Landschapsschilder, p. 96: Jagers in de Sneeuw van 1565 (Wenen), dat een dubbel maand is (16)... [sic] citaat voetnoot16.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:6666327,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cleve, Marten van (I)",,,,,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faggin, Giorgio T.",,,,,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001061,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3315</priref>
+			<number>AFG_023_009</number>
+			<part_of_reference>AFG_023_003</part_of_reference>
+			<content>Months &amp; Martin van Cleve. Koninklijk Museum voor Schone Kunsten [Antwerpen], Jaarboek 1964, pp. 89-104 Giorgio T. Faggin, Gillis Mostaert als Landschapsschilder, p. 96: Jagers in de Sneeuw van 1565 (Wenen), dat een dubbel maand is (16)... [sic] citaat voetnoot16.</content>
+			<object.object_number>AFG_023</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>AFG_023_003 t/m 011.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>The Series of the Months</object.title>
+			<keyword>Cleve, Marten van (I)</keyword>
+			<keyword>Mostaert, Gillis (I)</keyword>
+			<keyword>Faggin, Giorgio T.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author/>
+			<input.date>2012-04-23</input.date>
+			<edit.date>2018-05-23</edit.date>
+			<edit.date>2012-12-11</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-06-25</edit.date>
+			<edit.date>2012-05-02</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<edit.date>2012-04-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark>1 S 1 / JAA 5</documentation.shelfmark>
+			<documentation.title>Jaarboek Koninklijk Museum voor Schone Kunsten Antwerpen</documentation.title>
+			<edit.time>17:03:52</edit.time>
+			<edit.time>11:37:57</edit.time>
+			<edit.time>16:21:27</edit.time>
+			<edit.time>16:21:13</edit.time>
+			<edit.time>13:59:47</edit.time>
+			<edit.time>16:08:44</edit.time>
+			<edit.time>16:08:33</edit.time>
+			<input.time>16:05:07</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1061,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1061/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""134078b7-bea9-570d-ae89-5ef8d2f06df9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21ed0059-cf4f-4bb0-9033-0199dce39d82"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_OriginalBrocade,,,au::13200,,,,,,,,,,,,,,rub,9c5baa02-0c78-5afe-9c2b-969ef35e27eb,kw,,au::13200:1,au::13200g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1412400"",""au::13200"",""au::13200:1"",""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""Gillis I Mostaert""],""name"":""Gillis I Mostaert"",""ark"":""ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb"",""uri"":""/agents/people/1412400"",""id"":""au::13200:1"",""isCapacity"":false}",ark:/83110/x0/9c5baa02-0c78-5afe-9c2b-969ef35e27eb,agent,,,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_009,repository numbers,,,,,,,,,,,,,,
+e593c94e-eeb5-59c1-aa51-b619fdf0e6e2,tg:rubgr:1061,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_009,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3911,https://data.rubenianum.be//ark:/86530/47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,Handschriften,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b3f190be-a781-46c7-a1e2-41462029165a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""923a28fe-a270-43ee-b4fc-7c689c3adae4"", ""inverseOntologyProperty"": """"}]"
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel & Weiditz. Wilhelm Fraenger, Altdeutsche Bilderbuch: Hans Weiditz und Sebastian Brant, Leipzig [Stubenrauch] 1930, citaat p. 59",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Weiditz, Hans (II)",,,,,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brandt, Sebastian",,,,,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fraenger, Wilhelm",,,,,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003911,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6164</priref>
+			<number>AFG_102_026</number>
+			<content>Bruegel &amp; Weiditz. Wilhelm Fraenger, Altdeutsche Bilderbuch: Hans Weiditz und Sebastian Brant, Leipzig [Stubenrauch] 1930, citaat p. 59</content>
+			<object.object_number>AFG_102</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Varia: Grossmann 242</object.title>
+			<keyword>Weiditz, Hans (II)</keyword>
+			<keyword>Brandt, Sebastian</keyword>
+			<keyword>Fraenger, Wilhelm</keyword>
+			<object.creator/>
+			<input.date>2014-06-26</input.date>
+			<edit.date>2014-06-26</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:54:49</edit.time>
+			<input.time>14:26:55</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3911,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3911/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c04f8b13-ba8b-5c14-bfda-93446b24fbe3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fefa4413-1261-4808-8a06-3a9c9cb2f69f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_026,repository numbers,,,,,,,,,,,,,,
+47747d11-ca54-5b2e-9c10-9ffefcd2cdbb,tg:rubgr:3911,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_102_026,titles proper,Dutch (language),,,,,,,,,,,

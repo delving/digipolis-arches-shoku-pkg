@@ -1,0 +1,87 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1040,https://data.rubenianum.be//ark:/86530/a1b43949-9f95-5172-9293-6487effdbd75,Handschriften,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8ed818fc-fb06-47b9-bcad-1e9629e28b10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9454ae72-a016-4a36-9d08-c8662eba587b"", ""inverseOntologyProperty"": """"}]"
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Months. André Louis, La petite sculpture à l' hôtel de ville de Bruges corbeaux  (= corbels) de pierre de la salle échevinalle, Revue belge d’archéologie et d’histoire de l’art, XIII, 1943, pp. 239-252. Corbels with Labours of the months, and seasons (late XIVth Cent.). Detailed study of iconography giving the Dutch names of the months etc., see also J. [Janine] BOUISSOUNOUSE, Jeux et travaux d'après un livre d'heures du XVe siècle, [(Documents artistiques du XVè siècle; 3)], Paris [Droz], 1925.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beeldhouwkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,handschriften,,,,,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bouissounouse, Janine",,,,,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001040,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3294</priref>
+			<number>AFG_022_073</number>
+			<content>Months. Andr&#233; Louis, La petite sculpture &#224; l' h&#244;tel de ville de Bruges corbeaux  (= corbels) de pierre de la salle &#233;chevinalle, Revue belge d&#8217;arch&#233;ologie et d&#8217;histoire de l&#8217;art, XIII, 1943, pp. 239-252. Corbels with Labours of the months, and seasons (late XIVth Cent.). Detailed study of iconography giving the Dutch names of the months etc., see also J. [Janine] BOUISSOUNOUSE, Jeux et travaux d'apr&#232;s un livre d'heures du XVe si&#232;cle, [(Documents artistiques du XV&#232; si&#232;cle; 3)], Paris [Droz], 1925.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>beeldhouwkunst</keyword>
+			<keyword>handschriften</keyword>
+			<keyword>Bouissounouse, Janine</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-04-02</input.date>
+			<edit.date>2015-03-12</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-06-29</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-17</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<edit.date>2012-04-02</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:55:33</edit.time>
+			<edit.time>15:36:00</edit.time>
+			<edit.time>15:33:48</edit.time>
+			<edit.time>11:36:35</edit.time>
+			<edit.time>11:34:36</edit.time>
+			<edit.time>15:10:54</edit.time>
+			<edit.time>14:14:03</edit.time>
+			<edit.time>14:05:35</edit.time>
+			<edit.time>14:04:57</edit.time>
+			<edit.time>13:54:57</edit.time>
+			<edit.time>15:49:15</edit.time>
+			<edit.time>10:01:50</edit.time>
+			<edit.time>09:57:50</edit.time>
+			<input.time>09:56:48</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1040,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1040/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f0fb23f-bcaa-5bb4-ab18-d5a0d926dfad"", ""ontologyProperty"": """", ""resourceXresourceId"": ""359d07f3-267b-462c-a546-bd2a1f668183"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_073,repository numbers,,,,,,,,,,,,,,
+a1b43949-9f95-5172-9293-6487effdbd75,tg:rubgr:1040,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_073,titles proper,Dutch (language),,,,,,,,,,,

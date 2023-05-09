@@ -1,0 +1,48 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2352,https://data.rubenianum.be//ark:/86530/f4a0af18-9321-5a0a-a001-cab9f9dbd3de,Brieven,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a567803-932f-4c76-8ff5-60031fc6db0b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c92c2ac3-8491-4ba3-bc09-9000c051bd1b"", ""inverseOntologyProperty"": """"}]"
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jan Brueghel d.Ä, Flower Vase and Insects, National Museum Stockholm, N.M. 1099.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Stockholm, Nationalmuseum",,,,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002352,referentienummer,False,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4595</priref>
+			<number>AFG_077_036</number>
+			<content>Jan Brueghel d.&#196;, Flower Vase and Insects, National Museum Stockholm, N.M. 1099.</content>
+			<object.object_number>AFG_077</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Prentbriefkaart</editorial_form>
+			<object.title>Grossmann 242</object.title>
+			<keyword>Brueghel, Jan I</keyword>
+			<keyword>Stockholm, Nationalmuseum</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-06-05</input.date>
+			<edit.date>2014-11-28</edit.date>
+			<edit.date>2013-06-21</edit.date>
+			<edit.date>2013-06-21</edit.date>
+			<edit.date>2013-06-07</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:42:01</edit.time>
+			<edit.time>11:32:18</edit.time>
+			<edit.time>11:32:04</edit.time>
+			<edit.time>10:21:35</edit.time>
+			<input.time>15:12:45</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2352,brocade id,False,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2352/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bee62bbd-5704-57a0-8b6d-fa0111c6363a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7c189403-3625-40b5-a572-99c26ab85bf7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_OriginalBrocade,,,au::3025,,,,,,,,,,,,,,,,rub,,59eb3f16-3ccd-5155-9cba-c85b515f01ef,kw,au::3025:1,au::3025g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323675"",""au::3025"",""au::3025:1"",""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""Jan I Brueghel""],""name"":""Jan I Brueghel"",""ark"":""ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef"",""uri"":""/agents/people/323675"",""id"":""au::3025:1"",""isCapacity"":false}",ark:/83110/x0/59eb3f16-3ccd-5155-9cba-c85b515f01ef,agent,,,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_036,repository numbers,,,,,,,,,,,
+f4a0af18-9321-5a0a-a001-cab9f9dbd3de,tg:rubgr:2352,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_077_036,titles proper,Dutch (language),,,,,,,,
