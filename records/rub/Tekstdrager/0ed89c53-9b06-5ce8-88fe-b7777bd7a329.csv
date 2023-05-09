@@ -1,0 +1,69 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4134,https://data.rubenianum.be//ark:/86530/0ed89c53-9b06-5ce8-88fe-b7777bd7a329,Handschriften,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_016,isad:rub:2946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""509a46a4-865a-4860-a2ae-57fbff82f404"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6e4d4656-1d0b-43b2-b12a-f0db8b18c5ad"", ""inverseOntologyProperty"": """"}]"
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruegel: View of Naples Harbour, cf. drawing by Lieven Cruyl 1672, in Florenz, Poggio Imperiale, pp. 79-80, Fig. 13; Karla Langedijk, [Eine unbekannte Zeichnungsfolge von Lieven Cruyl in Florenz], 	Mitteilungen des Kunsthistorischen Institutes in Florenz X (1961), Heft II, pp. 67-94; Johan Blaeu, Grote Atlas 1662/65",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_ExternalRelationsExtras,a::rub.20,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54041,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Blaeu, Joan",,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cruyl, Lievin",,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Langedijk, Karla",,,,,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004134,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6387</priref>
+			<number>AFG_109_014</number>
+			<content>Bruegel: View of Naples Harbour, cf. drawing by Lieven Cruyl 1672, in Florenz, Poggio Imperiale, pp. 79-80, Fig. 13; Karla Langedijk, [Eine unbekannte Zeichnungsfolge von Lieven Cruyl in Florenz], 	Mitteilungen des Kunsthistorischen Institutes in Florenz X (1961), Heft II, pp. 67-94; Johan Blaeu, Grote Atlas 1662/65</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_number>AFG_016</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<object.title>View of Naples</object.title>
+			<keyword>Blaeu, Joan</keyword>
+			<keyword>Cruyl, Lievin</keyword>
+			<keyword>Langedijk, Karla</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-02</input.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<edit.date>2014-07-02</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:48:11</edit.time>
+			<edit.time>16:46:33</edit.time>
+			<edit.time>16:45:12</edit.time>
+			<edit.time>16:44:35</edit.time>
+			<edit.time>16:42:17</edit.time>
+			<edit.time>16:40:33</edit.time>
+			<edit.time>16:38:19</edit.time>
+			<input.time>16:37:02</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4134,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4134/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5d24cd9d-7cbf-5fcd-8d2d-07fd537f555c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cc4b345d-c61c-4ccf-a5e1-cbd39f9e2252"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_014,repository numbers,,,,,,,,,,,,,,
+0ed89c53-9b06-5ce8-88fe-b7777bd7a329,tg:rubgr:4134,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_014,titles proper,Dutch (language),,,,,,,,,,,

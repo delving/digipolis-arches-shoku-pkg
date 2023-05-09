@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2930,https://data.rubenianum.be//ark:/86530/322e7c12-d593-592c-859a-e1a64bf556da,Handschriften,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2914,Verwijzing naar Grossmann object,,b70cbb85-5e5c-581b-902f-dfd90aa6b51b,"[{""resourceId"": ""b70cbb85-5e5c-581b-902f-dfd90aa6b51b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c66aa6e2-ca9d-47d9-9f9e-2e2e029011c2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""beafadde-424d-4cc7-96e3-da1aa8c5f4b9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9131f6b8-604a-49f9-8bf9-b63c65f464ca"", ""inverseOntologyProperty"": """"}]"
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19580429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958-04-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Bibliotheekformulier V& A Museum Library op naam van A. Seilern] Les Arts, 125 (July 1947)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seilern, Antoine",,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Victoria and Albert National Art Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002930,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5172</priref>
+			<number>AFG_086_188</number>
+			<part_of_reference>AFG_086_172</part_of_reference>
+			<date.precise>1958-04-29</date.precise>
+			<content>[Bibliotheekformulier V&amp; A Museum Library op naam van A. Seilern] Les Arts, 125 (July 1947)</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel. Biography: Details about Italian Journey, Birth, Death dates, Place of birth, Clovio, Ortelius, Theatrum Orbis, Bruegel's ship drawings used.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Seilern, Antoine</keyword>
+			<keyword>Londen, Victoria and Albert National Art Library</keyword>
+			<object.creator/>
+			<input.date>2014-04-11</input.date>
+			<edit.date>2014-04-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:05:56</edit.time>
+			<input.time>14:56:47</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2930,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2930/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b282bda2-e9e5-5bc6-a2bf-17ded5ce488f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c8cd1e2b-2eca-420a-8101-304ca94df649"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_188,repository numbers,,,,,,,,,,,,,,
+322e7c12-d593-592c-859a-e1a64bf556da,tg:rubgr:2930,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_188,titles proper,Dutch (language),,,,,,,,,,,

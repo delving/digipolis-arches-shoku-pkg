@@ -1,0 +1,79 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5348,https://data.rubenianum.be//ark:/86530/3c736b76-39de-57f7-bad9-14a79a517ba5,Handschriften,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_039,isad:rub:2969,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_AssociatedArchives,3,kenmerken.rubobjnrgr,,,,,AFG_040,isad:rub:2970,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c335fd57-7764-48ae-8ef8-af8b8ffa399c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4eee3d1d-a2ea-46bf-8db6-66e8ccbb171a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0264b006-1613-4717-a57d-a9c6814a6c1c"", ""inverseOntologyProperty"": """"}]"
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Brugge, Groeninge Museum. Chefs-d'œuvre de Prague 1450-1750: trois siècles de peinture flamande et hollandaise, Brugge : Schoonbaert, 1974, Contains P. Bruegel II Winter landscape with Bird Trap, Marlier, P.B.II, p. 242 The Delporte original now in Brussels Royal Museum (bequest); Adoration of the Magi, after Winterthur, repr. Marlier, signed P. BRVEGHEL.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:174492,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_ExternalRelationsExtras,a::rub.39,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,56605,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_ExternalRelationsExtras,a::rub.40,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260965,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Delporte, Franz",,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Síp, Jaromír",,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Warburg institute",,,,,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005348,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7605</priref>
+			<number>AFG_145_078</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<content>Brugge, Groeninge Museum. Chefs-d'&#339;uvre de Prague 1450-1750: trois si&#232;cles de peinture flamande et hollandaise, Brugge : Schoonbaert, 1974, Contains P. Bruegel II Winter landscape with Bird Trap, Marlier, P.B.II, p. 242 The Delporte original now in Brussels Royal Museum (bequest); Adoration of the Magi, after Winterthur, repr. Marlier, signed P. BRVEGHEL.</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_number>AFG_039</object.object_number>
+			<object.object_number>AFG_040</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<object.title>Winter Landscape with Skaters and Bird Trap</object.title>
+			<object.title>The Adoration of the Kings in the Snow</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Delporte, Franz</keyword>
+			<keyword>Marlier, Georges</keyword>
+			<keyword>S&#237;p, Jarom&#237;r</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<keyword>Londen, Warburg institute</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Dezutter, Willy</documentation.author>
+			<input.date>2014-08-21</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark>PdS</documentation.shelfmark>
+			<documentation.title>Meesterwerken uit Praag 1450-1750 : drie eeuwen Vlaamse en Hollandse schilderkunst</documentation.title>
+			<edit.time>10:05:01</edit.time>
+			<edit.time>10:04:28</edit.time>
+			<edit.time>10:01:18</edit.time>
+			<edit.time>09:59:17</edit.time>
+			<input.time>09:58:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5348,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5348/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e1de53fa-4353-5f06-9161-32f341137611"", ""ontologyProperty"": """", ""resourceXresourceId"": ""57bca922-db8b-428b-b568-4222b211953e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,,au::3028:1,au::3028g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,rub,ca79196f-9430-56d2-86ca-543e10adef0a,kw,,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_OriginalBrocade,,,au::12271,,,,,,,,,,,,,,rub,6f5aef52-f1ad-5f58-a70d-2bd0c425eb74,kw,,au::12271:1,au::12271g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1312997"",""au::12271"",""au::12271:1"",""ark:/83110/x0/6f5aef52-f1ad-5f58-a70d-2bd0c425eb74"",""Georges Marlier""],""name"":""Georges Marlier"",""ark"":""ark:/83110/x0/6f5aef52-f1ad-5f58-a70d-2bd0c425eb74"",""uri"":""/agents/people/1312997"",""id"":""au::12271:1"",""isCapacity"":false}",ark:/83110/x0/6f5aef52-f1ad-5f58-a70d-2bd0c425eb74,agent,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_078,repository numbers,,,,,,,,,,,,,,
+3c736b76-39de-57f7-bad9-14a79a517ba5,tg:rubgr:5348,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_078,titles proper,Dutch (language),,,,,,,,,,,

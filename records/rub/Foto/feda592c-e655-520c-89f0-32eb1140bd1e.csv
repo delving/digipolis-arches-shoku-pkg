@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2669,https://data.rubenianum.be//ark:/86530/feda592c-e655-520c-89f0-32eb1140bd1e,Foto's,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:2668,Verwijzing naar Grossmann object,,7b747166-e6dc-54ae-8bb5-3d846ae8688e,"[{""resourceId"": ""7b747166-e6dc-54ae-8bb5-3d846ae8688e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""71afe1e4-bc6d-4db1-8dd2-a541e5a51e76"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a599d796-2b93-43f9-be33-e369f012a001"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d2422e2d-1c8f-41e2-876f-815fcbaa40ce"", ""inverseOntologyProperty"": """"}]"
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w foto. The Art Institute of Chicago, 22.1926: School of Jan Brueghel, Landscape, pen with brown ink, Late 16th., 345 x 245 mm, The Leonora Gurley Memorial Collection.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002669,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4911</priref>
+			<number>AFG_084_083</number>
+			<part_of_reference>AFG_084_082</part_of_reference>
+			<content>1 zw/w foto. The Art Institute of Chicago, 22.1926: School of Jan Brueghel, Landscape, pen with brown ink, Late 16th., 345 x 245 mm, The Leonora Gurley Memorial Collection.</content>
+			<object.object_number>AFG_084</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>1 zw/w foto: The Art Institute of Chicago, 22.3705: Hans Bol, Landscape with Abraham and angels, pen + ink, 1567, 207 x 296, The Leonora Hall Gurley Memorial Collection</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Drawings</object.title>
+			<keyword>Chicago, Art Institute of Chicago</keyword>
+			<object.creator/>
+			<input.date>2014-02-13</input.date>
+			<edit.date>2014-02-13</edit.date>
+			<edit.date>2014-02-13</edit.date>
+			<edit.date>2014-02-13</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:27:48</edit.time>
+			<edit.time>11:23:51</edit.time>
+			<edit.time>11:22:07</edit.time>
+			<input.time>11:21:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2669,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2669/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0c5fa5db-e5b5-5ee9-ad24-3e2425a783d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c4007741-854e-4cad-974e-c12fef034b93"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_OriginalBrocade,,,au::33443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae,kw,keywords,au::33443:1,au::33443g:1,,"dlod={""suggest"":[""/agents/corporate_entities/3578401"",""au::33443"",""au::33443:1"",""ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae"",""The Art Institute of Chicago (USA)""],""name"":""The Art Institute of Chicago (USA)"",""ark"":""ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae"",""uri"":""/agents/corporate_entities/3578401"",""id"":""au::33443:1"",""isCapacity"":false}",ark:/83110/x0/f3c8cf8b-1bda-5b5d-8a8e-eccd7a2877ae,agent,,,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_083,repository numbers,,,,,,,,,,,
+feda592c-e655-520c-89f0-32eb1140bd1e,tg:rubgr:2669,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_084_083,titles proper,Dutch (language),,,,,,,,

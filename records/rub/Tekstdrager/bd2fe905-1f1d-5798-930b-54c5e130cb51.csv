@@ -1,0 +1,83 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1349,https://data.rubenianum.be//ark:/86530/bd2fe905-1f1d-5798-930b-54c5e130cb51,Handschriften,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1cf639d1-ab4b-4fc5-8e10-458ba1fbf79e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4c39288-ed56-45a1-a983-0c7c1d616359"", ""inverseOntologyProperty"": """"}]"
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 38. Peasant Dance. Witt Library : 1) Vienna, 2 colour repr. [...], Detail, Apollo Sept. 1926; 2) Copy Juell Sale, Parke-Bernet, N.Y. 19-II-1948, [= Old Masters, XIX Century and Modern Paintings ... Property of S. Dedekam Juell ... and of Other Owners, Public Auction Sale, February 1948, New York: Sotheby Parke-Bernet Galleries, 1948], N° 59, cradled panel 23 1/2 x 33 1/2 inches.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_ExternalRelationsExtras,a::rub.36,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261053,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sotheby Parke Bernet, New York",,,,,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dedekam Juell, S.",,,,,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001349,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3596</priref>
+			<number>AFG_036_002</number>
+			<content>Ad [Addendum] 38. Peasant Dance. Witt Library : 1) Vienna, 2 colour repr. [...], Detail, Apollo Sept. 1926; 2) Copy Juell Sale, Parke-Bernet, N.Y. 19-II-1948, [= Old Masters, XIX Century and Modern Paintings ... Property of S. Dedekam Juell ... and of Other Owners, Public Auction Sale, February 1948, New York: Sotheby Parke-Bernet Galleries, 1948], N&#176; 59, cradled panel 23 1/2 x 33 1/2 inches.</content>
+			<object.object_number>AFG_036</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Peasant's Dance</object.title>
+			<keyword>Londen, Witt Library</keyword>
+			<keyword>Sotheby Parke Bernet, New York</keyword>
+			<keyword>Dedekam Juell, S.</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-08-21</input.date>
+			<edit.date>2013-02-11</edit.date>
+			<edit.date>2012-10-08</edit.date>
+			<edit.date>2012-10-08</edit.date>
+			<edit.date>2012-10-08</edit.date>
+			<edit.date>2012-10-08</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-17</edit.date>
+			<edit.date>2012-08-21</edit.date>
+			<edit.date>2012-08-21</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:14:19</edit.time>
+			<edit.time>11:26:38</edit.time>
+			<edit.time>11:25:54</edit.time>
+			<edit.time>11:20:13</edit.time>
+			<edit.time>11:18:59</edit.time>
+			<edit.time>12:18:51</edit.time>
+			<edit.time>12:07:55</edit.time>
+			<edit.time>12:06:45</edit.time>
+			<edit.time>11:57:00</edit.time>
+			<edit.time>11:26:59</edit.time>
+			<edit.time>10:15:22</edit.time>
+			<edit.time>10:15:15</edit.time>
+			<input.time>10:06:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1349,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1349/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4d3155d4-7309-5c59-8a21-530ec3161728"", ""ontologyProperty"": """", ""resourceXresourceId"": ""296e0ce2-fe84-453e-8b98-c46912cb8361"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_036_002,repository numbers,,,,,,,,,,,,,,
+bd2fe905-1f1d-5798-930b-54c5e130cb51,tg:rubgr:1349,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_036_002,titles proper,Dutch (language),,,,,,,,,,,

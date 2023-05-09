@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3054,https://data.rubenianum.be//ark:/86530/a8643329-38e3-5e3d-87c1-10a6ddd2deef,Handschriften,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3051,Verwijzing naar Grossmann object,,8de3f95f-8fba-5084-9376-f1cc150d0905,"[{""resourceId"": ""8de3f95f-8fba-5084-9376-f1cc150d0905"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cabb520d-a78b-49ce-985e-50afb3cdcf92"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5438e9b7-d8fa-4cf0-9a16-18048996ba60"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3b7364ae-3578-45e0-994b-5bc419f0e962"", ""inverseOntologyProperty"": """"}]"
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 64. Denucé, Forchoudt, citaat p. 159, 1702, 4 Augustus, Weenen [...], N° 4 n°4 1 Kinderdoodinge van den helsen Breugel; n° 5: 1 Boerebruyloft van detto helsen Breugel samen Rijsd. 2333-30; [Notitie FG]: See also Forchoudt for Census at Bethlehem.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003054,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5284</priref>
+			<number>AFG_089_054</number>
+			<part_of_reference>AFG_089_051</part_of_reference>
+			<content>Ad [Addendum] 64. Denuc&#233;, Forchoudt, citaat p. 159, 1702, 4 Augustus, Weenen [...], N&#176; 4 n&#176;4 1 Kinderdoodinge van den helsen Breugel; n&#176; 5: 1 Boerebruyloft van detto helsen Breugel samen Rijsd. 2333-30; [Notitie FG]: See also Forchoudt for Census at Bethlehem.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>26. Kindermord. Neu 34. King's Picture. My N&#176; 64.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-06-05</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-05</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:40:14</edit.time>
+			<edit.time>12:08:04</edit.time>
+			<input.time>12:04:41</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3054,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3054/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d5a0944e-e041-5a72-9672-f15280fe75a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d89d55da-c533-469a-a57d-0dd15cac0367"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_054,repository numbers,,,,,,,,,,,,,,
+a8643329-38e3-5e3d-87c1-10a6ddd2deef,tg:rubgr:3054,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_054,titles proper,Dutch (language),,,,,,,,,,,

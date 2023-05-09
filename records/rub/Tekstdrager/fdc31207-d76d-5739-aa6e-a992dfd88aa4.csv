@@ -1,0 +1,43 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3028,https://data.rubenianum.be//ark:/86530/fdc31207-d76d-5739-aa6e-a992dfd88aa4,Handschriften,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3011,Verwijzing naar Grossmann object,,fa32d246-0c63-5156-88e0-5cee8c505363,"[{""resourceId"": ""fa32d246-0c63-5156-88e0-5cee8c505363"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f7987acb-b0bc-4fbd-8671-370f2911f7ad"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f571a0f1-aa34-4768-ab94-efaf541a194e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2ca952cd-d4fd-4cd4-aee9-e1c2a738f391"", ""inverseOntologyProperty"": """"}]"
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Addendum] 61. Witt Library. Proverbs not B., but using some of his and mostly different look up Lebeer and compare important iconography. In the left appears the execution from the Kress St Catherine (reversed)? Musée Frans Claes Sale, Gruter, Antwerp, 11-15 Dec. 1933, N° 2576: 49 proverbes flamands représentés dans un paysage, d'après Bruegel le Vieux, Bois, 51 x 66 cm, pl. 43, Mémorial, p. 268.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003028,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5252</priref>
+			<number>AFG_089_028</number>
+			<part_of_reference>AFG_089_011</part_of_reference>
+			<content>[Addendum] 61. Witt Library. Proverbs not B., but using some of his and mostly different look up Lebeer and compare important iconography. In the left appears the execution from the Kress St Catherine (reversed)? Mus&#233;e Frans Claes Sale, Gruter, Antwerp, 11-15 Dec. 1933, N&#176; 2576: 49 proverbes flamands repr&#233;sent&#233;s dans un paysage, d'apr&#232;s Bruegel le Vieux, Bois, 51 x 66 cm, pl. 43, M&#233;morial, p. 268.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Roundels with Proverbs. Provisional N&#176; 61.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-24</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<edit.date>2014-04-24</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:34:14</edit.time>
+			<edit.time>16:42:33</edit.time>
+			<edit.time>16:39:55</edit.time>
+			<input.time>16:25:54</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3028,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3028/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0fa3bbe3-78da-585e-8477-7008d095004a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""992198c1-b828-489a-89cd-cc789ee02513"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_028,repository numbers,,,,,,,,,,,,,,
+fdc31207-d76d-5739-aa6e-a992dfd88aa4,tg:rubgr:3028,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_028,titles proper,Dutch (language),,,,,,,,,,,

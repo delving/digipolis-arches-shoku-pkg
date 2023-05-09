@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3002,https://data.rubenianum.be//ark:/86530/96f47cb1-845a-5456-be1b-c99de6435098,Handschriften,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3001,Verwijzing naar Grossmann object,,b96accce-00e1-5112-95e3-4c4ea6567968,"[{""resourceId"": ""b96accce-00e1-5112-95e3-4c4ea6567968"", ""ontologyProperty"": """", ""resourceXresourceId"": ""903d560a-0bf6-46f7-92eb-e0793fbdf46d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""81e2da76-2580-452d-b524-60ea68e63686"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1e858c7b-fb37-4c51-b94e-42878aa40281"", ""inverseOntologyProperty"": """"}]"
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] Bruegel, Ad 59: Lost Emmaus picture: 1) Galle Print 1571 (Bastelaer 113); 2) Painting by P.B.II; 3) Painting by D. Vinckeboons; cf. 4) Painting [Galerie] Heim-Gairac; 5) P. Coecke Brussel (Bulletin Musées Royaux Mars 1953); 6) Van Mander: on Bles; 7) Drawing Rotterdam; 8) Bruegel Euntes - Emmaus (Bastelaer 14); Ad 5) Christ turning back in a similar way as in Bruegel 1 and 2); [verso] In Boymans drawing (7) figures seen from back later in 8, similarly with it an reversed, i.e. : 7 is developed from the drawing of 8.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003002,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5226</priref>
+			<number>AFG_089_002</number>
+			<part_of_reference>AFG_089_001</part_of_reference>
+			<content>[recto] Ad [Addendum] Bruegel, Ad 59: Lost Emmaus picture: 1) Galle Print 1571 (Bastelaer 113); 2) Painting by P.B.II; 3) Painting by D. Vinckeboons; cf. 4) Painting [Galerie] Heim-Gairac; 5) P. Coecke Brussel (Bulletin Mus&#233;es Royaux Mars 1953); 6) Van Mander: on Bles; 7) Drawing Rotterdam; 8) Bruegel Euntes - Emmaus (Bastelaer 14); Ad 5) Christ turning back in a similar way as in Bruegel 1 and 2); [verso] In Boymans drawing (7) figures seen from back later in 8, similarly with it an reversed, i.e. : 7 is developed from the drawing of 8.</content>
+			<object.object_number>AFG_089</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Emmaus My N&#176; 59</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Lost, known from copies: nos. 57-65a</object.title>
+			<object.creator/>
+			<input.date>2014-04-18</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-04-18</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>10:26:58</edit.time>
+			<edit.time>16:24:53</edit.time>
+			<input.time>16:21:06</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3002,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3002/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""023329b4-98e2-5e42-b663-853b3532deab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ea0697f9-d391-4c20-b09c-0c5efb6a595b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_002,repository numbers,,,,,,,,,,,,,,
+96f47cb1-845a-5456-be1b-c99de6435098,tg:rubgr:3002,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_089_002,titles proper,Dutch (language),,,,,,,,,,,

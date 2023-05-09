@@ -1,0 +1,71 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:923,https://data.rubenianum.be//ark:/86530/d7dfea29-441f-59df-a31a-1ba035b7038e,Handschriften,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""557a9bf7-c95d-4342-8865-419a45b3565a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a021329b-26bb-4dee-8e66-fe9f13b51230"", ""inverseOntologyProperty"": """"}]"
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Woman taken in [sic]. Technically the beard of the 'good' man on the right has a parallel in the Louvre drawing of '4 Men' (T. 117). And the bearded head of the man behind the 'bad' pharisee bending down is on the whole even closer in the summary treatment and physiognomy to the head in the drawing.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257386,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_ExternalRelationsExtras,a::rub.25,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,60114,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fysionomie,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tekenkunst,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000923,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3176</priref>
+			<number>AFG_021_007</number>
+			<content>Woman taken in [sic]. Technically the beard of the 'good' man on the right has a parallel in the Louvre drawing of '4 Men' (T. 117). And the bearded head of the man behind the 'bad' pharisee bending down is on the whole even closer in the summary treatment and physiognomy to the head in the drawing.</content>
+			<object.object_number>AFG_021</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Christ and the Woman Taken in Adultery</object.title>
+			<keyword>fysionomie</keyword>
+			<keyword>tekenkunst</keyword>
+			<keyword>Tolnay, Charles de</keyword>
+			<keyword>Parijs, Mus&#233;e du Louvre</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Tolnay, Charles de</documentation.author>
+			<input.date>2012-03-01</input.date>
+			<edit.date>2015-03-06</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2013-11-08</edit.date>
+			<edit.date>2012-03-15</edit.date>
+			<edit.date>2012-03-15</edit.date>
+			<edit.date>2012-03-07</edit.date>
+			<edit.date>2012-03-01</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>drawings of Pieter Bruegel the Elder : with a critical catalogue</documentation.title>
+			<edit.time>13:54:01</edit.time>
+			<edit.time>15:14:40</edit.time>
+			<edit.time>15:13:48</edit.time>
+			<edit.time>09:16:55</edit.time>
+			<edit.time>09:16:40</edit.time>
+			<edit.time>11:57:41</edit.time>
+			<edit.time>15:50:01</edit.time>
+			<input.time>15:46:53</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>The</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:923,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:923/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""36004ceb-a4aa-5891-ad5e-ccdbd92e16c4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6505319-191c-465d-b52a-9880234f3b09"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_OriginalBrocade,,,au::18500,,,,,,,,,,,,,,rub,adc10a3d-d3e4-5f12-b76b-ddce078b7105,kw,,au::18500:1,au::18500g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1979500"",""au::18500"",""au::18500:1"",""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""Charles de Tolnay""],""name"":""Charles de Tolnay"",""ark"":""ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105"",""uri"":""/agents/people/1979500"",""id"":""au::18500:1"",""isCapacity"":false}",ark:/83110/x0/adc10a3d-d3e4-5f12-b76b-ddce078b7105,agent,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_OriginalBrocade,,,au::24804,,,,,,,,,,,,,,rub,5de586ee-e0d0-565c-af2a-ab1cef461bb5,kw,,au::24804:1,au::24804g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/2654028"",""au::24804"",""au::24804:1"",""ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5"",""Palais du Louvre""],""name"":""Palais du Louvre"",""ark"":""ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5"",""uri"":""/agents/corporate_entities/2654028"",""id"":""au::24804:1"",""isCapacity"":false}",ark:/83110/x0/5de586ee-e0d0-565c-af2a-ab1cef461bb5,agent,,,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_007,repository numbers,,,,,,,,,,,,,,
+d7dfea29-441f-59df-a31a-1ba035b7038e,tg:rubgr:923,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_021_007,titles proper,Dutch (language),,,,,,,,,,,

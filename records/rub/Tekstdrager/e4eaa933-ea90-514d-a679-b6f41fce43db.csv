@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2986,https://data.rubenianum.be//ark:/86530/e4eaa933-ea90-514d-a679-b6f41fce43db,Handschriften,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2980,Verwijzing naar Grossmann object,,01ffc253-ae75-54eb-a0c2-2fb7d3900f5e,"[{""resourceId"": ""01ffc253-ae75-54eb-a0c2-2fb7d3900f5e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43337efc-f408-4a42-9066-75e62928142a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0a2c76e7-f43b-4cce-bf78-ac7362fd8a4b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ec26ae9a-901b-4a1c-b578-cd6d86e388a8"", ""inverseOntologyProperty"": """"}]"
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ad [Addendum] 40. 71. Landliche Hochzeitszug. Voet D. [= Denucé] 312.,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002986,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5391</priref>
+			<number>AFG_088_007</number>
+			<part_of_reference>AFG_088_001</part_of_reference>
+			<content>Ad [Addendum] 40. 71. Landliche Hochzeitszug. Voet D. [= Denuc&#233;] 312.</content>
+			<object.object_number>AFG_088</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>71. Landlicher Hochzeitzug (Northwick Park); [doorstreept]: 'Neu 25. My N&#176; 40.'</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Doubtful &amp; Wrong Attributions, Copies, Lost Pictures, nos. 43-46</object.title>
+			<keyword>Denuc&#233;, Jan</keyword>
+			<object.creator/>
+			<input.date>2014-06-11</input.date>
+			<edit.date>2018-05-29</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<edit.date>2014-06-11</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:07:04</edit.time>
+			<edit.time>10:49:51</edit.time>
+			<edit.time>10:48:21</edit.time>
+			<input.time>10:48:12</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2986,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2986/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""10105f78-0739-5dec-ae5c-2cc5899e807f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ea949fe-be67-423e-977d-aa02fe1a05b9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_OriginalBrocade,,,au::5346,,,,,,,,,,,,,,rub,19180a17-86f1-50ca-842f-7bcc4add0f26,kw,,au::5346:1,au::5346g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/572022"",""au::5346"",""au::5346:1"",""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""Jan Denucé""],""name"":""Jan Denucé"",""ark"":""ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26"",""uri"":""/agents/people/572022"",""id"":""au::5346:1"",""isCapacity"":false}",ark:/83110/x0/19180a17-86f1-50ca-842f-7bcc4add0f26,agent,,,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_007,repository numbers,,,,,,,,,,,,,,
+e4eaa933-ea90-514d-a679-b6f41fce43db,tg:rubgr:2986,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_088_007,titles proper,Dutch (language),,,,,,,,,,,

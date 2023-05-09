@@ -1,0 +1,95 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1004,https://data.rubenianum.be//ark:/86530/d36df2b1-9086-544d-9930-f98717c23289,Handschriften,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5b0a6006-4e9a-4ce7-bddc-af30565c5d43"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1cfa9f9f-5116-43f6-b3c7-efd6f6d7b104"", ""inverseOntologyProperty"": """"}]"
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mois de Lucas: P. [Paul] Lafond, Les tapisseries du château de Pau, L'Art [Revue mensuelle des musées, collections, expositions], 1893, t. II, p. 41, 177; (B.S.arch.Gers [=Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers], t.VI, 1905, p. 179); A. [Adrien] Planté, Les Tapisseries du château de Pau, B.S. [= Bulletin de la Société] des sciences, lettres et arts de Pau, 2e série, t. XXXVIII, 1910, p. 217 [= 271]-275.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wandtapijten,,,,,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Planté, Adrien",,,,,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lafond, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001004,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3257</priref>
+			<number>AFG_022_037</number>
+			<content>Mois de Lucas: P. [Paul] Lafond, Les tapisseries du ch&#226;teau de Pau, L'Art [Revue mensuelle des mus&#233;es, collections, expositions], 1893, t. II, p. 41, 177; (B.S.arch.Gers [=Bulletin de la Soci&#233;t&#233; arch&#233;ologique, historique, litt&#233;raire et scientifique du Gers], t.VI, 1905, p. 179); A. [Adrien] Plant&#233;, Les Tapisseries du ch&#226;teau de Pau, B.S. [= Bulletin de la Soci&#233;t&#233;] des sciences, lettres et arts de Pau, 2e s&#233;rie, t. XXXVIII, 1910, p. 217 [= 271]-275.</content>
+			<object.object_number>AFG_022</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Valckenborch, Bruegel, Months</object.title>
+			<keyword>wandtapijten</keyword>
+			<keyword>Plant&#233;, Adrien</keyword>
+			<keyword>Lafond, Paul</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-03-22</input.date>
+			<edit.date>2015-01-30</edit.date>
+			<edit.date>2014-11-14</edit.date>
+			<edit.date>2014-11-14</edit.date>
+			<edit.date>2014-09-01</edit.date>
+			<edit.date>2012-04-20</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-10</edit.date>
+			<edit.date>2012-04-06</edit.date>
+			<edit.date>2012-03-29</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<edit.date>2012-03-22</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>15:10:13</edit.time>
+			<edit.time>14:01:16</edit.time>
+			<edit.time>13:49:25</edit.time>
+			<edit.time>14:55:53</edit.time>
+			<edit.time>15:54:30</edit.time>
+			<edit.time>14:37:54</edit.time>
+			<edit.time>12:04:44</edit.time>
+			<edit.time>11:34:19</edit.time>
+			<edit.time>11:33:52</edit.time>
+			<edit.time>15:55:50</edit.time>
+			<edit.time>15:08:23</edit.time>
+			<edit.time>15:27:30</edit.time>
+			<edit.time>14:39:58</edit.time>
+			<edit.time>14:39:42</edit.time>
+			<edit.time>14:32:05</edit.time>
+			<input.time>14:31:51</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1004,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1004/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""01bbd44f-3de9-5b28-b4c8-1247f5c2bc76"", ""ontologyProperty"": """", ""resourceXresourceId"": ""224f35af-d850-40a1-b79e-55acdafda818"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_037,repository numbers,,,,,,,,,,,,,,
+d36df2b1-9086-544d-9930-f98717c23289,tg:rubgr:1004,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_037,titles proper,Dutch (language),,,,,,,,,,,

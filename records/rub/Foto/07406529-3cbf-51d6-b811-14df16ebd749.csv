@@ -1,0 +1,39 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4189,https://data.rubenianum.be//ark:/86530/07406529-3cbf-51d6-b811-14df16ebd749,Foto's,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_AssociatedRecords,1,,,,,,,,,rubgr_foto,relatie naar geheel,tg:rubgr:4185,Verwijzing naar Grossmann object,,53e8fa5a-64c0-5a80-a559-a7c80f93329f,"[{""resourceId"": ""53e8fa5a-64c0-5a80-a559-a7c80f93329f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0d307ba4-69cd-440e-b9d2-bf3b13c2ea27"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16b2fdec-4a0f-43dd-92ec-c86f09e3a3b7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9b65b405-88bc-445b-bd7e-1e8654250794"", ""inverseOntologyProperty"": """"}]"
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"4 zw/w foto's Bruegel The Temptation of St Anthony; [2x] Landscape with Cross; R. Savery, Kermesse.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004189,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6442</priref>
+			<number>AFG_109_069</number>
+			<part_of_reference>AFG_109_065</part_of_reference>
+			<content>4 zw/w foto's Bruegel The Temptation of St Anthony; [2x] Landscape with Cross; R. Savery, Kermesse.</content>
+			<object.object_number>AFG_109</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Briefomslag Gemeentebestuur Rotterdam.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Bruegel &amp; Brueghel; Holbein etc.; Royal Collection; Rubens</object.title>
+			<keyword>Bruegel, Pieter I</keyword>
+			<keyword>Savery, Roelant</keyword>
+			<object.creator/>
+			<input.date>2014-07-03</input.date>
+			<edit.date>2018-06-01</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>sa73120</edit.name>
+			<edit.time>14:37:22</edit.time>
+			<input.time>16:36:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4189,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4189/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""59b7f449-d7c4-5813-9cdd-85b215f44fd0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c979fb19-21c8-4bc1-981d-b29f3f9227af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_OriginalBrocade,,,au::3028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,kw,keywords,au::3028:1,au::3028g:1,,"dlod={""suggest"":[""/agents/people/323996"",""au::3028"",""au::3028:1"",""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""Pieter Brueghel De Oude""],""name"":""Pieter Brueghel De Oude"",""ark"":""ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d"",""uri"":""/agents/people/323996"",""id"":""au::3028:1"",""isCapacity"":false}",ark:/83110/x0/73e8f6cc-3f86-5ad2-9b4d-0f7a2029707d,agent,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_OriginalBrocade,,,au::16398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rub,68745e68-be77-5308-846a-b1ac1c29f49d,kw,keywords,au::16398:1,au::16398g:1,,"dlod={""suggest"":[""/agents/people/1754586"",""au::16398"",""au::16398:1"",""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""Roelandt Savery""],""name"":""Roelandt Savery"",""ark"":""ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d"",""uri"":""/agents/people/1754586"",""id"":""au::16398:1"",""isCapacity"":false}",ark:/83110/x0/68745e68-be77-5308-846a-b1ac1c29f49d,agent,,,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_069,repository numbers,,,,,,,,,,,
+07406529-3cbf-51d6-b811-14df16ebd749,tg:rubgr:4189,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_109_069,titles proper,Dutch (language),,,,,,,,

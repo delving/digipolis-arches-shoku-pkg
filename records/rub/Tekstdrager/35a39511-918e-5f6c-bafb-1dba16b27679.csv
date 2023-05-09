@@ -1,0 +1,53 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2773,https://data.rubenianum.be//ark:/86530/35a39511-918e-5f6c-bafb-1dba16b27679,Handschriften,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2762,Verwijzing naar Grossmann object,,443b0704-f112-5b76-b662-633b4b4ed34e,"[{""resourceId"": ""443b0704-f112-5b76-b662-633b4b4ed34e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b8535174-acf9-4747-b401-56bc7f200996"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8b059f36-d326-4ae3-b721-fedf4a6a2892"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ccdb7b08-55a8-4923-b803-9ff4db8db42f"", ""inverseOntologyProperty"": """"}]"
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Seymour Ricci, Census of Medieval and Renaissance Manuscripts in the United States and Canada, vol. II, 1957, p. 1324, n° 91, p. 1378, n° 69, p. 1329, p. 1378",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Farnese, Alessandro",,,,,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New York Public Library,,,,,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"New York, Pierpont Morgan Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002773,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5015</priref>
+			<number>AFG_086_031</number>
+			<part_of_reference>AFG_086_020</part_of_reference>
+			<content>Seymour Ricci, Census of Medieval and Renaissance Manuscripts in the United States and Canada, vol. II, 1957, p. 1324, n&#176; 91, p. 1378, n&#176; 69, p. 1329, p. 1378</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Clovio.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Farnese, Alessandro</keyword>
+			<keyword>New York Public Library</keyword>
+			<keyword>New York, Pierpont Morgan Library</keyword>
+			<object.creator/>
+			<input.date>2014-03-14</input.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<edit.date>2014-03-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:24:16</edit.time>
+			<edit.time>14:41:24</edit.time>
+			<edit.time>14:40:44</edit.time>
+			<edit.time>14:38:21</edit.time>
+			<input.time>14:37:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2773,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2773/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a2ceec4d-6d56-5c71-bd15-f9f7c605f218"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3654cb96-9cf7-425b-95e4-424489a3cd86"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_031,repository numbers,,,,,,,,,,,,,,
+35a39511-918e-5f6c-bafb-1dba16b27679,tg:rubgr:2773,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_031,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,71 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:242,https://data.rubenianum.be//ark:/86530/f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,Handschriften,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""30f3c0da-9832-4dbf-b036-81bd6453d457"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2325c450-1df5-49bd-8ed6-6abfe1dfaf3c"", ""inverseOntologyProperty"": """"}]"
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Karneval. [Gotthard] Jedlicka, [Pieter Bruegel: der Maler in seiner Zeit, Erlenbach-Zürich: Rentsch, 1938], citaten pp. 82, 86.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:412303,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jedlicka, Gotthard",,,,,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000242,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2490</priref>
+			<number>AFG_005_006</number>
+			<content>Karneval. [Gotthard] Jedlicka, [Pieter Bruegel: der Maler in seiner Zeit, Erlenbach-Z&#252;rich: Rentsch, 1938], citaten pp. 82, 86.</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Jedlicka, Gotthard</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Jedlicka, Gotthard</documentation.author>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-16</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-03</edit.date>
+			<edit.date>2011-11-03</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Pieter Bruegel : der Maler in seiner Zeit</documentation.title>
+			<edit.time>11:28:24</edit.time>
+			<edit.time>13:04:59</edit.time>
+			<edit.time>13:04:33</edit.time>
+			<edit.time>09:12:22</edit.time>
+			<edit.time>16:32:28</edit.time>
+			<edit.time>16:31:40</edit.time>
+			<edit.time>09:41:21</edit.time>
+			<edit.time>09:40:55</edit.time>
+			<input.time>09:39:10</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:242,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:242/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f2ea235-72a5-5e5a-bb8d-bf26f4a20139"", ""ontologyProperty"": """", ""resourceXresourceId"": ""560b9138-3320-49da-b963-6ea543836578"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_006,repository numbers,,,,,,,,,,,,,,
+f2616273-10df-5dc2-9d17-eb4bb3d6e5f1,tg:rubgr:242,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_006,titles proper,Dutch (language),,,,,,,,,,,

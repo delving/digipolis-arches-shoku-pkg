@@ -1,0 +1,80 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:528,https://data.rubenianum.be//ark:/86530/f73e3b04-42e1-53f3-b718-80808291813f,Handschriften,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:523,Verwijzing naar Grossmann object,,197536f6-4cee-59a0-861d-743935d7c065,"[{""resourceId"": ""197536f6-4cee-59a0-861d-743935d7c065"", ""ontologyProperty"": """", ""resourceXresourceId"": ""45455559-a8b6-4bf2-858a-23fb5cd311ab"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e9e1e507-c0e4-4cf6-b376-17894e3710d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""391cb8c6-8df4-40c5-9de9-ff3eadf24fe2"", ""inverseOntologyProperty"": """"}]"
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Dulle Griet: Wallace NOTESTEIN, A History of Witchcraft in England from 1558 to 1718, Washington, [The American Historical Association], 1911;
+George L. KITTREDGE, Witchcraft in Old and New England, Cambridge, [Mass.: Harvard University Press], 1929; 
+Robert H. WEST, The Invisible World [A Study of Pneumatology in Elizabethan Drama, Athens, Ga., University of Georgia Press], 1939;
+[Aart Arnout] van SCHELVEN, 'La notion politique de la tolérance religieuse [aux Pays-Bas, à la fin du XVI siècle'], Revue historique 1938, tôme 171, 199-214 [= 171 (1933), pp. 299-314];
+W. [Wilbur] K. JORDAN, The Development of [Religious] Toleration in England, [London: Allen and Unwin, 1932];
+F. [Ferdinand] BUISSON, [Sebastien] Castellion [sa vie et son oeuvre (1515-1563); étude sur les origines du Protestantisme liberal francais, Paris: Hachette], 1891.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_ExternalRelationsExtras,a::rub.14,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,54556,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Castellion, Sébastien",,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,godsdienstgeschiedenis,,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,heksenvervolging,,,,,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000528,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2775</priref>
+			<number>AFG_010_043</number>
+			<part_of_reference>AFG_010_038</part_of_reference>
+			<content>Ad [Addendum] Dulle Griet: Wallace NOTESTEIN, A History of Witchcraft in England from 1558 to 1718, Washington, [The American Historical Association], 1911;
+George L. KITTREDGE, Witchcraft in Old and New England, Cambridge, [Mass.: Harvard University Press], 1929; 
+Robert H. WEST, The Invisible World [A Study of Pneumatology in Elizabethan Drama, Athens, Ga., University of Georgia Press], 1939;
+[Aart Arnout] van SCHELVEN, 'La notion politique de la tol&#233;rance religieuse [aux Pays-Bas, &#224; la fin du XVI si&#232;cle'], Revue historique 1938, t&#244;me 171, 199-214 [= 171 (1933), pp. 299-314];
+W. [Wilbur] K. JORDAN, The Development of [Religious] Toleration in England, [London: Allen and Unwin, 1932];
+F. [Ferdinand] BUISSON, [Sebastien] Castellion [sa vie et son oeuvre (1515-1563); &#233;tude sur les origines du Protestantisme liberal francais, Paris: Hachette], 1891.</content>
+			<object.object_number>AFG_010</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<part_of.title>Korte inhoud: vraagt advies over essay studente Caroline A. Crimp aan Morley College (London).</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Dulle Griet</object.title>
+			<keyword>Castellion, S&#233;bastien</keyword>
+			<keyword>godsdienstgeschiedenis</keyword>
+			<keyword>heksenvervolging</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2011-10-11</input.date>
+			<edit.date>2014-08-11</edit.date>
+			<edit.date>2014-08-11</edit.date>
+			<edit.date>2012-06-05</edit.date>
+			<edit.date>2012-06-05</edit.date>
+			<edit.date>2011-12-05</edit.date>
+			<edit.date>2011-12-05</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<edit.date>2011-10-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>10:09:42</edit.time>
+			<edit.time>10:09:30</edit.time>
+			<edit.time>13:55:10</edit.time>
+			<edit.time>13:49:10</edit.time>
+			<edit.time>12:03:02</edit.time>
+			<edit.time>10:34:36</edit.time>
+			<edit.time>15:06:14</edit.time>
+			<edit.time>15:03:36</edit.time>
+			<input.time>15:02:32</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:528,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:528/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c43cc7e4-c39a-5bab-b37e-54f7bcb1aecc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8c92aef6-a266-48aa-9d81-ee79f54f3761"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_043,repository numbers,,,,,,,,,,,,,,
+f73e3b04-42e1-53f3-b718-80808291813f,tg:rubgr:528,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_010_043,titles proper,Dutch (language),,,,,,,,,,,

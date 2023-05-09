@@ -1,0 +1,54 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:634,https://data.rubenianum.be//ark:/86530/cc46b526-67bc-511f-8e7f-719438990964,Handschriften,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""de3adf3d-e381-4d5c-85c2-f0fb8411bf55"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae4dab93-08c9-4cbb-9e1e-6e4737582f31"", ""inverseOntologyProperty"": """"}]"
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Selbstmord Sauls. Erhard Altdorfer: Holzschnitte zür Niederdeutschen Bibel nach Luther, Lübeck, Ludwig Dietz 1533, in: M.[Max] Geisberg [Hrsg.], Die deutsche Buchillustration in der ersten Hälfte des XVI. Jh. [Jahrhunderts], München [Schmid], Bd. I, 1930, Taf. 107, N° 261 Der Tod Sauls [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_ExternalRelationsExtras,a::rub.18,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260961,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Altdorfer, Erhard",,,,,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Geisberg, Max",,,,,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000634,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2885</priref>
+			<number>AFG_014_004</number>
+			<content>Selbstmord Sauls. Erhard Altdorfer: Holzschnitte z&#252;r Niederdeutschen Bibel nach Luther, L&#252;beck, Ludwig Dietz 1533, in: M.[Max] Geisberg [Hrsg.], Die deutsche Buchillustration in der ersten H&#228;lfte des XVI. Jh. [Jahrhunderts], M&#252;nchen [Schmid], Bd. I, 1930, Taf. 107, N&#176; 261 Der Tod Sauls [...]</content>
+			<object.object_number>AFG_014</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Suicide of Saul</object.title>
+			<keyword>Altdorfer, Erhard</keyword>
+			<keyword>Geisberg, Max</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-01-17</input.date>
+			<edit.date>2014-08-27</edit.date>
+			<edit.date>2012-06-08</edit.date>
+			<edit.date>2012-01-17</edit.date>
+			<edit.date>2012-01-17</edit.date>
+			<edit.date>2012-01-17</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>11:58:16</edit.time>
+			<edit.time>09:33:19</edit.time>
+			<edit.time>09:51:29</edit.time>
+			<edit.time>09:51:13</edit.time>
+			<edit.time>09:23:30</edit.time>
+			<input.time>09:05:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:634,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:634/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""899676f7-03df-5152-be3d-8c5224ee1660"", ""ontologyProperty"": """", ""resourceXresourceId"": ""de352fc5-60d3-4283-a551-1e457b2ca6c6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_014_004,repository numbers,,,,,,,,,,,,,,
+cc46b526-67bc-511f-8e7f-719438990964,tg:rubgr:634,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_014_004,titles proper,Dutch (language),,,,,,,,,,,

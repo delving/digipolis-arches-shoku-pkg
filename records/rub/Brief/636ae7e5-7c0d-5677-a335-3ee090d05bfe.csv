@@ -1,0 +1,65 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4746,https://data.rubenianum.be//ark:/86530/636ae7e5-7c0d-5677-a335-3ee090d05bfe,Brieven,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_002,isad:rub:2932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e074d84a-6479-4c86-b887-ed799cbea535"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8af28b35-49e7-4fc7-9642-614433248d36"", ""inverseOntologyProperty"": """"}]"
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_Correspondence,1,,,,,,,,,,,,,,,,"Baur de Boer, P.",correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_CreationActors,,,au::111146,,,,,,,rubgr_brief,,,,,,,,recipients (people),rub,Brief,8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,be,au::111146:1,au::111146g:1,"dlod={""suggest"":[""/agents/people/11892622"",""au::111146"",""au::111146:1"",""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""Fritz Grossmann""],""name"":""Fritz Grossmann"",""ark"":""ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1"",""uri"":""/agents/people/11892622"",""id"":""au::111146:1"",""isCapacity"":false}",ark:/83110/x0/8e6df2a1-cc0f-5a41-b61d-ec8b6ea9e1e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19560925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,1956-09-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Briefhoofd P. Baur de Boer, Hergiswil] Korte inhoud: Informeert naar toestand werk uit collectie Stuyck en vermeldt een andere versie vroeger bij Manteau in Parijs.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_ExternalRelationsExtras,a::rub.6,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,261198,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Manteau, Alice",,,,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004746,referentienummer,False,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6999</priref>
+			<recipient>Grossmann, F.</recipient>
+			<number>AFG_128_046</number>
+			<date.precise>1956-09-25</date.precise>
+			<content>[Briefhoofd P. Baur de Boer, Hergiswil] Korte inhoud: Informeert naar toestand werk uit collectie Stuyck en vermeldt een andere versie vroeger bij Manteau in Parijs.</content>
+			<object.object_number>AFG_128</object.object_number>
+			<object.object_number>AFG_002</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>brief</editorial_form>
+			<object.title>[Folders &amp; envelopes]</object.title>
+			<object.title>Landscape with the parable of the sower</object.title>
+			<keyword>Manteau, Alice</keyword>
+			<keyword>Stuyck del Bruy&#232;re, Fernand</keyword>
+			<sender>Baur de Boer, P.</sender>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-25</input.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<edit.date>2014-07-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:17:37</edit.time>
+			<edit.time>12:16:43</edit.time>
+			<edit.time>12:11:16</edit.time>
+			<edit.time>12:11:01</edit.time>
+			<edit.time>12:09:53</edit.time>
+			<input.time>12:07:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4746,brocade id,False,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4746/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""12f6beb7-743e-5d1c-90ba-a68525e9b2ae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""450260ee-5f66-41a1-a99b-c477d0c9717d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_OriginalBrocade,,,au::17878,,,,,,,,,,,,,,,,rub,,cc7d88e4-4b9e-539c-a93e-06addc844e67,kw,au::17878:1,au::17878g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1912946"",""au::17878"",""au::17878:1"",""ark:/83110/x0/cc7d88e4-4b9e-539c-a93e-06addc844e67"",""Fernand Stuyck""],""name"":""Fernand Stuyck"",""ark"":""ark:/83110/x0/cc7d88e4-4b9e-539c-a93e-06addc844e67"",""uri"":""/agents/people/1912946"",""id"":""au::17878:1"",""isCapacity"":false}",ark:/83110/x0/cc7d88e4-4b9e-539c-a93e-06addc844e67,agent,,,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_046,repository numbers,,,,,,,,,,,
+636ae7e5-7c0d-5677-a335-3ee090d05bfe,tg:rubgr:4746,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_128_046,titles proper,Dutch (language),,,,,,,,

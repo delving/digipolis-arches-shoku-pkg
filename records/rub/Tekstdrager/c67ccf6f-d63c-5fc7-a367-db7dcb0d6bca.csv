@@ -1,0 +1,74 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2024,https://data.rubenianum.be//ark:/86530/c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,Handschriften,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2023,Verwijzing naar Grossmann object,,9cee4ae3-383c-5a41-875a-1fe90a33aa2a,"[{""resourceId"": ""9cee4ae3-383c-5a41-875a-1fe90a33aa2a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8efbd371-a21e-4d2a-b527-2df8d465ef20"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9ed988fe-304d-42e6-abb0-a8ac53522078"", ""ontologyProperty"": """", ""resourceXresourceId"": ""91b15c47-94a5-471b-b097-b0ea5626d619"", ""inverseOntologyProperty"": """"}]"
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 55. Witt Library. Drunken Man led by Wife: 1) Photograph. Monatgu Sale, Christie, 28-VI-1946 P. BRVEGHE, 'A Village Scene, Winter, with Peasants quarrelling at the door of an inn' (in bad [onleesbaar]) Bought by Slatter; 2) M. Grisar Coll. Antwerp (verwackelte Photograph) also Winter. Exactly the same motif as in 1); [verso] Witt Library. Under Landscapes, Miscellanea a) The Main group (Woman & Man) from 1) & 2) but in completely different composition and summer, P. de Boer, Amsterdam 1946, 19 1/2 x 25 cm.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, Witt Library",,,,,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002024,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4260</priref>
+			<number>AFG_055_055</number>
+			<part_of_reference>AFG_055_054</part_of_reference>
+			<content>[recto] Ad [Addendum] 55. Witt Library. Drunken Man led by Wife: 1) Photograph. Monatgu Sale, Christie, 28-VI-1946 P. BRVEGHE, 'A Village Scene, Winter, with Peasants quarrelling at the door of an inn' (in bad [onleesbaar]) Bought by Slatter; 2) M. Grisar Coll. Antwerp (verwackelte Photograph) also Winter. Exactly the same motif as in 1); [verso] Witt Library. Under Landscapes, Miscellanea a) The Main group (Woman &amp; Man) from 1) &amp; 2) but in completely different composition and summer, P. de Boer, Amsterdam 1946, 19 1/2 x 25 cm.</content>
+			<object.object_number>AFG_055</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>75. Der Trunkene von den Seinen geleitet. My N&#176; 55 Provisiously better under Wrong attribution.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost known from copies: N&#176; 47-56</object.title>
+			<keyword>Londen, Witt Library</keyword>
+			<object.creator/>
+			<input.date>2013-03-11</input.date>
+			<edit.date>2014-10-17</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<edit.date>2013-03-11</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>16:16:55</edit.time>
+			<edit.time>15:06:48</edit.time>
+			<edit.time>15:02:31</edit.time>
+			<edit.time>14:59:25</edit.time>
+			<edit.time>14:50:58</edit.time>
+			<edit.time>14:50:31</edit.time>
+			<edit.time>14:48:12</edit.time>
+			<edit.time>14:48:02</edit.time>
+			<edit.time>14:24:40</edit.time>
+			<edit.time>14:23:30</edit.time>
+			<input.time>14:19:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2024,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2024/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""988ad3ef-6544-5e6f-a758-78af18faf7ec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""60ae8575-9403-459e-a323-ab537a5e1743"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_055,repository numbers,,,,,,,,,,,,,,
+c67ccf6f-d63c-5fc7-a367-db7dcb0d6bca,tg:rubgr:2024,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_055_055,titles proper,Dutch (language),,,,,,,,,,,

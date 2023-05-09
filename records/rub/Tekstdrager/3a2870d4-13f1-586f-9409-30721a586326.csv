@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5330,https://data.rubenianum.be//ark:/86530/3a2870d4-13f1-586f-9409-30721a586326,Handschriften,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_AssociatedRecords,2,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:5294,Verwijzing naar Grossmann object,,c398a096-51d0-528d-b732-0fa69e327e10,"[{""resourceId"": ""c398a096-51d0-528d-b732-0fa69e327e10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""43c8dca0-cb2d-4bae-9206-712d13c6daad"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""01b97e1c-af70-4089-ba76-78dbbac42215"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e29f9623-b033-4273-9108-7e4ae6eecddc"", ""inverseOntologyProperty"": """"}]"
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Bruegel Landscpaes & German Graphic Art (Altdorfer, Lautensack). Annegrit Schmitt, Hanns Lautensack, Verein für Geschichte der Stadt Nürnberg. IV. Band, Nürnberg 1957, citaten pp. 28-29; [verso] [toegevoegde vermelding]: 'F.G. Summing up: teh question rather complicated because of mutual realtions between Cock (Bruegel) & Lautensack, but certainly the problem deserves further investigation.'; Bruegel & Altdorfer, Winzinger, Albrecht Altdorfer. Graphik, Munich 1963, nos. 175-183; [toegevoegde vermelding]: 'F.G. As German genre scenes by Beham connects to Malines, also German landscape etchings must have come there or to Antwerp.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13258417,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Altdorfer, Albrecht",,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Beham, Hans Sebald",,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lautensack, Hans S.",,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Schmitt, Annegrit",,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winzinger, Franz",,,,,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005330,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7587</priref>
+			<number>AFG_145_060</number>
+			<part_of_reference>AFG_145_024</part_of_reference>
+			<content>[recto] Bruegel Landscpaes &amp; German Graphic Art (Altdorfer, Lautensack). Annegrit Schmitt, Hanns Lautensack, Verein f&#252;r Geschichte der Stadt N&#252;rnberg. IV. Band, N&#252;rnberg 1957, citaten pp. 28-29; [verso] [toegevoegde vermelding]: 'F.G. Summing up: teh question rather complicated because of mutual realtions between Cock (Bruegel) &amp; Lautensack, but certainly the problem deserves further investigation.'; Bruegel &amp; Altdorfer, Winzinger, Albrecht Altdorfer. Graphik, Munich 1963, nos. 175-183; [toegevoegde vermelding]: 'F.G. As German genre scenes by Beham connects to Malines, also German landscape etchings must have come there or to Antwerp.</content>
+			<object.object_number>AFG_145</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel Problemes mainly connected with Berlin exhibition. Correspondence with Dr. Winner &amp; Anzelewski [onleesbaar]</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel Problemes (Berlin Exhibition 1975)</object.title>
+			<keyword>Altdorfer, Albrecht</keyword>
+			<keyword>Beham, Hans Sebald</keyword>
+			<keyword>Lautensack, Hans S.</keyword>
+			<keyword>Schmitt, Annegrit</keyword>
+			<keyword>Winzinger, Franz</keyword>
+			<object.creator/>
+			<documentation.author>Winzinger, Franz</documentation.author>
+			<input.date>2014-08-20</input.date>
+			<edit.date>2014-08-20</edit.date>
+			<edit.date>2014-08-20</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Albrecht Altdorfer Graphik : Holzschnitte : Kupferstiche : Radierungen : Gesamtausgabe</documentation.title>
+			<edit.time>14:14:21</edit.time>
+			<edit.time>14:04:12</edit.time>
+			<input.time>14:00:52</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5330,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5330/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d17d6535-2dc7-50af-bdc6-6c90e6b54b4a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2326bb48-09b8-468e-b6cb-75789002d183"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_060,repository numbers,,,,,,,,,,,,,,
+3a2870d4-13f1-586f-9409-30721a586326,tg:rubgr:5330,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_145_060,titles proper,Dutch (language),,,,,,,,,,,

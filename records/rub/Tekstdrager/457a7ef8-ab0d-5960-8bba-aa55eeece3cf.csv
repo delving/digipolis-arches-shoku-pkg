@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:248,https://data.rubenianum.be//ark:/86530/457a7ef8-ab0d-5960-8bba-aa55eeece3cf,Handschriften,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f618e41d-6e97-4dd5-9291-6e681e95fee3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""61df9db3-2d94-4225-9cdd-339beeaf80c5"", ""inverseOntologyProperty"": """"}]"
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Walter] Vanbeselaere, [= Peter Bruegel en het Nederlandsche manierisme, Tielt: Lannoo, 1944], notities pp. 46, 47, 48 [Taal, Duits].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:110704,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_ExternalRelationsExtras,a::rub.9,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,260960,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000248,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2496</priref>
+			<number>AFG_005_012</number>
+			<content>[Walter] Vanbeselaere, [= Peter Bruegel en het Nederlandsche manierisme, Tielt: Lannoo, 1944], notities pp. 46, 47, 48 [Taal, Duits].</content>
+			<object.object_number>AFG_005</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Fight between Carnival and Lent</object.title>
+			<keyword>Vanbeselaere, Walter</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Vanbeselaere, Walter</documentation.author>
+			<input.date>2011-09-16</input.date>
+			<edit.date>2014-08-22</edit.date>
+			<edit.date>2012-01-05</edit.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-11-23</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-09</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-11-04</edit.date>
+			<edit.date>2011-09-16</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Peter Bruegel en het Nederlandsche manierisme</documentation.title>
+			<edit.time>11:38:24</edit.time>
+			<edit.time>09:53:53</edit.time>
+			<edit.time>13:32:53</edit.time>
+			<edit.time>13:19:12</edit.time>
+			<edit.time>10:01:26</edit.time>
+			<edit.time>10:00:51</edit.time>
+			<edit.time>10:00:15</edit.time>
+			<edit.time>09:35:27</edit.time>
+			<edit.time>09:31:16</edit.time>
+			<edit.time>09:30:45</edit.time>
+			<edit.time>11:39:31</edit.time>
+			<input.time>11:38:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:248,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:248/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4470cd03-2159-55f8-8a99-4b13a05a3943"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3b34af0b-468b-4eb9-ac2f-0cd32322ffee"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_OriginalBrocade,,,au::18866,,,,,,,,,,,,,,rub,7682857e-71d3-5afc-9cb8-a70f3b5ce270,kw,,au::18866:1,au::18866g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2018662"",""au::18866"",""au::18866:1"",""ark:/83110/x0/7682857e-71d3-5afc-9cb8-a70f3b5ce270"",""Walther Vanbeselaere""],""name"":""Walther Vanbeselaere"",""ark"":""ark:/83110/x0/7682857e-71d3-5afc-9cb8-a70f3b5ce270"",""uri"":""/agents/people/2018662"",""id"":""au::18866:1"",""isCapacity"":false}",ark:/83110/x0/7682857e-71d3-5afc-9cb8-a70f3b5ce270,agent,,,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_012,repository numbers,,,,,,,,,,,,,,
+457a7ef8-ab0d-5960-8bba-aa55eeece3cf,tg:rubgr:248,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_005_012,titles proper,Dutch (language),,,,,,,,,,,

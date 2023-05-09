@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1384,https://data.rubenianum.be//ark:/86530/12a705ac-7569-5310-9d79-3ca02461a437,Handschriften,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cbb4005c-89b2-4252-bd09-bc0eba6a6839"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6380573b-6013-4913-bbff-2838e8ce3ca1"", ""inverseOntologyProperty"": """"}]"
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] 33. Bauernhochzeit. Am 1. Januar 1604 ist Jeremias Günther Kammermaler (bei Rudolf II. in Prag) geworden; ...[sic] Erst nach dem Tode des Kaisers (Rudolf II.) erfährt man was er für diesen ausserhalb seiner im übrigen unbekannten dienstlichen Aufgaben gemalt hat: eine Kopie der Bauernhochzeit von Bruegel (ex. Erzh. Ernst) für 160 Taler, eine Kopie der Gerichtsverhandlung von Bruegel (= Rent Day) für 150 Taler ...[sic], die Kopie einer Kreuzigung von Dürer (von asherfarb und weissgrau muehsam gerissen) in Öl für 100 Taler ...[sic] (213)(213) Jahrbuch XV, Reg. 11792 (1616) A. Lhotsky, Gesch. der Slgn, I, p. 264.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13267126,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_ExternalRelationsExtras,a::rub.37,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,261051,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Günther, Jeremias",,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rudolf II (keizer),,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ernst van Oostenrijk (aartshertog),,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lhotsky, Alphons",,,,,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001384,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3631</priref>
+			<number>AFG_037_020</number>
+			<content>Ad [Addendum] 33. Bauernhochzeit. Am 1. Januar 1604 ist Jeremias G&#252;nther Kammermaler (bei Rudolf II. in Prag) geworden; ...[sic] Erst nach dem Tode des Kaisers (Rudolf II.) erf&#228;hrt man was er f&#252;r diesen ausserhalb seiner im &#252;brigen unbekannten dienstlichen Aufgaben gemalt hat: eine Kopie der Bauernhochzeit von Bruegel (ex. Erzh. Ernst) f&#252;r 160 Taler, eine Kopie der Gerichtsverhandlung von Bruegel (= Rent Day) f&#252;r 150 Taler ...[sic], die Kopie einer Kreuzigung von D&#252;rer (von asherfarb und weissgrau muehsam gerissen) in &#214;l f&#252;r 100 Taler ...[sic] (213)(213) Jahrbuch XV, Reg. 11792 (1616) A. Lhotsky, Gesch. der Slgn, I, p. 264.</content>
+			<object.object_number>AFG_037</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>The Wedding (Meal) Banquet</object.title>
+			<keyword>D&#252;rer, Albrecht</keyword>
+			<keyword>G&#252;nther, Jeremias</keyword>
+			<keyword>Rudolf II (keizer)</keyword>
+			<keyword>Ernst van Oostenrijk (aartshertog)</keyword>
+			<keyword>Lhotsky, Alphons</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<documentation.author>Lhotsky, Alphons</documentation.author>
+			<input.date>2012-08-23</input.date>
+			<edit.date>2014-09-02</edit.date>
+			<edit.date>2012-10-11</edit.date>
+			<edit.date>2012-10-11</edit.date>
+			<edit.date>2012-10-11</edit.date>
+			<edit.date>2012-10-11</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-09-18</edit.date>
+			<edit.date>2012-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Festschrift des Kunsthistorischen Museums zur Feier des f&#252;nfzigj&#228;hrigen Bestandes : zweiter Teil : die Geschichte der Sammlungen : I : von den Anf&#228;ngen bis zum Tode Kaiser Karls VI.  1740 : II : von Maria Theresia bis zum Ende der Monarchie</documentation.title>
+			<edit.time>15:32:19</edit.time>
+			<edit.time>14:32:34</edit.time>
+			<edit.time>13:08:25</edit.time>
+			<edit.time>13:04:32</edit.time>
+			<edit.time>13:00:49</edit.time>
+			<edit.time>15:57:10</edit.time>
+			<edit.time>15:55:38</edit.time>
+			<edit.time>15:55:04</edit.time>
+			<edit.time>16:19:49</edit.time>
+			<input.time>16:12:21</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1384,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1384/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0cc2abeb-7bf7-5b03-a753-00091dbd85a1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""35c701b6-d419-4172-a364-622b794d45dd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_OriginalBrocade,,,au::5988,,,,,,,,,,,,,,rub,0c4d1392-1949-53c5-b9fa-dbd486d50089,kw,,au::5988:1,au::5988g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/640716"",""au::5988"",""au::5988:1"",""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""Albrecht Dürer""],""name"":""Albrecht Dürer"",""ark"":""ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089"",""uri"":""/agents/people/640716"",""id"":""au::5988:1"",""isCapacity"":false}",ark:/83110/x0/0c4d1392-1949-53c5-b9fa-dbd486d50089,agent,,,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_020,repository numbers,,,,,,,,,,,,,,
+12a705ac-7569-5310-9d79-3ca02461a437,tg:rubgr:1384,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_037_020,titles proper,Dutch (language),,,,,,,,,,,

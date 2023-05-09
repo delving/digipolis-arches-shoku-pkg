@@ -1,0 +1,64 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2939,https://data.rubenianum.be//ark:/86530/710933a7-93fa-53c7-86fb-c277fffd2705,Handschriften,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""51dc48eb-bfa0-4a3d-b6ea-4999f5c30bce"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a7d2a54-b6c0-40e2-b290-a4466c7567c6"", ""inverseOntologyProperty"": """"}]"
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mariette & Bruegel. In Catal. Crozat, p. 106 reprinted as Ph. de Chennevières et A. de Montaiglon, Abecedario de P.J. Mariette, Tôme I, Paris, 1851, pp. 189f. where also Abecedario proper pp. 188-189. Mariette says ""celui que l'on nomme le vieux Breughel."" In Abecedario part already reference to Vasari...Bruegel never called drôle or peasant painter. To be reproduced from Crozat.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Crozat, Pierre",,,,,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Chennevières, Ph. de",,,,,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mariette, Pierre-Jean",,,,,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Montaiglon, A. de",,,,,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002939,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5181</priref>
+			<number>AFG_086_197</number>
+			<content>Mariette &amp; Bruegel. In Catal. Crozat, p. 106 reprinted as Ph. de Chennevi&#232;res et A. de Montaiglon, Abecedario de P.J. Mariette, T&#244;me I, Paris, 1851, pp. 189f. where also Abecedario proper pp. 188-189. Mariette says ""celui que l'on nomme le vieux Breughel."" In Abecedario part already reference to Vasari...Bruegel never called dr&#244;le or peasant painter. To be reproduced from Crozat.</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<keyword>Crozat, Pierre</keyword>
+			<keyword>Chennevi&#232;res, Ph. de</keyword>
+			<keyword>Mariette, Pierre-Jean</keyword>
+			<keyword>Montaiglon, A. de</keyword>
+			<object.creator/>
+			<input.date>2014-04-14</input.date>
+			<edit.date>2016-04-04</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<edit.date>2014-04-14</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>hilde.cuvelier</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>12:46:53</edit.time>
+			<edit.time>12:33:35</edit.time>
+			<edit.time>12:32:52</edit.time>
+			<edit.time>12:32:12</edit.time>
+			<edit.time>12:31:25</edit.time>
+			<edit.time>12:24:11</edit.time>
+			<edit.time>12:24:00</edit.time>
+			<input.time>12:17:44</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2939,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2939/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""50ed30f4-b956-589b-981d-5fd2b0f1d5c3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""42e0bc65-23e7-4b77-8a31-7ea6acf8581f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_197,repository numbers,,,,,,,,,,,,,,
+710933a7-93fa-53c7-86fb-c277fffd2705,tg:rubgr:2939,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_197,titles proper,Dutch (language),,,,,,,,,,,

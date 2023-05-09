@@ -1,0 +1,66 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4355,https://data.rubenianum.be//ark:/86530/e75dc1f0-693f-5352-bc04-33d05fafc976,Handschriften,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_004,isad:rub:2934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e480620f-802b-4939-946e-06311005f43b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a41b780a-1458-4a67-8c28-6fcd9ca30c58"", ""inverseOntologyProperty"": """"}]"
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Bruegel: Triumph of Time, see A.P. woodcuts of the 4 seasons (repr. Hollstein); Brussels Adoration connection with Bosch Prado. Adoration not only in Christ and kneeling old king, but also in colour: in both pictures his dress is red.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_ExternalRelationsExtras,a::rub.8,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262343,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heyden, Peter van der [1]",,,,,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004355,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6608</priref>
+			<number>AFG_111_150</number>
+			<content>Ad [Addendum] Bruegel: Triumph of Time, see A.P. woodcuts of the 4 seasons (repr. Hollstein); Brussels Adoration connection with Bosch Prado. Adoration not only in Christ and kneeling old king, but also in colour: in both pictures his dress is red.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_004</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>The Adoration of the Kings</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Heyden, Peter van der [1]</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<keyword>Madrid, Museo del Prado</keyword>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-09</input.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<edit.date>2014-07-09</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>15:45:53</edit.time>
+			<edit.time>15:45:38</edit.time>
+			<edit.time>15:45:20</edit.time>
+			<edit.time>15:42:55</edit.time>
+			<edit.time>15:42:14</edit.time>
+			<edit.time>15:41:54</edit.time>
+			<input.time>15:35:22</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4355,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4355/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""53eebec9-17e2-5f6f-b747-c48f47e5224a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ef555a74-d0dc-4a19-8238-3a8ff5b430c4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_OriginalBrocade,,,au::28130,,,,,,,,,,,,,,rub,0bc6db4d-3389-5774-a695-f08f748e3fa2,kw,,au::28130:1,au::28130g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3009910"",""au::28130"",""au::28130:1"",""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""Prado [Museum, Madrid (E)]""],""name"":""Prado [Museum, Madrid (E)]"",""ark"":""ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2"",""uri"":""/agents/corporate_entities/3009910"",""id"":""au::28130:1"",""isCapacity"":false}",ark:/83110/x0/0bc6db4d-3389-5774-a695-f08f748e3fa2,agent,,,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_150,repository numbers,,,,,,,,,,,,,,
+e75dc1f0-693f-5352-bc04-33d05fafc976,tg:rubgr:4355,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_150,titles proper,Dutch (language),,,,,,,,,,,

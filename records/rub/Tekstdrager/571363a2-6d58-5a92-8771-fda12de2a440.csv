@@ -1,0 +1,38 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5001,https://data.rubenianum.be//ark:/86530/571363a2-6d58-5a92-8771-fda12de2a440,Handschriften,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:4991,Verwijzing naar Grossmann object,,59ad7a49-ed2b-589a-bc69-c2b4721cf1ea,"[{""resourceId"": ""59ad7a49-ed2b-589a-bc69-c2b4721cf1ea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97c5aca6-28e3-41e1-8b89-178ec7c6fb77"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a50ea9df-ae1c-46c5-992c-7b80b1133c33"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab49ce67-219d-42f9-b85c-dee505d63316"", ""inverseOntologyProperty"": """"}]"
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hildegard Heyne, Das Gleichnis von den Klugen und törichten Jungfrauen : eine literarisch- ikonographische Studie zur altchristlichen Zeit, Leipzig [H. Haessel Verlag], 1922.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heyne, Hildegard",,,,,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005001,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7257</priref>
+			<number>AFG_137_036</number>
+			<part_of_reference>AFG_137_026</part_of_reference>
+			<content>Hildegard Heyne, Das Gleichnis von den Klugen und t&#246;richten Jungfrauen : eine literarisch- ikonographische Studie zur altchristlichen Zeit, Leipzig [H. Haessel Verlag], 1922.</content>
+			<object.object_number>AFG_137</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Religion. Weltanschauung.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Ortelius: Religion</object.title>
+			<keyword>Heyne, Hildegard</keyword>
+			<object.creator/>
+			<input.date>2014-08-07</input.date>
+			<edit.date>2014-08-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>16:14:58</edit.time>
+			<input.time>16:14:12</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5001,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5001/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3769c06b-d6d7-578b-9364-8bd9191e1b3e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""132abe7e-6e85-4f50-99d0-c70161f58b61"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_036,repository numbers,,,,,,,,,,,,,,
+571363a2-6d58-5a92-8771-fda12de2a440,tg:rubgr:5001,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_137_036,titles proper,Dutch (language),,,,,,,,,,,

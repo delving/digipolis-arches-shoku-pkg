@@ -1,0 +1,32 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2965,https://data.rubenianum.be//ark:/86530/8cd32642-5d12-55c4-bb45-7f4be8120c4f,Handschriften,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4bff3840-37bc-4eed-b906-2bbeabb93a4d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f0fc5646-a338-4fc9-b369-444b785f1232"", ""inverseOntologyProperty"": """"}]"
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Victor Amédée Jacques Marie] Coremans, [L'Année de l'ancienne Belgique. [Mémoire sur les saisons, les mois, les semaines, les fêtes, les usages dans les temps antérieurs a l'introduction du christianisme en Belgique, avec l'indication et l'explication de différentes dates qui se trouvent dans les documents du Moyen Âge, et qui, en partie, sont encore usitées de nos jours], (Extrait du Bulletin de la Commission Royale d'Histoire, tôme VII, nº 1), Bruxelles: Impr. de M. Hayez, 1844] citaten pp. 100, 102, 115, 119",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002965,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5210</priref>
+			<number>AFG_086_223</number>
+			<content>[Victor Am&#233;d&#233;e Jacques Marie] Coremans, [L'Ann&#233;e de l'ancienne Belgique. [M&#233;moire sur les saisons, les mois, les semaines, les f&#234;tes, les usages dans les temps ant&#233;rieurs a l'introduction du christianisme en Belgique, avec l'indication et l'explication de diff&#233;rentes dates qui se trouvent dans les documents du Moyen &#194;ge, et qui, en partie, sont encore usit&#233;es de nos jours], (Extrait du Bulletin de la Commission Royale d'Histoire, t&#244;me VII, n&#186; 1), Bruxelles: Impr. de M. Hayez, 1844] citaten pp. 100, 102, 115, 119</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-04-17</input.date>
+			<edit.date>2014-04-17</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>13:36:56</edit.time>
+			<input.time>13:36:40</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2965,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2965/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1ac2a47d-e531-581a-ad97-8d4dbc218e58"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5f49e6b7-54c5-4637-8c37-e7c5ff48cd9d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_223,repository numbers,,,,,,,,,,,,,,
+8cd32642-5d12-55c4-bb45-7f4be8120c4f,tg:rubgr:2965,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_223,titles proper,Dutch (language),,,,,,,,,,,

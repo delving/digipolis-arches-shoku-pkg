@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4374,https://data.rubenianum.be//ark:/86530/12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,Handschriften,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_AssociatedArchives,2,kenmerken.rubobjnrgr,,,,,AFG_007,isad:rub:2937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a8497f6e-e912-4ef9-a1c9-19159c0c48e6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""93bd9032-8003-46ce-9d12-6136ebc35592"", ""inverseOntologyProperty"": """"}]"
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Children's Games. The children imitate the activities of the grown-up; Children's Games-Proverbs-Carnival & Lent a kind of trilogy [...][scan],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_ExternalRelationsExtras,a::rub.11,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,111680,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004374,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6627</priref>
+			<number>AFG_111_169</number>
+			<content>Children's Games. The children imitate the activities of the grown-up; Children's Games-Proverbs-Carnival &amp; Lent a kind of trilogy [...][scan]</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_number>AFG_007</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<object.title>Children's games</object.title>
+			<object.creator/>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2014-07-10</input.date>
+			<edit.date>2014-07-10</edit.date>
+			<edit.date>2014-07-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:23:32</edit.time>
+			<edit.time>09:20:04</edit.time>
+			<input.time>09:19:19</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4374,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4374/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1416ec69-959b-5de1-9e6e-3f0e9e6242a0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""97ac4f69-0073-4a6a-bbd0-654f5ad02260"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_169,repository numbers,,,,,,,,,,,,,,
+12bbc5fc-ecc8-55b7-b4fe-62f1fb059253,tg:rubgr:4374,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_169,titles proper,Dutch (language),,,,,,,,,,,

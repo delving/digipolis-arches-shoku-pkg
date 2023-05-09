@@ -1,0 +1,45 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Creation Actor Note,Creation Actor Role,museum,resource_model,ire.isaar.uuid,source_ire_type,ire.isaar.id,place_au_code,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1483,https://data.rubenianum.be//ark:/86530/f5834ca1-ee93-558e-86f5-c90d7ee906e5,Brieven,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""02224086-6ff6-491f-950b-c7c8bdeb825e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0dba6afe-f553-4809-aee2-3bd037224866"", ""inverseOntologyProperty"": """"}]"
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wien, Kunsthistorische Museum. Pieter Brueghel d.J. (1564-1638), Winterlandschaft, 1601.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_ExternalRelationsExtras,a::rub.39,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,56605,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001483,referentienummer,False,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>3733</priref>
+			<number>AFG_039_007</number>
+			<content>Wien, Kunsthistorische Museum. Pieter Brueghel d.J. (1564-1638), Winterlandschaft, 1601.</content>
+			<object.object_number>AFG_039</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Prentbriefkaart</editorial_form>
+			<object.title>Winter Landscape with Skaters and Bird Trap</object.title>
+			<keyword>Brueghel, Pieter II</keyword>
+			<keyword>Wenen, Kunsthistorisches Museum</keyword>
+			<object.creator>Bruegel, Pieter I</object.creator>
+			<input.date>2012-11-05</input.date>
+			<edit.date>2014-09-18</edit.date>
+			<edit.date>2013-02-12</edit.date>
+			<edit.date>2012-11-05</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.time>08:56:43</edit.time>
+			<edit.time>10:11:14</edit.time>
+			<edit.time>15:01:11</edit.time>
+			<input.time>14:25:44</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1483,brocade id,False,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1483/N,brocade url,False,,,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cd74916f-ed9c-5fff-80fd-4f73b2cd0dd4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""62e0dcd6-c79a-4793-9d31-7f0978e1c4e9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_OriginalBrocade,,,au::3027,,,,,,,,,,,,,,,,rub,,ca79196f-9430-56d2-86ca-543e10adef0a,kw,au::3027:1,au::3027g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/323889"",""au::3027"",""au::3027:1"",""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""Pieter Brueghel De Jonge""],""name"":""Pieter Brueghel De Jonge"",""ark"":""ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a"",""uri"":""/agents/people/323889"",""id"":""au::3027:1"",""isCapacity"":false}",ark:/83110/x0/ca79196f-9430-56d2-86ca-543e10adef0a,agent,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_OriginalBrocade,,,au::28097,,,,,,,,,,,,,,,,rub,,4fd76377-5c60-5949-a1f5-8d7453c6c945,kw,au::28097:1,au::28097g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3006379"",""au::28097"",""au::28097:1"",""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""Kunsthistorisches Museum [Wenen (A)]""],""name"":""Kunsthistorisches Museum [Wenen (A)]"",""ark"":""ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945"",""uri"":""/agents/corporate_entities/3006379"",""id"":""au::28097:1"",""isCapacity"":false}",ark:/83110/x0/4fd76377-5c60-5949-a1f5-8d7453c6c945,agent,,,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_039_007,repository numbers,,,,,,,,,,,
+f5834ca1-ee93-558e-86f5-c90d7ee906e5,tg:rubgr:1483,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_039_007,titles proper,Dutch (language),,,,,,,,

@@ -1,0 +1,34 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2314,https://data.rubenianum.be//ark:/86530/0aa63493-e46a-5a31-83a6-a085c760ce5e,Foto's,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ff7d7097-e1f0-4b6e-b41f-b45d15437123"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f44e826-96f8-4eac-8e51-8561f8c37da0"", ""inverseOntologyProperty"": """"}]"
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"1 zw/w detailfoto. Notitie in onbekend handschrift: 'Kress 60 g, NGA 1102.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,"Washington, National Gallery of Art",,,,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002314,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4557</priref>
+			<number>AFG_076_015</number>
+			<content>1 zw/w detailfoto. Notitie in onbekend handschrift: 'Kress 60 g, NGA 1102.'</content>
+			<object.object_number>AFG_076</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>foto</editorial_form>
+			<object.title>Temptation of St. Anthony</object.title>
+			<keyword>Washington, National Gallery of Art</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<input.date>2013-05-31</input.date>
+			<edit.date>2014-11-27</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:08:15</edit.time>
+			<input.time>12:10:30</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2314,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2314/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3edfc090-7dc7-52b9-b633-a023caf7ab26"", ""ontologyProperty"": """", ""resourceXresourceId"": ""80e001a3-0151-4a65-8cff-61ac9f7e6f99"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_076_015,repository numbers,,,,,,,,,,,
+0aa63493-e46a-5a31-83a6-a085c760ce5e,tg:rubgr:2314,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_076_015,titles proper,Dutch (language),,,,,,,,

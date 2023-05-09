@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:4207,https://data.rubenianum.be//ark:/86530/b06478cb-3128-532d-a37e-39bade692127,Handschriften,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b0c5f96e-48b3-47a8-a5bf-857367144672"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d5b04cf3-57b0-44db-b20b-50661e33d250"", ""inverseOntologyProperty"": """"}]"
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Malines and German art: Nicolas Hogenberg (Munich 1527-39) in Malines working for Margaret of Austria, see Winkler, Zeitschrift für Kunstwissenschaft 1966; Th. Musper, Jb. der Preuss. Kunstsammlungen 1942, pp. 171ff.; Hollstein IX; Dodgson 1911; Albertina exh. Die Kunst der Graphik. Das Zeitalter Albrecht Dürers, Juni-Okt. 1964; Bartsch, VII, p. 547ff.; Passavant, Peintre-Graveur, III, 1862, p. 46 & 443.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hogenberg, Nikolaus",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mechelen,,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bartsch, Adam von",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,4,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dodgson, Campbell",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,5,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Musper, Theodor",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,6,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passavant, Johann David",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Keywords,7,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winkler, Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000004207,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6460</priref>
+			<number>AFG_111_002</number>
+			<content>Malines and German art: Nicolas Hogenberg (Munich 1527-39) in Malines working for Margaret of Austria, see Winkler, Zeitschrift f&#252;r Kunstwissenschaft 1966; Th. Musper, Jb. der Preuss. Kunstsammlungen 1942, pp. 171ff.; Hollstein IX; Dodgson 1911; Albertina exh. Die Kunst der Graphik. Das Zeitalter Albrecht D&#252;rers, Juni-Okt. 1964; Bartsch, VII, p. 547ff.; Passavant, Peintre-Graveur, III, 1862, p. 46 &amp; 443.</content>
+			<object.object_number>AFG_111</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Bruegel: Notes &amp; Printed Material</object.title>
+			<keyword>Hogenberg, Nikolaus</keyword>
+			<keyword>Mechelen</keyword>
+			<keyword>Bartsch, Adam von</keyword>
+			<keyword>Dodgson, Campbell</keyword>
+			<keyword>Musper, Theodor</keyword>
+			<keyword>Passavant, Johann David</keyword>
+			<keyword>Winkler, Friedrich</keyword>
+			<object.creator/>
+			<input.date>2014-07-07</input.date>
+			<edit.date>2014-07-07</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>09:23:52</edit.time>
+			<input.time>09:22:59</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:4207,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:4207/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1b717f73-1154-514e-a802-8c259259cec0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""27440c81-6030-4173-8254-c90d612e41bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_002,repository numbers,,,,,,,,,,,,,,
+b06478cb-3128-532d-a37e-39bade692127,tg:rubgr:4207,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_111_002,titles proper,Dutch (language),,,,,,,,,,,

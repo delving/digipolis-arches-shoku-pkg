@@ -1,0 +1,42 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3127,https://data.rubenianum.be//ark:/86530/5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,Handschriften,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6b4d7907-077f-415f-b0b8-a798b93a33e4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""709ddcc5-8cb4-4bb4-9902-5fd3458ee96c"", ""inverseOntologyProperty"": """"}]"
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"A. Cornette, De Spreekwoorden van Brueghel, De Kunst der Nederlanden, I, 1930/31, pp. 121-126.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cornette, Arthur",,,,,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003127,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5453</priref>
+			<number>AFG_090_047</number>
+			<content>A. Cornette, De Spreekwoorden van Brueghel, De Kunst der Nederlanden, I, 1930/31, pp. 121-126.</content>
+			<object.object_number>AFG_090</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Lost Pictures &amp; Wrong Attributions to be filed</object.title>
+			<keyword>Cornette, Arthur</keyword>
+			<object.creator/>
+			<input.date>2014-06-12</input.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<edit.date>2014-06-12</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:27:26</edit.time>
+			<edit.time>11:26:40</edit.time>
+			<edit.time>11:22:18</edit.time>
+			<input.time>11:20:29</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3127,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3127/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ce5346ad-370f-5bc0-a5c6-839ec4503d7c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c27d70d9-0f84-48ab-9bf3-ef74fd157ffb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_047,repository numbers,,,,,,,,,,,,,,
+5be5b0c8-dac0-5e2d-9a4f-420f2eb8b69e,tg:rubgr:3127,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_090_047,titles proper,Dutch (language),,,,,,,,,,,

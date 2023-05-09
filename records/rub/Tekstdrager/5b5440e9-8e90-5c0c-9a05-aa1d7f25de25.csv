@@ -1,0 +1,55 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3230,https://data.rubenianum.be//ark:/86530/5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,Handschriften,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:3229,Verwijzing naar Grossmann object,,8376b00f-b286-5f3b-b5d9-6a5a71cdc5ec,"[{""resourceId"": ""8376b00f-b286-5f3b-b5d9-6a5a71cdc5ec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""220c2f4c-7f8f-47a9-bd78-3e02864ed786"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c2f0b55a-60c6-40b8-b22e-31525b1dd1a8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""55de25cf-03d9-48bb-8fc9-0a310fb9e5a1"", ""inverseOntologyProperty"": """"}]"
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] Ad [Addendum] 100. Witt Library. P.B.II. Village Scene (=The Children's Party): 1) E. Slatter. exh. 1943, N° 12;, Panel 19 x 30 cm. lent by George H. Kennedy. Colur reproduction; 2) New York (colour repr.) as 'The Whit - Sun Bride'. New York more delicat. Exhibited at Lanfranconi Gallery Prague 1895. Coll. Gust. Ritter von Hoschek [von Mühlheim], Prague. Ehrich sale, Am.Art Ass. N.Y. 3 Nov. 1927, N° 71, panel, 20 x 31 in. Signed BRVEGHEL; [verso] 3) La Borderei sale. Fischer Lucerne, 19 July 1927, N° 13, Holz 48 x 74 cm, signed and dated 1616; 4) Sale Drouot, Paris, 4 May 1951. P.B.II: 75 La Kermesse enfantine, Bois 46 x 74,5 cm. 'A droite, sous une fenêtre, une signature et une date.'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003230,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5344</priref>
+			<number>AFG_091_034</number>
+			<part_of_reference>AFG_091_033</part_of_reference>
+			<content>[recto] Ad [Addendum] 100. Witt Library. P.B.II. Village Scene (=The Children's Party): 1) E. Slatter. exh. 1943, N&#176; 12;, Panel 19 x 30 cm. lent by George H. Kennedy. Colur reproduction; 2) New York (colour repr.) as 'The Whit - Sun Bride'. New York more delicat. Exhibited at Lanfranconi Gallery Prague 1895. Coll. Gust. Ritter von Hoschek [von M&#252;hlheim], Prague. Ehrich sale, Am.Art Ass. N.Y. 3 Nov. 1927, N&#176; 71, panel, 20 x 31 in. Signed BRVEGHEL; [verso] 3) La Borderei sale. Fischer Lucerne, 19 July 1927, N&#176; 13, Holz 48 x 74 cm, signed and dated 1616; 4) Sale Drouot, Paris, 4 May 1951. P.B.II: 75 La Kermesse enfantine, Bois 46 x 74,5 cm. 'A droite, sous une fen&#234;tre, une signature et une date.'</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>74. Blinder Drehleiermann. [doorstreept: 89]. My N&#176; 100.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<object.creator/>
+			<input.date>2014-06-10</input.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>11:47:13</edit.time>
+			<edit.time>11:42:11</edit.time>
+			<edit.time>11:41:46</edit.time>
+			<edit.time>11:36:35</edit.time>
+			<edit.time>11:34:48</edit.time>
+			<edit.time>11:31:10</edit.time>
+			<input.time>11:27:39</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3230,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3230/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""486a8109-e231-5952-8d69-e43ddefbfbbf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ca7c8163-4d11-4c08-9cbe-dd87ef501a69"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_034,repository numbers,,,,,,,,,,,,,,
+5b5440e9-8e90-5c0c-9a05-aa1d7f25de25,tg:rubgr:3230,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_034,titles proper,Dutch (language),,,,,,,,,,,

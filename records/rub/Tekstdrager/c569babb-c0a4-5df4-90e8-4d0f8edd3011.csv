@@ -1,0 +1,107 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:77,https://data.rubenianum.be//ark:/86530/c569babb-c0a4-5df4-90e8-4d0f8edd3011,Handschriften,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""beb1812a-9523-4b7c-91fd-5bee62c26cc2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""14651127-8132-4a32-bd02-abd16539cbac"", ""inverseOntologyProperty"": """"}]"
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto] [Roger] Fry, [= 'Flemish Art in Burlington House: II. Later schools'] Burl. Mag. L, March 1927, [288], citaat p. 137; [verso] vervolg citaat.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13234709,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_ExternalRelationsExtras,a::rub.7,ow.link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,online catalogs,262344,https://rkd.nl/nl/explore/images/,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fry, Roger",,,,,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000077,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>2316</priref>
+			<number>AFG_003_005</number>
+			<content>[recto] [Roger] Fry, [= 'Flemish Art in Burlington House: II. Later schools'] Burl. Mag. L, March 1927, [288], citaat p. 137; [verso] vervolg citaat.</content>
+			<object.object_number>AFG_003</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Landscape with the fall of Icarus</object.title>
+			<keyword>Fry, Roger</keyword>
+			<keyword>Brussel, Koninklijke Musea voor Schone Kunsten van Belgi&#235;</keyword>
+			<object.creator>Bruegel, Pieter I (kopie naar)</object.creator>
+			<documentation.author>Fry, Roger</documentation.author>
+			<input.date>2011-08-19</input.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2014-08-21</edit.date>
+			<edit.date>2012-01-03</edit.date>
+			<edit.date>2011-10-27</edit.date>
+			<edit.date>2011-10-27</edit.date>
+			<edit.date>2011-10-27</edit.date>
+			<edit.date>2011-10-19</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-10-18</edit.date>
+			<edit.date>2011-09-02</edit.date>
+			<edit.date>2011-08-31</edit.date>
+			<edit.date>2011-08-31</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-29</edit.date>
+			<edit.date>2011-08-19</edit.date>
+			<edit.date>2011-08-19</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Flemish Art at Burlington House : II : The Later Schools*</documentation.title>
+			<edit.time>15:13:57</edit.time>
+			<edit.time>15:13:25</edit.time>
+			<edit.time>15:18:51</edit.time>
+			<edit.time>13:33:28</edit.time>
+			<edit.time>13:31:55</edit.time>
+			<edit.time>13:29:08</edit.time>
+			<edit.time>10:29:04</edit.time>
+			<edit.time>13:20:33</edit.time>
+			<edit.time>13:18:14</edit.time>
+			<edit.time>10:49:03</edit.time>
+			<edit.time>15:30:22</edit.time>
+			<edit.time>11:27:06</edit.time>
+			<edit.time>11:17:07</edit.time>
+			<edit.time>09:45:58</edit.time>
+			<edit.time>09:45:48</edit.time>
+			<edit.time>09:51:52</edit.time>
+			<edit.time>09:27:33</edit.time>
+			<input.time>09:15:20</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:77,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:77/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""579bb9d8-7f80-51cf-a22d-56aa97a3e361"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0e17b09e-6748-435c-a420-9a1f4dfe469e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_OriginalBrocade,,,au::10517,,,,,,,,,,,,,,rub,52eca42b-9f44-5cb3-a2e2-61627f08810c,kw,,au::10517:1,au::10517g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1125319"",""au::10517"",""au::10517:1"",""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""Koninklijke Musea voor Schone Kunsten van België""],""name"":""Koninklijke Musea voor Schone Kunsten van België"",""ark"":""ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c"",""uri"":""/agents/corporate_entities/1125319"",""id"":""au::10517:1"",""isCapacity"":false}",ark:/83110/x0/52eca42b-9f44-5cb3-a2e2-61627f08810c,agent,,,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_005,repository numbers,,,,,,,,,,,,,,
+c569babb-c0a4-5df4-90e8-4d0f8edd3011,tg:rubgr:77,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_003_005,titles proper,Dutch (language),,,,,,,,,,,

@@ -1,0 +1,37 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3842,https://data.rubenianum.be//ark:/86530/a5283ced-6276-51db-b98c-c001a0181729,Handschriften,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,gerelateerd onderdeel,tg:rubgr:3845,Verwijzing naar Grossmann object,,899c6b7f-29e4-528f-be98-651fa68f4684,"[{""resourceId"": ""899c6b7f-29e4-528f-be98-651fa68f4684"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b6611e8b-50d6-4c83-8ad6-26a073753afc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b1ffc0bb-e774-4b4e-8337-4f9917e54610"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ae8f8e1-3e0e-493d-aa28-174e637f8819"", ""inverseOntologyProperty"": """"}]"
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fitzwilliam Museum, Cambridge. Master of the Small Landscpaes.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003842,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>6095</priref>
+			<number>AFG_100_018</number>
+			<content>Fitzwilliam Museum, Cambridge. Master of the Small Landscpaes.</content>
+			<object.object_number>AFG_100</object.object_number>
+			<object.object_name/>
+			<parts.title/>
+			<parts.title>[Briefhoofd: Fitzwilliam Museum, Cambridge] Korte inhoud: Dankt voor foto van Oliver.</parts.title>
+			<class>AFG</class>
+			<editorial_form>bundel</editorial_form>
+			<object.title>Small Landscapes Series</object.title>
+			<object.creator/>
+			<input.date>2014-06-25</input.date>
+			<edit.date>2014-06-25</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<parts_reference/>
+			<parts_reference>AFG_100_021</parts_reference>
+			<edit.time>14:05:49</edit.time>
+			<input.time>13:45:40</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3842,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3842/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ccd02c57-4828-53ee-bd19-f172c9719bf0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""157c9709-b43b-4c0a-9c3c-907f74567275"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_018,repository numbers,,,,,,,,,,,,,,
+a5283ced-6276-51db-b98c-c001a0181729,tg:rubgr:3842,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_100_018,titles proper,Dutch (language),,,,,,,,,,,

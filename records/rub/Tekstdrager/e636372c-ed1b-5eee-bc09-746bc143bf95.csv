@@ -1,0 +1,33 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:5246,https://data.rubenianum.be//ark:/86530/e636372c-ed1b-5eee-bc09-746bc143bf95,Handschriften,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6cb39c21-8451-46f3-a973-34c6a3ac181a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2c62306c-b0d2-4a07-9214-44d0ea724c19"", ""inverseOntologyProperty"": """"}]"
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Ortelius-Sammlung. F. Winkler, 'Enige Ergebnisse der Van Eyckforschung', Actes du XVIIe Congrès internationale d'histoire de l'art, Amsterdam 23-31 juillet 1952, La Haye 1955, pp. 237-246 [...]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Winkler, Friedrich",,,,,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000005246,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>7502</priref>
+			<number>AFG_144_030</number>
+			<content>Ad [Addendum] Ortelius-Sammlung. F. Winkler, 'Enige Ergebnisse der Van Eyckforschung', Actes du XVIIe Congr&#232;s internationale d'histoire de l'art, Amsterdam 23-31 juillet 1952, La Haye 1955, pp. 237-246 [...]</content>
+			<object.object_number>AFG_144</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Ortelius (also Lecture), Religion</object.title>
+			<keyword>Ortelius, Abraham</keyword>
+			<keyword>Winkler, Friedrich</keyword>
+			<object.creator/>
+			<input.date>2014-08-18</input.date>
+			<input.name>Centrum</input.name>
+			<input.time>13:39:54</input.time>
+			<input.source>archive</input.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:5246,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:5246/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""941c2950-aa8a-579d-83e6-b693c873cff0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""577c7829-6ec5-415a-a155-94c96d3990b7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_OriginalBrocade,,,au::14164,,,,,,,,,,,,,,rub,80abb133-7c38-5ef5-aa40-d82d46a3245d,kw,,au::14164:1,au::14164g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1515548"",""au::14164"",""au::14164:1"",""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""Abraham Ortelius""],""name"":""Abraham Ortelius"",""ark"":""ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d"",""uri"":""/agents/people/1515548"",""id"":""au::14164:1"",""isCapacity"":false}",ark:/83110/x0/80abb133-7c38-5ef5-aa40-d82d46a3245d,agent,,,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_144_030,repository numbers,,,,,,,,,,,,,,
+e636372c-ed1b-5eee-bc09-746bc143bf95,tg:rubgr:5246,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_144_030,titles proper,Dutch (language),,,,,,,,,,,

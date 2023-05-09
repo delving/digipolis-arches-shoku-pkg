@@ -1,0 +1,62 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2421,https://data.rubenianum.be//ark:/86530/ada1851d-1d0e-5b5c-87a7-73534c123094,Handschriften,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a378db3a-cdec-40a4-9eef-f255789ebea6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""398047cb-21e8-46f1-8118-ad56b8aba219"", ""inverseOntologyProperty"": """"}]"
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Nagler, Künstler-Lexikon, XIV, 1845, Egidius Sadeler, citaat p. 155, 64) Die Porträts der Zwölf ersten römischen Cäsaren und deren Frauen [...]; [Notitie FG]: 'Could the 12 portraits of women in the long gallery refer to the wives of the 12 Caesars? And what relation is there with Egidius Sadeler?'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13261985,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sadeler, Aegidius",,,,,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002421,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>4658</priref>
+			<number>AFG_081_006</number>
+			<content>Nagler, K&#252;nstler-Lexikon, XIV, 1845, Egidius Sadeler, citaat p. 155, 64) Die Portr&#228;ts der Zw&#246;lf ersten r&#246;mischen C&#228;saren und deren Frauen [...]; [Notitie FG]: 'Could the 12 portraits of women in the long gallery refer to the wives of the 12 Caesars? And what relation is there with Egidius Sadeler?'</content>
+			<object.object_number>AFG_081</object.object_number>
+			<object.object_name>schilderij</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Pittura as War</object.title>
+			<keyword>Sadeler, Aegidius</keyword>
+			<keyword>Titiaan</keyword>
+			<object.creator>Breughel, Jan I</object.creator>
+			<documentation.author>Nagler, Georg Kaspar</documentation.author>
+			<input.date>2013-08-23</input.date>
+			<edit.date>2015-01-08</edit.date>
+			<edit.date>2013-08-23</edit.date>
+			<edit.date>2013-08-23</edit.date>
+			<edit.date>2013-08-23</edit.date>
+			<edit.date>2013-08-23</edit.date>
+			<edit.date>2013-08-23</edit.date>
+			<input.name>valkeneers</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<edit.name>valkeneers</edit.name>
+			<documentation.shelfmark>e-doc: 1D2_1904_ea_pdfs</documentation.shelfmark>
+			<documentation.title>Neues allgemeines K&#252;nstler-Lexikon : oder : Nachrichten von dem Leben und den Werken der Maler, Bildhauer, Baumeister, Kupferstecher, Lithographen, Formschneider, Zeichner, Medailleure, Elfenbeinarbeiter etc.</documentation.title>
+			<edit.time>15:33:31</edit.time>
+			<edit.time>14:09:36</edit.time>
+			<edit.time>11:37:20</edit.time>
+			<edit.time>11:37:12</edit.time>
+			<edit.time>11:35:53</edit.time>
+			<edit.time>11:35:39</edit.time>
+			<input.time>11:33:34</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article/>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2421,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2421/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""10e21806-f670-5ecd-a96f-1fb1de89ba97"", ""ontologyProperty"": """", ""resourceXresourceId"": ""96ce8ebe-4223-45f1-a716-850e5d062001"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_OriginalBrocade,,,au::107101,,,,,,,,,,,,,,rub,701bc0d1-6796-5c14-bf2a-e3ef2f567d47,kw,,au::107101:1,au::107101g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/11459807"",""au::107101"",""au::107101:1"",""ark:/83110/x0/701bc0d1-6796-5c14-bf2a-e3ef2f567d47"",""Tiziano""],""name"":""Tiziano"",""ark"":""ark:/83110/x0/701bc0d1-6796-5c14-bf2a-e3ef2f567d47"",""uri"":""/agents/people/11459807"",""id"":""au::107101:1"",""isCapacity"":false}",ark:/83110/x0/701bc0d1-6796-5c14-bf2a-e3ef2f567d47,agent,,,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_081_006,repository numbers,,,,,,,,,,,,,,
+ada1851d-1d0e-5b5c-87a7-73534c123094,tg:rubgr:2421,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_081_006,titles proper,Dutch (language),,,,,,,,,,,

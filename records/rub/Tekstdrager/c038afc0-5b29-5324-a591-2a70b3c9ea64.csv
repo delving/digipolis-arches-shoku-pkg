@@ -1,0 +1,81 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3197,https://data.rubenianum.be//ark:/86530/c038afc0-5b29-5324-a591-2a70b3c9ea64,Handschriften,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e7206e6e-15bf-414f-bcb2-badd7782de0a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ed0f8f36-bf72-474d-b2ef-d74277b34d36"", ""inverseOntologyProperty"": """"}]"
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Zum Verlorenen Sohnes: Michiel sah im Hause des Kardinals Grimani 1521: 'La tela delle Fortuna cum et ceto [...](= Hieronymus Bosch); Anonimo Morelliano, ed. The Trimmel 1888, p. 102.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13262056,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Grimani, Domenico (kardinaal)",,,,,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frimmel, Theodor von",,,,,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_Keywords,3,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Michiel, Marcantonio",,,,,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003197,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5311</priref>
+			<number>AFG_091_001</number>
+			<content>Zum Verlorenen Sohnes: Michiel sah im Hause des Kardinals Grimani 1521: 'La tela delle Fortuna cum et ceto [...](= Hieronymus Bosch); Anonimo Morelliano, ed. The Trimmel 1888, p. 102.</content>
+			<object.object_number>AFG_091</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<class>AFG</class>
+			<editorial_form>Referentie</editorial_form>
+			<object.title>Wrong Attributions Nos. 91-107</object.title>
+			<keyword>Bosch, Jheronimus</keyword>
+			<keyword>Grimani, Domenico (kardinaal)</keyword>
+			<keyword>Frimmel, Theodor von</keyword>
+			<keyword>Michiel, Marcantonio</keyword>
+			<object.creator/>
+			<documentation.author>Frimmel, Theodor von</documentation.author>
+			<input.date>2014-06-06</input.date>
+			<edit.date>2014-11-07</edit.date>
+			<edit.date>2014-06-10</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<edit.date>2014-06-06</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<edit.name>Centrum</edit.name>
+			<documentation.shelfmark/>
+			<documentation.title>Anonimo Morelliano (Marcanton Michiel's notizia d' opere del disegno) : Text und &#220;bersetzung</documentation.title>
+			<edit.time>16:44:42</edit.time>
+			<edit.time>10:13:27</edit.time>
+			<edit.time>13:44:44</edit.time>
+			<edit.time>13:44:25</edit.time>
+			<edit.time>13:44:06</edit.time>
+			<edit.time>13:41:53</edit.time>
+			<edit.time>13:41:33</edit.time>
+			<edit.time>13:41:23</edit.time>
+			<edit.time>13:34:33</edit.time>
+			<edit.time>13:30:10</edit.time>
+			<input.time>13:25:31</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<edit.source>archive</edit.source>
+			<documentation.title.article>Der</documentation.title.article>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3197,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3197/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b83e0645-9bfd-5378-bdcd-114280849ccf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""29d450aa-51c1-40f6-aea7-532aec82e3bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_OriginalBrocade,,,au::2463,,,,,,,,,,,,,,rub,415d3970-81f1-5551-a6e8-42f5af0b534e,kw,,au::2463:1,au::2463g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/263541"",""au::2463"",""au::2463:1"",""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""Jeroen Bosch""],""name"":""Jeroen Bosch"",""ark"":""ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e"",""uri"":""/agents/people/263541"",""id"":""au::2463:1"",""isCapacity"":false}",ark:/83110/x0/415d3970-81f1-5551-a6e8-42f5af0b534e,agent,,,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_001,repository numbers,,,,,,,,,,,,,,
+c038afc0-5b29-5324-a591-2a70b3c9ea64,tg:rubgr:3197,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_091_001,titles proper,Dutch (language),,,,,,,,,,,

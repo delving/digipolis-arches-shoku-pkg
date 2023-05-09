@@ -1,0 +1,35 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:2849,https://data.rubenianum.be//ark:/86530/12ff09be-ca1f-598d-87a5-b409e917bc7b,Handschriften,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_AssociatedRecords,1,,,,,,,,,rubgr_tekstdrager,relatie naar geheel,tg:rubgr:2848,Verwijzing naar Grossmann object,,80d06081-5b16-50b6-8e6c-c59a8dc0a87b,"[{""resourceId"": ""80d06081-5b16-50b6-8e6c-c59a8dc0a87b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ffb71854-5862-4d20-a0c1-efa87a6308cb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""13a4b8a2-eaf5-483c-863f-488312f9c672"", ""ontologyProperty"": """", ""resourceXresourceId"": ""12d0bd3b-b854-41e4-8d7e-9202d40f0454"", ""inverseOntologyProperty"": """"}]"
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[recto-verso] Genre, Stilleben, Landschaft. Es gibt unter dem Gemälden keine reine Landschaft [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000002849,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
+			<priref>5091</priref>
+			<number>AFG_086_107</number>
+			<part_of_reference>AFG_086_106</part_of_reference>
+			<content>[recto-verso] Genre, Stilleben, Landschaft. Es gibt unter dem Gem&#228;lden keine reine Landschaft [...][scan]</content>
+			<object.object_number>AFG_086</object.object_number>
+			<object.object_name>Dossier</object.object_name>
+			<part_of.title>Bruegel. Landscape.</part_of.title>
+			<class>AFG</class>
+			<editorial_form>Notitie</editorial_form>
+			<object.title>Bruegel. Introduction, Inventories</object.title>
+			<object.creator/>
+			<input.date>2014-03-28</input.date>
+			<edit.date>2014-03-28</edit.date>
+			<input.name>Centrum</input.name>
+			<edit.name>Centrum</edit.name>
+			<edit.time>14:41:18</edit.time>
+			<input.time>14:39:25</input.time>
+			<input.source>archive</input.source>
+			<edit.source>archive</edit.source>
+		</record>
+		
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:2849,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:2849/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""008ea550-a856-581c-98af-f1038db5dd38"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b92fe310-8f11-4316-901d-fc108b15c5b4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_107,repository numbers,,,,,,,,,,,,,,
+12ff09be-ca1f-598d-87a5-b409e917bc7b,tg:rubgr:2849,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_086_107,titles proper,Dutch (language),,,,,,,,,,,
