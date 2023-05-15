@@ -672,25 +672,6 @@
                 },
                 {
                     "active": true,
-                    "cardid": "ee25e630-a702-11ed-8ace-96a6d245525a",
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
-                    "config": null,
-                    "constraints": [],
-                    "cssclass": null,
-                    "description": "",
-                    "graph_id": "864d0758-ac0f-11ec-b19f-9cf387da2c40",
-                    "helpenabled": false,
-                    "helptext": null,
-                    "helptitle": null,
-                    "instructions": null,
-                    "is_editable": true,
-                    "name": "Image Manifest",
-                    "nodegroup_id": "ee25e54a-a702-11ed-8ace-96a6d245525a",
-                    "sortorder": null,
-                    "visible": true
-                },
-                {
-                    "active": true,
                     "cardid": "f8ba0bda-b03e-11ec-b0d6-960000cf02df",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -2133,7 +2114,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "864d0758-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "bb65d2dd-b022-4d7a-a5e2-4622c5b430fd"
+                    "id": "d7c337e7-d039-46b0-8aba-b2290cce14cc"
                 }
             ],
             "graphid": "864d0758-ac0f-11ec-b19f-9cf387da2c40",
@@ -2329,12 +2310,6 @@
                     "legacygroupid": null,
                     "nodegroupid": "c40eff16-a703-11ed-8ace-96a6d245525a",
                     "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "ee25e54a-a702-11ed-8ace-96a6d245525a",
-                    "parentnodegroup_id": "23abf6b0-a6c1-11ed-a9f8-96a6d245525a"
                 },
                 {
                     "cardinality": "n",
@@ -4835,12 +4810,12 @@
                     "fieldname": null,
                     "graph_id": "864d0758-ac0f-11ec-b19f-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": true,
+                    "is_collector": false,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "Image Manifest",
-                    "nodegroup_id": "ee25e54a-a702-11ed-8ace-96a6d245525a",
+                    "nodegroup_id": "23abf6b0-a6c1-11ed-a9f8-96a6d245525a",
                     "nodeid": "ee25e54a-a702-11ed-8ace-96a6d245525a",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
@@ -4862,7 +4837,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "DAMS Manifest Type",
-                    "nodegroup_id": "ee25e54a-a702-11ed-8ace-96a6d245525a",
+                    "nodegroup_id": "23abf6b0-a6c1-11ed-a9f8-96a6d245525a",
                     "nodeid": "ee25e6c6-a702-11ed-8ace-96a6d245525a",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -5111,6 +5086,6 @@
         "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
         "os": "Darwin",
-        "os version": "22.3.0"
+        "os version": "22.4.0"
     }
 }

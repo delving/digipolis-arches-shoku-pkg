@@ -5,25 +5,6 @@
             "cards": [
                 {
                     "active": true,
-                    "cardid": "1bb0c746-a703-11ed-8ace-96a6d245525a",
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
-                    "config": null,
-                    "constraints": [],
-                    "cssclass": null,
-                    "description": "",
-                    "graph_id": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
-                    "helpenabled": false,
-                    "helptext": null,
-                    "helptitle": null,
-                    "instructions": null,
-                    "is_editable": true,
-                    "name": "Image Manifest",
-                    "nodegroup_id": "1bb0c638-a703-11ed-8ace-96a6d245525a",
-                    "sortorder": null,
-                    "visible": true
-                },
-                {
-                    "active": true,
                     "cardid": "5523bc08-83eb-11ed-84db-9cf387da2c40",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -730,6 +711,21 @@
             ],
             "cards_x_nodes_x_widgets": [
                 {
+                    "card_id": "84e0afd4-a6c1-11ed-a9f8-96a6d245525a",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "DAMS Manifest Type",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "1e1aeee8-a764-46c4-a024-0eba2321b9b9",
+                    "label": "DAMS Manifest Type",
+                    "node_id": "1bb0c7e6-a703-11ed-8ace-96a6d245525a",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "647455d2-ac0f-11ec-b19f-9cf387da2c40",
                     "config": {
                         "defaultValue": "",
@@ -745,6 +741,23 @@
                     "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "84e0afd4-a6c1-11ed-a9f8-96a6d245525a",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Image Manifest",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2e25621b-27ce-4157-98bb-bedd94ec2d9b",
+                    "label": "Image Manifest",
+                    "node_id": "1bb0c638-a703-11ed-8ace-96a6d245525a",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "47d55cca-250a-4eba-959a-2e1af8871341"
                 },
                 {
                     "card_id": "647455d2-ac0f-11ec-b19f-9cf387da2c40",
@@ -849,7 +862,7 @@
                     "id": "9bed3b5a-67cf-4e13-b8f1-2103ece7ba26",
                     "label": "DAMS URL Type",
                     "node_id": "84e0b1aa-a6c1-11ed-a9f8-96a6d245525a",
-                    "sortorder": null,
+                    "sortorder": 1,
                     "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -878,7 +891,7 @@
                     "id": "e78a98b8-7dfc-4d73-9785-0eb5b1b75502",
                     "label": "Image URL",
                     "node_id": "84e0b06a-a6c1-11ed-a9f8-96a6d245525a",
-                    "sortorder": null,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
                 }
@@ -2077,7 +2090,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "634618d7-0e37-4391-9efc-0e0e0e14e75c"
+                    "id": "f1d064db-2b37-4951-b54d-c6f1f9fecbe9"
                 }
             ],
             "graphid": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
@@ -2088,12 +2101,6 @@
             "jsonldcontext": null,
             "name": "Tekstdrager_material",
             "nodegroups": [
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "1bb0c638-a703-11ed-8ace-96a6d245525a",
-                    "parentnodegroup_id": "84e0aeda-a6c1-11ed-a9f8-96a6d245525a"
-                },
                 {
                     "cardinality": "n",
                     "legacygroupid": null,
@@ -2303,12 +2310,12 @@
                     "fieldname": null,
                     "graph_id": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": true,
+                    "is_collector": false,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "Image Manifest",
-                    "nodegroup_id": "1bb0c638-a703-11ed-8ace-96a6d245525a",
+                    "nodegroup_id": "84e0aeda-a6c1-11ed-a9f8-96a6d245525a",
                     "nodeid": "1bb0c638-a703-11ed-8ace-96a6d245525a",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
@@ -2330,7 +2337,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "DAMS Manifest Type",
-                    "nodegroup_id": "1bb0c638-a703-11ed-8ace-96a6d245525a",
+                    "nodegroup_id": "84e0aeda-a6c1-11ed-a9f8-96a6d245525a",
                     "nodeid": "1bb0c7e6-a703-11ed-8ace-96a6d245525a",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -5055,6 +5062,6 @@
         "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
         "os": "Darwin",
-        "os version": "22.3.0"
+        "os version": "22.4.0"
     }
 }
