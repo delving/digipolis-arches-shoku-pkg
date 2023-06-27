@@ -61,7 +61,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Archief",
                     "nodegroup_id": "64742a26-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 8,
@@ -80,7 +80,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Objectnummer",
                     "nodegroup_id": "647435f2-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 1,
@@ -109,7 +109,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Items",
                     "nodegroup_id": "64744196-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 11,
@@ -135,7 +135,7 @@
                     "helptext": null,
                     "helptitle": "Gebruiksbeperkingen",
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Gebruiksbeperkingen",
                     "nodegroup_id": "64744e66-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 22,
@@ -254,7 +254,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Bewaarinstelling",
                     "nodegroup_id": "647493b2-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 5,
@@ -299,7 +299,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Identificatie",
                     "nodegroup_id": "6474b0fe-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 2,
@@ -344,7 +344,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Objecttype",
                     "nodegroup_id": "6474e2a4-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 0,
@@ -401,7 +401,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Afmeting",
                     "nodegroup_id": "64750270-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": null,
@@ -420,7 +420,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Afmetingen",
                     "nodegroup_id": "6475089c-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 17,
@@ -574,7 +574,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Afbeeldingen",
                     "nodegroup_id": "84e0aeda-a6c1-11ed-a9f8-96a6d245525a",
                     "sortorder": 10,
@@ -638,7 +638,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Restriction Type",
                     "nodegroup_id": "a0bde6b8-a6c1-11ed-a9f8-96a6d245525a",
                     "sortorder": null,
@@ -657,7 +657,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Aanwinst",
                     "nodegroup_id": "c4d24d9c-b6fc-11ec-b41d-9cf387da2c40",
                     "sortorder": 0,
@@ -702,7 +702,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Aanwinsten",
                     "nodegroup_id": "c4d25526-b6fc-11ec-b41d-9cf387da2c40",
                     "sortorder": 9,
@@ -741,159 +741,6 @@
                     "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
-                },
-                {
-                    "card_id": "84e0afd4-a6c1-11ed-a9f8-96a6d245525a",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Image Manifest",
-                        "maxLength": null,
-                        "placeholder": "Enter text",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "2e25621b-27ce-4157-98bb-bedd94ec2d9b",
-                    "label": "Image Manifest",
-                    "node_id": "1bb0c638-a703-11ed-8ace-96a6d245525a",
-                    "sortorder": 2,
-                    "visible": true,
-                    "widget_id": "47d55cca-250a-4eba-959a-2e1af8871341"
-                },
-                {
-                    "card_id": "647455d2-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Usage Restriction Note Language",
-                        "options": [],
-                        "placeholder": "Select an option"
-                    },
-                    "id": "3adbc618-ed8f-4cf8-a10b-8674bd0982cd",
-                    "label": "Usage Restriction Note Language",
-                    "node_id": "64755aae-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 2,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "5523bc08-83eb-11ed-84db-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Taal",
-                        "options": [],
-                        "placeholder": "Maak een keuze"
-                    },
-                    "id": "5523c284-83eb-11ed-84db-9cf387da2c40",
-                    "label": "Taal",
-                    "node_id": "5523c14e-83eb-11ed-84db-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "64750478-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Aantal (millimeter)",
-                        "maxLength": null,
-                        "placeholder": "Vul tekst in",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "6475866e-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": "Aantal (millimeter)",
-                    "node_id": "6475785e-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 1,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000001"
-                },
-                {
-                    "card_id": "64750478-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Dimension Type",
-                        "options": [],
-                        "placeholder": "Maak een keuze"
-                    },
-                    "id": "647586aa-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": "Dimension Type",
-                    "node_id": "64755f4a-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": null,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "64750478-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Dimension Measurement Unit",
-                        "options": [],
-                        "placeholder": "Maak een keuze"
-                    },
-                    "id": "647586dc-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": "Dimension Measurement Unit",
-                    "node_id": "64756bb6-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": null,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "647455d2-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Usage Restriction Note Type",
-                        "options": [],
-                        "placeholder": "Select an option"
-                    },
-                    "id": "6e57d95b-086c-45d0-bf74-7ed8475b4063",
-                    "label": "Usage Restriction Note Type",
-                    "node_id": "64757a8e-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 3,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "84e0afd4-a6c1-11ed-a9f8-96a6d245525a",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "DAMS URL Type",
-                        "options": [],
-                        "placeholder": "Select an option"
-                    },
-                    "id": "9bed3b5a-67cf-4e13-b8f1-2103ece7ba26",
-                    "label": "DAMS URL Type",
-                    "node_id": "84e0b1aa-a6c1-11ed-a9f8-96a6d245525a",
-                    "sortorder": 1,
-                    "visible": false,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                },
-                {
-                    "card_id": "647455d2-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Restriction Revision Date",
-                        "placeholder": ""
-                    },
-                    "id": "e5beda2d-fa86-49f7-adc2-904971961190",
-                    "label": "Restriction Revision Date",
-                    "node_id": "64755950-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
-                },
-                {
-                    "card_id": "84e0afd4-a6c1-11ed-a9f8-96a6d245525a",
-                    "config": {
-                        "label": "Image URL",
-                        "link_color": "#0055a0",
-                        "url_label_placeholder": "Enter URL Label... ",
-                        "url_placeholder": "Enter URL... "
-                    },
-                    "id": "e78a98b8-7dfc-4d73-9785-0eb5b1b75502",
-                    "label": "Image URL",
-                    "node_id": "84e0b06a-a6c1-11ed-a9f8-96a6d245525a",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
                 }
             ],
             "color": null,
@@ -2090,12 +1937,12 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "f1d064db-2b37-4951-b54d-c6f1f9fecbe9"
+                    "id": "97ed6ff1-5f2b-480c-90b1-945b204f2e54"
                 }
             ],
             "graphid": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
             "iconclass": "fa fa-envelope",
-            "is_editable": true,
+            "is_editable": false,
             "isactive": true,
             "isresource": true,
             "jsonldcontext": null,

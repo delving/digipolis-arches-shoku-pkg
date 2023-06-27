@@ -1,0 +1,9 @@
+{
+    "name": "iiif-tify-ext",
+    "component": "views/components/widgets/iiif-tify-ext",
+    "defaultconfig": {
+      "defaultValue": "https://dams.antwerpen.be/iiif/Y2EVfKhVOviem9nJqQNbUnS6/manifest"
+    },
+    "helptext": null,
+    "datatype": "string"
+}

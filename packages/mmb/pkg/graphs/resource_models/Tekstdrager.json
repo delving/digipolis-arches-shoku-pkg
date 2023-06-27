@@ -244,7 +244,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Rechten",
                     "nodegroup_id": "26880250-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 16,
@@ -304,7 +304,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Datering",
                     "nodegroup_id": "26880f34-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 2,
@@ -361,7 +361,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Actoren",
                     "nodegroup_id": "26881f10-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 0,
@@ -387,11 +387,11 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Creatie",
                     "nodegroup_id": "26882456-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 5,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -578,7 +578,7 @@
                     "name": "Onderwerpen",
                     "nodegroup_id": "26885494-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 11,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -612,7 +612,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Toelichtingen",
                     "nodegroup_id": "2688643e-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 13,
@@ -1191,6 +1191,55 @@
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
+                    "card_id": "26885944-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Widget",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "279789c2-4d14-4894-9dbf-5596772cd933",
+                    "label": "Connected Subject Widget",
+                    "node_id": "268880a4-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "26885944-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2df450d8-acd0-4ef9-be6a-b3d47b2c76c8",
+                    "label": "Connected Subject Note",
+                    "node_id": "2688ae26-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "26885944-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Language",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "2e54df1f-ec8e-4769-81de-f578f61604e0",
+                    "label": "Connected Subject Note Language",
+                    "node_id": "2688af52-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "26880534-ac0f-11ec-b19f-9cf387da2c40",
                     "config": {
                         "defaultValue": "",
@@ -1221,6 +1270,21 @@
                     "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "26885944-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Type",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "5af715d7-3720-4c23-81b8-fe6e33ad32c5",
+                    "label": "Connected Subject Note Type",
+                    "node_id": "2688aebc-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "26880534-ac0f-11ec-b19f-9cf387da2c40",
@@ -2660,7 +2724,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "26879842-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "c2947b76-01ac-4bc1-8f34-553beabadf16"
+                    "id": "fe524be6-ec18-46d7-83a9-eb3cdb3dd967"
                 }
             ],
             "graphid": "26879842-ac0f-11ec-b19f-9cf387da2c40",
@@ -6108,6 +6172,6 @@
         "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
         "os": "Darwin",
-        "os version": "22.3.0"
+        "os version": "22.4.0"
     }
 }

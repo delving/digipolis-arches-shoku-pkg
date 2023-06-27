@@ -61,7 +61,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Identificatie",
                     "nodegroup_id": "2f6249d8-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 2,
@@ -106,7 +106,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Record type",
                     "nodegroup_id": "2f62577a-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 0,
@@ -154,7 +154,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Beschrijving",
                     "nodegroup_id": "2f6260ee-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 7,
@@ -180,7 +180,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Externe relaties",
                     "nodegroup_id": "2f627066-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 17,
@@ -199,7 +199,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Objectnummer",
                     "nodegroup_id": "2f6286f0-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 1,
@@ -225,7 +225,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Rechten",
                     "nodegroup_id": "2f62906e-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 16,
@@ -285,7 +285,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Datering",
                     "nodegroup_id": "2f62ac52-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 2,
@@ -342,7 +342,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Actoren",
                     "nodegroup_id": "2f62d240-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 0,
@@ -368,11 +368,11 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Creatie",
                     "nodegroup_id": "2f62e096-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 5,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -394,7 +394,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Andere identificatiecodes",
                     "nodegroup_id": "2f62eca8-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 4,
@@ -439,7 +439,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Fysieke exemplaren",
                     "nodegroup_id": "2f630f30-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 15,
@@ -559,7 +559,7 @@
                     "name": "Onderwerpen",
                     "nodegroup_id": "2f633348-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 11,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -574,7 +574,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Talen",
                     "nodegroup_id": "2f633cf8-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 12,
@@ -593,7 +593,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Toelichtingen",
                     "nodegroup_id": "2f6343a6-a5fe-11ec-b19f-9cf387da2c40",
                     "sortorder": 13,
@@ -917,6 +917,70 @@
                     "sortorder": 1,
                     "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "2f633a78-a5fe-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Language",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "53b8e667-48bb-479b-ac06-73726b743ea3",
+                    "label": "Connected Subject Note Language",
+                    "node_id": "2f63a990-a5fe-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "2f633a78-a5fe-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Type",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "876ad4a2-118e-4567-901b-88b6f342de0a",
+                    "label": "Connected Subject Note Type",
+                    "node_id": "2f63a8f0-a5fe-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "2f633a78-a5fe-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Widget",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "a716983b-26ee-40c7-a546-fff9a19bbe24",
+                    "label": "Connected Subject Widget",
+                    "node_id": "2f635da0-a5fe-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "2f633a78-a5fe-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "e0f42356-4bdb-4ac5-a3a8-83a82df7f885",
+                    "label": "Connected Subject Note",
+                    "node_id": "2f63a846-a5fe-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 }
             ],
             "color": null,
@@ -2327,12 +2391,12 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "2f62301a-a5fe-11ec-b19f-9cf387da2c40",
-                    "id": "2eda6cd8-7c2e-47cd-b219-c36de9b9691a"
+                    "id": "1dded642-6a6a-4fd5-bc35-3c6f3df147be"
                 }
             ],
             "graphid": "2f62301a-a5fe-11ec-b19f-9cf387da2c40",
             "iconclass": "fa fa-envelope",
-            "is_editable": true,
+            "is_editable": false,
             "isactive": true,
             "isresource": true,
             "jsonldcontext": null,
@@ -5819,6 +5883,6 @@
         "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
         "os": "Darwin",
-        "os version": "22.3.0"
+        "os version": "22.4.0"
     }
 }

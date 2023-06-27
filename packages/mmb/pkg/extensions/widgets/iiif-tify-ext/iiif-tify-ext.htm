@@ -1,0 +1,23 @@
+{% extends "views/components/widgets/base.htm" %}
+{% load i18n %}
+
+{% block form %}
+<div class="row widget-wrapper">
+    <div class="form-group">
+        <label class="control-label widget-input-label" for="" data-bind="text: label"></label>
+        <div class="col-xs-12">
+            <input type="text" data-bind="textInput: currentURL" class="form-control input-lg widget-input" style="margin-bottom: 5px;">
+        </div>
+    </div>
+</div>
+{% endblock form %}
+
+{% block config_form %}
+{% endblock config_form %}
+
+{% block report %}
+<dt data-bind="text: label"></dt>
+<dd>
+  <div data-bind="iiifTifyExt: currentURL" style="height: 600px; width: 800px; margin-bottom: 2px;"></div>
+</dd>
+{% endblock report %}

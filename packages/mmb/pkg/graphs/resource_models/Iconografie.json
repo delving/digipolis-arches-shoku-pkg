@@ -342,7 +342,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Datering",
                     "nodegroup_id": "4a8f2f52-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 2,
@@ -399,7 +399,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Actoren",
                     "nodegroup_id": "4a8f4050-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 0,
@@ -425,11 +425,11 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Creatie",
                     "nodegroup_id": "4a8f45d2-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 5,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -616,7 +616,7 @@
                     "name": "Onderwerpen",
                     "nodegroup_id": "4a8f79ee-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 10,
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "active": true,
@@ -650,7 +650,7 @@
                     "helptext": null,
                     "helptitle": null,
                     "instructions": null,
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": "Toelichtingen",
                     "nodegroup_id": "4a8f83f8-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": 12,
@@ -811,6 +811,23 @@
                     "id": "0c72fc72-a508-49a4-a256-15136834c47f",
                     "label": "Copyright Revision Date",
                     "node_id": "4a8fbbde-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4a8f7d40-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "1287b416-f0c6-4a55-9fab-8569dfe1f40f",
+                    "label": "Connected Subject Note",
+                    "node_id": "4a8fd92a-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
@@ -1221,6 +1238,53 @@
                     "id": "597fb61a-1418-4482-ad4b-c4d008042095",
                     "label": "Copyright Type",
                     "node_id": "4a8fba30-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "4a8f7d40-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Widget",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "6b9ae22f-efaf-458e-bb1d-82df194ccda1",
+                    "label": "Connected Subject Widget",
+                    "node_id": "4a8fa6ee-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4a8f7d40-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Language",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "83e5dfaf-cc0b-497d-8876-27beffb99817",
+                    "label": "Connected Subject Note Language",
+                    "node_id": "4a8f9910-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "4a8f7d40-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Connected Subject Note Type",
+                        "options": [],
+                        "placeholder": "Select an option"
+                    },
+                    "id": "c20fa44e-8a5d-40aa-965d-ac447d86bbb0",
+                    "label": "Connected Subject Note Type",
+                    "node_id": "4a8f9870-ac0f-11ec-b19f-9cf387da2c40",
                     "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
@@ -2648,7 +2712,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "4a8edc64-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "4fcb52dd-a162-41d3-a4ef-2f8efc9f382b"
+                    "id": "cc798727-72f6-4ab8-8d62-651ddcb98c0d"
                 }
             ],
             "graphid": "4a8edc64-ac0f-11ec-b19f-9cf387da2c40",
@@ -6096,6 +6160,6 @@
         "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
         "os": "Darwin",
-        "os version": "22.3.0"
+        "os version": "22.4.0"
     }
 }
