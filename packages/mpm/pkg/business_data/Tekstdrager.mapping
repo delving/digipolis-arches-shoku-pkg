@@ -149,7 +149,7 @@
             "arches_nodeid": "268896f2-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Copyright Revision Date",
             "file_field_name": "Copyright Revision Date",
-            "data_type": "string",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -187,7 +187,7 @@
             "arches_nodeid": "2688a55c-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Creation Actor Role",
             "file_field_name": "Creation Actor Role",
-            "data_type": "concept-list",
+            "data_type": "concept",
             "concept_export_value": "label",
             "export": true
         },
@@ -259,6 +259,13 @@
             "export": true
         },
         {
+            "arches_nodeid": "2688a688-ac0f-11ec-b19f-9cf387da2c40",
+            "arches_node_name": "Depicted Item Widget",
+            "file_field_name": "Depicted Item Widget",
+            "data_type": "string",
+            "export": true
+        },
+        {
             "arches_nodeid": "268887c0-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Depicted Items Note",
             "file_field_name": "Depicted Items Note",
@@ -279,13 +286,6 @@
             "file_field_name": "Depicted Items Note Type",
             "data_type": "concept",
             "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "2688a688-ac0f-11ec-b19f-9cf387da2c40",
-            "arches_node_name": "Depicted Item Widget",
-            "file_field_name": "Depicted Item Widget",
-            "data_type": "string",
             "export": true
         },
         {
