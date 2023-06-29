@@ -65,7 +65,7 @@
             "arches_nodeid": "d1de15a2-a5fe-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Carrier Colour",
             "file_field_name": "Carrier Colour",
-            "data_type": "concept-list",
+            "data_type": "concept",
             "concept_export_value": "label",
             "export": true
         },
@@ -395,7 +395,7 @@
             "arches_nodeid": "d1dcb6c6-a5fe-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Object Type",
             "file_field_name": "Object Type",
-            "data_type": "concept-list",
+            "data_type": "concept",
             "concept_export_value": "label",
             "export": true
         },
@@ -456,7 +456,7 @@
             "arches_nodeid": "d1ddfec8-a5fe-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Production Actor Role",
             "file_field_name": "Production Actor Role",
-            "data_type": "concept-list",
+            "data_type": "concept",
             "concept_export_value": "label",
             "export": true
         },

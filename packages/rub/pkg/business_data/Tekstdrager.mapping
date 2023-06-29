@@ -149,7 +149,7 @@
             "arches_nodeid": "268896f2-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Copyright Revision Date",
             "file_field_name": "Copyright Revision Date",
-            "data_type": "string",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -187,7 +187,7 @@
             "arches_nodeid": "2688a55c-ac0f-11ec-b19f-9cf387da2c40",
             "arches_node_name": "Creation Actor Role",
             "file_field_name": "Creation Actor Role",
-            "data_type": "concept-list",
+            "data_type": "concept",
             "concept_export_value": "label",
             "export": true
         },
