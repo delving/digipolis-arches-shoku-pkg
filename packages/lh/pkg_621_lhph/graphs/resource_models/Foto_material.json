@@ -558,7 +558,14 @@
                     "cardid": "7581da5c-ac0f-11ec-b19f-9cf387da2c40",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
-                    "constraints": [],
+                    "constraints": [
+                        {
+                            "card_id": "7581da5c-ac0f-11ec-b19f-9cf387da2c40",
+                            "constraintid": "783425d2-114e-4765-a08f-5b6a6317293c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
                     "cssclass": null,
                     "description": "",
                     "graph_id": "758070f4-ac0f-11ec-b19f-9cf387da2c40",
@@ -3325,7 +3332,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "758070f4-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "3864fdc5-4e4d-4e95-96f5-75446f0d17e7"
+                    "id": "9dee505c-b4e0-46a3-a52e-cc418a173696"
                 }
             ],
             "graphid": "758070f4-ac0f-11ec-b19f-9cf387da2c40",
@@ -3355,7 +3362,7 @@
                     "parentnodegroup_id": "57ca520a-b4f2-11ec-9349-9cf387da2c40"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "57ca520a-b4f2-11ec-9349-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3373,19 +3380,19 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "7580ed7c-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75812e54-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75813a34-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3421,25 +3428,25 @@
                     "parentnodegroup_id": "75817a4e-ac0f-11ec-b19f-9cf387da2c40"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75817a4e-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75818962-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75819358-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "75819af6-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3451,7 +3458,7 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "7581b446-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3475,7 +3482,7 @@
                     "parentnodegroup_id": "7581d84a-ac0f-11ec-b19f-9cf387da2c40"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "7581d84a-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3517,7 +3524,7 @@
                     "parentnodegroup_id": "86f3f42a-b054-11ec-b19f-9cf387da2c40"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "86f3f42a-b054-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
