@@ -1,6 +1,9 @@
 {
   "permitted_resource_relationships": [],
   "business_data_load_order": [
+    "Affiche.csv"
+  ],
+  "FULL_business_data_load_order": [
     "Change History Log.csv",
     "Affiche_material.csv",
     "Affiche.csv"

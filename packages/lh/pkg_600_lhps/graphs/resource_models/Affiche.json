@@ -50,25 +50,6 @@
                 },
                 {
                     "active": true,
-                    "cardid": "272dab76-af87-11ec-b19f-9cf387da2c40",
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
-                    "config": null,
-                    "constraints": [],
-                    "cssclass": null,
-                    "description": "",
-                    "graph_id": "272d973a-af87-11ec-b19f-9cf387da2c40",
-                    "helpenabled": false,
-                    "helptext": null,
-                    "helptitle": null,
-                    "instructions": null,
-                    "is_editable": true,
-                    "name": "Datering: oorspronkelijke waarde (migratie)",
-                    "nodegroup_id": "272da946-af87-11ec-b19f-9cf387da2c40",
-                    "sortorder": 10,
-                    "visible": true
-                },
-                {
-                    "active": true,
                     "cardid": "272db2f6-af87-11ec-b19f-9cf387da2c40",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -886,23 +867,6 @@
                     "sortorder": 0,
                     "visible": true,
                     "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
-                },
-                {
-                    "card_id": "272dab76-af87-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "label": "Waarde",
-                        "maxLength": null,
-                        "placeholder": "Vul tekst in",
-                        "uneditable": true,
-                        "width": "100%"
-                    },
-                    "id": "272ec27c-af87-11ec-b19f-9cf387da2c40",
-                    "label": "Waarde",
-                    "node_id": "272da946-af87-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
                     "card_id": "272db2f6-af87-11ec-b19f-9cf387da2c40",
@@ -4142,12 +4106,6 @@
                 {
                     "cardinality": "n",
                     "legacygroupid": null,
-                    "nodegroupid": "272da946-af87-11ec-b19f-9cf387da2c40",
-                    "parentnodegroup_id": "272df2de-af87-11ec-b19f-9cf387da2c40"
-                },
-                {
-                    "cardinality": "n",
-                    "legacygroupid": null,
                     "nodegroupid": "272db0ee-af87-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
                 },
@@ -4443,12 +4401,12 @@
                     "exportable": true,
                     "fieldname": null,
                     "graph_id": "272d973a-af87-11ec-b19f-9cf387da2c40",
-                    "is_collector": true,
+                    "is_collector": false,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "Creation Time Span Source Note",
-                    "nodegroup_id": "272da946-af87-11ec-b19f-9cf387da2c40",
+                    "nodegroup_id": "272df2de-af87-11ec-b19f-9cf387da2c40",
                     "nodeid": "272da946-af87-11ec-b19f-9cf387da2c40",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
