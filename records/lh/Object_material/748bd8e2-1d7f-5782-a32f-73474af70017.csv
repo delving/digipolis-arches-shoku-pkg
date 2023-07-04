@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:757_#1,https://data.letterenhuis.be/ark:/24970/748bd8e2-1d7f-5782-a32f-73474af70017,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_AcquisitionNumbers,1,,,,233900,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:757_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/748bd8e2-1d7f-5782-a32f-73474af70017,object identifier,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_AcquisitionNumbers,1,,,,233900,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Conditions,2,,,,,,note.lhconditie,"<ul>
 <li>
 <p>opp.vuil</p>
@@ -19,17 +19,18 @@ ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acqui
 </li>
 </ul>
 <p>(23/08/2001)</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 56,5 b 42,5 d 5",,,,,,,,,,,,,,,"h 56,5 b 42,5 d 5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,565,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,425,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,50,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:757_#1,K2 B 17 E,748bd8e2-1d7f-5782-a32f-73474af70017,,233900,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 56,5 b 42,5 d 5",,,,,,,,,,,,,,,"h 56,5 b 42,5 d 5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,565,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,425,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,50,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:757_#1,K2 B 17 E,748bd8e2-1d7f-5782-a32f-73474af70017,,233900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechtsonder: <em>O. Van Dongen</em></p>
 <p>R-boven: <em>1853 1916 / EDWARD KEURVELS / 1853 8 MAART 1953</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,brown (color),,,,,,,,,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xgr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,
-748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,brown (color),,,,,,,,,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xgr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,,,,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,permission required,,,,,,,,
+748bd8e2-1d7f-5782-a32f-73474af70017,tg:lhsc:757_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C2kU7XPPQHWyYMnIWJ5IbMLk,lhsc,https://dams.antwerpen.be/iiif/C2kU7XPPQHWyYMnIWJ5IbMLk/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/C2kU7XPPQHWyYMnIWJ5IbMLk,DAMS Image,lh,Object

@@ -1,16 +1,17 @@
-ResourceID,brocade.id,card,order,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,source_field,Dimension Value,Dimension Type,Dimension Measurement Unit,source_code,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,Warehouse Location (begin),adm.uuid_mat,adm.isadPartOf,Volgnummer,Mark Text,Mark Type,Mark Language,col_source_field,mat_source_field,Material Colour,Material,Object Type,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Type,Keeper,Object Number,Object Identifier,source_date,Restriction Type
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmtk:28_#1,https://data.museumplantinmoretus.be/ark:/11975/5bab3548-b070-576a-a984-24465d558e3a,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Carrier,1,,,,kenmerken.mpmdragertk,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.mpmformattk,,,,"21,3 x 15,3","21,3 x 15,3 - height, width, kenmerken.mpmformattk",,,,,,,,,,,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,213,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,153,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Items,1,,,,,,,,,,,,mpmtk,tg:mpmtk:28_#1,TK 236,10 K 1 K,5bab3548-b070-576a-a984-24465d558e3a,,,,,,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,"<p>Lotharius II Lotharingiae Rex</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,"<p>int cleijn boelerende wesende ionck ende wulps</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_MaterialColour,,,,,,,,,,,,,mpmtk,,,,,,,,,,kenmerken/mpmtechbasistk.mpmkleur,kenmerken/mpmtechbasistk.mpmtechtk,brown (color),ink,,,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ObjectTypes,1,,,,,,kenmerken.mpmtypetk,,,,tttek,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ProductionActors,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4d342113-9196-566e-a3b4-91c1c71efe07,au::108347,an,aantekenaar,,,,,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ProductionTechniques,1,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,,,tpe,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,
-5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1623,open
+ResourceID,brocade.id,card,order,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,source_field,Dimension Value,Dimension Type,Dimension Measurement Unit,source_code,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,Warehouse Location (begin),adm.uuid_mat,adm.isadPartOf,Volgnummer,Mark Text,Mark Type,Mark Language,col_source_field,mat_source_field,Material Colour,Material,Object Type,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmtk:28_#1,record identifiers,https://data.museumplantinmoretus.be/ark:/11975/5bab3548-b070-576a-a984-24465d558e3a,object identifier,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Carrier,1,,,,kenmerken.mpmdragertk,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.mpmformattk,,,,"21,3 x 15,3","21,3 x 15,3 - height, width, kenmerken.mpmformattk",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,213,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,153,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Items,1,,,,,,,,,,,,mpmtk,tg:mpmtk:28_#1,TK 236,10 K 1 K,5bab3548-b070-576a-a984-24465d558e3a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,"<p>&quot;Lotharius II Lotharingiae Rex&quot;</p>
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,"<p>&quot;int cleijn boelerende wesende ionck ende wulps&quot;</p>
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_MaterialColour,,,,,,,,,,,,,mpmtk,,,,,,,,,,kenmerken/mpmtechbasistk.mpmkleur,kenmerken/mpmtechbasistk.mpmtechtk,brown (color),ink,,,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ObjectTypes,1,,,,,,kenmerken.mpmtypetk,,,,tttek,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ProductionActors,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4d342113-9196-566e-a3b4-91c1c71efe07,au::108347,an,aantekenaar,,,,,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_ProductionTechniques,1,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,,,tpe,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,,,,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1623,open,,,,,,,,
+5bab3548-b070-576a-a984-24465d558e3a,tg:mpmtk:28_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,w1PWdZieJYGuKGaUeRXt3lLx,mpmtk,https://dams.antwerpen.be/iiif/w1PWdZieJYGuKGaUeRXt3lLx/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/w1PWdZieJYGuKGaUeRXt3lLx,DAMS Image,mpm,Iconografie

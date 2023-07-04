@@ -1,25 +1,25 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:10781_#1,https://data.letterenhuis.be/ark:/24970/f100258f-2154-5a3f-9d93-16081a9f53de,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:10781_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/f100258f-2154-5a3f-9d93-16081a9f53de,object identifier,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Conditions,3,,,,,,note.lhconditie,"<p>Midden onderaan stuk uit het papier en scheurtje.<br />
 Rechts in het midden aan de rechterzijde scheurtje.<br />
 Links in het midden scheurtje.</p>
 ",,,,,,,,,,,"<p>Midden onderaan stuk uit het papier en scheurtje.<br />
 Rechts in het midden aan de rechterzijde scheurtje.<br />
 Links in het midden scheurtje.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Conditions,4,,,,,,note.lhconditie,"<p>Het afdrukken van de kleuren op het papier is niet van zo een goede kwaliteit.</p>
 ",,,,,,,,,,,"<p>Het afdrukken van de kleuren op het papier is niet van zo een goede kwaliteit.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"25,5 x 37",,,,,,,,,,,,,,,,,"25,5 x 37 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,255,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,370,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:10781_#1,,,"Planex GT / VI,5",f100258f-2154-5a3f-9d93-16081a9f53de,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"25,5 x 37",,,,,,,,,,,,,,,,,"25,5 x 37 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,255,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,370,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:10781_#1,,,"Planex GT / VI,5",f100258f-2154-5a3f-9d93-16081a9f53de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Aan de linker - en rechterzijde van de afbeelding werd er Japans schrift aangebracht.</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan cartouche met symbool en schrift .</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,
-f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1921.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,,,,,,,,,,,
+f100258f-2154-5a3f-9d93-16081a9f53de,tg:lhpr:10781_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1921.0,permission required,,,,,,,,

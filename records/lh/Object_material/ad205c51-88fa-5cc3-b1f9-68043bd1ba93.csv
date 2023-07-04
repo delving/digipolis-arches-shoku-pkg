@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:655_#1,https://data.letterenhuis.be/ark:/24970/ad205c51-88fa-5cc3-b1f9-68043bd1ba93,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_AcquisitionNumbers,1,,,,78225,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:655_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/ad205c51-88fa-5cc3-b1f9-68043bd1ba93,object identifier,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_AcquisitionNumbers,1,,,,78225,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Conditions,3,,,,,,note.lhconditie,"<ul>
 <li>opp.vuil</li>
 </ul>
@@ -27,18 +27,19 @@ ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Conditions,3,,,,,,note.l
 </li>
 </ul>
 <p>(03/09/2001)</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatvoetsc,h 20,,,,,,,,,,,,,,,"h 20 - height, width, depth, kenmerken/lhformatsc.lhformatvoetsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 64 b 58 d 39,,,,,,,,,,,,,,,"h 64 b 58 d 39 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,640,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,580,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,390,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:655_#1,V0 F,ad205c51-88fa-5cc3-b1f9-68043bd1ba93,,78225,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatvoetsc,h 20,,,,,,,,,,,,,,,"h 20 - height, width, depth, kenmerken/lhformatsc.lhformatvoetsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 64 b 58 d 39,,,,,,,,,,,,,,,"h 64 b 58 d 39 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,640,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,580,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,390,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:655_#1,V0 F,ad205c51-88fa-5cc3-b1f9-68043bd1ba93,,78225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Op achterzijde links: _ Jef LAMBEAUX / 1881_</p>
 <p>Achterzijde rechts: Cie des Bronzes / (Cire perdue) / Bruxelles_</p>
 <p>Op een koperen plaatje op de voorzijde van de sokkel: AAN / Hendrik Conscience<br />
 / 25 September 1881</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,bronze (metal),kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gbs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bustes,,
-ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1881.0,open
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,bronze (metal),kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gbs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bustes,,,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1881.0,open,,,,,,,,
+ad205c51-88fa-5cc3-b1f9-68043bd1ba93,tg:lhsc:655_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L1XE9SgnYEpWPhNUXavYtdTQ,lhsc,https://dams.antwerpen.be/iiif/L1XE9SgnYEpWPhNUXavYtdTQ/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/L1XE9SgnYEpWPhNUXavYtdTQ,DAMS Image,lh,Object

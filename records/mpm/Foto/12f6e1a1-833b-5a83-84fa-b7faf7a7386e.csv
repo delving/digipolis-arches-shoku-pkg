@@ -1,26 +1,28 @@
-ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,AA,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:75,https://data.museumplantinmoretus.be/ark:/11975/12f6e1a1-833b-5a83-84fa-b7faf7a7386e,Foto's,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_ChangeHistoryRelations,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0a3fcee6-3f4b-47d5-a3fa-5ef39e3a8efb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e5ab8917-097b-43ec-affe-63bcfae2e3c4"", ""inverseOntologyProperty"": """"}]"
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,mpm,mpmph,Foto,e73_CreationActors,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""isCapacity"":false}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,0,id/date.exposure/so,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_Descriptions,,,,,,,,,,,id.desc,,,,,,,,,,,,,"Brieven die te maken hebben met de Officina Plantiniana uit de collectie van de Familie Renette.     
-1) Brief van Charles de l'Ecluse naar Jan I Moretus (09/04/1593)     
-2) Brief van Charles de l'Ecluse naar Jan I Moretus (03/10/1593)     
-3) Brief Johannes Bleuwart aan Balthasar Moretus (07/11/1614)     
-4) Brief van Adriaen de Marselaer aan Justus Lipsius (1603)      
-5) Brief aan Jan I Moretus (04/05/1591)     
-6) Brief aan Jan I Moretus (s.d.)     
-7) Brief van Johannes Bleuwart aan Balthasar Moretus (02/04/1613)     
-8) Brief van Guilielmus Wargnirius aan Balthasar Moretus [01 december?? 1610]      
-9) Brief van Guillaume LeBé aan een Moretus-lid (1599)     
-10) Brief van Justus Lipsius naar Jan I Moretus [... 1602]     
-11) Brief van Justus Lipsius naar [Jan Moretus] (18/09/1604)     
-12) Brief van Abraham Ortelius naar Justus Lipsius [.... 1592]     
-13) Brief van Justus Lipsius naar een Moretus-lid [... 1604]
-",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000064,referentienummer,False,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:75,brocade id,False,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:75/N,brocade url,False,,,,,,,,,,,,,,
-12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_MaterialRecords,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ba7b2c9-768c-5148-98cd-5b5669f97f16"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b7cedd55-8208-45c9-b0e1-0ce2ab8dc412"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,place_au_code,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,AA,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:75,record identifiers,https://data.museumplantinmoretus.be/ark:/11975/12f6e1a1-833b-5a83-84fa-b7faf7a7386e,object identifier,Foto's,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_ChangeHistoryRelations,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6502241-7aef-462a-bd29-e8e220d6b6f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0a253f6-a905-4231-acb6-667bf817f748"", ""inverseOntologyProperty"": """"}]"
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,,0,id/date.exposure/so,,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_Descriptions,,,,,,,,,,,,id.desc,,,,,,,,,,,,,"<p>Brieven die te maken hebben met de Officina Plantiniana uit de collectie van de Familie Renette.</p>
+<ol>
+<li>Brief van Charles de l'Ecluse naar Jan I Moretus (09/04/1593)</li>
+<li>Brief van Charles de l'Ecluse naar Jan I Moretus (03/10/1593)</li>
+<li>Brief Johannes Bleuwart aan Balthasar Moretus (07/11/1614)</li>
+<li>Brief van Adriaen de Marselaer aan Justus Lipsius (1603)</li>
+<li>Brief aan Jan I Moretus (04/05/1591)</li>
+<li>Brief aan Jan I Moretus (s.d.)</li>
+<li>Brief van Johannes Bleuwart aan Balthasar Moretus (02/04/1613)</li>
+<li>Brief van Guilielmus Wargnirius aan Balthasar Moretus [01 december?? 1610]</li>
+<li>Brief van Guillaume LeBé aan een Moretus-lid (1599)</li>
+<li>Brief van Justus Lipsius naar Jan I Moretus [... 1602]</li>
+<li>Brief van Justus Lipsius naar [Jan Moretus] (18/09/1604)</li>
+<li>Brief van Abraham Ortelius naar Justus Lipsius [.... 1592]</li>
+<li>Brief van Justus Lipsius naar een Moretus-lid [... 1604]</li>
+</ol>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000064,referentienummer,False,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:75,brocade id,False,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:75/N,brocade url,False,,,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,,,,e73_MaterialRecords,,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ba7b2c9-768c-5148-98cd-5b5669f97f16"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2e195594-7077-405d-8d58-a89c0c6685c9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
+12f6e1a1-833b-5a83-84fa-b7faf7a7386e,tg:mpmph:75,mpm,mpmph,Foto,e73_Titles,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet"",""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""resourceArk"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,17 +1,17 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:2664_#1,https://data.letterenhuis.be/ark:/24970/b923ec50-1425-50cf-9439-6784a99cfbab,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_AcquisitionNumbers,1,,,,105649,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_AnnotationsMaterial,1,,,,,,adm.note,Drukker : Simonau & Toovey,Drukker : Simonau & Toovey,Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:2664_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/b923ec50-1425-50cf-9439-6784a99cfbab,object identifier,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_AcquisitionNumbers,1,,,,105649,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_AnnotationsMaterial,1,,,,,,adm.note,Drukker : Simonau & Toovey,Drukker : Simonau & Toovey,Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Conditions,2,,,,,,note.lhconditie,"<p>Het originele drukwerk is gekleefd op een andere papieren drager.</p>
 <p>Prent is redelijk vuil.</p>
 ",,,,,,,,,,,"<p>Het originele drukwerk is gekleefd op een andere papieren drager.</p>
 <p>Prent is redelijk vuil.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"62,3 x 51",,,,,,,,,,,,,,,,,"62,3 x 51 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,623,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,510,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:2664_#1,105649,,"Planex GP / IX, 7",b923ec50-1425-50cf-9439-6784a99cfbab,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"62,3 x 51",,,,,,,,,,,,,,,,,"62,3 x 51 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,623,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,510,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:2664_#1,105649,,"Planex GP / IX, 7",b923ec50-1425-50cf-9439-6784a99cfbab,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>m.o.: <em>L'UNION FAIT LA FORCE / LES BELGES SONT EGAUX DEVANT LA LOI-LIBERTE DES<br />
 CULTES-LIBERTE DE LA PRESSE-LES POUVOIRS EMANENT DE LA NATION-LIBERTE DE L<br />
 'ENSEIGNEMENT-LE POUVOIR JUDICIAIRE</em></p>
@@ -19,8 +19,9 @@ CULTES-LIBERTE DE LA PRESSE-LES POUVOIRS EMANENT DE LA NATION-LIBERTE DE L<br />
 LEOPDE TVI!_</p>
 <p>l.o.: <em>Désiré Van Spilbeeck inv. &amp; ecx. 1856.</em></p>
 <p>r.o.: <em>Imp. Simonau &amp; Toovey, Brux.s</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,ptl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,
-b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1856.0,open
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,ptl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,,,,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1856.0,open,,,,,,,,
+b923ec50-1425-50cf-9439-6784a99cfbab,tg:lhpr:2664_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b1oaNAaZaM5NeNXeyTFXWGsS,lhpr,https://dams.antwerpen.be/iiif/b1oaNAaZaM5NeNXeyTFXWGsS/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/b1oaNAaZaM5NeNXeyTFXWGsS,DAMS Image,lh,Iconografie

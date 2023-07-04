@@ -1,42 +1,51 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,source_date,Copyright Revision Date,Copyright Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,db,source_place_name,source_au_uuid,match_id,record_id,Creation Place Widget,Creation Place Note,Creation Place Note Language,Creation Place Note Type,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Code,Legacy Information Value,Legacy Information Type, card,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Original Entity Relation,ISAAR Brocade ID,Keeper,Object Number,Object Identifier,Record Type
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhph:44903,https://data.letterenhuis.be/ark:/24970/513cea7e-2431-537c-9cf0-d5a2e6bd6791,Foto's
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,source_date,Copyright Revision Date,Copyright Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,db,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Creation Place Widget,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,End Date Note,End Date Note Type,End Date Note Language,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,Legacy Information Code,Legacy Information Value,Legacy Information Type, card,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Relation,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Transactions
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhph:44903,record identifiers,https://data.letterenhuis.be/ark:/24970/513cea7e-2431-537c-9cf0-d5a2e6bd6791,object identifier,Foto's,
 513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Een aantal namen staan op de achterkant van de foto.</p>
 ","<p>Een aantal namen staan op de achterkant van de foto.</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Copyrights,,,,,,,1957.0,2072,In Copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903_#1,e73_CreationPlacesSource_lhph,1,place_csv,,,,,,,,,,,,,,,,,,,lhph,Oostduinkerke,,au::101247:1,tg:lhph:44903_#1,"dlod={""name"":""Oostduinkerke (Koksijde)"",""ark"":""ark:/83110/x0/39ceadf0-d5dc-5fb4-a30e-b74d528dd498"",""uri"":""/subjects/10833429"",""id"":""au::101247"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_CreationTimeSpanSourceNotes,0,id/date.exposure/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19570600,,,,,,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::11671,,,,,,,lhph,,,d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7,kw,,au::11671:1,au::11671g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1248797"",""au::11671"",""au::11671:1"",""ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7"",""Pliet van Lishout""],""name"":""Pliet van Lishout"",""ark"":""ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7"",""uri"":""/agents/people/1248797"",""id"":""au::11671:1"",""isCapacity"":false}",ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::16588,,,,,,,lhph,,,f12bd333-8d8b-537a-ba3f-32ff9a9e66b9,kw,,au::16588:1,au::16588g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1774916"",""au::16588"",""au::16588:1"",""ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9"",""Ger Schmook""],""name"":""Ger Schmook"",""ark"":""ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9"",""uri"":""/agents/people/1774916"",""id"":""au::16588:1"",""isCapacity"":false}",ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::16589,,,,,,,lhph,,,e4bfa316-24f5-5a24-b099-92de69e3e6c8,kw,,au::16589:1,au::16589g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1775023"",""au::16589"",""au::16589:1"",""ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8"",""Ger Schmook""],""name"":""Ger Schmook"",""ark"":""ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8"",""uri"":""/agents/people/1775023"",""id"":""au::16589:1"",""isCapacity"":false}",ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::2049,,,,,,,lhph,,,ca75ca1a-fde7-56a7-8b94-b23b0d56fd36,kw,,au::2049:1,au::2049g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/219243"",""au::2049"",""au::2049:1"",""ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36"",""Eugeen de Bock""],""name"":""Eugeen de Bock"",""ark"":""ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36"",""uri"":""/agents/people/219243"",""id"":""au::2049:1"",""isCapacity"":false}",ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::20524,,,,,,,lhph,,,49edf516-11c2-5e53-84e8-8d0035fb4289,kw,,au::20524:1,au::20524g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2196068"",""au::20524"",""au::20524:1"",""ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289"",""Guy Voets""],""name"":""Guy Voets"",""ark"":""ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289"",""uri"":""/agents/people/2196068"",""id"":""au::20524:1"",""isCapacity"":false}",ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_DepictedItems,,,au::4844,,,,,,,lhph,,,006357ad-71f5-5fd6-b64a-f2089b84564f,kw,,au::4844:1,au::4844g:1,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/518308"",""au::4844"",""au::4844:1"",""ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f"",""Dagen van de Vlaamse Gids""],""name"":""Dagen van de Vlaamse Gids"",""ark"":""ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f"",""uri"":""/agents/corporate_entities/518308"",""id"":""au::4844:1"",""isCapacity"":false}",ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f,agent,,,,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dagen van de Vlaamse Gids.
-
-Een blik op de luisteraars. Onder hen (v.l.n.r.):
-
-**Tweede rij:**
-
-1. Els Jochem=Mw. Picard
-
-2. Gerda Schmook-Dieltjens
-
-3. Ger Schmook jr.
-
-4. ?
-
-5. ?
-
-6. Ger Schmook sr.
-
-7. Eugeen de Bock **Derde rij:**
-
-3. Pliet van Lishout **Vierde rij:**
-
-Guy Voets, Mw. Voets, M. en Mw. D. Joos, Mw. Maertens",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ph/000043363,referentienummer,,False,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhph:44903,brocade id,,False,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhph:44903/N,brocade url,,False,,,,,,,,,,,,
-513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a77837b2-e5b7-52c2-9685-3680bbd5c226"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e814b5be-2932-4fd4-a511-c7ae132ca197"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b230baf4-271d-4fd3-a67a-53a60b398823"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d4a31730-2e43-45ae-8334-2dbdd2a46cef"", ""inverseOntologyProperty"": """"}]"
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Copyrights,,,,,,,1957.0,2072,In Copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903_#1,e73_CreationPlacesSource_lhph,1,,,,,,,,,,,,,,,,,,,,,lhph,Oostduinkerke,,,,,,Oostduinkerke (Koksijde),au::101247,39ceadf0-d5dc-5fb4-a30e-b74d528dd498,au::101247,39ceadf0-d5dc-5fb4-a30e-b74d528dd498,,au::101247,remarks,Nederlands,"dlod={""name"":""Oostduinkerke (Koksijde)"",""ark"":""ark:/83110/x0/39ceadf0-d5dc-5fb4-a30e-b74d528dd498"",""uri"":""/subjects/10833429"",""id"":""au::101247"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_CreationTimeSpanSourceNotes,0,id/date.exposure/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19570600,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Dagen van de Vlaamse Gids.</p>
+<p>Een blik op de luisteraars. Onder hen (v.l.n.r.):</p>
+<p><strong>Tweede rij:</strong></p>
+<ol>
+<li>
+<p>Els Jochem=Mw. Picard</p>
+</li>
+<li>
+<p>Gerda Schmook-Dieltjens</p>
+</li>
+<li>
+<p>Ger Schmook jr.</p>
+</li>
+<li>
+<p>?</p>
+</li>
+<li>
+<p>?</p>
+</li>
+<li>
+<p>Ger Schmook sr.</p>
+</li>
+<li>
+<p>Eugeen de Bock <strong>Derde rij:</strong></p>
+</li>
+<li>
+<p>Pliet van Lishout <strong>Vierde rij:</strong></p>
+</li>
+</ol>
+<p>Guy Voets, Mw. Voets, M. en Mw. D. Joos, Mw. Maertens</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ph/000043363,referentienummer,,False,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhph:44903,brocade id,,False,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhph:44903/N,brocade url,,False,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a77837b2-e5b7-52c2-9685-3680bbd5c226"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0860d30c-b9f4-41f8-b41e-340bc8ea1adf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::11671,,,,,,,lhph,lhph,Foto,d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7,kw,,au::11671:1,au::11671g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1248797"",""au::11671"",""au::11671:1"",""ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7"",""Pliet van Lishout"",""ark:/83110/x0/93b9837f-ae22-5985-8752-6634183d1d9f""],""name"":""Pliet van Lishout"",""ark"":""ark:/83110/x0/93b9837f-ae22-5985-8752-6634183d1d9f"",""uri"":""/agents/people/1248797"",""id"":""au::11671:1"",""resourceArk"":""ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d18f9d5c-fd5d-58dd-a8ee-429dc97bf5e7,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::16588,,,,,,,lhph,lhph,Foto,f12bd333-8d8b-537a-ba3f-32ff9a9e66b9,kw,,au::16588:1,au::16588g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1774916"",""au::16588"",""au::16588:1"",""ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9"",""Ger Schmook"",""ark:/83110/x0/6fc39a8e-1750-583c-ac20-371a71b4679c""],""name"":""Ger Schmook"",""ark"":""ark:/83110/x0/6fc39a8e-1750-583c-ac20-371a71b4679c"",""uri"":""/agents/people/1774916"",""id"":""au::16588:1"",""resourceArk"":""ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/f12bd333-8d8b-537a-ba3f-32ff9a9e66b9,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::16589,,,,,,,lhph,lhph,Foto,e4bfa316-24f5-5a24-b099-92de69e3e6c8,kw,,au::16589:1,au::16589g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1775023"",""au::16589"",""au::16589:1"",""ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8"",""Ger Schmook"",""ark:/83110/x0/47ec9a34-57df-56c6-8573-f4545f36e4c2""],""name"":""Ger Schmook"",""ark"":""ark:/83110/x0/47ec9a34-57df-56c6-8573-f4545f36e4c2"",""uri"":""/agents/people/1775023"",""id"":""au::16589:1"",""resourceArk"":""ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/e4bfa316-24f5-5a24-b099-92de69e3e6c8,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::2049,,,,,,,lhph,lhph,Foto,ca75ca1a-fde7-56a7-8b94-b23b0d56fd36,kw,,au::2049:1,au::2049g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/219243"",""au::2049"",""au::2049:1"",""ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36"",""Eugeen de Bock"",""ark:/83110/x0/f47fdaf4-4df9-513d-a6ee-43407017ffdd""],""name"":""Eugeen de Bock"",""ark"":""ark:/83110/x0/f47fdaf4-4df9-513d-a6ee-43407017ffdd"",""uri"":""/agents/people/219243"",""id"":""au::2049:1"",""resourceArk"":""ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/ca75ca1a-fde7-56a7-8b94-b23b0d56fd36,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::20524,,,,,,,lhph,lhph,Foto,49edf516-11c2-5e53-84e8-8d0035fb4289,kw,,au::20524:1,au::20524g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/2196068"",""au::20524"",""au::20524:1"",""ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289"",""Guy Voets"",""ark:/83110/x0/f2aa76e3-5b51-5ed1-ae5f-ad7f68001fd8""],""name"":""Guy Voets"",""ark"":""ark:/83110/x0/f2aa76e3-5b51-5ed1-ae5f-ad7f68001fd8"",""uri"":""/agents/people/2196068"",""id"":""au::20524:1"",""resourceArk"":""ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/49edf516-11c2-5e53-84e8-8d0035fb4289,,,,,,,,,,,,,,,,,,,,,
+513cea7e-2431-537c-9cf0-d5a2e6bd6791,tg:lhph:44903,e73_Titles,,,au::4844,,,,,,,lhph,lhph,Foto,006357ad-71f5-5fd6-b64a-f2089b84564f,kw,,au::4844:1,au::4844g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/518308"",""au::4844"",""au::4844:1"",""ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f"",""Dagen van de Vlaamse Gids"",""ark:/83110/x0/c04598c2-fbe7-57a2-983e-9ae07d68bbd6""],""name"":""Dagen van de Vlaamse Gids"",""ark"":""ark:/83110/x0/c04598c2-fbe7-57a2-983e-9ae07d68bbd6"",""uri"":""/agents/corporate_entities/518308"",""id"":""au::4844:1"",""resourceArk"":""ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/006357ad-71f5-5fd6-b64a-f2089b84564f,,,,,,,,,,,,,,,,,,,,,

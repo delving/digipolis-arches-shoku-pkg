@@ -1,20 +1,22 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Documented Event Type,Creation Time Span Source Note,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_uuid,match_id,record_id,Documented Event Place Name Widget,Documented Event Place Note,Documented Event Place Note Language,Documented Event Place Note Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:3251,https://data.letterenhuis.be/ark:/24970/7856bf34-c362-5907-bc3a-6dae13020fbf,Affiches,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1920.0,2035,In Copyright
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19201018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Het Vlaamse Volkstoneel.  
-Wilde, Oscar.  
-Het Belang van Ernst.  
-Roelvink, Herman C.J.  
-Freuleken.  
-Putman, Willem.  
-Het Oordeel van Olga.  
-Fabricius, Jan.  
-Dolle Hans.  
-Feestzaal ""Uilenspiegel"".",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,1920-10-18,,reconstructie,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251_#1,e73_DocumentedEventsPlaces_lhps,,place_csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Gent,,au::100654:1,tg:lhps:3251_#1,"dlod={""name"":""Gent (Arrondissement Gent)"",""ark"":""ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2"",""uri"":""/subjects/10769978"",""id"":""au::100654"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000003222,referentienummer,False,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:3251,brocade id,False,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:3251/N,brocade url,False,,,,,,,,,,,,,,,
-7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6e908c40-da7e-50a8-8e69-28b6c9fca219"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1aea2d9a-5193-420e-89fb-26d841c4d4d1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:3251,record identifiers,https://data.letterenhuis.be/ark:/24970/7856bf34-c362-5907-bc3a-6dae13020fbf,object identifier,Affiches,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""50629bb4-98b5-430e-ba89-7869ae44dea8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c0d041a3-af80-4736-9a65-03297a846f80"", ""inverseOntologyProperty"": """"}]"
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1920.0,2035,In Copyright,
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19201018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Het Vlaamse Volkstoneel.<br />
+Wilde, Oscar.<br />
+Het Belang van Ernst.<br />
+Roelvink, Herman C.J.<br />
+Freuleken.<br />
+Putman, Willem.<br />
+Het Oordeel van Olga.<br />
+Fabricius, Jan.<br />
+Dolle Hans.<br />
+Feestzaal &quot;Uilenspiegel&quot;.</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,1920-10-18,,reconstructie,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251_#1,e73_DocumentedEventsPlaces_lhps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Gent,,,Gent (Oost-Vlaanderen),au::100626,d9c28b0b-a361-56d9-befd-dcfa507bb122,Gent (Arrondissement Gent),au::100654,a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2,au::100626,d9c28b0b-a361-56d9-befd-dcfa507bb122,au::100654,au::100654,remarks,Nederlands,"dlod={""name"":""Gent (Arrondissement Gent)"",""ark"":""ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2"",""uri"":""/subjects/10769978"",""id"":""au::100654"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000003222,referentienummer,False,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:3251,brocade id,False,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:3251/N,brocade url,False,,,,,,,,,,,,,,,,,
+7856bf34-c362-5907-bc3a-6dae13020fbf,tg:lhps:3251,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6e908c40-da7e-50a8-8e69-28b6c9fca219"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e2a1b286-f266-4ce7-8ba8-25cc5876bc05"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,

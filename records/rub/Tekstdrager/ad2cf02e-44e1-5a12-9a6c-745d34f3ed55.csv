@@ -1,43 +1,45 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4131,https://data.rubenianum.be//ark:/86530/ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,Documentatiemappen,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4131,record identifiers,https://data.rubenianum.be//ark:/86530/ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,object identifier,Documentatiemappen,,,,,,,,
 ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_AnnotationsImmaterial,1,note.rubalg,"<p>Contains a card with a (passport) photograph of Evers.</p>
 ","<p>Contains a card with a (passport) photograph of Evers.</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8075a31a-fe6c-40c5-9a2c-67e86760e984"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d5a46799-092e-4f88-bac1-fb8d558b0be8"", ""inverseOntologyProperty"": """"}]"
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Korrespondenz""
-
-- Journal: ""Saint Eustache"" n.15, May-June 1948 (Reproduction of 'The Pilgrims of Emmaus' by Rubens at page 9)
-- Journal: ""Urania"" n.5, May 1955 (Article: 'Goethes Besuch bei Hofrat Bereis' at pages 171-176)
-- Notes and bibliographic references
-- Correspondence with different art experts (Ruyten from Rubenshuis, Burchard, Lugt, Passamonti, Longhi, Grote, Schnell, Druwé, etc.)
-- Article: 'Nue entdeckte Rubens-Bilder' in ""Süddeutschen Zeitung"" dated 03.11.1966
-- Article: 'On découvre un Rubens en Espagne' in ""Le nouveau journal"" dated 20.08.1943
-- Article: 'Echter Rubens entdeckt' in ""Berliner Börsen-Zeitung"" dated 13.01.1944
-- Article: 'Gemäldesammlung Adolphe Schloss versteigert'
-- Article: 'Das Geheimnis des Berliner Flakturmbrandes. Eine Verlustliste der Berliner Museen'
-- Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jacob Jordaens' in ""Brüsseler Zeitung"" dated 19.05.1943
-- Article: '""De droomende Sileen "" van Peter Pauwel Rubens' in ""Volk en Staat"" dated 28.02.1943
-- Article: 'Rubens als Staatsmann. Holland und Flandern vor dreihundert Jahren (II)' in ""Brüsseler Zeitung"" dated 23.02.1943
-- Article: 'Rubens als Diplomat und Politiker. Holland und Flandern vor dreihundert Jahren (I)' in ""Brüsseler Zeitung"" dated 21.02.1943
-- Article: 'Rubens Geburt in Siegen. Von Universitätsprofessor Dr. Hans Gerhard Evers' in ""National-Zeitung"" dated 27.03.1943
-- Article: 'Neue Rembrant - und Rubens - Bilder in Dahlem' in ""Der Tagesspiegel"" dated 20.01.1955
-- Article: 'Rubens feuilletonistisch'
-- Article: 'Villa Hügel: Schätze aus Dom und Münster' in ""Frankfurter allgemeine Zeitung""
-- Royal library of Belgium cards
-- Antwerp library card
-- Reproduction of artwork
-- List of the works in 'Rubens. A loan exhibition at Wildenstein', New York, 1951
-- Order form for 'P. P. Rubens' by E. Larsen
-- Rubens house brochure
-- Offprint: 'Stileinflüsse im italienischen Frühwerk des Peter Paul Rubens' in ""Forschungen und Fortschritte"", n.19/20, October 1948
-- Supplement to the contract for ""Rubens und sein Werk",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000247,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4131,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4131/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""61dcdd9b-bdf4-5ac3-8b46-f16f649e7e93"", ""ontologyProperty"": """", ""resourceXresourceId"": ""85725b7f-8a13-489a-af30-9c06c6f31d60"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 204,repository numbers,,,,,,,,,,,,,,
-ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 17,titles proper,Dutch (language),,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6512e403-152e-493b-9da5-35eca0f4071a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2fe3e4f3-e85f-47c6-9eba-01c2cd438a71"", ""inverseOntologyProperty"": """"}]"
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Korrespondenz&quot;</p>
+<ul>
+<li>Journal: &quot;Saint Eustache&quot; n.15, May-June 1948 (Reproduction of 'The Pilgrims of Emmaus' by Rubens at page 9)</li>
+<li>Journal: &quot;Urania&quot; n.5, May 1955 (Article: 'Goethes Besuch bei Hofrat Bereis' at pages 171-176)</li>
+<li>Notes and bibliographic references</li>
+<li>Correspondence with different art experts (Ruyten from Rubenshuis, Burchard, Lugt, Passamonti, Longhi, Grote, Schnell, Druwé, etc.)</li>
+<li>Article: 'Nue entdeckte Rubens-Bilder' in &quot;Süddeutschen Zeitung&quot; dated 03.11.1966</li>
+<li>Article: 'On découvre un Rubens en Espagne' in &quot;Le nouveau journal&quot; dated 20.08.1943</li>
+<li>Article: 'Echter Rubens entdeckt' in &quot;Berliner Börsen-Zeitung&quot; dated 13.01.1944</li>
+<li>Article: 'Gemäldesammlung Adolphe Schloss versteigert'</li>
+<li>Article: 'Das Geheimnis des Berliner Flakturmbrandes. Eine Verlustliste der Berliner Museen'</li>
+<li>Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jacob Jordaens' in &quot;Brüsseler Zeitung&quot; dated 19.05.1943</li>
+<li>Article: '&quot;De droomende Sileen &quot; van Peter Pauwel Rubens' in &quot;Volk en Staat&quot; dated 28.02.1943</li>
+<li>Article: 'Rubens als Staatsmann. Holland und Flandern vor dreihundert Jahren (II)' in &quot;Brüsseler Zeitung&quot; dated 23.02.1943</li>
+<li>Article: 'Rubens als Diplomat und Politiker. Holland und Flandern vor dreihundert Jahren (I)' in &quot;Brüsseler Zeitung&quot; dated 21.02.1943</li>
+<li>Article: 'Rubens Geburt in Siegen. Von Universitätsprofessor Dr. Hans Gerhard Evers' in &quot;National-Zeitung&quot; dated 27.03.1943</li>
+<li>Article: 'Neue Rembrant - und Rubens - Bilder in Dahlem' in &quot;Der Tagesspiegel&quot; dated 20.01.1955</li>
+<li>Article: 'Rubens feuilletonistisch'</li>
+<li>Article: 'Villa Hügel: Schätze aus Dom und Münster' in &quot;Frankfurter allgemeine Zeitung&quot;</li>
+<li>Royal library of Belgium cards</li>
+<li>Antwerp library card</li>
+<li>Reproduction of artwork</li>
+<li>List of the works in 'Rubens. A loan exhibition at Wildenstein', New York, 1951</li>
+<li>Order form for 'P. P. Rubens' by E. Larsen</li>
+<li>Rubens house brochure</li>
+<li>Offprint: 'Stileinflüsse im italienischen Frühwerk des Peter Paul Rubens' in &quot;Forschungen und Fortschritte&quot;, n.19/20, October 1948</li>
+<li>Supplement to the contract for &quot;Rubens und sein Werk&quot;</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000247,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4131,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4131/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""61dcdd9b-bdf4-5ac3-8b46-f16f649e7e93"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6dadb828-7b59-47b9-a236-a6c77adca0f1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 204,repository numbers,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 17,titles proper,Dutch (language),,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad2cf02e-44e1-5a12-9a6c-745d34f3ed55,tg:rubdoc:4131,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

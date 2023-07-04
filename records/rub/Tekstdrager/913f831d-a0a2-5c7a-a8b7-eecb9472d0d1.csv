@@ -1,38 +1,52 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4025,https://data.rubenianum.be//ark:/86530/913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,Documentatiemappen,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cfad9162-61a9-45fd-b0f8-bed3c3dbd31f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ef49e38-e6dc-472a-82bd-14faaae9c512"", ""inverseOntologyProperty"": """"}]"
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""IX Simson und Delila""
-
-- Extracts from different publications
-- Reproductions of 'Samson and Delilah'
-- Correspondence with Franz A. Ebert dated 1944
-- Article: 'Entwurf von Rubens. In London entdeckt' in ""Frankfurt allgemeine Zeitung"" dated 10.10.1966
-- Bibliographic references
-- House Rockox postcard
-- Proofs of "" 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg"" by Evers
-- Notes about  "" 'Simson und Delila' von Rubens"" by Evers
-- First subfolder (Annotation: ""Frierende Venus""):
-    - Photo of Tintoretto's 'Samson and Delilah'
-    - Correspondence about Tintoretto's 'Samson and Delilah'
-    - Bibliographic references
-    - Photos of 'Jupiter and Kalisto'
-    - Extract about 'Jupiter and Kalisto'
-- Second subfolder (Annotation: ""Die Kunstkammer des Bürgermeisters Rockox""):
-    - Extracts from different publications
-    - Inventory lists
-- Third subfolder (Annotation: ""Simson und Delila Neuerburg""):
-    - Extracts from different publications about 'Simson und Delila'
-    - Draft text of "" 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg"" by Evers
-- Fourth subfolder (Annotation: ""Simson und Delila von Rubens Evers.""):
-    - Extracts from different publications about 'Simson und Delila'
-    - Draft text of "" 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg"" by Evers",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000152,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4025,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4025/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""09821ce3-8b16-597e-9b46-a7eee5f63701"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3efd00ce-9f4d-4c4b-a99a-e14dbec9b1d1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 109,repository numbers,,,,,,,,,,,,,,
-913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 12,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4025,record identifiers,https://data.rubenianum.be//ark:/86530/913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,object identifier,Documentatiemappen,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a718d89c-94aa-4bb7-9462-295e97a85cec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3913da61-88fb-4ac8-bec5-04b32608c1d3"", ""inverseOntologyProperty"": """"}]"
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;IX Simson und Delila&quot;</p>
+<ul>
+<li>Extracts from different publications</li>
+<li>Reproductions of 'Samson and Delilah'</li>
+<li>Correspondence with Franz A. Ebert dated 1944</li>
+<li>Article: 'Entwurf von Rubens. In London entdeckt' in &quot;Frankfurt allgemeine Zeitung&quot; dated 10.10.1966</li>
+<li>Bibliographic references</li>
+<li>House Rockox postcard</li>
+<li>Proofs of &quot; 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg&quot; by Evers</li>
+<li>Notes about  &quot; 'Simson und Delila' von Rubens&quot; by Evers</li>
+<li>First subfolder (Annotation: &quot;Frierende Venus&quot;):
+<ul>
+<li>Photo of Tintoretto's 'Samson and Delilah'</li>
+<li>Correspondence about Tintoretto's 'Samson and Delilah'</li>
+<li>Bibliographic references</li>
+<li>Photos of 'Jupiter and Kalisto'</li>
+<li>Extract about 'Jupiter and Kalisto'</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;Die Kunstkammer des Bürgermeisters Rockox&quot;):
+<ul>
+<li>Extracts from different publications</li>
+<li>Inventory lists</li>
+</ul>
+</li>
+<li>Third subfolder (Annotation: &quot;Simson und Delila Neuerburg&quot;):
+<ul>
+<li>Extracts from different publications about 'Simson und Delila'</li>
+<li>Draft text of &quot; 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg&quot; by Evers</li>
+</ul>
+</li>
+<li>Fourth subfolder (Annotation: &quot;Simson und Delila von Rubens Evers.&quot;):
+<ul>
+<li>Extracts from different publications about 'Simson und Delila'</li>
+<li>Draft text of &quot; 'Simson und Delila' von Rubens in der Sammlung August Neuerburg in Hamburg&quot; by Evers</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000152,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4025,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4025/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""09821ce3-8b16-597e-9b46-a7eee5f63701"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4c6326ac-36e9-4c99-bde9-7c25805e9971"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 109,repository numbers,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 12,titles proper,Dutch (language),,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+913f831d-a0a2-5c7a-a8b7-eecb9472d0d1,tg:rubdoc:4025,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

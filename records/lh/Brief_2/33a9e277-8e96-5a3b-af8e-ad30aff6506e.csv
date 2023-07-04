@@ -1,0 +1,21 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:66622,record identifiers,https://data.letterenhuis.be/ark:/24970/33a9e277-8e96-5a3b-af8e-ad30aff6506e,object identifier,Brieven,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>Getypt (gestencild)</li>
+<li>Handgeschreven klad en omslag (potlood)</li>
+</ul>
+","<ul>
+<li>Getypt (gestencild)</li>
+<li>Handgeschreven klad en omslag (potlood)</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8b9fbc83-f03e-4a68-bea5-4f061cf4a1bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""616856d0-f4e9-4e37-9a2c-031c55345aab"", ""inverseOntologyProperty"": """"}]"
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1927.0,2042,In Copyright,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19270119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1927-01-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000063872,referentienummer,False,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:66622,brocade id,False,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:66622/N,brocade url,False,,,,,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9014af75-d5b6-56ab-9e44-b88643a482d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""13115e64-98f9-4da9-a4d0-1319354a7bb5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+33a9e277-8e96-5a3b-af8e-ad30aff6506e,tg:lhbr:66622,e73_Titles,,,au::8060,,,,lhbr,lhbr,Brief,4ae5df61-7251-5bdf-8d8c-3fed33f32998,bs,,au::8060:1,au::8060g:1,,,,au_code,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/862420"",""au::8060"",""au::8060:1"",""ark:/83110/x0/4ae5df61-7251-5bdf-8d8c-3fed33f32998"",""Jan Oscar de Gruyter"",""ark:/83110/x0/6f716722-fd0a-5ce7-a337-616ae6628151""],""name"":""Jan Oscar de Gruyter"",""ark"":""ark:/83110/x0/6f716722-fd0a-5ce7-a337-616ae6628151"",""uri"":""/agents/people/862420"",""id"":""au::8060:1"",""resourceArk"":""ark:/83110/x0/4ae5df61-7251-5bdf-8d8c-3fed33f32998"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/4ae5df61-7251-5bdf-8d8c-3fed33f32998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

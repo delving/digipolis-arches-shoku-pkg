@@ -1,40 +1,45 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4170,https://data.rubenianum.be//ark:/86530/c88ff175-a145-57c7-8d43-67a1c351675f,Documentatiemappen,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""adc8f7f7-8269-48c4-a094-7eebbe12c018"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d3b7841a-dd30-4e79-b5fe-f504b256c3d7"", ""inverseOntologyProperty"": """"}]"
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"No annotation on the envelope.
-
-- Reproduction of 'The Israelites Collecting Manna'
-- Extracts from different publications
-- Journal: ""Apollo. Chronique des beaux arts"", n. 17, December 1942
-- Journal: ""De Vlag"", n. 8, March 1943 (four copies)
-- Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jakob Jordaens' in ""Brüsseler Zeitung"" dated 19.05.1943 (ten copies)
-- Article: '""De droomende Sileen"" van Peter Pauwel Rubens door dr. Hans Gerhard Evers, professor aan de Universiteit te Munchen' in ""Volk en Staat"" dated 28.02.1943 (two copies)
-- Subfolder:
-    - Booklet: ""Rubens als Bürger. Rubensausstellung Siegen 1967"" (exhibition list)
-    - Catalogue: ""Siegen '67. Peter Paul Rubens""
-- Notes about different paintings (dated 1968)
-- Photocopy of a reproduction of 'The Death of Adonis'
-- Correspondence with J. O. Leegenhoek (dated 1968), with Margret Köser (dated 1968), with Bernd Roedig (dated 1968), with Manfred Kurtz (dated 1968) and with Klaus Demus (dated 1967)
-- Bibliographic references
-- Article: 'Un ""Rubens"" inconnu, découvert à Paris' in ""Le Figaro"" dated 01.02.1968
-- Essay: 'Rubens' Ruf' in ""Der Monat"", n.233, February 1968
-- Business cards of M. Walter Mela and Diethelm Doll
-- Essay (reprint): 'Rubens' ""Abschied des Adonis"" in Düsseldorf' by H. von Einem, in Wallraf-Richartz-Jahrbuch, 1967
-- ""Consensu-auctoris"" letter from Kindlers Malerei-Lexikon with the figures list and the bibliography (""Ad usum auctoris"")
-- Article: 'Bestandsaufnahme. Karlsruher Gesamtkatalog' in ""Frankfurter Allgemeine Zeitung"" dated 21.12.1967
-- Photocopy of a 'Madonna with Child'
-- Essays: 'Siegen zeigte sich al Kunsrzentrum and Rede des britischen Botschafters, S. E. Sir Frank Roberts anläβlich der Verleihung des Rubenspreises am 28. Juni 1967 in der Bühne der Stadt Siegen' in Siegbild, n.2/67  
-  
-Loose documentation in the Rubensdocumentation of the Rubenianum:   
-     
-- Photo of a reproduction of the 'Holy Family' (Rubenianum ""Evers 1993"" stamp on the back)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000283,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4170,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4170/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1b3c81ca-6892-5ea6-8fe5-006e4cdd15a4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f80e18de-2a84-406a-a839-cf77969b5083"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 240,repository numbers,,,,,,,,,,,,,,
-c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 53,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4170,record identifiers,https://data.rubenianum.be//ark:/86530/c88ff175-a145-57c7-8d43-67a1c351675f,object identifier,Documentatiemappen,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2f338baa-4371-45c1-948a-5f8d6f738d1d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7b620cf2-5306-4424-8b41-1c2281d3a326"", ""inverseOntologyProperty"": """"}]"
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>No annotation on the envelope.</p>
+<ul>
+<li>Reproduction of 'The Israelites Collecting Manna'</li>
+<li>Extracts from different publications</li>
+<li>Journal: &quot;Apollo. Chronique des beaux arts&quot;, n. 17, December 1942</li>
+<li>Journal: &quot;De Vlag&quot;, n. 8, March 1943 (four copies)</li>
+<li>Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jakob Jordaens' in &quot;Brüsseler Zeitung&quot; dated 19.05.1943 (ten copies)</li>
+<li>Article: '&quot;De droomende Sileen&quot; van Peter Pauwel Rubens door dr. Hans Gerhard Evers, professor aan de Universiteit te Munchen' in &quot;Volk en Staat&quot; dated 28.02.1943 (two copies)</li>
+<li>Subfolder:
+<ul>
+<li>Booklet: &quot;Rubens als Bürger. Rubensausstellung Siegen 1967&quot; (exhibition list)</li>
+<li>Catalogue: &quot;Siegen '67. Peter Paul Rubens&quot;</li>
+</ul>
+</li>
+<li>Notes about different paintings (dated 1968)</li>
+<li>Photocopy of a reproduction of 'The Death of Adonis'</li>
+<li>Correspondence with J. O. Leegenhoek (dated 1968), with Margret Köser (dated 1968), with Bernd Roedig (dated 1968), with Manfred Kurtz (dated 1968) and with Klaus Demus (dated 1967)</li>
+<li>Bibliographic references</li>
+<li>Article: 'Un &quot;Rubens&quot; inconnu, découvert à Paris' in &quot;Le Figaro&quot; dated 01.02.1968</li>
+<li>Essay: 'Rubens' Ruf' in &quot;Der Monat&quot;, n.233, February 1968</li>
+<li>Business cards of M. Walter Mela and Diethelm Doll</li>
+<li>Essay (reprint): 'Rubens' &quot;Abschied des Adonis&quot; in Düsseldorf' by H. von Einem, in Wallraf-Richartz-Jahrbuch, 1967</li>
+<li>&quot;Consensu-auctoris&quot; letter from Kindlers Malerei-Lexikon with the figures list and the bibliography (&quot;Ad usum auctoris&quot;)</li>
+<li>Article: 'Bestandsaufnahme. Karlsruher Gesamtkatalog' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 21.12.1967</li>
+<li>Photocopy of a 'Madonna with Child'</li>
+<li>Essays: 'Siegen zeigte sich al Kunsrzentrum and Rede des britischen Botschafters, S. E. Sir Frank Roberts anläβlich der Verleihung des Rubenspreises am 28. Juni 1967 in der Bühne der Stadt Siegen' in Siegbild, n.2/67</li>
+</ul>
+<p>Loose documentation in the Rubensdocumentation of the Rubenianum:</p>
+<ul>
+<li>Photo of a reproduction of the 'Holy Family' (Rubenianum &quot;Evers 1993&quot; stamp on the back)</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000283,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4170,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4170/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1b3c81ca-6892-5ea6-8fe5-006e4cdd15a4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d27853fd-79d6-4945-baa8-834f0fada437"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 240,repository numbers,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 53,titles proper,Dutch (language),,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c88ff175-a145-57c7-8d43-67a1c351675f,tg:rubdoc:4170,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

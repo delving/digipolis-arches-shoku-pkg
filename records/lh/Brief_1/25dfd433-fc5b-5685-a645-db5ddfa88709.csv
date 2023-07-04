@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:278801,record identifiers,https://data.letterenhuis.be/ark:/24970/25dfd433-fc5b-5685-a645-db5ddfa88709,object identifier,Brieven,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>22 Brieven</li>
+<li>7 prentbriefkaarten</li>
+<li>3 briefkaarten</li>
+<li>3 visitekaartjes</li>
+</ul>
+","<ul>
+<li>22 Brieven</li>
+<li>7 prentbriefkaarten</li>
+<li>3 briefkaarten</li>
+<li>3 visitekaartjes</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ffe17b27-9245-4898-b2cd-d502a0de28d9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a17f8232-cd10-44b9-89cd-3f326d4b46fc"", ""inverseOntologyProperty"": """"}]"
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1928.0,2043,In Copyright,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19280501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19351102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1928-05-01,1935-11-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Hendrik horemans aan E. de Bom</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000267401,referentienummer,False,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:278801,brocade id,False,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:278801/N,brocade url,False,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_LegacyInformationMerged,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35 brgr,groepsbeschrijving,False,35,brgr,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d8dfe656-2d0e-512f-a4c6-9d5cf05e8b7a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""596783fd-efe7-45ec-9593-c5622a6fee0b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_Titles,,,au::24381,,,,lhbr,lhbr,Brief,e59f3179-abaa-51a6-9829-27c0348d5f03,bs,,au::24381:1,au::24381g:1,,,,au_code,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/2608767"",""au::24381"",""au::24381:1"",""ark:/83110/x0/e59f3179-abaa-51a6-9829-27c0348d5f03"",""Hendrik Horemans"",""ark:/83110/x0/19da1746-51c7-5b0a-9365-7a4193f5ace3""],""name"":""Hendrik Horemans"",""ark"":""ark:/83110/x0/19da1746-51c7-5b0a-9365-7a4193f5ace3"",""uri"":""/agents/people/2608767"",""id"":""au::24381:1"",""resourceArk"":""ark:/83110/x0/e59f3179-abaa-51a6-9829-27c0348d5f03"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/e59f3179-abaa-51a6-9829-27c0348d5f03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25dfd433-fc5b-5685-a645-db5ddfa88709,tg:lhbr:278801,e73_Titles,,,au::2268,,,,lhbr,lhbr,Brief,1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,co,,au::2268:1,au::2268g:1,,,,au_code,recipients (people),,"dlod={""suggest"":[""/agents/people/242676"",""au::2268"",""au::2268:1"",""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""Emmanuel de Bom"",""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef""],""name"":""Emmanuel de Bom"",""ark"":""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef"",""uri"":""/agents/people/242676"",""id"":""au::2268:1"",""resourceArk"":""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

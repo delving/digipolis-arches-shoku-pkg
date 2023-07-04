@@ -1,26 +1,27 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhtk:13746_#1,https://data.letterenhuis.be/ark:/24970/ebd1f070-2be4-576b-94f3-9fbff3cbb361,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhtk:13746_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/ebd1f070-2be4-576b-94f3-9fbff3cbb361,object identifier,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Conditions,6,,,,,,note.lhconditie,"<p>De onderzijde van het blad is gekarteld.</p>
 ",,,,,,,,,,,"<p>De onderzijde van het blad is gekarteld.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"35,5 x 25,5",,,,,,,,,,,,,,,,,"35,5 x 25,5 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,355,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,255,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,tg:lhtk:13746_#1,,,WW 184 / I Planex GT,ebd1f070-2be4-576b-94f3-9fbff3cbb361,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"35,5 x 25,5",,,,,,,,,,,,,,,,,"35,5 x 25,5 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,355,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,255,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,tg:lhtk:13746_#1,,,WW 184 / I Planex GT,ebd1f070-2be4-576b-94f3-9fbff3cbb361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links in het midden in de tekening monogram kunstenaar : <em>SW</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links in het midden jaartalvermelding : 2011</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Marks,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Midden onderaan in potlood <em>Hugo Claus</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Marks,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechts onderaan cijferaanduiding 2011-46</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_Marks,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechts onderaan aanduiding : 22.5 x 34</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechbasistk.lhtechtk,ink,,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,India ink (ink),,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,watercolor (paint),,,,,,,,,,,,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasistk.lhtechtk,tpe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,,
-ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechbasistk.lhtechtk,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,India ink (ink),,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhtk,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,watercolor (paint),,,,,,,,,,,,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasistk.lhtechtk,tpe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,,,,,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011.0,permission required,,,,,,,,
+ebd1f070-2be4-576b-94f3-9fbff3cbb361,tg:lhtk:13746_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,u1dpSWWQnkPfRZccFahN3ry5,lhtk,https://dams.antwerpen.be/iiif/u1dpSWWQnkPfRZccFahN3ry5/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/u1dpSWWQnkPfRZccFahN3ry5,DAMS Image,lh,Iconografie

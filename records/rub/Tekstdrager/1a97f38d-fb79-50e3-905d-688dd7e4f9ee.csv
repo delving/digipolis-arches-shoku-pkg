@@ -1,29 +1,37 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4105,https://data.rubenianum.be//ark:/86530/1a97f38d-fb79-50e3-905d-688dd7e4f9ee,Documentatiemappen,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""de92a3a0-b370-4900-863a-337952e30c53"", ""ontologyProperty"": """", ""resourceXresourceId"": ""000e0dd6-637e-4ade-b3d3-8e146f0f4067"", ""inverseOntologyProperty"": """"}]"
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Politik""
-
-- Bibliographic references
-- List of artworks and notes
-- Draft text ""England und englische Politik im Urteil von Peter Paul Rubens""
-- Extracts from different publications
-- Reproduction of the 'Portrait of general Ambrogio Spinola'
-- Correspondence with Fritz Lugt dated 1949
-- Postcard from the Bayerische Staatsbibliothek in Munich
-- First subfolder (Annotation: ""Politik von 1620 bis 1630""):
-    - Extracts from different publications
-    - Draft text about Rubens and the politics
-- Correspondence with A. O. Meyes dated 1941
-- Library loan form
-- Second subfolder (Annotation: ""Exzerpte aus dem Codex Diplomaticus""):
-    - Extracts from different publications",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000225,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4105,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4105/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""093ab954-fe9a-52b5-8907-05660a70aa13"", ""ontologyProperty"": """", ""resourceXresourceId"": ""00d54d8a-e591-4741-a1ad-34f195dc10bf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 182,repository numbers,,,,,,,,,,,,,,
-1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 16,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4105,record identifiers,https://data.rubenianum.be//ark:/86530/1a97f38d-fb79-50e3-905d-688dd7e4f9ee,object identifier,Documentatiemappen,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f4eccce7-f68e-4059-9c96-4ca6e64dca2a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae1fe5ed-1260-48db-a9b0-d23d30d75943"", ""inverseOntologyProperty"": """"}]"
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Politik&quot;</p>
+<ul>
+<li>Bibliographic references</li>
+<li>List of artworks and notes</li>
+<li>Draft text &quot;England und englische Politik im Urteil von Peter Paul Rubens&quot;</li>
+<li>Extracts from different publications</li>
+<li>Reproduction of the 'Portrait of general Ambrogio Spinola'</li>
+<li>Correspondence with Fritz Lugt dated 1949</li>
+<li>Postcard from the Bayerische Staatsbibliothek in Munich</li>
+<li>First subfolder (Annotation: &quot;Politik von 1620 bis 1630&quot;):
+<ul>
+<li>Extracts from different publications</li>
+<li>Draft text about Rubens and the politics</li>
+</ul>
+</li>
+<li>Correspondence with A. O. Meyes dated 1941</li>
+<li>Library loan form</li>
+<li>Second subfolder (Annotation: &quot;Exzerpte aus dem Codex Diplomaticus&quot;):
+<ul>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000225,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4105,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4105/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""093ab954-fe9a-52b5-8907-05660a70aa13"", ""ontologyProperty"": """", ""resourceXresourceId"": ""298152ef-723c-4e18-a580-653b2991700c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 182,repository numbers,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 16,titles proper,Dutch (language),,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1a97f38d-fb79-50e3-905d-688dd7e4f9ee,tg:rubdoc:4105,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

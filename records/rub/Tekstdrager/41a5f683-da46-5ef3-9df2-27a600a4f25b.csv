@@ -1,49 +1,63 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3966,https://data.rubenianum.be//ark:/86530/41a5f683-da46-5ef3-9df2-27a600a4f25b,Documentatiemappen,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bd8adeb7-a73c-49e7-a3e7-070f9ab74cdb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""802e6367-79ab-41b8-9e23-cb5c89f97091"", ""inverseOntologyProperty"": """"}]"
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Rom/Grenoble Sta Maria in Vallicella""
-
-- Correspondence with B. Roedig (dated 1969), with Robert Oertel (dated 1969), with F. Baudouin (dated 1969), with Heinz Kisters (1969)
-- Report of 'Saint Gregory, Domitilla, Maurus and Papianus' dated 1969
-- Information text about ""Capital"" magazine by H. Kisters
-- Post card from Barcelona
-- First subfolder (Annotation: ""Rubens Gregor/Domitilla/Maurus/Papianus Berlin Siegen Gutachten für H. Kisters 1969 Stich von J. de Wit""):
-    - Bibliographic references
-    - Correspondence with E. Trautscholdt (dated 1969), with M. Jaffé (dated 1969), with H. Kisters (dated 1969), with K. Rossacher (dated 1969), with Roedig (dated 1969)
-    - Photos of 'Sain Gregory', Portrait of Brigida Spinola,  Santa Maria in Vallicella church, Scipio Borghesesculpture, 'Saint Gregory, Domitilla, Maurus and Papianus'
-    - Reports of 'Saint Gregory, Domitilla, Maurus and Papianus' by Evers and J. Müller Hofstede (dated 1969)
-    - Photocopies of the pages about Saint Gregory and Domitilla in ""Kat. Ausst. Olieverfschetsen van Rubens"" (1953)
-    - Article (photocopies): 'Alte Meister- wieder frisch eingetroffen' in ""Capital""
-    - Photocopies from the Katalog Bregenz 1965
-    - Report 'Peter Paul Rubens ""Die Heiligen Gregor, Domitilla, Maurus und Papianos"" ' by W. D. Dube
-    - Dube's skills list
-    - Photocopies from ""Rubens, selected drawings"" by J. S. Held, 1959
-    - Correspondence with K. Schilling (secretary of Kisters), with photocopies of letters (from L. Burchard, H. Voβ, O. Benesch, M. Jaffé) and of a text by Benesch
-- Second subfolder (Annotation: ""Rubens Gregor - Domitilla Grenoble Skizze Seilern"") addressed (inside) to ""Herrn Prof. Dr. Hans Evers 6101 Darmstadt-Traisa Waldstrasse 43"" and dated 18.12.1968:
-    - Photos of the statue of St. Magdalene, Rubens self-portrait, 'Saint Gregory, Domitilla, Maurus and Papianus'
-    - Photocopies of the text: ""Sir Peter Paul Rubens. Modello for a later, altered version of the first altarpiece for S. Maria in Vallicella, Roma (the 'Chiesa Nuova')"" in ""Flemish paintings & drawings at 56 Princes Gate, London SW 7"" by Count Antoine Seilern
-    - Correspondence with Count Antoine Seilern (dated 1969), with Jean Claparède (dated 1969), with Gabrielle Kueny (dated 1969)
-    - Report of Rubens' Saint Gregor in Grenoble (dated 1969)
-- Essay (reprint): 'Rubens's first bozzetto for Sta. Maria in Vallicella' by J. Müller Hofstede in ""Burlington Magazine"", October 1964
-- Third subfolder (Annotation:""Rubens Chiesa-Nuova / Rom (hl. Gregor, hl. Domitilla) Zweite Fassung"") addressed (inside) to ""Herrn Prof. Dr. phil. habil. Hans-Gerh. Evers Waldstrasse 43 D-6101 Traisa"":
-    - Library loan forms
-    - Correspondence with Else Rossacher (dated 1969), with Eduard Trautscholdt (dated 1942), with Bruhns (dated 1942), with the director of the Museum Boymans Rotterdam (dated 1942)
-    - Photos of Santa Maria in Vallicella church and paintings and pages with engravings
-    - Essay (reprint): 'Ein Rubensstich aus der italienischen Zeit' by Evers in ""Die graphischen Künste. Neue Folge"", 1941
-    - Bibliograpgic references
-    - Report about Rubens' work in Vallicella (dated 1968)
-    - Extracts from different publications
-- Fourth subfolder (Annotation: ""Michael Jaffé P.P. Rubens and the Oratorian Fathers Proporzioni IV, 1963, p. 209–241"") addressed (inside) to ""Herrn Prof. Dr. Hans Evers 6101 Darmstadt-Traisa Waldstrasse 43"" and dated 15.07.1969: 
-    - Photocopies of 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé, in ""Proporzioni. Studi di storia dell'arte"" by R. Longhi, 1963
-    - List of the works in 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé
-    - Photos of the works in 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000100,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3966,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3966/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a4a1e830-3d6e-5ed7-a006-467a6be1fc27"", ""ontologyProperty"": """", ""resourceXresourceId"": ""50776130-dacf-4949-ab02-2b1eaf4febc2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 057,repository numbers,,,,,,,,,,,,,,
-41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 5,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3966,record identifiers,https://data.rubenianum.be//ark:/86530/41a5f683-da46-5ef3-9df2-27a600a4f25b,object identifier,Documentatiemappen,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3b4cfd1b-0295-499a-b200-af807570f396"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b0a864d1-7114-4624-b899-eb25ba74b16d"", ""inverseOntologyProperty"": """"}]"
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Rom/Grenoble Sta Maria in Vallicella&quot;</p>
+<ul>
+<li>Correspondence with B. Roedig (dated 1969), with Robert Oertel (dated 1969), with F. Baudouin (dated 1969), with Heinz Kisters (1969)</li>
+<li>Report of 'Saint Gregory, Domitilla, Maurus and Papianus' dated 1969</li>
+<li>Information text about &quot;Capital&quot; magazine by H. Kisters</li>
+<li>Post card from Barcelona</li>
+<li>First subfolder (Annotation: &quot;Rubens Gregor/Domitilla/Maurus/Papianus Berlin Siegen Gutachten für H. Kisters 1969 Stich von J. de Wit&quot;):
+<ul>
+<li>Bibliographic references</li>
+<li>Correspondence with E. Trautscholdt (dated 1969), with M. Jaffé (dated 1969), with H. Kisters (dated 1969), with K. Rossacher (dated 1969), with Roedig (dated 1969)</li>
+<li>Photos of 'Sain Gregory', Portrait of Brigida Spinola,  Santa Maria in Vallicella church, Scipio Borghesesculpture, 'Saint Gregory, Domitilla, Maurus and Papianus'</li>
+<li>Reports of 'Saint Gregory, Domitilla, Maurus and Papianus' by Evers and J. Müller Hofstede (dated 1969)</li>
+<li>Photocopies of the pages about Saint Gregory and Domitilla in &quot;Kat. Ausst. Olieverfschetsen van Rubens&quot; (1953)</li>
+<li>Article (photocopies): 'Alte Meister- wieder frisch eingetroffen' in &quot;Capital&quot;</li>
+<li>Photocopies from the Katalog Bregenz 1965</li>
+<li>Report 'Peter Paul Rubens &quot;Die Heiligen Gregor, Domitilla, Maurus und Papianos&quot; ' by W. D. Dube</li>
+<li>Dube's skills list</li>
+<li>Photocopies from &quot;Rubens, selected drawings&quot; by J. S. Held, 1959</li>
+<li>Correspondence with K. Schilling (secretary of Kisters), with photocopies of letters (from L. Burchard, H. Voβ, O. Benesch, M. Jaffé) and of a text by Benesch</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;Rubens Gregor - Domitilla Grenoble Skizze Seilern&quot;) addressed (inside) to &quot;Herrn Prof. Dr. Hans Evers 6101 Darmstadt-Traisa Waldstrasse 43&quot; and dated 18.12.1968:
+<ul>
+<li>Photos of the statue of St. Magdalene, Rubens self-portrait, 'Saint Gregory, Domitilla, Maurus and Papianus'</li>
+<li>Photocopies of the text: &quot;Sir Peter Paul Rubens. Modello for a later, altered version of the first altarpiece for S. Maria in Vallicella, Roma (the 'Chiesa Nuova')&quot; in &quot;Flemish paintings &amp; drawings at 56 Princes Gate, London SW 7&quot; by Count Antoine Seilern</li>
+<li>Correspondence with Count Antoine Seilern (dated 1969), with Jean Claparède (dated 1969), with Gabrielle Kueny (dated 1969)</li>
+<li>Report of Rubens' Saint Gregor in Grenoble (dated 1969)</li>
+</ul>
+</li>
+<li>Essay (reprint): 'Rubens's first bozzetto for Sta. Maria in Vallicella' by J. Müller Hofstede in &quot;Burlington Magazine&quot;, October 1964</li>
+<li>Third subfolder (Annotation:&quot;Rubens Chiesa-Nuova / Rom (hl. Gregor, hl. Domitilla) Zweite Fassung&quot;) addressed (inside) to &quot;Herrn Prof. Dr. phil. habil. Hans-Gerh. Evers Waldstrasse 43 D-6101 Traisa&quot;:
+<ul>
+<li>Library loan forms</li>
+<li>Correspondence with Else Rossacher (dated 1969), with Eduard Trautscholdt (dated 1942), with Bruhns (dated 1942), with the director of the Museum Boymans Rotterdam (dated 1942)</li>
+<li>Photos of Santa Maria in Vallicella church and paintings and pages with engravings</li>
+<li>Essay (reprint): 'Ein Rubensstich aus der italienischen Zeit' by Evers in &quot;Die graphischen Künste. Neue Folge&quot;, 1941</li>
+<li>Bibliograpgic references</li>
+<li>Report about Rubens' work in Vallicella (dated 1968)</li>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+<li>Fourth subfolder (Annotation: &quot;Michael Jaffé P.P. Rubens and the Oratorian Fathers Proporzioni IV, 1963, p. 209–241&quot;) addressed (inside) to &quot;Herrn Prof. Dr. Hans Evers 6101 Darmstadt-Traisa Waldstrasse 43&quot; and dated 15.07.1969:
+<ul>
+<li>Photocopies of 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé, in &quot;Proporzioni. Studi di storia dell'arte&quot; by R. Longhi, 1963</li>
+<li>List of the works in 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé</li>
+<li>Photos of the works in 'Peter Paul Rubens and the oratorian fathers' by M. Jaffé</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000100,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3966,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3966/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a4a1e830-3d6e-5ed7-a006-467a6be1fc27"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bfa12f70-3156-43df-a6b3-5aed6b58f0c1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 057,repository numbers,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 5,titles proper,Dutch (language),,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41a5f683-da46-5ef3-9df2-27a600a4f25b,tg:rubdoc:3966,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

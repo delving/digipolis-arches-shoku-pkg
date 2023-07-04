@@ -1,20 +1,20 @@
-ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,AA,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:32,https://data.museumplantinmoretus.be/ark:/11975/cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,Foto's,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_ChangeHistoryRelations,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cbeb50c1-e82a-4c2b-82ca-8d835fa31152"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d557bc95-466b-4650-b3fa-cd37eb19fa25"", ""inverseOntologyProperty"": """"}]"
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,mpm,mpmph,Foto,e73_CreationActors,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""isCapacity"":false}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,0,id/date.exposure/so,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_Descriptions,,,,,,,,,,,id.desc,,,,,,,,,,,,,"Op de microfilm staan meerdere fragmenten uit diverse werken: 
-1) *Sanctissimi D.N. Gregorii XIII …* (Romae, 1584)    
-2) *Brevis orthodoxae fidei...* (Romae, 1596)    
-3) *Rituale sacramentorim romanum* (Romae, 1583)    
-4) [Oosterse taal] (Romae, 1583)    
-5) *Advertonio …*    
-
-
-",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000021,referentienummer,False,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:32,brocade id,False,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:32/N,brocade url,False,,,,,,,,,,,,,,
-cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_MaterialRecords,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""623b504a-77f7-536b-b7c9-e98fef50725e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fa3baa3d-1ecd-4727-8b81-e6f510b69c25"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,place_au_code,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,AA,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:32,record identifiers,https://data.museumplantinmoretus.be/ark:/11975/cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,object identifier,Foto's,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_ChangeHistoryRelations,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cc4c575b-5d0a-4905-97fc-34c5e3615e17"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69d5b6db-9ca2-4bbf-8006-54eeb91fbdd9"", ""inverseOntologyProperty"": """"}]"
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,,0,id/date.exposure/so,,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_Descriptions,,,,,,,,,,,,id.desc,,,,,,,,,,,,,"<p>Op de microfilm staan meerdere fragmenten uit diverse werken:</p>
+<ol>
+<li><em>Sanctissimi D.N. Gregorii XIII …</em> (Romae, 1584)</li>
+<li><em>Brevis orthodoxae fidei...</em> (Romae, 1596)</li>
+<li><em>Rituale sacramentorim romanum</em> (Romae, 1583)</li>
+<li>[Oosterse taal] (Romae, 1583)</li>
+<li><em>Advertonio …</em></li>
+</ol>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000021,referentienummer,False,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:32,brocade id,False,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:32/N,brocade url,False,,,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,,,,e73_MaterialRecords,,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""623b504a-77f7-536b-b7c9-e98fef50725e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""386e62dd-e170-42ba-8685-f917a23633ca"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
+cf3016fe-7454-52a8-90e3-f1bd64f1d2ee,tg:mpmph:32,mpm,mpmph,Foto,e73_Titles,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet"",""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""resourceArk"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

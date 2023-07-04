@@ -1,14 +1,14 @@
-ResourceID,brocade.id,card,order,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,source_field,Dimension Value,Dimension Type,Dimension Measurement Unit,source_code,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,Warehouse Location (begin),adm.uuid_mat,adm.isadPartOf,Volgnummer,Mark Text,Mark Type,Mark Language,col_source_field,mat_source_field,Material Colour,Material,Object Type,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Type,Keeper,Object Number,Object Identifier,source_date,Restriction Type
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmtk:29_#1,https://data.museumplantinmoretus.be/ark:/11975/71c29626-cc06-5877-8867-f3a93b17dd9f,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Carrier,1,,,,kenmerken.mpmdragertk,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.mpmformattk,,,,"22,4 x 15,6","22,4 x 15,6 - height, width, kenmerken.mpmformattk",,,,,,,,,,,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,224,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,156,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Items,1,,,,,,,,,,,,mpmtk,tg:mpmtk:29_#1,TK 237,10 K 1 K,71c29626-cc06-5877-8867-f3a93b17dd9f,,,,,,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,"<p>Ludovicus et Carlomannus Lothar. Reges/ XIII. Brabantiae Principes</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_MaterialColour,,,,,,,,,,,,,mpmtk,,,,,,,,,,kenmerken/mpmtechbasistk.mpmkleur,kenmerken/mpmtechbasistk.mpmtechtk,brown (color),ink,,,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ObjectTypes,1,,,,,,kenmerken.mpmtypetk,,,,tttek,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ProductionActors,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4d342113-9196-566e-a3b4-91c1c71efe07,au::108347,an,aantekenaar,,,,,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ProductionTechniques,1,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,,,tpe,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,
-71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1623,open
+ResourceID,brocade.id,card,order,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,source_field,Dimension Value,Dimension Type,Dimension Measurement Unit,source_code,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,Warehouse Location (begin),adm.uuid_mat,adm.isadPartOf,Volgnummer,Mark Text,Mark Type,Mark Language,col_source_field,mat_source_field,Material Colour,Material,Object Type,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmtk:29_#1,record identifiers,https://data.museumplantinmoretus.be/ark:/11975/71c29626-cc06-5877-8867-f3a93b17dd9f,object identifier,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Carrier,1,,,,kenmerken.mpmdragertk,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.mpmformattk,,,,"22,4 x 15,6","22,4 x 15,6 - height, width, kenmerken.mpmformattk",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,224,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Dimensions,,,,,,,kenmerken.mpmformattk,156,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Items,1,,,,,,,,,,,,mpmtk,tg:mpmtk:29_#1,TK 237,10 K 1 K,71c29626-cc06-5877-8867-f3a93b17dd9f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,"<p>&quot;Ludovicus et Carlomannus Lothar. Reges/ XIII. Brabantiae Principes&quot;</p>
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_MaterialColour,,,,,,,,,,,,,mpmtk,,,,,,,,,,kenmerken/mpmtechbasistk.mpmkleur,kenmerken/mpmtechbasistk.mpmtechtk,brown (color),ink,,,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ObjectTypes,1,,,,,,kenmerken.mpmtypetk,,,,tttek,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ProductionActors,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4d342113-9196-566e-a3b4-91c1c71efe07,au::108347,an,aantekenaar,,,,,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_ProductionTechniques,1,,,,,,kenmerken/mpmtechbasistk.mpmtechtk,,,,tpe,,,,,,,,,,,,,,,,,,,,,,,pens (drawing and writing implements),,,,,,,,,,,,,,,
+71c29626-cc06-5877-8867-f3a93b17dd9f,tg:mpmtk:29_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1623,open,,,,,,,,

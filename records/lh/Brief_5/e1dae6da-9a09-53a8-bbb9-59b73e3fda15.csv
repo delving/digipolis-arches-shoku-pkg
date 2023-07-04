@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:291828,record identifiers,https://data.letterenhuis.be/ark:/24970/e1dae6da-9a09-53a8-bbb9-59b73e3fda15,object identifier,Brieven,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>2 briefkaarten</li>
+<li>1 prentbriefkaart</li>
+<li>1 brief</li>
+</ul>
+","<ul>
+<li>2 briefkaarten</li>
+<li>1 prentbriefkaart</li>
+<li>1 brief</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d913a0a0-e6a9-4141-8173-86d7821ad51a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""18c13193-1908-46e7-9601-6a135441a18d"", ""inverseOntologyProperty"": """"}]"
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1962.0,2077,In Copyright,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19620714,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19621021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1962-07-14,1962-10-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Vriendschappelijke briefwisseling</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000280294,referentienummer,False,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:291828,brocade id,False,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:291828/N,brocade url,False,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_LegacyInformationMerged,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4 brgr,groepsbeschrijving,False,4,brgr,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0d489c93-cbe3-59fe-981d-4812b73461c2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b2300e65-ef63-4336-a12a-92f57237d92a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_Titles,,,au::13772,,,,lhbr,lhbr,Brief,4499d336-3533-53a8-aa77-f260b15b0644,bs,,au::13772:1,au::13772g:1,,,,au_code,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/1473604"",""au::13772"",""au::13772:1"",""ark:/83110/x0/4499d336-3533-53a8-aa77-f260b15b0644"",""Jan van Nijlen"",""ark:/83110/x0/a9f464e1-877e-5c8a-8705-f82cc9f54f50""],""name"":""Jan van Nijlen"",""ark"":""ark:/83110/x0/a9f464e1-877e-5c8a-8705-f82cc9f54f50"",""uri"":""/agents/people/1473604"",""id"":""au::13772:1"",""resourceArk"":""ark:/83110/x0/4499d336-3533-53a8-aa77-f260b15b0644"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/4499d336-3533-53a8-aa77-f260b15b0644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1dae6da-9a09-53a8-bbb9-59b73e3fda15,tg:lhbr:291828,e73_Titles,,,au::1927,,,,lhbr,lhbr,Brief,d5bbcec0-48d5-5a82-b547-f65dbd81bbb9,co,,au::1927:1,au::1927g:1,,,,au_code,recipients (people),,"dlod={""suggest"":[""/agents/people/206189"",""au::1927"",""au::1927:1"",""ark:/83110/x0/d5bbcec0-48d5-5a82-b547-f65dbd81bbb9"",""Clement Bittremieux"",""ark:/83110/x0/df4ebd27-93fb-5482-95f8-1357c7b663a5""],""name"":""Clement Bittremieux"",""ark"":""ark:/83110/x0/df4ebd27-93fb-5482-95f8-1357c7b663a5"",""uri"":""/agents/people/206189"",""id"":""au::1927:1"",""resourceArk"":""ark:/83110/x0/d5bbcec0-48d5-5a82-b547-f65dbd81bbb9"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d5bbcec0-48d5-5a82-b547-f65dbd81bbb9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

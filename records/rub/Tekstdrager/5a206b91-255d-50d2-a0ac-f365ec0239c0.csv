@@ -1,26 +1,37 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4092,https://data.rubenianum.be//ark:/86530/5a206b91-255d-50d2-a0ac-f365ec0239c0,Documentatiemappen,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""74fc411e-7a2d-44ea-8b5c-6708e8c03db5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f459aa55-8554-4f78-9b86-66add2df712f"", ""inverseOntologyProperty"": """"}]"
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Der Ruhm über Europa""
-
-- Extracts from different publications
-- Bibliographic references
-- First subfolder (Annotation: ""Äusserungen über Rubens""):
-    -  Extracts from different publications with comments about Rubens
-- Second subfolder (Annotation: ""Rubens Whitehall""):
-    - Extracts from different publications about Whitehall
-    - Reproductions of studies for ceilings in Whitehall
-- Third subfolder (Annotation: ""Rubens Stecher""):
-    - Photos of different engravings
-    - Extracts from different publications
-    - Bibliographic references",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000212,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4092,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4092/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bcc1acbb-c967-55b0-8b5f-0e0725c4f438"", ""ontologyProperty"": """", ""resourceXresourceId"": ""785466dc-fb24-46ef-8391-bf589c3d51f9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 169,repository numbers,,,,,,,,,,,,,,
-5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 3,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4092,record identifiers,https://data.rubenianum.be//ark:/86530/5a206b91-255d-50d2-a0ac-f365ec0239c0,object identifier,Documentatiemappen,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8e93c0f6-968b-4193-a93d-e772d1bcae07"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7c29521b-f75c-408f-9a27-7e01c7ae3a9c"", ""inverseOntologyProperty"": """"}]"
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Der Ruhm über Europa&quot;</p>
+<ul>
+<li>Extracts from different publications</li>
+<li>Bibliographic references</li>
+<li>First subfolder (Annotation: &quot;Äusserungen über Rubens&quot;):
+<ul>
+<li>Extracts from different publications with comments about Rubens</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;Rubens Whitehall&quot;):
+<ul>
+<li>Extracts from different publications about Whitehall</li>
+<li>Reproductions of studies for ceilings in Whitehall</li>
+</ul>
+</li>
+<li>Third subfolder (Annotation: &quot;Rubens Stecher&quot;):
+<ul>
+<li>Photos of different engravings</li>
+<li>Extracts from different publications</li>
+<li>Bibliographic references</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000212,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4092,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4092/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bcc1acbb-c967-55b0-8b5f-0e0725c4f438"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6cbb4b05-91b7-44b4-9d9b-d1047f01591b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 169,repository numbers,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 3,titles proper,Dutch (language),,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a206b91-255d-50d2-a0ac-f365ec0239c0,tg:rubdoc:4092,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

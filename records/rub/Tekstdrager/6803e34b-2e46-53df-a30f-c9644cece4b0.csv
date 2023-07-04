@@ -1,31 +1,41 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3964,https://data.rubenianum.be//ark:/86530/6803e34b-2e46-53df-a30f-c9644cece4b0,Documentatiemappen,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e645ac2c-2d31-4b82-9ab3-6881c7bd7748"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a86a30ee-75d1-45ba-a5cc-3da8efe12303"", ""inverseOntologyProperty"": """"}]"
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Porträt""
-
-- First subfolder (Annotation: ""Rubens Büste von Georg Petel"") addressed (inside) to ""Herrn Prof. Dr. H. Evers 6101 Traisa b. Darmstadt Waldstr. 43"" and dated 13.10.1967:
-    - Photos and negatives of Rubens bust by G. Petel
-- Second subfolder:
-    - Photos of portraits of Rubens and Rubens' mother
-- Photos of portraits of Rubens, Rubens' family, etc.
-- Correspondence with Hans Rudolph dated 1951
-- Third subfolder (Annotation: ""XII der ""träumende Silen"" Wiener Akademie von Rubens"")
-(Empty)
-- Photos of portraits of Rubens, Rubens' family, etc.
-- Paper cover (Annotation: ""IV Herzog Lerma""):
-    - Reproduction of the 'Equestrian Portrait of the Duke of Lerma'
-    - Notes about the 'Equestrian Portrait of the Duke of Lerma'
-    - Draft text ""Herzog Lerma""
-- Extracts from different publications
-- Notes about Rubens' artworks in Vienna dated 1967
-",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000098,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3964,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3964/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33aa4ddf-1085-5f69-a1de-77a6c79790e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0cb0c01e-bdc1-44af-b8ae-fcd7e3dcc32f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 055,repository numbers,,,,,,,,,,,,,,
-6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 3,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3964,record identifiers,https://data.rubenianum.be//ark:/86530/6803e34b-2e46-53df-a30f-c9644cece4b0,object identifier,Documentatiemappen,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""49db0889-2937-4383-a70c-236aeed2db93"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c4be1ee9-0b4e-455a-9354-1c829703c495"", ""inverseOntologyProperty"": """"}]"
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Porträt&quot;</p>
+<ul>
+<li>First subfolder (Annotation: &quot;Rubens Büste von Georg Petel&quot;) addressed (inside) to &quot;Herrn Prof. Dr. H. Evers 6101 Traisa b. Darmstadt Waldstr. 43&quot; and dated 13.10.1967:
+<ul>
+<li>Photos and negatives of Rubens bust by G. Petel</li>
+</ul>
+</li>
+<li>Second subfolder:
+<ul>
+<li>Photos of portraits of Rubens and Rubens' mother</li>
+</ul>
+</li>
+<li>Photos of portraits of Rubens, Rubens' family, etc.</li>
+<li>Correspondence with Hans Rudolph dated 1951</li>
+<li>Third subfolder (Annotation: &quot;XII der &quot;träumende Silen&quot; Wiener Akademie von Rubens&quot;)<br />
+(Empty)</li>
+<li>Photos of portraits of Rubens, Rubens' family, etc.</li>
+<li>Paper cover (Annotation: &quot;IV Herzog Lerma&quot;):
+<ul>
+<li>Reproduction of the 'Equestrian Portrait of the Duke of Lerma'</li>
+<li>Notes about the 'Equestrian Portrait of the Duke of Lerma'</li>
+<li>Draft text &quot;Herzog Lerma&quot;</li>
+</ul>
+</li>
+<li>Extracts from different publications</li>
+<li>Notes about Rubens' artworks in Vienna dated 1967</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000098,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3964,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3964/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""33aa4ddf-1085-5f69-a1de-77a6c79790e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7189d382-b2fd-4530-b010-9eda021d0898"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 055,repository numbers,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 3,titles proper,Dutch (language),,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6803e34b-2e46-53df-a30f-c9644cece4b0,tg:rubdoc:3964,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

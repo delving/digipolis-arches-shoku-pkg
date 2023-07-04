@@ -1,0 +1,26 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:243824,record identifiers,https://data.letterenhuis.be/ark:/24970/a8e22ec2-4a0f-5383-9e77-19898797c747,object identifier,Brieven,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Dienst voor Kulturele Aangelegenheden (P. Huys) i.v.m. <em>Oostvlaams literair lexicon</em><br />
+Documentatie en visitekaartje in bijlage.</p>
+<p>Provinciebestuur Oost-Vlaanderen i.v.m. <em>Naakte woorden</em></p>
+<p>Openbare Bibliotheek Eeklo i.v.m. <em>Naakte woorden</em></p>
+<p>Provinciebestuur West-Vlaanderen fonds Provinciale Bibliotheek i.v.m. <em>Naakte woorden</em></p>
+<p>Stadsbibliotheek Oostende i.v.m. Kruispunt-Sumier</p>
+","<p>Dienst voor Kulturele Aangelegenheden (P. Huys) i.v.m. <em>Oostvlaams literair lexicon</em><br />
+Documentatie en visitekaartje in bijlage.</p>
+<p>Provinciebestuur Oost-Vlaanderen i.v.m. <em>Naakte woorden</em></p>
+<p>Openbare Bibliotheek Eeklo i.v.m. <em>Naakte woorden</em></p>
+<p>Provinciebestuur West-Vlaanderen fonds Provinciale Bibliotheek i.v.m. <em>Naakte woorden</em></p>
+<p>Stadsbibliotheek Oostende i.v.m. Kruispunt-Sumier</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ed16ca5d-6fa9-49d5-8022-f3395cba92ae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f491ca91-4f87-43fd-8c64-c29f1fe197a8"", ""inverseOntologyProperty"": """"}]"
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19811208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1981-12-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000232794,referentienummer,False,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:243824,brocade id,False,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:243824/N,brocade url,False,,,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_LegacyInformationMerged,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 brin,groepsbeschrijving,False,5,brin,,,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9d450f5b-d2f7-5625-a2ce-1e2f05a7f5eb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4e62f36e-1644-436a-8706-9b5e92e22628"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+a8e22ec2-4a0f-5383-9e77-19898797c747,tg:lhbr:243824,e73_Titles,,,au::80,,,,lhbr,lhbr,Brief,6f366e66-ca8e-587c-8e8b-55c252226a7d,co,,au::80:1,au::80g:1,,,,au_code,recipients (people),,"dlod={""suggest"":[""/agents/people/8560"",""au::80"",""au::80:1"",""ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d"",""Georges van Acker"",""ark:/83110/x0/b5fe81f1-60a3-58aa-b329-b720bd265560""],""name"":""Georges van Acker"",""ark"":""ark:/83110/x0/b5fe81f1-60a3-58aa-b329-b720bd265560"",""uri"":""/agents/people/8560"",""id"":""au::80:1"",""resourceArk"":""ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

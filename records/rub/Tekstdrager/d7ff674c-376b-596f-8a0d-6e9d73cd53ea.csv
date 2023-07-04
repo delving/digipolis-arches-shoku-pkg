@@ -1,89 +1,103 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4085,https://data.rubenianum.be//ark:/86530/d7ff674c-376b-596f-8a0d-6e9d73cd53ea,Documentatiemappen,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f8a65e3d-d123-4d82-aa57-75c5a874f64a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4f7bb854-0d7b-4fd9-bc4a-1c555fa2c6db"", ""inverseOntologyProperty"": """"}]"
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Zusätze""
-
-- Photos of the 'Rape of the Daughters of Leucippus'
-- Postcards from Tournai and Rotterdam
-- Envelope with correspondence with Franz Haffner dated 1969 with a reproduction of a portrait
-- Photo of the Self portrait by Rubens
-- Notes about the Self portrait
-- Business card of Otto Puschner
-- Postcard with a reproduction of 'The Tribute Money'
-- Envelope with a photo of Rubens portrait, notes and correspondence with Peter Schumacher dated 1974
-- Envelope with photos of Rubens portrait and correspondence with Bruno Lohse dated 1971
-- Letter about ""Petrus Paulus Rubens Antiquarius"" dated 1975
-- Bibliographic references
-- Article: 'Rubens im Keller. Gemälde wurde durch Zufall gefunden' in ""Erlanger Tagblatt"" dated 28.06.1975
-- Article: 'Forschungszentrum über Rubens' in ""Frankfurter Allgemeine Zeitung"" dated 02.07.1975
-- Correspondence with Günter Truschinski (dated 1974), with Gisela Vogel (dated 1969), with Hansjörg Pohlmann (dated 1975)
-- Envelope with a photocopy of an unintelligible painting
-- Postcard with a photo of the Sunnersbergs church
-- Notes about works in the Oslo Museum
-- Article: 'Rubens-Gemälde beschädigt' in ""Frankfurter Allgemeine Zeitung"" dated 18.06.1974
-- Article: 'Rubens' Altarbild' in ""Frankfurter Allgemeine Zeitung"" dated 03.01.1975
-- Article: 'Kostbarkeiten aus Frankfurter Museen' dated 20.07.1974
-- Reproduction (from ""The Times"" 30.10.1973) of a painting with a nimph, a satyr and leopards, descovered by Oscar Klein
-- Invitation to the Collection Bock
-- Photo of 'Nymphs surprised by Satyrs'
-- Correspondence with K. F. Ertel dated 1970
-- Photocopy of notes about works in the Vienna Academy (dated 1967)
-- Brochure of ""Rubens: The Antwerp Altarpieces. The Raising of the Cross and the Descent from the Cross"" by J. R. Martin
-- Correspondence with Gerard Stern dated 1968/1970
-- Article: 'Rubens in seinen Briefen. Zu einem Band von Marint Warnke' in ""Die Welt"" dated 08.12.1966
-- Article: 'Fallstricke für Experten. Schwierigkeiten und Hilfen beim Schätzen von Bildern' in ""Frankfurter Allgemeine Zeitung"" dated 08.12.1966
-- Article: 'Rubens und sein Jahrhundert. Brüssel zeigt das Goldene Zeitalter der flämischen Malerei' in ""Darmstädter Echo"" dated 27.11.1965
-- Article: 'Der Revolutionär Rubens. Die Ausstellung ""Rubens und seine Zeit"" in Brüssel""' in ""Frankfurter Allgemeine Zeitung"" dated  22.11.1965
-- Article: 'Neuerwerbung des Städelschen Kunstinstituts: ein Rubens' dated 11.07.1964
-- Article: 'Ein einziges Gemälde von Peter Paul Rubens' in ""Frankfurter Allgemeine Zeitung"" dated 08.02.1962
-- Photo of 'Bacchus and Diana'
-- Booklet: ""Die Rubensstecher"" (Düsseldorf Art Museum), April 1965
-- Figure 136 ""Portrait of Susanna Fourment"" in ""Rubens Drawings"" by L. Burchard and R. - A. d'Hulst
-- Photo of the essay 'Eine neuerworbene Skizze aud sem Rubens-Kreise' by Bode, in ""Amtliche Berichte aus den königl. Kunstsammlungen""
-- Photo of the article 'Pedro Pablo Rubens' in ""Kunst-Blatt"" dated 21.10.1822
-- Post card with a photo of 'Venus and Adonis'
-- Correspondence with Hans Latteier dated 1970
-- Photo of the 'Holy Family with Saint Elisabeth' (description on the back)
-- Article: 'Kostharkeiten aus Frankfurt Museen (198)' dated 16.05.1970
-- First subfolder: (Annotation: ""Reinhard Liess Wahrheit und Wirklichkeit in Werke des P.P.Rubens (Braunschweig 1970)"") addressed (inside) to ""Herrn Professor Dr. phil Hans Gerhard Evers 6101 Traisa üb. Darmstadt Waldstr. 43"":
-    - Draft text ""Liess""
-    - Correspondence with Gosebruch dated 1970
-    - Draft text ""Zu ""Wahrheit und Wirklichkeit in der Kunst des Peter Paul Rubens"" von Reinhard Liess""
-- Photos of buildings in Ghent
-- Small orange envelope (Annotation: ""Zu ""Rubens"" "") addressed to ""Herrn Professor Dr. Evers Technische Hochschule Darmstadt"":
-    - Correspondence with Paul E. Blendinger dated 1970
-    - Photo of a portrait of an Evangelist or an Apostol
-- Correspondence with Franz Haffner dated 1969
-- Reproduction (from ""Frankfurter Allgemeine Zeitung"" dated 04.07.1969) of the 'Equestrian Portrait of the Duke of Lerma'
-- Correspondence with Karl Hundertmark (dated 1969), with G. Adriani (dated 1967), with M. Röthel (dated 1971), with Karl Hundermark (dated 1969)
-- Brochures of the ""Monographies de l'art belge""
-- Post card with a reproduction of a 'Head Study'
-- Reproduction (from ""Frankfurter Allgemeine Zeitung"" dated 28.06.1971) of 'Four Studies of the Head of a Negro'
-- Essay: 'Some new Van Dyck Materials and Problems' by Erik Larsen, in ""Raggi"" vol. 7, n.1, 1967
-- Photo of 'Prometheus Bound'
-- Article: 'Ein Rubens fuer den Prado' in ""ES Spanien Jede Woche"" dated 24.02.1969
-- Reproduction of the 'Landscape with Tobias and the Angel' (from ""Mannheimer Hefte"" 1962)
-- Notes about 'Diana and Callisto'
-- Second subfolder (Annotation: ""Rubens Christus a.d. Stroh (Antwerpen) mit Flügelbildern –
- Maria mit stehendem Jesus-Exemplar in Augsburg (1968)"" addressed (inside) to ""Herrn Prof. Dr. Hans Gerhard Evers 06101 Traisa Waldstr. 43"" and dated 23.05.1968:
-    - Draft text ""Zu der Komposition von Rubens: ""Maria mit stehendem Kind"" "" and description of the work
-    - Extracts from different publications
-    - Correspondence with van Beselaere, Herta and Franz Huber, Baudouin dated 1968
-    - Notes about 'Mary with Child'
-    - Photo of 'Mary with Child'
-    - Draft text ""Zu der Komposition ""Maria mit Kind"" und einer Version""
-- Envelope addessed to ""Herrn Professor Dr. H. G. Evers 6101 Traisa über Darmstadt Waldstraβe 43"":
-    - Correspondence with L. A. Latteier dated 1970
-    - Photos of the 'Portrait of Helene Fourment' and a sketch of 'Achille and Briseis'
-    - Extracts from different publications
-- Photos of letters",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000206,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4085,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4085/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fe753489-72ea-5d32-ab66-0830870a14bc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""67239b0e-c8c0-4e99-b799-bdba594cd46e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 163,repository numbers,,,,,,,,,,,,,,
-d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4085,record identifiers,https://data.rubenianum.be//ark:/86530/d7ff674c-376b-596f-8a0d-6e9d73cd53ea,object identifier,Documentatiemappen,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""869f5010-ab3e-4bae-9962-48c52e54c28d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a88e028-1724-4be0-a0db-ddfa1f8fb0b4"", ""inverseOntologyProperty"": """"}]"
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Zusätze&quot;</p>
+<ul>
+<li>Photos of the 'Rape of the Daughters of Leucippus'</li>
+<li>Postcards from Tournai and Rotterdam</li>
+<li>Envelope with correspondence with Franz Haffner dated 1969 with a reproduction of a portrait</li>
+<li>Photo of the Self portrait by Rubens</li>
+<li>Notes about the Self portrait</li>
+<li>Business card of Otto Puschner</li>
+<li>Postcard with a reproduction of 'The Tribute Money'</li>
+<li>Envelope with a photo of Rubens portrait, notes and correspondence with Peter Schumacher dated 1974</li>
+<li>Envelope with photos of Rubens portrait and correspondence with Bruno Lohse dated 1971</li>
+<li>Letter about &quot;Petrus Paulus Rubens Antiquarius&quot; dated 1975</li>
+<li>Bibliographic references</li>
+<li>Article: 'Rubens im Keller. Gemälde wurde durch Zufall gefunden' in &quot;Erlanger Tagblatt&quot; dated 28.06.1975</li>
+<li>Article: 'Forschungszentrum über Rubens' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 02.07.1975</li>
+<li>Correspondence with Günter Truschinski (dated 1974), with Gisela Vogel (dated 1969), with Hansjörg Pohlmann (dated 1975)</li>
+<li>Envelope with a photocopy of an unintelligible painting</li>
+<li>Postcard with a photo of the Sunnersbergs church</li>
+<li>Notes about works in the Oslo Museum</li>
+<li>Article: 'Rubens-Gemälde beschädigt' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 18.06.1974</li>
+<li>Article: 'Rubens' Altarbild' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 03.01.1975</li>
+<li>Article: 'Kostbarkeiten aus Frankfurter Museen' dated 20.07.1974</li>
+<li>Reproduction (from &quot;The Times&quot; 30.10.1973) of a painting with a nimph, a satyr and leopards, descovered by Oscar Klein</li>
+<li>Invitation to the Collection Bock</li>
+<li>Photo of 'Nymphs surprised by Satyrs'</li>
+<li>Correspondence with K. F. Ertel dated 1970</li>
+<li>Photocopy of notes about works in the Vienna Academy (dated 1967)</li>
+<li>Brochure of &quot;Rubens: The Antwerp Altarpieces. The Raising of the Cross and the Descent from the Cross&quot; by J. R. Martin</li>
+<li>Correspondence with Gerard Stern dated 1968/1970</li>
+<li>Article: 'Rubens in seinen Briefen. Zu einem Band von Marint Warnke' in &quot;Die Welt&quot; dated 08.12.1966</li>
+<li>Article: 'Fallstricke für Experten. Schwierigkeiten und Hilfen beim Schätzen von Bildern' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 08.12.1966</li>
+<li>Article: 'Rubens und sein Jahrhundert. Brüssel zeigt das Goldene Zeitalter der flämischen Malerei' in &quot;Darmstädter Echo&quot; dated 27.11.1965</li>
+<li>Article: 'Der Revolutionär Rubens. Die Ausstellung &quot;Rubens und seine Zeit&quot; in Brüssel&quot;' in &quot;Frankfurter Allgemeine Zeitung&quot; dated  22.11.1965</li>
+<li>Article: 'Neuerwerbung des Städelschen Kunstinstituts: ein Rubens' dated 11.07.1964</li>
+<li>Article: 'Ein einziges Gemälde von Peter Paul Rubens' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 08.02.1962</li>
+<li>Photo of 'Bacchus and Diana'</li>
+<li>Booklet: &quot;Die Rubensstecher&quot; (Düsseldorf Art Museum), April 1965</li>
+<li>Figure 136 &quot;Portrait of Susanna Fourment&quot; in &quot;Rubens Drawings&quot; by L. Burchard and R. - A. d'Hulst</li>
+<li>Photo of the essay 'Eine neuerworbene Skizze aud sem Rubens-Kreise' by Bode, in &quot;Amtliche Berichte aus den königl. Kunstsammlungen&quot;</li>
+<li>Photo of the article 'Pedro Pablo Rubens' in &quot;Kunst-Blatt&quot; dated 21.10.1822</li>
+<li>Post card with a photo of 'Venus and Adonis'</li>
+<li>Correspondence with Hans Latteier dated 1970</li>
+<li>Photo of the 'Holy Family with Saint Elisabeth' (description on the back)</li>
+<li>Article: 'Kostharkeiten aus Frankfurt Museen (198)' dated 16.05.1970</li>
+<li>First subfolder: (Annotation: &quot;Reinhard Liess Wahrheit und Wirklichkeit in Werke des P.P.Rubens (Braunschweig 1970)&quot;) addressed (inside) to &quot;Herrn Professor Dr. phil Hans Gerhard Evers 6101 Traisa üb. Darmstadt Waldstr. 43&quot;:
+<ul>
+<li>Draft text &quot;Liess&quot;</li>
+<li>Correspondence with Gosebruch dated 1970</li>
+<li>Draft text &quot;Zu &quot;Wahrheit und Wirklichkeit in der Kunst des Peter Paul Rubens&quot; von Reinhard Liess&quot;</li>
+</ul>
+</li>
+<li>Photos of buildings in Ghent</li>
+<li>Small orange envelope (Annotation: &quot;Zu &quot;Rubens&quot; &quot;) addressed to &quot;Herrn Professor Dr. Evers Technische Hochschule Darmstadt&quot;:
+<ul>
+<li>Correspondence with Paul E. Blendinger dated 1970</li>
+<li>Photo of a portrait of an Evangelist or an Apostol</li>
+</ul>
+</li>
+<li>Correspondence with Franz Haffner dated 1969</li>
+<li>Reproduction (from &quot;Frankfurter Allgemeine Zeitung&quot; dated 04.07.1969) of the 'Equestrian Portrait of the Duke of Lerma'</li>
+<li>Correspondence with Karl Hundertmark (dated 1969), with G. Adriani (dated 1967), with M. Röthel (dated 1971), with Karl Hundermark (dated 1969)</li>
+<li>Brochures of the &quot;Monographies de l'art belge&quot;</li>
+<li>Post card with a reproduction of a 'Head Study'</li>
+<li>Reproduction (from &quot;Frankfurter Allgemeine Zeitung&quot; dated 28.06.1971) of 'Four Studies of the Head of a Negro'</li>
+<li>Essay: 'Some new Van Dyck Materials and Problems' by Erik Larsen, in &quot;Raggi&quot; vol. 7, n.1, 1967</li>
+<li>Photo of 'Prometheus Bound'</li>
+<li>Article: 'Ein Rubens fuer den Prado' in &quot;ES Spanien Jede Woche&quot; dated 24.02.1969</li>
+<li>Reproduction of the 'Landscape with Tobias and the Angel' (from &quot;Mannheimer Hefte&quot; 1962)</li>
+<li>Notes about 'Diana and Callisto'</li>
+<li>Second subfolder (Annotation: &quot;Rubens Christus a.d. Stroh (Antwerpen) mit Flügelbildern –<br />
+Maria mit stehendem Jesus-Exemplar in Augsburg (1968)&quot; addressed (inside) to &quot;Herrn Prof. Dr. Hans Gerhard Evers 06101 Traisa Waldstr. 43&quot; and dated 23.05.1968:
+<ul>
+<li>Draft text &quot;Zu der Komposition von Rubens: &quot;Maria mit stehendem Kind&quot; &quot; and description of the work</li>
+<li>Extracts from different publications</li>
+<li>Correspondence with van Beselaere, Herta and Franz Huber, Baudouin dated 1968</li>
+<li>Notes about 'Mary with Child'</li>
+<li>Photo of 'Mary with Child'</li>
+<li>Draft text &quot;Zu der Komposition &quot;Maria mit Kind&quot; und einer Version&quot;</li>
+</ul>
+</li>
+<li>Envelope addessed to &quot;Herrn Professor Dr. H. G. Evers 6101 Traisa über Darmstadt Waldstraβe 43&quot;:
+<ul>
+<li>Correspondence with L. A. Latteier dated 1970</li>
+<li>Photos of the 'Portrait of Helene Fourment' and a sketch of 'Achille and Briseis'</li>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+<li>Photos of letters</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000206,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4085,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4085/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fe753489-72ea-5d32-ab66-0830870a14bc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7e709ffd-51d3-451c-ac5b-f141ae94095a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 163,repository numbers,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d7ff674c-376b-596f-8a0d-6e9d73cd53ea,tg:rubdoc:4085,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,36 +1,37 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:10716_#1,https://data.letterenhuis.be/ark:/24970/cd41c757-1156-5f48-86cc-1ed5102d927f,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_AcquisitionNumbers,1,,,,95373/21,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Acquisitions,1,tr:lh:7337,"dlod={""name"":""Archief van Alfred Ost"",""ark"":""ark:/24970/x0/6d9c989f-0025-5ee1-b106-d37b73c356b9"",""uri"":""/repositories/11/accessions/785062"",""id"":""tr:lh:7337"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/6d9c989f-0025-5ee1-b106-d37b73c356b9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:10716_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/cd41c757-1156-5f48-86cc-1ed5102d927f,object identifier,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_AcquisitionNumbers,1,,,,95373/21,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Acquisitions,1,tr:lh:7337,"dlod={""name"":""Archief van Alfred Ost"",""ark"":""ark:/24970/x0/6d9c989f-0025-5ee1-b106-d37b73c356b9"",""uri"":""/repositories/11/accessions/785062"",""id"":""tr:lh:7337"",""date"":""1995-02-14"",""granter"":""Frans Mertens"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/6d9c989f-0025-5ee1-b106-d37b73c356b9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Conditions,8,,,,,,note.lhconditie,"<p>Enkele bruine vochtvlekken.</p>
 ",,,,,,,,,,,"<p>Enkele bruine vochtvlekken.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,26 x 17,,,,,,,,,,,,,,,,,"26 x 17 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"30 x 20,5",,,,,,,,,,,,,,,,,"30 x 20,5 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,260,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,170,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,300,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,205,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,tr:lh:7337,tg:lhpr:10716_#1,95373/21,,"O 393 / I (Planex GT/ VI,1)",cd41c757-1156-5f48-86cc-1ed5102d927f,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,26 x 17,,,,,,,,,,,,,,,,,"26 x 17 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"30 x 20,5",,,,,,,,,,,,,,,,,"30 x 20,5 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,260,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,170,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,300,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,205,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,tr:lh:7337,tg:lhpr:10716_#1,95373/21,,"O 393 / I (Planex GT/ VI,1)",cd41c757-1156-5f48-86cc-1ed5102d927f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan monogram van Alfred Ost.</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan datumvermelding : 2.5.XVII</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan, rond de monografie : FEC LITH</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan onder de monografie : <em>NADRUK VERBODEN</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links onderaan vermelding :<br />
 <strong>VERKOCHT TEN BATE DER BELGEN</strong></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechts onderaan vermelding : <em>DRUKK. KOTTING</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_Marks,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Midden onderaan onder de afbeelding  :<br />
 <em>Voor de verkoop moet deze litho voorzien zijn van een stempel van een belgisch Comiteit. Zie keerzijde.</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ProductionActors,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07be4b2d-44f2-59f7-86c0-34a9d7493b5d,au::46030,dr,printers (people),,,,,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,
-cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1917.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ProductionActors,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07be4b2d-44f2-59f7-86c0-34a9d7493b5d,au::46030,dr,printers (people),,,,,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,,,,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1917.0,permission required,,,,,,,,
+cd41c757-1156-5f48-86cc-1ed5102d927f,tg:lhpr:10716_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L1XRiHOYXIcQXlcgesMubD3z,lhpr,https://dams.antwerpen.be/iiif/L1XRiHOYXIcQXlcgesMubD3z/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/L1XRiHOYXIcQXlcgesMubD3z,DAMS Image,lh,Iconografie

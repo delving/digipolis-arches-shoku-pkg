@@ -1,94 +1,130 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4158,https://data.rubenianum.be//ark:/86530/a0c89a6f-5969-5135-839c-0313dc9a2be1,Documentatiemappen,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""74a2bf94-545a-47fc-a11b-f9cff69f6ea2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2de90f73-c194-429e-a932-6fc4786c9f20"", ""inverseOntologyProperty"": """"}]"
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- First subfolder (Annotation: ""Rubens Hochbarock""):
-    - Extracts from different publications about christian paintings with annotations
-    - A reproduction of 'Saint Francis' by Rubens
-    - Bibliographic references
-- Second subfolder (Annotation: ""Antwerpen""):
-    - Bibliographic references with annotations
-    - Antwerp library's forms
-    - Invitation to the ceremony in memory of Rubens in Antwerp dated 1940
-    - Business cards of Hannes Schmidt, Rob. Van Roosbroeck and other pieces of paper with address information and phone numbers of shops, etc.
-    - Article: 'A Siegen ville natale de Rubens' in ""Le soir"" dated 15.07.1941
-    - Article: 'Rembrandtpreis für Verhulst' in ""Das Reich"" dated 22.03.1941
-    - Article: 'Der Rembrandtpreis 1940 für den flämischen Dichter Raf Verhust' dated 20.03.1941
-    - Report on the Rubens study
-    - Permission of the War administration chief dated 13.10.1941
-    - Permission request to work in Heidelberg dated 13.10.1941
-- Third subfolder (Annotation: ""Brüssel""):
-    - Bibliographic references with annotations
-- Fourth subfolder (Annotation: ""Dresden""): empty
-- Fifth subfolder (Annotation: ""Köln""):
-    - Notes about different artists (Birth date, death date and other information)
-- Sixth subfolder (Annotation: ""London""):
-    - Various notes
-    - Article: 'Art history congress'
-- Seventh subfolder (Annotation: ""Madrid""):
-    - Notes about sketches, addresses, etc.
-    - Correspondence with Dr. Beinert (Deutsches Kulturinstitut Madrid) dated 1941
-    - Centro germano español library card
-- Eighth subfolder (Annotation: ""München""):
-    - Extracts from different publications
-    - Bibliographic references
-- Ninth subfolder (Annotation: ""Paris""):
-    - Notes about addresses, photos in the Palais Royal archive, etc.
-    - Permission to take photos of french monuments for study purposes
-    - Business card of J. E. Bulloz
-    - Photo of a book page
-- Tenth subfolder (Annotation: ""Wien""):
-    - Notes about artistis and artworks in Vienna museums
-    - Extracts from different publications
-- Eleventh subfolder (Annotation: ""Rubens Anmerkungen""):
-    - Extracts from different publications
-    - Correspondence with Ernst Zinn
-    - Photo of the portrait of 'Woverius's son' by Rubens
-    - Photo of different engravings by Rubens
-- Draft text about 'The Meeting of King Ferdinand of Hungary and the Cardinal-Infante Ferdinand of Spain at Nördlingen' and 'Arrival of Marie de Medici at Marseilles'
-- Twelfth subfolder (no annotations):
-    - ""Rubens et Caravage"" (extract from the volume ""Études d'art 11-12"")
-    - Correspondence with Hermann Maschmeyer dated 1954 and 1958
-    - Business card of Hermann Maschmeyer
-- A yellow book cover
-- Piece of a newspaper page with a reproduction of a portrait
-- Empty small folder
-- Cut page from a book (?) with a reproduction of the 'Transfiguration of Christ'
-- Notes about 'The Holy Family' painting dated 02.01.1950
-- Photo of a painting with Indios
-- Correspondence with Baroness Raitz von Trenker dated 1952, with Curt Reinheldt dated 1958, with Ing. H. Weidhaas dated 1964, with Plietzsch dated 12.12.1942, etc.
-- Business card of R. Van de Broek
-- Notes about Rubens lecture in Düsseldorf
-- Bibliographic references
-- Article: 'Antwerper, Gent, Brügge. Vortrag von Prof. Evers-München im ""Freien Bund""'
-- Photo of an antique store in Düsseldorf
-- Der Artia publishing company flyer 
-- Remarks (dated 28.06.1961) about an artwork attributed to Rubens 
-- Keysers Bibliothek für Kunst und Antiquitäten brochure
-- Extracts from different publications
-- Photos of some pages of ""Rivista dell'arte"" (1940)
-- Visit report of the Roberto Longhi's house
-- Correspondence about consult requests (photocopies of artworks reproductions attached)
-- Visit report of the Jean De Coen's atelier dated 31.01.1943
-  
-Loose documentation reunited with the folder:   
-   
-- Photograph of a sketch depicting the descent from the cross or the lamentation of Christ.  
-According to the annotation on the back (added in the Rubenianum) probably sent to Evers by Dr. H. Bünemann in 1943. There should probably be a corresponding letter too (which is currently lost).   
--  Photograph of a painting depicting Maria Magdalena.  
-According to the annotation on the back (added in the Rubenianum) the photograph was sent to Evers together with a letter by Eberhard Schenk in 1956. The corresponding letter is currently lost.  
--  Two photographs of a painting depicting Christ giving the keys to St. Peter.  
-According to the annotation on the back (added in the Rubenianum) the photograph was sent to Evers together with a letter by E. Heryens? In 1944. The corresponding letter is currently lost.  
-  
-Loose documentation in the artwork documentation of the Rubenianum:   
-    
-- Photo of The Resurrected Christ Appears to His Mother by Theodoor Van Thulden",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000273,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4158,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4158/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a167abb0-f1e1-5f4e-a9da-ed4f94e5ee36"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2f658bcb-8318-4200-bd9c-a02676c9a84c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 230,repository numbers,,,,,,,,,,,,,,
-a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 43,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4158,record identifiers,https://data.rubenianum.be//ark:/86530/a0c89a6f-5969-5135-839c-0313dc9a2be1,object identifier,Documentatiemappen,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8383a5dd-cc05-4798-b1c5-86a44fc43a1d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b761eb9e-9796-4521-b023-e718acc2fec3"", ""inverseOntologyProperty"": """"}]"
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<ul>
+<li>First subfolder (Annotation: &quot;Rubens Hochbarock&quot;):
+<ul>
+<li>Extracts from different publications about christian paintings with annotations</li>
+<li>A reproduction of 'Saint Francis' by Rubens</li>
+<li>Bibliographic references</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;Antwerpen&quot;):
+<ul>
+<li>Bibliographic references with annotations</li>
+<li>Antwerp library's forms</li>
+<li>Invitation to the ceremony in memory of Rubens in Antwerp dated 1940</li>
+<li>Business cards of Hannes Schmidt, Rob. Van Roosbroeck and other pieces of paper with address information and phone numbers of shops, etc.</li>
+<li>Article: 'A Siegen ville natale de Rubens' in &quot;Le soir&quot; dated 15.07.1941</li>
+<li>Article: 'Rembrandtpreis für Verhulst' in &quot;Das Reich&quot; dated 22.03.1941</li>
+<li>Article: 'Der Rembrandtpreis 1940 für den flämischen Dichter Raf Verhust' dated 20.03.1941</li>
+<li>Report on the Rubens study</li>
+<li>Permission of the War administration chief dated 13.10.1941</li>
+<li>Permission request to work in Heidelberg dated 13.10.1941</li>
+</ul>
+</li>
+<li>Third subfolder (Annotation: &quot;Brüssel&quot;):
+<ul>
+<li>Bibliographic references with annotations</li>
+</ul>
+</li>
+<li>Fourth subfolder (Annotation: &quot;Dresden&quot;): empty</li>
+<li>Fifth subfolder (Annotation: &quot;Köln&quot;):
+<ul>
+<li>Notes about different artists (Birth date, death date and other information)</li>
+</ul>
+</li>
+<li>Sixth subfolder (Annotation: &quot;London&quot;):
+<ul>
+<li>Various notes</li>
+<li>Article: 'Art history congress'</li>
+</ul>
+</li>
+<li>Seventh subfolder (Annotation: &quot;Madrid&quot;):
+<ul>
+<li>Notes about sketches, addresses, etc.</li>
+<li>Correspondence with Dr. Beinert (Deutsches Kulturinstitut Madrid) dated 1941</li>
+<li>Centro germano español library card</li>
+</ul>
+</li>
+<li>Eighth subfolder (Annotation: &quot;München&quot;):
+<ul>
+<li>Extracts from different publications</li>
+<li>Bibliographic references</li>
+</ul>
+</li>
+<li>Ninth subfolder (Annotation: &quot;Paris&quot;):
+<ul>
+<li>Notes about addresses, photos in the Palais Royal archive, etc.</li>
+<li>Permission to take photos of french monuments for study purposes</li>
+<li>Business card of J. E. Bulloz</li>
+<li>Photo of a book page</li>
+</ul>
+</li>
+<li>Tenth subfolder (Annotation: &quot;Wien&quot;):
+<ul>
+<li>Notes about artistis and artworks in Vienna museums</li>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+<li>Eleventh subfolder (Annotation: &quot;Rubens Anmerkungen&quot;):
+<ul>
+<li>Extracts from different publications</li>
+<li>Correspondence with Ernst Zinn</li>
+<li>Photo of the portrait of 'Woverius's son' by Rubens</li>
+<li>Photo of different engravings by Rubens</li>
+</ul>
+</li>
+<li>Draft text about 'The Meeting of King Ferdinand of Hungary and the Cardinal-Infante Ferdinand of Spain at Nördlingen' and 'Arrival of Marie de Medici at Marseilles'</li>
+<li>Twelfth subfolder (no annotations):
+<ul>
+<li>&quot;Rubens et Caravage&quot; (extract from the volume &quot;Études d'art 11-12&quot;)</li>
+<li>Correspondence with Hermann Maschmeyer dated 1954 and 1958</li>
+<li>Business card of Hermann Maschmeyer</li>
+</ul>
+</li>
+<li>A yellow book cover</li>
+<li>Piece of a newspaper page with a reproduction of a portrait</li>
+<li>Empty small folder</li>
+<li>Cut page from a book (?) with a reproduction of the 'Transfiguration of Christ'</li>
+<li>Notes about 'The Holy Family' painting dated 02.01.1950</li>
+<li>Photo of a painting with Indios</li>
+<li>Correspondence with Baroness Raitz von Trenker dated 1952, with Curt Reinheldt dated 1958, with Ing. H. Weidhaas dated 1964, with Plietzsch dated 12.12.1942, etc.</li>
+<li>Business card of R. Van de Broek</li>
+<li>Notes about Rubens lecture in Düsseldorf</li>
+<li>Bibliographic references</li>
+<li>Article: 'Antwerper, Gent, Brügge. Vortrag von Prof. Evers-München im &quot;Freien Bund&quot;'</li>
+<li>Photo of an antique store in Düsseldorf</li>
+<li>Der Artia publishing company flyer</li>
+<li>Remarks (dated 28.06.1961) about an artwork attributed to Rubens</li>
+<li>Keysers Bibliothek für Kunst und Antiquitäten brochure</li>
+<li>Extracts from different publications</li>
+<li>Photos of some pages of &quot;Rivista dell'arte&quot; (1940)</li>
+<li>Visit report of the Roberto Longhi's house</li>
+<li>Correspondence about consult requests (photocopies of artworks reproductions attached)</li>
+<li>Visit report of the Jean De Coen's atelier dated 31.01.1943</li>
+</ul>
+<p>Loose documentation reunited with the folder:</p>
+<ul>
+<li>Photograph of a sketch depicting the descent from the cross or the lamentation of Christ.<br />
+According to the annotation on the back (added in the Rubenianum) probably sent to Evers by Dr. H. Bünemann in 1943. There should probably be a corresponding letter too (which is currently lost).</li>
+<li>Photograph of a painting depicting Maria Magdalena.<br />
+According to the annotation on the back (added in the Rubenianum) the photograph was sent to Evers together with a letter by Eberhard Schenk in 1956. The corresponding letter is currently lost.</li>
+<li>Two photographs of a painting depicting Christ giving the keys to St. Peter.<br />
+According to the annotation on the back (added in the Rubenianum) the photograph was sent to Evers together with a letter by E. Heryens? In 1944. The corresponding letter is currently lost.</li>
+</ul>
+<p>Loose documentation in the artwork documentation of the Rubenianum:</p>
+<ul>
+<li>Photo of The Resurrected Christ Appears to His Mother by Theodoor Van Thulden</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000273,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4158,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4158/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a167abb0-f1e1-5f4e-a9da-ed4f94e5ee36"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e0a2c40a-a758-4682-bd91-0b175d6d7610"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 230,repository numbers,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 43,titles proper,Dutch (language),,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0c89a6f-5969-5135-839c-0313dc9a2be1,tg:rubdoc:4158,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

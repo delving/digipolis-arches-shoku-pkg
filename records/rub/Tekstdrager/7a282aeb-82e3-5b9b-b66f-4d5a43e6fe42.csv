@@ -1,57 +1,59 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4119,https://data.rubenianum.be//ark:/86530/7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,Documentatiemappen,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""62f1868a-f904-4860-bd98-2776ee9285e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d314036f-2e63-4169-ab34-cdf886b232fd"", ""inverseOntologyProperty"": """"}]"
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Besprechungen Briefe zum Buch Eigene Vorträge Recencies""
-
-- Articles about Evers' conferences in Brussels in 1943 ('Rubens und die Landschaft', 'Rubens in seiner Zeit', 'Rubens und das Frauentum')
-- Draft text: ""Rubens und Maria Medici""
-- Work report for the deanery
-- Article: 'Ueber Peter Paul Rubens' in ""Kölnische Zeitung"" dated 22.10.1943
-- Article: 'Rubens als künstler' in ""Der Führer"" dated 11.10.1943
-- Article: 'Der Europäer Rubens' 
-- Article: 'Neue Forschungen über Rubens' in ""Kölnische Zeitung"" dated 26.08.1944 
-- Article: 'Zur niederländischen und deutschen Künstlergeschichte' in ""Atlantis"" dated January 1944
-- Article: 'Hoe schilderde Rubens het licht? Een belangrijke voordracht van prof. dr. H. G. Evers te Antwerpen' in ""De Dag""
-- Article: 'Voordracht van Prof. Dr. H. G. Evers over ""Hoe schildert Rubens het licht""'
-- Article: 'Rubens als Maler des Lichtes. Ein Vortrag von Prof. Dr. Evers'
-- Article: 'Prof. Evers' Rubensmonografie' in ""Volk en Staat"" dated 16.11.1943
-- Article: 'Von Ordnung setzender Kunst / Zu einer neuen Rubens-Deutung' in ""Krakauer Zeitung"" dated 29.08.1943
-- Article: 'Neues Schrifttum. Eine neue Deutche Rubens-Biographie' in ""Innsbrucker Nachrichten"" dated 10.08.1943
-- Article: 'Peter Paul Rubens. Eine neue Biographie' in ""Königsberger Allgemeine Zeitung"" dated 05.08.1943
-- Article: 'Tre smukke Kunstbøger' in ""Wy Europaeisk Litteratur"" dated 1941
-- Article: 'Ein groβer Flame' in ""Das neue Europa"" dated 15.05.1943
-- Article: 'Rubens und seine Zeit' in ""Rheinische Landeszeitung Düsseldorf"" dated 06.10.1943
-- Article: 'Rubens als Politiker' in ""Düsseldorfer Nachrichten"" dated 06.10.1943
-- Article: 'Nordischer Rubens' in ""Westdeutsche Zeitung"" dated 07.10.1943
-- Article: '""Rubens, ein nordlicher Künstler""' dated 21.10.1943
-- Article: 'Ueber Peter Paul Rubens' in ""KölnischeZeitung"" dated 30.10.1943
-- Article: 'Peter Paul Rubens' dated 25.10.1943
-- Article: 'Rubens et la tradition européenne' in ""Le Soir"" dated 23.07.1943
-- Article: 'Rubens in neuem Licht' in ""Westdeutsche Zeitung"" dated 03.10.1943
-- Article: '""Rubens und das Frauentum""' in ""Düsseldorfer Nachrichten"" dated 02.06.1943
-- Article: 'Am Vortragspult in ""Der Mittag""' dated 01.06.1943
-- Article: 'Voordracht over ""Rubens en Frankrijk""' in ""Het allgemeen Nieuws"" dated 25.05.1943
-- Article: 'Brussel Rubens en Frankrijk' in ""Het laatste Nieuws"" dated 23.05.1943
-- Article: 'Der gelehrteste Maler der Zeiten' in ""Der Alemanne"" dated 09.11.1943
-- Article: 'Nieuwe ontdekkingen van een Rubensstudie. Een boeiende voordracht van prof. dr. H. G. Evers te Antwerpen' in ""Volk en Staat"" dated 02.03.1943
-- Article: 'Une causerie sur Rubens par le professeur Evers' in ""Le paus Reil"" dated 17.02.1943
-- Article: 'Une conférence sur Rubens' in ""Le Noune au Journal"" dated 17.02.1943
-- Article: 'Prof. dr. Hans Gerhard Evers. Bij zijn voordracht over Rubens te Antwerpen' in ""Volk en Staat"" dated 21.02.1943
-- Article: 'Rubens und die flämische Landschaft' dated 25.01.1943
-- Article: 'Rubens als Landschafter / Prof. Evers vor der Gemeide der Mannheimer Kunsthalle' in ""Hakenkreuzbanner"" dated 25.01.1943
-- Article: 'Rubens als Diplomat und Kunstler' 
-- Article:' Rubens als Diplomat' dated 07.04.1943
-- Article: 'In der Vortragsreihe der Kunsthalle: Prof. Evers-München über ""Rubens und die flämische Landschaft""' in ""Städtische Nachrichtenstelle Neue Mannheimer Zeitung"" dated 25.01.1943
-- Article: 'Rubens im neuen Licht' in ""Der Alemanne vom Dienstag"" dated 23.03.1943
-- Various correspondence with F. Bruckmann Verlag, J. Köstler, etc. dated 1943
-- Invitations to Evers' conferences",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000237,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4119,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4119/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8de458ca-cefb-505d-9b1c-0b95654bc847"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1c184e08-f1d4-4fcd-8d72-5c2c3fa26786"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 194,repository numbers,,,,,,,,,,,,,,
-7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 7,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4119,record identifiers,https://data.rubenianum.be//ark:/86530/7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,object identifier,Documentatiemappen,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2cfba8ae-1b27-4e7e-8ca7-ba3a99ec8ef1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9b99e00e-cbdd-41bd-90b7-5b53b0f85ed3"", ""inverseOntologyProperty"": """"}]"
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Besprechungen Briefe zum Buch Eigene Vorträge Recencies&quot;</p>
+<ul>
+<li>Articles about Evers' conferences in Brussels in 1943 ('Rubens und die Landschaft', 'Rubens in seiner Zeit', 'Rubens und das Frauentum')</li>
+<li>Draft text: &quot;Rubens und Maria Medici&quot;</li>
+<li>Work report for the deanery</li>
+<li>Article: 'Ueber Peter Paul Rubens' in &quot;Kölnische Zeitung&quot; dated 22.10.1943</li>
+<li>Article: 'Rubens als künstler' in &quot;Der Führer&quot; dated 11.10.1943</li>
+<li>Article: 'Der Europäer Rubens'</li>
+<li>Article: 'Neue Forschungen über Rubens' in &quot;Kölnische Zeitung&quot; dated 26.08.1944</li>
+<li>Article: 'Zur niederländischen und deutschen Künstlergeschichte' in &quot;Atlantis&quot; dated January 1944</li>
+<li>Article: 'Hoe schilderde Rubens het licht? Een belangrijke voordracht van prof. dr. H. G. Evers te Antwerpen' in &quot;De Dag&quot;</li>
+<li>Article: 'Voordracht van Prof. Dr. H. G. Evers over &quot;Hoe schildert Rubens het licht&quot;'</li>
+<li>Article: 'Rubens als Maler des Lichtes. Ein Vortrag von Prof. Dr. Evers'</li>
+<li>Article: 'Prof. Evers' Rubensmonografie' in &quot;Volk en Staat&quot; dated 16.11.1943</li>
+<li>Article: 'Von Ordnung setzender Kunst / Zu einer neuen Rubens-Deutung' in &quot;Krakauer Zeitung&quot; dated 29.08.1943</li>
+<li>Article: 'Neues Schrifttum. Eine neue Deutche Rubens-Biographie' in &quot;Innsbrucker Nachrichten&quot; dated 10.08.1943</li>
+<li>Article: 'Peter Paul Rubens. Eine neue Biographie' in &quot;Königsberger Allgemeine Zeitung&quot; dated 05.08.1943</li>
+<li>Article: 'Tre smukke Kunstbøger' in &quot;Wy Europaeisk Litteratur&quot; dated 1941</li>
+<li>Article: 'Ein groβer Flame' in &quot;Das neue Europa&quot; dated 15.05.1943</li>
+<li>Article: 'Rubens und seine Zeit' in &quot;Rheinische Landeszeitung Düsseldorf&quot; dated 06.10.1943</li>
+<li>Article: 'Rubens als Politiker' in &quot;Düsseldorfer Nachrichten&quot; dated 06.10.1943</li>
+<li>Article: 'Nordischer Rubens' in &quot;Westdeutsche Zeitung&quot; dated 07.10.1943</li>
+<li>Article: '&quot;Rubens, ein nordlicher Künstler&quot;' dated 21.10.1943</li>
+<li>Article: 'Ueber Peter Paul Rubens' in &quot;KölnischeZeitung&quot; dated 30.10.1943</li>
+<li>Article: 'Peter Paul Rubens' dated 25.10.1943</li>
+<li>Article: 'Rubens et la tradition européenne' in &quot;Le Soir&quot; dated 23.07.1943</li>
+<li>Article: 'Rubens in neuem Licht' in &quot;Westdeutsche Zeitung&quot; dated 03.10.1943</li>
+<li>Article: '&quot;Rubens und das Frauentum&quot;' in &quot;Düsseldorfer Nachrichten&quot; dated 02.06.1943</li>
+<li>Article: 'Am Vortragspult in &quot;Der Mittag&quot;' dated 01.06.1943</li>
+<li>Article: 'Voordracht over &quot;Rubens en Frankrijk&quot;' in &quot;Het allgemeen Nieuws&quot; dated 25.05.1943</li>
+<li>Article: 'Brussel Rubens en Frankrijk' in &quot;Het laatste Nieuws&quot; dated 23.05.1943</li>
+<li>Article: 'Der gelehrteste Maler der Zeiten' in &quot;Der Alemanne&quot; dated 09.11.1943</li>
+<li>Article: 'Nieuwe ontdekkingen van een Rubensstudie. Een boeiende voordracht van prof. dr. H. G. Evers te Antwerpen' in &quot;Volk en Staat&quot; dated 02.03.1943</li>
+<li>Article: 'Une causerie sur Rubens par le professeur Evers' in &quot;Le paus Reil&quot; dated 17.02.1943</li>
+<li>Article: 'Une conférence sur Rubens' in &quot;Le Noune au Journal&quot; dated 17.02.1943</li>
+<li>Article: 'Prof. dr. Hans Gerhard Evers. Bij zijn voordracht over Rubens te Antwerpen' in &quot;Volk en Staat&quot; dated 21.02.1943</li>
+<li>Article: 'Rubens und die flämische Landschaft' dated 25.01.1943</li>
+<li>Article: 'Rubens als Landschafter / Prof. Evers vor der Gemeide der Mannheimer Kunsthalle' in &quot;Hakenkreuzbanner&quot; dated 25.01.1943</li>
+<li>Article: 'Rubens als Diplomat und Kunstler'</li>
+<li>Article:' Rubens als Diplomat' dated 07.04.1943</li>
+<li>Article: 'In der Vortragsreihe der Kunsthalle: Prof. Evers-München über &quot;Rubens und die flämische Landschaft&quot;' in &quot;Städtische Nachrichtenstelle Neue Mannheimer Zeitung&quot; dated 25.01.1943</li>
+<li>Article: 'Rubens im neuen Licht' in &quot;Der Alemanne vom Dienstag&quot; dated 23.03.1943</li>
+<li>Various correspondence with F. Bruckmann Verlag, J. Köstler, etc. dated 1943</li>
+<li>Invitations to Evers' conferences</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000237,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4119,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4119/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8de458ca-cefb-505d-9b1c-0b95654bc847"", ""ontologyProperty"": """", ""resourceXresourceId"": ""84e4386f-79b5-472b-a578-138c60d17c51"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 194,repository numbers,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 7,titles proper,Dutch (language),,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7a282aeb-82e3-5b9b-b66f-4d5a43e6fe42,tg:rubdoc:4119,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

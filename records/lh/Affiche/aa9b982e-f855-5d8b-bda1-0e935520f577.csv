@@ -1,0 +1,22 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:64765,record identifiers,https://data.letterenhuis.be/ark:/24970/aa9b982e-f855-5d8b-bda1-0e935520f577,object identifier,Affiches,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Ontwerp affiche: Caroline Boone</p>
+<p>Grafische Vormgevers Associatie, 1987</p>
+<p>Druk Rob Stolk</p>
+<p>Lithograaf: AB Graphic</p>
+","<p>Ontwerp affiche: Caroline Boone</p>
+<p>Grafische Vormgevers Associatie, 1987</p>
+<p>Druk Rob Stolk</p>
+<p>Lithograaf: AB Graphic</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988.0,2103,In Copyright,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19880110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19890600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Laila / kind van de nacht / Theamus speelt: / een muziektheaterstuk voor alle mensen ouder dan 9 jaar / De Krakeling</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,1988-01-10,1989-06,,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000060522,referentienummer,False,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:64765,brocade id,False,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:64765/N,brocade url,False,,,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f605ce0e-32a3-5334-952d-1ba63e5921bb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b5006d51-c260-4a65-9f24-52bbd5a2d941"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,
+aa9b982e-f855-5d8b-bda1-0e935520f577,tg:lhps:64765,e73_Titles,,,au::9723,,,,lhps,lhps,Affiche,f800be78-1ecc-5fc7-a47a-5eefddaa1a6f,vb,,au::9723:1,au::9723g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Jeugdtoneel"",""ark"":""ark:/83110/x0/f800be78-1ecc-5fc7-a47a-5eefddaa1a6f"",""uri"":""/subjects/1040361"",""id"":""au::9723"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/f800be78-1ecc-5fc7-a47a-5eefddaa1a6f,,,,,,,,,,,,

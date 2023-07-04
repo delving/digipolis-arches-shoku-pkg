@@ -1,33 +1,41 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3989,https://data.rubenianum.be//ark:/86530/e143e02a-6049-5504-b0c2-ed597bc2b920,Documentatiemappen,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3989,record identifiers,https://data.rubenianum.be//ark:/86530/e143e02a-6049-5504-b0c2-ed597bc2b920,object identifier,Documentatiemappen,,,,,,,,
 e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_AnnotationsImmaterial,1,note.rubalg,"<p>Contains three photographs of the restauration of the Rubenshouse.</p>
 ","<p>Contains three photographs of the restauration of the Rubenshouse.</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0add3682-4458-4a85-b58b-722989cb630b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3dc2015c-5246-4cba-bf6d-f6f010630056"", ""inverseOntologyProperty"": """"}]"
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Spätzeit (Selbst)-Bildnisse"" addressed (inside) to ""Technische Hochschule Inst. F. Kunstgeschichte Darmstadt Hochschulstr.""
-
-- Notes about Rubens portraits
-- First subfolder (Annotation: ""Spaziergang""):
-    - Notes, photos, an article and correspondence (dated 1941) about 'Rubens and his wife Helene Fourment in the garden' painting
--Notes about the portrait of Anthony Van Dyck.
-- Second empty subfolder (Annotation: ""Zu den Selbstbildnissen von Rubens"")
-- Third subfolder (Annotation: ""Georg Petel Büste von Rubens 1633.""):
-    - Notes and correspondence (dated 1942) about Rubens bust by sculptor Georg Petel.  
-  
-Loose documentation reunited with the folder:   
-     
-- Small folder with photos of the Rubens House in Antwerp
-- Photos of Rubens' bust
-- Photo of a portrait
-- Clear envelope (Annotation: ""Rubenstoel"") with 5 photos of Rubens' chair
-- Photo of a medallion with two portrait in profile",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000118,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3989,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3989/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7f0c4921-2435-560f-a5b1-4b3c9d2b9ef8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2482a371-a438-4333-a9da-0ec02b7b6634"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 075,repository numbers,,,,,,,,,,,,,,
-e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 23,titles proper,Dutch (language),,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""48582808-8d7d-4c8f-bea3-e7a12f72f793"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76d29886-d2f9-427f-a1c0-380fd9836fc9"", ""inverseOntologyProperty"": """"}]"
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Spätzeit (Selbst)-Bildnisse&quot; addressed (inside) to &quot;Technische Hochschule Inst. F. Kunstgeschichte Darmstadt Hochschulstr.&quot;</p>
+<ul>
+<li>Notes about Rubens portraits</li>
+<li>First subfolder (Annotation: &quot;Spaziergang&quot;):
+<ul>
+<li>Notes, photos, an article and correspondence (dated 1941) about 'Rubens and his wife Helene Fourment in the garden' painting<br />
+-Notes about the portrait of Anthony Van Dyck.</li>
+</ul>
+</li>
+<li>Second empty subfolder (Annotation: &quot;Zu den Selbstbildnissen von Rubens&quot;)</li>
+<li>Third subfolder (Annotation: &quot;Georg Petel Büste von Rubens 1633.&quot;):
+<ul>
+<li>Notes and correspondence (dated 1942) about Rubens bust by sculptor Georg Petel.</li>
+</ul>
+</li>
+</ul>
+<p>Loose documentation reunited with the folder:</p>
+<ul>
+<li>Small folder with photos of the Rubens House in Antwerp</li>
+<li>Photos of Rubens' bust</li>
+<li>Photo of a portrait</li>
+<li>Clear envelope (Annotation: &quot;Rubenstoel&quot;) with 5 photos of Rubens' chair</li>
+<li>Photo of a medallion with two portrait in profile</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000118,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3989,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3989/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7f0c4921-2435-560f-a5b1-4b3c9d2b9ef8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a5af32dd-daf5-43d7-81e2-a1ef7c1c4f3d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 075,repository numbers,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 23,titles proper,Dutch (language),,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e143e02a-6049-5504-b0c2-ed597bc2b920,tg:rubdoc:3989,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

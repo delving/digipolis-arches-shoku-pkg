@@ -1,28 +1,29 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhaq:6890_#1,https://data.letterenhuis.be/ark:/24970/088803e5-9b79-5507-8fad-e282f223b32e,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_AcquisitionNumbers,1,,,,174218/5,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhaq:6890_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/088803e5-9b79-5507-8fad-e282f223b32e,object identifier,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_AcquisitionNumbers,1,,,,174218/5,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_AnnotationsMaterial,1,,,,,,adm.note,"**Opvoering:** KNS van Antwerpen, 90ste speeljaar, oktober 1942
 
 **Regie:** Joris Diels","**Opvoering:** KNS van Antwerpen, 90ste speeljaar, oktober 1942
 
-**Regie:** Joris Diels",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Regie:** Joris Diels",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Conditions,2,,,,,,note.lhconditie,"<p>In een passe-partout gekleefd</p>
 ",,,,,,,,,,,"<p>In een passe-partout gekleefd</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,22 x 34,,,,,,,,,,,,,,,,,"22 x 34 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"32,5 x 50",,,,,,,,,,,,,,,,,"32,5 x 50 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,220,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,340,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,325,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,500,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,tg:lhaq:6890_#1,174218/5,,Planex GT / GG 129,088803e5-9b79-5507-8fad-e282f223b32e,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,22 x 34,,,,,,,,,,,,,,,,,"22 x 34 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"32,5 x 50",,,,,,,,,,,,,,,,,"32,5 x 50 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,220,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,340,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,325,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,500,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,tg:lhaq:6890_#1,174218/5,,Planex GT / GG 129,088803e5-9b79-5507-8fad-e282f223b32e,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechts naast de tekening met potlood: <em>Het voordeel blijft / alleen de achte-<br />
 / wand veranderd</em>;</p>
 <p>links onder de tekening met potlood: <em>b.8 / 8</em>;</p>
 <p>rechts onder de tekening met potlood: <em>Hélène Gliewe / 1942</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,pencils (drawing and writing equipment),,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,,,,,,,,,,,,,,kenmerken/lhtechbasisaq.lhtechaq,watercolor (paint),,,,,,,,,,,,,,,,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1942.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,,,,,,,,,,,,,,kenmerken/lhtechaanvtk.lhtechtaddtk,pencils (drawing and writing equipment),,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhaq,,,,,,,,,,,,,,,kenmerken/lhtechbasisaq.lhtechaq,watercolor (paint),,,,,,,,,,,,,,,,,,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1942.0,permission required,,,,,,,,
+088803e5-9b79-5507-8fad-e282f223b32e,tg:lhaq:6890_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tOR3YPDvjRBZpdRHLUVDF5qn,lhaq,https://dams.antwerpen.be/iiif/tOR3YPDvjRBZpdRHLUVDF5qn/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/tOR3YPDvjRBZpdRHLUVDF5qn,DAMS Image,lh,Iconografie

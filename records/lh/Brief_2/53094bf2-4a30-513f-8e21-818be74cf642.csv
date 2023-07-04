@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:277952,record identifiers,https://data.letterenhuis.be/ark:/24970/53094bf2-4a30-513f-8e21-818be74cf642,object identifier,Brieven,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>1 handgeschreven brief</li>
+<li>1 briefkaart</li>
+<li>2 telegrammen</li>
+<li>1 getypte brief</li>
+</ul>
+","<ul>
+<li>1 handgeschreven brief</li>
+<li>1 briefkaart</li>
+<li>2 telegrammen</li>
+<li>1 getypte brief</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""39f527d2-a7d0-47a3-8f51-6c7fcddedeaf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f070f56-7680-42d2-930d-eccb8ab714e2"", ""inverseOntologyProperty"": """"}]"
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1929.0,2044,In Copyright,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19290522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19440628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1929-05-22,1944-06-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>R.J. Goddard aan E. de Bom</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000266560,referentienummer,False,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:277952,brocade id,False,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:277952/N,brocade url,False,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_LegacyInformationMerged,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 brgr,groepsbeschrijving,False,5,brgr,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""27d4ccbe-6d4d-5305-9a85-6005db03faa2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11d531cf-ebbe-46ad-a778-61ad394b11f4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_Titles,,,au::24362,,,,lhbr,lhbr,Brief,da879af0-f589-5f66-be7d-7106c64ea9a1,bs,,au::24362:1,au::24362g:1,,,,au_code,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/2606734"",""au::24362"",""au::24362:1"",""ark:/83110/x0/da879af0-f589-5f66-be7d-7106c64ea9a1"",""R.J. Goddard"",""ark:/83110/x0/c0b272c1-6779-56fd-9f00-76c175895f3d""],""name"":""R.J. Goddard"",""ark"":""ark:/83110/x0/c0b272c1-6779-56fd-9f00-76c175895f3d"",""uri"":""/agents/people/2606734"",""id"":""au::24362:1"",""resourceArk"":""ark:/83110/x0/da879af0-f589-5f66-be7d-7106c64ea9a1"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/da879af0-f589-5f66-be7d-7106c64ea9a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53094bf2-4a30-513f-8e21-818be74cf642,tg:lhbr:277952,e73_Titles,,,au::2268,,,,lhbr,lhbr,Brief,1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,co,,au::2268:1,au::2268g:1,,,,au_code,recipients (people),,"dlod={""suggest"":[""/agents/people/242676"",""au::2268"",""au::2268:1"",""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""Emmanuel de Bom"",""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef""],""name"":""Emmanuel de Bom"",""ark"":""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef"",""uri"":""/agents/people/242676"",""id"":""au::2268:1"",""resourceArk"":""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

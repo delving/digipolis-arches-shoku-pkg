@@ -1,40 +1,51 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4103,https://data.rubenianum.be//ark:/86530/3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,Documentatiemappen,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""057af07e-adc9-4759-a90d-4e2774561687"", ""ontologyProperty"": """", ""resourceXresourceId"": ""02f87bb8-ae17-4221-806c-986c1ed64161"", ""inverseOntologyProperty"": """"}]"
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Die Architektur bei Rubens S.S. 1937""
-
-- Brochure of the Rubens' House
-- Correspondence with Th. Ruyten dated 1947
-- Postcards of the Rubens House
-- Text about the restoration of Rubens' House
-- Photos of drawings of the Rubens' House
-- Photos of the House during the restoration
-- Library loan forms
-- First subfolder (Annotation: ""Galeriebilder""):
-    - Notes and sketches
-- Bibliographic references
-- Second subfolder (Annotation: ""Rubens haus""):
-    - Photos and reproductions of Rubens' House
-    - Article: 'Rubens Wohnhaus wird wieder aufgebaut' in ""Lübecker Zeitung"" dated 15.09.1942
-    - Extracts from different publications
-    - Text about Rubens' house (""Noot betreffende het Rubenshuis te Antwerpen"") by Municipal Administration of Antwerp
-- Extracts from different publications
-- Notes about different buildings in Antwerp
-- Reproductions of gardens in Paris
-- Third subfolder (Annotation: ""Architektur S. S. 1937""):
-    - Photo of an old map of Antwerp
-    - Extracts from different publications
-    - Papers about Oda Van de Castyne ""La question Rubens dans l'Histoire de l'Architecture""
-    - Evers' course registration list 
-    - Notes about Oda Van de Castyne ""La question Rubens dans l'Histoire de l'Architecture""
-    - Bibliographic references",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000223,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4103,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4103/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""672ee440-e33b-5d57-9398-a77b0e9cbbfe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4c1152c7-5e9f-42bf-a9e2-9343ea796a4c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 180,repository numbers,,,,,,,,,,,,,,
-3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 14,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4103,record identifiers,https://data.rubenianum.be//ark:/86530/3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,object identifier,Documentatiemappen,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""648c4aa6-828b-4e1b-aba1-ed43ae9d2003"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69f64c3e-1efb-43f3-badb-bb16e999f141"", ""inverseOntologyProperty"": """"}]"
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Die Architektur bei Rubens S.S. 1937&quot;</p>
+<ul>
+<li>Brochure of the Rubens' House</li>
+<li>Correspondence with Th. Ruyten dated 1947</li>
+<li>Postcards of the Rubens House</li>
+<li>Text about the restoration of Rubens' House</li>
+<li>Photos of drawings of the Rubens' House</li>
+<li>Photos of the House during the restoration</li>
+<li>Library loan forms</li>
+<li>First subfolder (Annotation: &quot;Galeriebilder&quot;):
+<ul>
+<li>Notes and sketches</li>
+</ul>
+</li>
+<li>Bibliographic references</li>
+<li>Second subfolder (Annotation: &quot;Rubens haus&quot;):
+<ul>
+<li>Photos and reproductions of Rubens' House</li>
+<li>Article: 'Rubens Wohnhaus wird wieder aufgebaut' in &quot;Lübecker Zeitung&quot; dated 15.09.1942</li>
+<li>Extracts from different publications</li>
+<li>Text about Rubens' house (&quot;Noot betreffende het Rubenshuis te Antwerpen&quot;) by Municipal Administration of Antwerp</li>
+</ul>
+</li>
+<li>Extracts from different publications</li>
+<li>Notes about different buildings in Antwerp</li>
+<li>Reproductions of gardens in Paris</li>
+<li>Third subfolder (Annotation: &quot;Architektur S. S. 1937&quot;):
+<ul>
+<li>Photo of an old map of Antwerp</li>
+<li>Extracts from different publications</li>
+<li>Papers about Oda Van de Castyne &quot;La question Rubens dans l'Histoire de l'Architecture&quot;</li>
+<li>Evers' course registration list</li>
+<li>Notes about Oda Van de Castyne &quot;La question Rubens dans l'Histoire de l'Architecture&quot;</li>
+<li>Bibliographic references</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000223,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4103,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4103/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""672ee440-e33b-5d57-9398-a77b0e9cbbfe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""535dfc5d-9bf8-44ca-98ab-dc29e64c09ef"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 180,repository numbers,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 14,titles proper,Dutch (language),,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d6fabbd-75e2-5ad4-a54f-1e517e7f8855,tg:rubdoc:4103,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

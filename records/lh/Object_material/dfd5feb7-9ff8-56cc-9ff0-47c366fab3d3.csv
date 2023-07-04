@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:766_#1,https://data.letterenhuis.be/ark:/24970/dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_AcquisitionNumbers,1,,,,118028,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:766_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,object identifier,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_AcquisitionNumbers,1,,,,118028,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Conditions,2,,,,,,note.lhconditie,"<ul>
 <li>opp.vuil</li>
 </ul>
@@ -9,19 +9,20 @@ dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Conditions,2,,,,,,note.l
 <li>opp.vuil</li>
 </ul>
 <p>(23/08/2001)</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.lhdiamsc,"42 d 2,5",,,,,,,,,,,,,,,"42 d 2,5 - diameter, kenmerken.lhdiamsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 42 b 42 d 2,5",,,,,,,,,,,,,,,"h 42 b 42 d 2,5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken.lhdiamsc,,,,,,,,,,,,,4225,diameter,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,420,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,420,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,25,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:766_#1,K2 B 18 D,dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,,118028,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken.lhdiamsc,"42 d 2,5",,,,,,,,,,,,,,,"42 d 2,5 - diameter, kenmerken.lhdiamsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 42 b 42 d 2,5",,,,,,,,,,,,,,,"h 42 b 42 d 2,5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken.lhdiamsc,,,,,,,,,,,,,4225,diameter,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,420,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,420,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,25,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:766_#1,K2 B 18 D,dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,,118028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Linksonder: <em>L Du Bar</em></p>
 <p>Rechts: _HUGO VERRIEST _</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,yellow (color),,,,,,,,,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medallions (medals),,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,
-dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,yellow (color),,,,,,,,,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medallions (medals),,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,,,,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required,,,,,,,,
+dfd5feb7-9ff8-56cc-9ff0-47c366fab3d3,tg:lhsc:766_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S1VRNIPRmacUaRMmWmxzqfFr,lhsc,https://dams.antwerpen.be/iiif/S1VRNIPRmacUaRMmWmxzqfFr/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/S1VRNIPRmacUaRMmWmxzqfFr,DAMS Image,lh,Object

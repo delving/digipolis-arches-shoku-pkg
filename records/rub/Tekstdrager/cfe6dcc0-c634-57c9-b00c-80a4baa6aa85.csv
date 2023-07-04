@@ -1,36 +1,47 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3963,https://data.rubenianum.be//ark:/86530/cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,Documentatiemappen,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6f263aa8-271f-41df-b8e4-77537d2d3368"", ""ontologyProperty"": """", ""resourceXresourceId"": ""64e74e25-eda9-43a2-8b83-233481528cab"", ""inverseOntologyProperty"": """"}]"
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"No annotation on the envelope.
-
-- First subfolder (Annotation: ""Rubens Selbsbildnis (H. Cramer)"") addressed (inside) to ""Institut f. Kunstgeschichte d. Techn. Hochschule 6100 Darmstadt Techn. Hochschule"" and dated 08.05.1967:
-    - Notes about Rubens' Self-portrait
-    - Correspondence with H. M. Cramer (dated 1966-67) and Sabena newspaper advertising
-    - Photos of Rubens' Self-portrait
-    - Correspondence with H. F. van Zijst dated 1967
-- Second subfolder (Annotation: ""Rubens Selbstbildnis Exemplar in Rom 1968"") addressed (inside) ""Herrn Professor Dr. phil. habil. Hans-Gerh. Evers 6101 Traisa Waldstr. 43"" and dated 28.06.1968:
-    - Photos of Rubens' Self-portrait
-    - Notes about 'The Four Philosophers' (dated 1968) and the Self-portrait
-    - Correspondence with Thomas L. Roser (dated 1968/1972), with Luisa Becherucci (dated 1968), with Ulrich Middeldorf (1968)
-- Photos of portraits of Rubens and his family
-- Photocopies of the correspondence with Louis Malbos (dated 1967)
-- Bibliographic references
-- Correspondence with Bruno Lohse (dated 1959), with Karla Langedijk (dated 1967), with G. Cramer (dated 1967)
-- Notes about Rubens' Self-portraits (dated 1967)
-- Draft text about Rubens' self-portraits
-- Third subfolder (Annotation: ""Rubens Selbsbildnis"") addressed (inside) to ""Herrn Professor Dr. H. G. Evers Institut für Kunstgeschichte an der Technischen Hochschule 61 Darmstadt Hochschulstr. 1"":
-    - Extracts from different publications
-    - Correspondence with F. Baudouin (dated 1967)
-    - Notes about Rubens' Self-portrait (dated 1966)
-    - Photocopies (from a catalogue) about Rubens' portraits
-- Photos of Rubens' pitcher, box and self-portrait and Helena Fourment's necklace",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000097,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3963,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3963/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ff2e75fb-b218-51dd-a064-18df99ce93fe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e1a17d4a-080c-4b68-901a-d87569b3de48"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 054,repository numbers,,,,,,,,,,,,,,
-cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 2,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3963,record identifiers,https://data.rubenianum.be//ark:/86530/cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,object identifier,Documentatiemappen,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""821837ad-9ee4-4289-87cc-7179678ca72e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4c1a9b51-afb7-4e9c-aa6b-eb67d0a8482f"", ""inverseOntologyProperty"": """"}]"
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>No annotation on the envelope.</p>
+<ul>
+<li>First subfolder (Annotation: &quot;Rubens Selbsbildnis (H. Cramer)&quot;) addressed (inside) to &quot;Institut f. Kunstgeschichte d. Techn. Hochschule 6100 Darmstadt Techn. Hochschule&quot; and dated 08.05.1967:
+<ul>
+<li>Notes about Rubens' Self-portrait</li>
+<li>Correspondence with H. M. Cramer (dated 1966-67) and Sabena newspaper advertising</li>
+<li>Photos of Rubens' Self-portrait</li>
+<li>Correspondence with H. F. van Zijst dated 1967</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;Rubens Selbstbildnis Exemplar in Rom 1968&quot;) addressed (inside) &quot;Herrn Professor Dr. phil. habil. Hans-Gerh. Evers 6101 Traisa Waldstr. 43&quot; and dated 28.06.1968:
+<ul>
+<li>Photos of Rubens' Self-portrait</li>
+<li>Notes about 'The Four Philosophers' (dated 1968) and the Self-portrait</li>
+<li>Correspondence with Thomas L. Roser (dated 1968/1972), with Luisa Becherucci (dated 1968), with Ulrich Middeldorf (1968)</li>
+</ul>
+</li>
+<li>Photos of portraits of Rubens and his family</li>
+<li>Photocopies of the correspondence with Louis Malbos (dated 1967)</li>
+<li>Bibliographic references</li>
+<li>Correspondence with Bruno Lohse (dated 1959), with Karla Langedijk (dated 1967), with G. Cramer (dated 1967)</li>
+<li>Notes about Rubens' Self-portraits (dated 1967)</li>
+<li>Draft text about Rubens' self-portraits</li>
+<li>Third subfolder (Annotation: &quot;Rubens Selbsbildnis&quot;) addressed (inside) to &quot;Herrn Professor Dr. H. G. Evers Institut für Kunstgeschichte an der Technischen Hochschule 61 Darmstadt Hochschulstr. 1&quot;:
+<ul>
+<li>Extracts from different publications</li>
+<li>Correspondence with F. Baudouin (dated 1967)</li>
+<li>Notes about Rubens' Self-portrait (dated 1966)</li>
+<li>Photocopies (from a catalogue) about Rubens' portraits</li>
+</ul>
+</li>
+<li>Photos of Rubens' pitcher, box and self-portrait and Helena Fourment's necklace</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000097,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3963,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3963/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ff2e75fb-b218-51dd-a064-18df99ce93fe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee139de0-4e3c-46fe-8177-0ef8bf431c4b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 054,repository numbers,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 2,titles proper,Dutch (language),,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cfe6dcc0-c634-57c9-b00c-80a4baa6aa85,tg:rubdoc:3963,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

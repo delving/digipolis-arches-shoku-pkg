@@ -1,32 +1,33 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,db,source_place_name,source_au_uuid,match_id,record_id,Creation Place Widget,Creation Place Note,Creation Place Note Language,Creation Place Note Type,Start Date,End Date,Start Date Type,End Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhtk:9656,https://data.letterenhuis.be/ark:/24970/7fa08d98-dc38-59cf-b6f9-797c92489c1a,Tekeningen,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,db,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Creation Place Widget,Start Date,End Date,Start Date Type,End Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhtk:9656,record identifiers,https://data.letterenhuis.be/ark:/24970/7fa08d98-dc38-59cf-b6f9-797c92489c1a,object identifier,Tekeningen,,,,,,
 7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Tekening met openklappende flap met gedicht opgekleefd.</p>
 ","<p>Tekening met openklappende flap met gedicht opgekleefd.</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_AnnotationsImmaterial,2,note.lhalg,"<p>Papiermerk wordt vermeld : Extra Brueghel</p>
 ","<p>Papiermerk wordt vermeld : Extra Brueghel</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1916.0,2031,In Copyright
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_CreationActors,,,au::14181,,,,lh,lhtk,Iconografie,5e2afab8-404e-5849-9e83-a43bb22c6ee2,ar,artists (visual artists),au::14181:1,au::14181g:1,,"dlod={""suggest"":[""/agents/people/1517367"",""au::14181"",""au::14181:1"",""ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2"",""Alfred Ost""],""name"":""Alfred Ost"",""ark"":""ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2"",""uri"":""/agents/people/1517367"",""id"":""au::14181:1"",""isCapacity"":false}",ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"De zwerver                            Alice Nahon
-
-'k heb u zonder doel zien dolen
-Door de nachtelijke steé
-Waar de straten staan als holen
-Van verborgen wee...
-Waar mizerie stemmen schreien
-Bij een flauwen tingel tang
-Waar de vrouwen staan te vleien
-Met geverfde wang
-Zal uw weedom daar verzwinden
-Gij, van hooger schoon bewust
-Zwerver, hebt ge geen beminde,
-Die u 's avonds kust ?",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/tk/000005238,referentienummer,False,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhtk:9656,brocade id,False,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhtk:9656/N,brocade url,False,,,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""42fad3ac-9409-5745-a809-3f9777dc58fd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ce817c1-f588-4a74-812d-b3dfbd960a22"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_OriginalBrocade,,,au::13414,,,,lh,,,47e79a4d-f021-5018-8470-7026c38525cb,vb,,au::13414:1,au::13414g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1435298"",""au::13414"",""au::13414:1"",""ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb"",""Alice Nahon""],""name"":""Alice Nahon"",""ark"":""ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb"",""uri"":""/agents/people/1435298"",""id"":""au::13414:1"",""isCapacity"":false}",ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb,agent,,,,,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'k heb u zonder doel zien dolen......,titles proper,Dutch (language),,,,,,,,,
-7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,2,id.title/description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illustratie bij het gedicht De Zwerver van Alice Nahon,constructed titles,Dutch (language),,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9536dad0-c5a1-4599-ba4f-c2cf9c5767b1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""efcd3afc-9d73-4536-96ab-4085e2c41847"", ""inverseOntologyProperty"": """"}]"
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1916.0,2031,In Copyright,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>De zwerver                            Alice Nahon</p>
+<p>'k heb u zonder doel zien dolen<br />
+Door de nachtelijke steé<br />
+Waar de straten staan als holen<br />
+Van verborgen wee...<br />
+Waar mizerie stemmen schreien<br />
+Bij een flauwen tingel tang<br />
+Waar de vrouwen staan te vleien<br />
+Met geverfde wang<br />
+Zal uw weedom daar verzwinden<br />
+Gij, van hooger schoon bewust<br />
+Zwerver, hebt ge geen beminde,<br />
+Die u 's avonds kust ?</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/tk/000005238,referentienummer,False,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhtk:9656,brocade id,False,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhtk:9656/N,brocade url,False,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""42fad3ac-9409-5745-a809-3f9777dc58fd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9df1583f-2239-4d8f-b161-a4c3ea46c5f6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'k heb u zonder doel zien dolen......,titles proper,Dutch (language),,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,2,id.title/description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illustratie bij het gedicht De Zwerver van Alice Nahon,constructed titles,Dutch (language),,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,,,au::14181,,,,lh,lhtk,Iconografie,5e2afab8-404e-5849-9e83-a43bb22c6ee2,ar,artists (visual artists),au::14181:1,au::14181g:1,,"dlod={""suggest"":[""/agents/people/1517367"",""au::14181"",""au::14181:1"",""ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2"",""Alfred Ost"",""ark:/83110/x0/35037459-706e-5ffe-ba34-4535dc33b475""],""name"":""Alfred Ost"",""ark"":""ark:/83110/x0/35037459-706e-5ffe-ba34-4535dc33b475"",""uri"":""/agents/people/1517367"",""id"":""au::14181:1"",""resourceArk"":""ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/5e2afab8-404e-5849-9e83-a43bb22c6ee2,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7fa08d98-dc38-59cf-b6f9-797c92489c1a,tg:lhtk:9656,e73_Titles,,,au::13414,,,,lh,lhtk,Iconografie,47e79a4d-f021-5018-8470-7026c38525cb,vb,,au::13414:1,au::13414g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1435298"",""au::13414"",""au::13414:1"",""ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb"",""Alice Nahon"",""ark:/83110/x0/1db320c4-b1fd-5c9b-80e8-e8793c29e226""],""name"":""Alice Nahon"",""ark"":""ark:/83110/x0/1db320c4-b1fd-5c9b-80e8-e8793c29e226"",""uri"":""/agents/people/1435298"",""id"":""au::13414:1"",""resourceArk"":""ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/47e79a4d-f021-5018-8470-7026c38525cb,,,,,,,,,,,,,,,

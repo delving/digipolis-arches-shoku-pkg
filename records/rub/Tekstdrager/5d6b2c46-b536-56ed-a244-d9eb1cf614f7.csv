@@ -1,28 +1,39 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4133,https://data.rubenianum.be//ark:/86530/5d6b2c46-b536-56ed-a244-d9eb1cf614f7,Documentatiemappen,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7bb5d770-99e7-4dac-b52c-a969e2ec32dd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""38d18ddf-3ced-4322-b375-716b39d40d2f"", ""inverseOntologyProperty"": """"}]"
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Exzerpte nach Autoren""
-
-- Bibliographic references with annotations
-- First subfolder (Annotation: ""-L""):
-    - Extracts from different publications about Rubens' life and artworks
-    - Printed extract:"" A sailor and his mistress"" from ""The work of Peter Paul Rubens"" by L. Burchard
-    - Photos of the chapter ""8. Oktober 1926 Herr L. Burchard: Skizzen des jungen Rubens."" in ""Sitzungs-Berichte der Kunstgeschichtlichen Gesellschaft Berlin (Oktober bis Mai 1927)
-    - Photo of the 'Archduke Albert of Austria' portrait attached to the extract ""Rubens als Porträtmaler"" by Gustav Glück
-- Second subfolder (Annotation: ""M-""):
-    - Extracts from different publications about Rubens' life and artworks
-    - Photos of the chapter ""Rubens in Spanien"" by Meisel in ""Kunstblatt"" 3, 1823.
-    - Photos of ""Plate III"" in ""Rubens before Italy"" by C. Norris
-    - Chapter: ""De Beteekenis der Prentkunst voor het Rubens-Schilderij"" (cut pages from a book)
-- Third folder (Annotation: Excerpte aus dem Bulletin Rubens):
-    - Extracts from the 'Rubens Bulletin'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000249,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4133,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4133/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df94c655-0f98-5c5c-98da-55781e5e7b64"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8530e893-a129-4614-b5fb-3e0d1f42430c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 206,repository numbers,,,,,,,,,,,,,,
-5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 19,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4133,record identifiers,https://data.rubenianum.be//ark:/86530/5d6b2c46-b536-56ed-a244-d9eb1cf614f7,object identifier,Documentatiemappen,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""041c332e-91c3-4322-a21d-84d6a442ae47"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63110d9f-8b9c-4c92-8076-df904cf78437"", ""inverseOntologyProperty"": """"}]"
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Exzerpte nach Autoren&quot;</p>
+<ul>
+<li>Bibliographic references with annotations</li>
+<li>First subfolder (Annotation: &quot;-L&quot;):
+<ul>
+<li>Extracts from different publications about Rubens' life and artworks</li>
+<li>Printed extract:&quot; A sailor and his mistress&quot; from &quot;The work of Peter Paul Rubens&quot; by L. Burchard</li>
+<li>Photos of the chapter &quot;8. Oktober 1926 Herr L. Burchard: Skizzen des jungen Rubens.&quot; in &quot;Sitzungs-Berichte der Kunstgeschichtlichen Gesellschaft Berlin (Oktober bis Mai 1927)</li>
+<li>Photo of the 'Archduke Albert of Austria' portrait attached to the extract &quot;Rubens als Porträtmaler&quot; by Gustav Glück</li>
+</ul>
+</li>
+<li>Second subfolder (Annotation: &quot;M-&quot;):
+<ul>
+<li>Extracts from different publications about Rubens' life and artworks</li>
+<li>Photos of the chapter &quot;Rubens in Spanien&quot; by Meisel in &quot;Kunstblatt&quot; 3, 1823.</li>
+<li>Photos of &quot;Plate III&quot; in &quot;Rubens before Italy&quot; by C. Norris</li>
+<li>Chapter: &quot;De Beteekenis der Prentkunst voor het Rubens-Schilderij&quot; (cut pages from a book)</li>
+</ul>
+</li>
+<li>Third folder (Annotation: Excerpte aus dem Bulletin Rubens):
+<ul>
+<li>Extracts from the 'Rubens Bulletin'</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000249,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4133,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4133/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df94c655-0f98-5c5c-98da-55781e5e7b64"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f7661036-51b3-4604-82e1-dc98da7d532a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 206,repository numbers,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 19,titles proper,Dutch (language),,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5d6b2c46-b536-56ed-a244-d9eb1cf614f7,tg:rubdoc:4133,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

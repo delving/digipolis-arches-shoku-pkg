@@ -1,19 +1,20 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3996,https://data.rubenianum.be//ark:/86530/19f9d351-72ed-5b41-ac27-f77764b5b073,Handschriften,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9c74a500-f996-4629-a215-2fad2b8d99f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""388eb347-1313-4a1b-8aad-1ef2fea40bad"", ""inverseOntologyProperty"": """"}]"
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[8 niet gedateerde notitieboekjes; met onderwerp] 
-Belgium Ortelius; 
-Bruegel, Witt Library II; 
-Huygens; 
-Witt L. III. Also look up Vranckx, Valckenborch; 
-Witt Library, [verscheidene opschriften; o.v.v.diverse kunstenaars]; 
-Northwick Park; 
-Brussels, Ortelius, ACL / BM Print Room Bruegel, Witt Library I, Paris; 
-Bruegel Rijksbureau.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Blockley, Northwick Park",,,,,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003996,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:3996,record identifiers,https://data.rubenianum.be//ark:/86530/19f9d351-72ed-5b41-ac27-f77764b5b073,object identifier,Handschriften,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ccd741c8-c32a-4493-9648-2b44c45249fc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0b17812a-ea23-492d-9193-08dbc9e1c1e6"", ""inverseOntologyProperty"": """"}]"
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>[8 niet gedateerde notitieboekjes; met onderwerp]<br />
+Belgium Ortelius;<br />
+Bruegel, Witt Library II;<br />
+Huygens;<br />
+Witt L. III. Also look up Vranckx, Valckenborch;<br />
+Witt Library, [verscheidene opschriften; o.v.v.diverse kunstenaars];<br />
+Northwick Park;<br />
+Brussels, Ortelius, ACL / BM Print Room Bruegel, Witt Library I, Paris;<br />
+Bruegel Rijksbureau.</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Blockley, Northwick Park",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000003996,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
 19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 <priref>6230</priref>
 <number>AFG_103_024</number>
@@ -88,9 +89,9 @@ Bruegel Rijksbureau.</content>
 <edit.source>archive</edit.source>
 </record>
 
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3996,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3996/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cf7f9bef-44f3-5318-8302-7d23fcf31233"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1e999ff7-e816-4717-997f-4ff3a1af7eed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_024,repository numbers,,,,,,,,,,,,,,
-19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_024,titles proper,Dutch (language),,,,,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:3996,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:3996/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cf7f9bef-44f3-5318-8302-7d23fcf31233"", ""ontologyProperty"": """", ""resourceXresourceId"": ""50480c4c-5c4f-49d3-b38f-9ab8e8a7c451"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_024,repository numbers,,,,,,,,,,,,,,,,,
+19f9d351-72ed-5b41-ac27-f77764b5b073,tg:rubgr:3996,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_103_024,titles proper,Dutch (language),,,,,,,,,,,,,,

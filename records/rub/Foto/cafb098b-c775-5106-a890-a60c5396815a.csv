@@ -1,15 +1,16 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,ire.isaar.uuid,source_ire_type,Original Entity Type,ire.isaar.id,place_au_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1239,https://data.rubenianum.be//ark:/86530/cafb098b-c775-5106-a890-a60c5396815a,Foto's,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,Start Date,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation URL Prefix,External Relation URL,External Relation,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,museum,resource_model,ire.isaar.uuid,source_ire_type,Original Entity Type,au_code,g_code,Original Entity Note,Original Entity Widget,Original Entity Identifier,matched on,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1239,record identifiers,https://data.rubenianum.be//ark:/86530/cafb098b-c775-5106-a890-a60c5396815a,object identifier,Foto's,,,,
 cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_AnnotationsImmaterial,1,note.rubalg,"<p>Zie ook <strong>RA 009 / 228</strong>.</p>
 ","<p>Zie ook <strong>RA 009 / 228</strong>.</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b880b315-6711-4f3e-96a3-b0bb80f06eab"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8fde14d1-4a43-46b1-9137-578a27565178"", ""inverseOntologyProperty"": """"}]"
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,19530903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,1953-09-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,1 zw/w van het geheel met raster; 3 detailfoto's; [Stempel Kunsthistorisches Museum],descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_ExternalRelationsExtras,a::rub.31:1,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,221184,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001239,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""67d8952a-1e3d-4b5d-87eb-87fef3f21c4e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""50913ba9-1d85-4983-bf01-8c5bce08eb82"", ""inverseOntologyProperty"": """"}]"
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,19530903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,1953-09-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,"<p>1 zw/w van het geheel met raster; 3 detailfoto's; [Stempel Kunsthistorisches Museum]</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_ExternalRelationsExtras,a::rub.31:1,ow.link,,,,,,,,,,,,,,,,,,,,https://rkd.nl/nl/explore/images/,221184,online catalogs,RKDimages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001239,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 <priref>3496</priref>
 <number>AFG_030_003</number>
@@ -35,9 +36,9 @@ cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,if.rawcontent,,,,,
 <edit.source>archive</edit.source>
 </record>
 
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1239,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1239/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""aed2f538-38a9-54b5-83bd-8d6fb8544c95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a346ea4-700b-4f6e-acd5-e341f0d15385"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_003,repository numbers,,,,,,,,,,,
-cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_003,titles proper,Dutch (language),,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1239,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1239/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""aed2f538-38a9-54b5-83bd-8d6fb8544c95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e022d73d-4486-4ad0-a6a6-5a5b515106c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_003,repository numbers,,,,,,,,,,,,,
+cafb098b-c775-5106-a890-a60c5396815a,tg:rubgr:1239,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_030_003,titles proper,Dutch (language),,,,,,,,,,

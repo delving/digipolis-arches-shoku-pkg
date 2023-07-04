@@ -1,0 +1,28 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,End Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:277654,record identifiers,https://data.letterenhuis.be/ark:/24970/cf95e58a-d5ec-5945-9048-2601ec486890,object identifier,Brieven,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>1 getypte brief</li>
+<li>2 handgeschreven brieven</li>
+<li>3 briefkaarten</li>
+</ul>
+","<ul>
+<li>1 getypte brief</li>
+<li>2 handgeschreven brieven</li>
+<li>3 briefkaarten</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7be6e178-a218-490c-b9fd-16d8d903342d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63b0b77f-d6c9-4da2-991f-59d0ab144903"", ""inverseOntologyProperty"": """"}]"
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1925.0,2040,In Copyright,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19250604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19290508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,1925-06-04,1929-05-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Edgard Barbaix aan E. de Bom</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_Languages,1,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000266266,referentienummer,False,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:277654,brocade id,False,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:277654/N,brocade url,False,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_LegacyInformationMerged,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6 brgr,groepsbeschrijving,False,6,brgr,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e6e0e7d6-e72a-51e0-97e9-cd2cf8d50b4f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""15670cda-4dfd-4ac7-99f3-168bcb3de486"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_Titles,,,au::1087,,,,lhbr,lhbr,Brief,de1feef5-1554-5c9a-80a6-ce87f3ba38a9,bs,,au::1087:1,au::1087g:1,,,,au_code,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/116309"",""au::1087"",""au::1087:1"",""ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9"",""Edgar Barbaix"",""ark:/83110/x0/76de9913-c81e-5148-a53f-234d0ad492d6""],""name"":""Edgar Barbaix"",""ark"":""ark:/83110/x0/76de9913-c81e-5148-a53f-234d0ad492d6"",""uri"":""/agents/people/116309"",""id"":""au::1087:1"",""resourceArk"":""ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf95e58a-d5ec-5945-9048-2601ec486890,tg:lhbr:277654,e73_Titles,,,au::2268,,,,lhbr,lhbr,Brief,1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,co,,au::2268:1,au::2268g:1,,,,au_code,recipients (people),,"dlod={""suggest"":[""/agents/people/242676"",""au::2268"",""au::2268:1"",""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""Emmanuel de Bom"",""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef""],""name"":""Emmanuel de Bom"",""ark"":""ark:/83110/x0/0b8cbad0-6889-5f1b-a837-0ed602b7f5ef"",""uri"":""/agents/people/242676"",""id"":""au::2268:1"",""resourceArk"":""ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/1fc62661-e5c9-5cdf-9e5e-71ae0c2a02f1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

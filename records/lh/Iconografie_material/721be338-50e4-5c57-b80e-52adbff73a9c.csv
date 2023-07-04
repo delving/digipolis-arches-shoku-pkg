@@ -1,15 +1,15 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:1589_#3,https://data.letterenhuis.be/ark:/24970/721be338-50e4-5c57-b80e-52adbff73a9c,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_AcquisitionNumbers,3,,,,47442/221,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_AnnotationsMaterial,3,,,,,,adm.note,Litho is gemaakt naar een tekening van Jef Lambeaux,Litho is gemaakt naar een tekening van Jef Lambeaux,Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:1589_#3,record identifiers,https://data.letterenhuis.be/ark:/24970/721be338-50e4-5c57-b80e-52adbff73a9c,object identifier,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_AcquisitionNumbers,3,,,,47442/221,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_AnnotationsMaterial,3,,,,,,adm.note,Litho is gemaakt naar een tekening van Jef Lambeaux,Litho is gemaakt naar een tekening van Jef Lambeaux,Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Conditions,2,,,,,,note.lhconditie,"<p>(1) Drukexemplaar is beschadigd door kleefband;(3) Beschadigd door vetvlekken en gaatje</p>
 ",,,,,,,,,,,"<p>(1) Drukexemplaar is beschadigd door kleefband;(3) Beschadigd door vetvlekken en gaatje</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"29 x 23,7",,,,,,,,,,,,,,,,,"29 x 23,7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,290,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,237,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Items,3,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:1589_#3,47442/221,,"Planex GP / IX, 2",721be338-50e4-5c57-b80e-52adbff73a9c,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"29 x 23,7",,,,,,,,,,,,,,,,,"29 x 23,7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,290,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,237,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Items,3,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:1589_#3,47442/221,,"Planex GP / IX, 2",721be338-50e4-5c57-b80e-52adbff73a9c,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>r.o.: <em>Jef Lambeaux 1891</em></p>
 <ol start=""2"">
 <li>
@@ -21,8 +21,8 @@ Daenens</em></p>
 </li>
 </ol>
 <p>m.o.: <em>Voor mijn trouwen Vriend C. Rousseau / 22 april 1939 / JM Brans</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pkr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chalk lithography,,,,,,
-721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1891.0,open
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pkr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chalk lithography,,,,,,,,,,,,,,,,
+721be338-50e4-5c57-b80e-52adbff73a9c,tg:lhpr:1589_#3,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1891.0,open,,,,,,,,

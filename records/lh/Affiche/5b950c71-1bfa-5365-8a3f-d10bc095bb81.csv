@@ -1,23 +1,25 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Documented Event Type,Creation Time Span Source Note,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_uuid,match_id,record_id,Documented Event Place Name Widget,Documented Event Place Note,Documented Event Place Note Language,Documented Event Place Note Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16314,https://data.letterenhuis.be/ark:/24970/5b950c71-1bfa-5365-8a3f-d10bc095bb81,Affiches,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00000214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00000328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ancienne Belgique  
-Februari  
-Walter H. K. Tore  
-Jaco Pastorius  
-Atahualpa Yupanqui  
-Maart  
-Het traafeest van Melle Beulemans  
-Georges Moustaki  
-De Frisse Jongens  
-The Jesus & Marychain  
-Hermeto Pascoal",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,uuuu-02-14,uuuu-03-28,circa,circa,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314_#1,e73_DocumentedEventsPlaces_lhps,,place_csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Brussel,,au::100105:1,tg:lhps:16314_#1,"dlod={""name"":""Brussel (Brussel-Hoofdstad)"",""ark"":""ark:/83110/x0/99596b2b-2b42-50f2-8ec3-d578638b6d71"",""uri"":""/subjects/10711235"",""id"":""au::100105"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000015750,referentienummer,False,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16314,brocade id,False,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16314/N,brocade url,False,,,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3d78b905-251f-511f-8988-6755ad3fb91e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a723ec2b-a980-4c14-b0c3-e0fe78a05e4b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
-5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_OriginalBrocade,,,au::415,,,,lhps,,,dbe72fb1-af44-5642-9eca-0995ac9ecd74,kw,,au::415:1,au::415g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/44405"",""au::415"",""au::415:1"",""ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74"",""Ancienne Belgique""],""name"":""Ancienne Belgique"",""ark"":""ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74"",""uri"":""/agents/corporate_entities/44405"",""id"":""au::415:1"",""isCapacity"":false}",ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74,agent,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16314,record identifiers,https://data.letterenhuis.be/ark:/24970/5b950c71-1bfa-5365-8a3f-d10bc095bb81,object identifier,Affiches,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d4ed53da-0f0b-457d-9fde-b6639dbb4412"", ""ontologyProperty"": """", ""resourceXresourceId"": ""322e5f02-d8bb-4165-be1d-ae8e90fc0db9"", ""inverseOntologyProperty"": """"}]"
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00000214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00000328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Ancienne Belgique<br />
+Februari<br />
+Walter H. K. Tore<br />
+Jaco Pastorius<br />
+Atahualpa Yupanqui<br />
+Maart<br />
+Het traafeest van Melle Beulemans<br />
+Georges Moustaki<br />
+De Frisse Jongens<br />
+The Jesus &amp; Marychain<br />
+Hermeto Pascoal</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,uuuu-02-14,uuuu-03-28,circa,circa,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314_#1,e73_DocumentedEventsPlaces_lhps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Brussel,,,,,,Brussel (Brussel-Hoofdstad),au::100105,99596b2b-2b42-50f2-8ec3-d578638b6d71,au::100105,99596b2b-2b42-50f2-8ec3-d578638b6d71,,au::100105,remarks,Nederlands,"dlod={""name"":""Brussel (Brussel-Hoofdstad)"",""ark"":""ark:/83110/x0/99596b2b-2b42-50f2-8ec3-d578638b6d71"",""uri"":""/subjects/10711235"",""id"":""au::100105"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000015750,referentienummer,False,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16314,brocade id,False,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16314/N,brocade url,False,,,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3d78b905-251f-511f-8988-6755ad3fb91e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae1d2a50-7362-4df3-9b5d-4cc9ee09b104"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,
+5b950c71-1bfa-5365-8a3f-d10bc095bb81,tg:lhps:16314,e73_Titles,,,au::415,,,,lhps,lhps,Affiche,dbe72fb1-af44-5642-9eca-0995ac9ecd74,kw,,au::415:1,au::415g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/44405"",""au::415"",""au::415:1"",""ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74"",""Ancienne Belgique"",""ark:/83110/x0/d1d1e924-770f-501e-9b74-c8bf3282b1de""],""name"":""Ancienne Belgique"",""ark"":""ark:/83110/x0/d1d1e924-770f-501e-9b74-c8bf3282b1de"",""uri"":""/agents/corporate_entities/44405"",""id"":""au::415:1"",""resourceArk"":""ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/dbe72fb1-af44-5642-9eca-0995ac9ecd74,,,,,,,,,,,,

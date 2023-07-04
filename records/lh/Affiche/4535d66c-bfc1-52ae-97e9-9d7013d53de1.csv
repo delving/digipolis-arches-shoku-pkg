@@ -1,20 +1,22 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Documented Event Type,Creation Time Span Source Note,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_uuid,match_id,record_id,Documented Event Place Name Widget,Documented Event Place Note,Documented Event Place Note Language,Documented Event Place Note Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:44772,https://data.letterenhuis.be/ark:/24970/4535d66c-bfc1-52ae-97e9-9d7013d53de1,Affiches,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2001.0,2116,In Copyright
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,20010000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,20010000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Had je gedicht !?  
-'n avond vol poezie  
-De hofnar valkenswaard  
-12 winnende dichters van hadjegedicht !? 2001  
-Driek van Wissen  
-Lou Vleugelhof  
-Victor Vroomkoning  
-Jo Gisekin  
-27 januari",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,2uu1,2uu1,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000040687,referentienummer,False,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:44772,brocade id,False,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:44772/N,brocade url,False,,,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f1c4912-9999-5509-a34b-87d7358bd94f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""10381664-b60a-41f2-b396-6b6f602549d6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
-4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_OriginalBrocade,,,au::7588,,,,lhps,,,44a35ed1-97c8-501d-b670-e4c1f5a87503,kw,,au::7588:1,au::7588g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/811916"",""au::7588"",""au::7588:1"",""ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503"",""Jo Gisekin""],""name"":""Jo Gisekin"",""ark"":""ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503"",""uri"":""/agents/people/811916"",""id"":""au::7588:1"",""isCapacity"":false}",ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503,agent,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:44772,record identifiers,https://data.letterenhuis.be/ark:/24970/4535d66c-bfc1-52ae-97e9-9d7013d53de1,object identifier,Affiches,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f9725bb0-ef59-41e4-985f-334da5f24162"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ed6b10f-e776-4319-8f45-b3bef8409021"", ""inverseOntologyProperty"": """"}]"
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2001.0,2116,In Copyright,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,20010000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,20010000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Had je gedicht !?<br />
+'n avond vol poezie<br />
+De hofnar valkenswaard<br />
+12 winnende dichters van hadjegedicht !? 2001<br />
+Driek van Wissen<br />
+Lou Vleugelhof<br />
+Victor Vroomkoning<br />
+Jo Gisekin<br />
+27 januari</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,2uu1,2uu1,,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000040687,referentienummer,False,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:44772,brocade id,False,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:44772/N,brocade url,False,,,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f1c4912-9999-5509-a34b-87d7358bd94f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0256e4e5-41a5-473f-8453-b0cd1c0ebe21"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,
+4535d66c-bfc1-52ae-97e9-9d7013d53de1,tg:lhps:44772,e73_Titles,,,au::7588,,,,lhps,lhps,Affiche,44a35ed1-97c8-501d-b670-e4c1f5a87503,kw,,au::7588:1,au::7588g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/811916"",""au::7588"",""au::7588:1"",""ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503"",""Jo Gisekin"",""ark:/83110/x0/68a9ac2b-8960-5481-b1da-9e9be81f6bf7""],""name"":""Jo Gisekin"",""ark"":""ark:/83110/x0/68a9ac2b-8960-5481-b1da-9e9be81f6bf7"",""uri"":""/agents/people/811916"",""id"":""au::7588:1"",""resourceArk"":""ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/44a35ed1-97c8-501d-b670-e4c1f5a87503,,,,,,,,,,,,

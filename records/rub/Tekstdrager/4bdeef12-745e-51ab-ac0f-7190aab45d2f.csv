@@ -1,83 +1,106 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4081,https://data.rubenianum.be//ark:/86530/4bdeef12-745e-51ab-ac0f-7190aab45d2f,Documentatiemappen,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""88066fd4-f659-48d8-bd7d-63149cc23ee9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1daa390f-bc1d-4f9c-a1f0-350024ca7716"", ""inverseOntologyProperty"": """"}]"
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"No annotation on the folder.
-
-- Various notes
-- Invitation to the ""Peter Paul Rubens 1577-1640"" exhibition in Cologne (dated 1977)
-- Article: 'Rubens als Staatsmann. Holland und Flandern vor dreihundert Jahren (II)' in ""Brüsseler Zeitung"" dated 23.02.1943
-- Article: 'Rubens als Diplomat und Politiker. Holland un Flander vor dreihundert Jahren (I)' in ""Brüsseler Zeitung"" dated 21.02.1943
-- Small envelope (Annotation: ""Rubens-Expertise"") addressed to ""Herrn Prof. Dr. Hans Evers Heideweg 2 61 Darmstadt - Treisar"" dated 06.06.1977:
-    - Correspondence with Reinhold G. Gerstner dated 1977
-    - Photo and negative of 'Satyr and Maenad'
-    - Bank records
-- Photo of 'The Flight of Lot and His Family from Sodom'
-- Article: 'Flanderns grösster Maler. Zur neuen Rubens-Monographie von Professor Hans Gerhard Evers' in ""Brüsseler Zeitung"" dated 20.05.1943
-- Unbound pages from Rubens monograph by Evers
-- Subfolder (Annotation: ""Jordaens""):
-    - Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jakob Jordaens' in ""Brüsseler Zeitung"" dated 19.05.1943
-    - Photos of portraits and winter scenes
-    - Essay (reprint): 'Jacob van Ruisdael, Nicolaes Berchem und Schloβ Bentheim' by Von Rolf Dieter Kamp in ""Jahrbuch des Heimatvereins der Grafschaft Bentheim"" 1968
-- Small envelope (Annotation: ""Rubens"") addressed to ""Herrn Professor Dr. Hans Gerhard Evers D. 6101 Traisa bei Darmstadt Waldstr. 43 Bundesrepublik Deutschland"" dated 27.09.1972:
-    - Correspondence with Leif Østby dated 1972
-    - Photos and negatives of 'Romolus and Remus' and 'Castor and Pollux'
-    - Part of the essay: 'Rubens i Nasjonalgalleriet' by Leif Østby, in ""Glimt av Belgia"", 1968
-    - Draft text about Rubens for the Nasjonalgalleriet (Oslo) catalogue
-- Clear folder (no annotation):
-    - Correspondence with Gerhard Bott (dated 1977), with J. G. van Gelder and I. Jost (dated 1977), with Hans Ost (dated 1977), with Sylvester Rostosky (dated 1977), with Gerhard Händler (dated 1977)
-    - Article: 'Rubens in der Kölner Kunsthalle. Italien als Schule der Sinnlichkeit' in ""Frankfurter Allgemeine Zeitung"" dated 1977
-    - Notes about Rubens in Mülheim and Cologne dated 1977
-- Small envelope (Annotation: ""Rubens"") addressed to ""Herrn Prof. Dr. Evers 61 Darmstadt"" dated 07.06.1973:
-    - Correspondence with Karl G. Schmidt dated 1973
-    - Photocopies of certificates, reproductions, etc. about The Apostle Matthew
-- Article: 'Die Allmacht der Malerei. Zum 400. Geburtstag des Peter Paul Rubens' in ""Frankfurter Allgemeine Zeitung"" dated 25.06.1977
-- Expertise of 'Cupids carrying the Garland' (by Rubens) and 'Corrida' (by Goya)
-- Photos of 'Cupids carrying the Garland' and 'Corrida'
-- Essay (reprint): 'Rubens und der ""Merkur"" des Giambologna' by Otto von Simson, in ""Festschrift Ulrich Middeldorf"", 1968
-- Envelope (Annotation: ""Rubens bild Heilige Familie Herr Zuber, Hotel Ritter 6903. Neckargemünd Neckarstr. 36. Tel. 06223/7035 ab IV 76 /1322"") addressed to ""Herrn Prof. Dr. H. Evers 6101 Traisa b. Darmstadt Waldstr. 43"" and dated 31.01.1974:
-    - Empty envelope addressed to ""Prof. Dr. H. G. Evers Heideweg Nr. 2 8101 Traisa - Darmstadt""
-    - Photos of 'The Holy Family with Saint John' (some of them have a description on the back)
-    - Hotel zum Ritter brochure
-    - Correspondence with Franz Schäfer (dated 1976), with Zuber
-    - Notes about the 'Holy Family'
-    - Library loan form
-    - Extracts from different publications
-- Small envelope addressed to ""Herrn Prof. Dr. Hans Gerhard Evers 6101 Traisa bei Darmstadt Waldstr. 43"" with photos of the 'Raising of Lazarus'
-- Reproductions of the 'View of Linz', 'Landscape with ball player', 'Heads of Apostles'
-- Correspondence with Martin Lechner dated 1972
-- Article: 'Fragen um ein Rubens-Bild. Ottheinrich Fuggers Rubens-Stiftung zum ""Wunderbarlichen Gut"" nach Augsburg Heilig Kreuz' in ""Kirchenzeitung für die Diözese Augsburg"" dated 20.02.1972
-- Reproduction of 'The Assumption of the Virgin Mary'
-- Correspondence with Graaf Hanno Zichy dated 1972
-- Photos of 'Perseus and Andromeda'
-- Correspondence with Gert Jagoda (dated 1971), with Madlyn Kahr (dated 1971), with Eduard Schmidt (dated 1971), with Thomas L. Roser (dated 1971)
-- Photo of 'Susanna and the Elders'
-- Article (photocopy): 'Rubens für nur 90 000 DM' dated 18.08.1971
-- Article: 'Rubens in Stuttgart. Pointe der Nagel-Auktion' in ""Frankfurter Allgemeine Zeitung"" dated 12.03.1971
-- Article (photocopy): 'Rubens-Bild weit unter Schätzpreis' in ""Aalener Volkszeitung"" dated 19.03.1971
-- Small envelope addressed to ""Herrn Professor Dr. Hans Gerhard Evers [...] 61/Darmstadt Hochschulstr. 1"", with correspondence with Maria Walz dated 1971 and photo of 'Daniel in the Lions' Den'
-- Envelope addressed to ""Herrn Prof. Dr. Hans Gerhard Evers Waldstrasse 6101 Traisa"" and dated 24.05.1976, with correspondence with Yvonne Holzapfel dated 1976
-- Postcards from Amsterdam and Dunkerque
-- Correspondence with Klaus Gottlob dated 1970, with Karl G. Schmidt dated 1973
-- Correspondence with Armin A. Pertsch dated 1973
-- Envelope with photos of the 'Holy Family and Saint John'
-- Notes about the 'Holy Family and Saint John' dated 1974
-- Photocopies about the 'Holy Family and Saint John' from different publications
-- Small envelope with correspondence with Cox dated 1973, a negative of a 'Madonna with Child' and a text about Roche Old Court (Winterslow Wilts)
-- Notes about a 'Madonna with Child'
-- Business card of Daniel Strauβ
-- Photo of the 'Madonna with Child'
-- Subfolder (Annotation: ""Philipp Fehl Rubens's Feast of Venus Verticordia"" The Burlington Magazine Ig. 114, March 1972""):
-    - Essay (photocopy): 'Rubens's 'Feast of Venus Verticordia'' by Philipp Fehl, in ""The Burlington Magazine"", March 1972
-    - Notes about Philostratos dated 1973
-- IBM card with notes
-- Correspondence with Franz Huber (dated 1969), with Gisela Vogel (dated 1969)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000203,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4081,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4081/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6fa9deb4-a0fa-5f0d-b395-5b157dc19421"", ""ontologyProperty"": """", ""resourceXresourceId"": ""22108a22-a008-4362-a1b1-eab0c6e906fe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 160,repository numbers,,,,,,,,,,,,,,
-4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 6,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4081,record identifiers,https://data.rubenianum.be//ark:/86530/4bdeef12-745e-51ab-ac0f-7190aab45d2f,object identifier,Documentatiemappen,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6343ecc9-9bec-4219-ae69-9360f9e14ccc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9d90748a-c8d2-4d9a-b1ac-4c2a36a53217"", ""inverseOntologyProperty"": """"}]"
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>No annotation on the folder.</p>
+<ul>
+<li>Various notes</li>
+<li>Invitation to the &quot;Peter Paul Rubens 1577-1640&quot; exhibition in Cologne (dated 1977)</li>
+<li>Article: 'Rubens als Staatsmann. Holland und Flandern vor dreihundert Jahren (II)' in &quot;Brüsseler Zeitung&quot; dated 23.02.1943</li>
+<li>Article: 'Rubens als Diplomat und Politiker. Holland un Flander vor dreihundert Jahren (I)' in &quot;Brüsseler Zeitung&quot; dated 21.02.1943</li>
+<li>Small envelope (Annotation: &quot;Rubens-Expertise&quot;) addressed to &quot;Herrn Prof. Dr. Hans Evers Heideweg 2 61 Darmstadt - Treisar&quot; dated 06.06.1977:
+<ul>
+<li>Correspondence with Reinhold G. Gerstner dated 1977</li>
+<li>Photo and negative of 'Satyr and Maenad'</li>
+<li>Bank records</li>
+</ul>
+</li>
+<li>Photo of 'The Flight of Lot and His Family from Sodom'</li>
+<li>Article: 'Flanderns grösster Maler. Zur neuen Rubens-Monographie von Professor Hans Gerhard Evers' in &quot;Brüsseler Zeitung&quot; dated 20.05.1943</li>
+<li>Unbound pages from Rubens monograph by Evers</li>
+<li>Subfolder (Annotation: &quot;Jordaens&quot;):
+<ul>
+<li>Article: 'Im Schatten von Rubens. Zum 350. Geburtstag von Jakob Jordaens' in &quot;Brüsseler Zeitung&quot; dated 19.05.1943</li>
+<li>Photos of portraits and winter scenes</li>
+<li>Essay (reprint): 'Jacob van Ruisdael, Nicolaes Berchem und Schloβ Bentheim' by Von Rolf Dieter Kamp in &quot;Jahrbuch des Heimatvereins der Grafschaft Bentheim&quot; 1968</li>
+</ul>
+</li>
+<li>Small envelope (Annotation: &quot;Rubens&quot;) addressed to &quot;Herrn Professor Dr. Hans Gerhard Evers D. 6101 Traisa bei Darmstadt Waldstr. 43 Bundesrepublik Deutschland&quot; dated 27.09.1972:
+<ul>
+<li>Correspondence with Leif Østby dated 1972</li>
+<li>Photos and negatives of 'Romolus and Remus' and 'Castor and Pollux'</li>
+<li>Part of the essay: 'Rubens i Nasjonalgalleriet' by Leif Østby, in &quot;Glimt av Belgia&quot;, 1968</li>
+<li>Draft text about Rubens for the Nasjonalgalleriet (Oslo) catalogue</li>
+</ul>
+</li>
+<li>Clear folder (no annotation):
+<ul>
+<li>Correspondence with Gerhard Bott (dated 1977), with J. G. van Gelder and I. Jost (dated 1977), with Hans Ost (dated 1977), with Sylvester Rostosky (dated 1977), with Gerhard Händler (dated 1977)</li>
+<li>Article: 'Rubens in der Kölner Kunsthalle. Italien als Schule der Sinnlichkeit' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 1977</li>
+<li>Notes about Rubens in Mülheim and Cologne dated 1977</li>
+</ul>
+</li>
+<li>Small envelope (Annotation: &quot;Rubens&quot;) addressed to &quot;Herrn Prof. Dr. Evers 61 Darmstadt&quot; dated 07.06.1973:
+<ul>
+<li>Correspondence with Karl G. Schmidt dated 1973</li>
+<li>Photocopies of certificates, reproductions, etc. about The Apostle Matthew</li>
+</ul>
+</li>
+<li>Article: 'Die Allmacht der Malerei. Zum 400. Geburtstag des Peter Paul Rubens' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 25.06.1977</li>
+<li>Expertise of 'Cupids carrying the Garland' (by Rubens) and 'Corrida' (by Goya)</li>
+<li>Photos of 'Cupids carrying the Garland' and 'Corrida'</li>
+<li>Essay (reprint): 'Rubens und der &quot;Merkur&quot; des Giambologna' by Otto von Simson, in &quot;Festschrift Ulrich Middeldorf&quot;, 1968</li>
+<li>Envelope (Annotation: &quot;Rubens bild Heilige Familie Herr Zuber, Hotel Ritter 6903. Neckargemünd Neckarstr. 36. Tel. 06223/7035 ab IV 76 /1322&quot;) addressed to &quot;Herrn Prof. Dr. H. Evers 6101 Traisa b. Darmstadt Waldstr. 43&quot; and dated 31.01.1974:
+<ul>
+<li>Empty envelope addressed to &quot;Prof. Dr. H. G. Evers Heideweg Nr. 2 8101 Traisa - Darmstadt&quot;</li>
+<li>Photos of 'The Holy Family with Saint John' (some of them have a description on the back)</li>
+<li>Hotel zum Ritter brochure</li>
+<li>Correspondence with Franz Schäfer (dated 1976), with Zuber</li>
+<li>Notes about the 'Holy Family'</li>
+<li>Library loan form</li>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+<li>Small envelope addressed to &quot;Herrn Prof. Dr. Hans Gerhard Evers 6101 Traisa bei Darmstadt Waldstr. 43&quot; with photos of the 'Raising of Lazarus'</li>
+<li>Reproductions of the 'View of Linz', 'Landscape with ball player', 'Heads of Apostles'</li>
+<li>Correspondence with Martin Lechner dated 1972</li>
+<li>Article: 'Fragen um ein Rubens-Bild. Ottheinrich Fuggers Rubens-Stiftung zum &quot;Wunderbarlichen Gut&quot; nach Augsburg Heilig Kreuz' in &quot;Kirchenzeitung für die Diözese Augsburg&quot; dated 20.02.1972</li>
+<li>Reproduction of 'The Assumption of the Virgin Mary'</li>
+<li>Correspondence with Graaf Hanno Zichy dated 1972</li>
+<li>Photos of 'Perseus and Andromeda'</li>
+<li>Correspondence with Gert Jagoda (dated 1971), with Madlyn Kahr (dated 1971), with Eduard Schmidt (dated 1971), with Thomas L. Roser (dated 1971)</li>
+<li>Photo of 'Susanna and the Elders'</li>
+<li>Article (photocopy): 'Rubens für nur 90 000 DM' dated 18.08.1971</li>
+<li>Article: 'Rubens in Stuttgart. Pointe der Nagel-Auktion' in &quot;Frankfurter Allgemeine Zeitung&quot; dated 12.03.1971</li>
+<li>Article (photocopy): 'Rubens-Bild weit unter Schätzpreis' in &quot;Aalener Volkszeitung&quot; dated 19.03.1971</li>
+<li>Small envelope addressed to &quot;Herrn Professor Dr. Hans Gerhard Evers [...] 61/Darmstadt Hochschulstr. 1&quot;, with correspondence with Maria Walz dated 1971 and photo of 'Daniel in the Lions' Den'</li>
+<li>Envelope addressed to &quot;Herrn Prof. Dr. Hans Gerhard Evers Waldstrasse 6101 Traisa&quot; and dated 24.05.1976, with correspondence with Yvonne Holzapfel dated 1976</li>
+<li>Postcards from Amsterdam and Dunkerque</li>
+<li>Correspondence with Klaus Gottlob dated 1970, with Karl G. Schmidt dated 1973</li>
+<li>Correspondence with Armin A. Pertsch dated 1973</li>
+<li>Envelope with photos of the 'Holy Family and Saint John'</li>
+<li>Notes about the 'Holy Family and Saint John' dated 1974</li>
+<li>Photocopies about the 'Holy Family and Saint John' from different publications</li>
+<li>Small envelope with correspondence with Cox dated 1973, a negative of a 'Madonna with Child' and a text about Roche Old Court (Winterslow Wilts)</li>
+<li>Notes about a 'Madonna with Child'</li>
+<li>Business card of Daniel Strauβ</li>
+<li>Photo of the 'Madonna with Child'</li>
+<li>Subfolder (Annotation: &quot;Philipp Fehl Rubens's Feast of Venus Verticordia&quot; The Burlington Magazine Ig. 114, March 1972&quot;):
+<ul>
+<li>Essay (photocopy): 'Rubens's 'Feast of Venus Verticordia'' by Philipp Fehl, in &quot;The Burlington Magazine&quot;, March 1972</li>
+<li>Notes about Philostratos dated 1973</li>
+</ul>
+</li>
+<li>IBM card with notes</li>
+<li>Correspondence with Franz Huber (dated 1969), with Gisela Vogel (dated 1969)</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000203,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4081,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4081/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6fa9deb4-a0fa-5f0d-b395-5b157dc19421"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a2c419a3-db5d-4397-91a3-541a11b28717"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 160,repository numbers,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 6,titles proper,Dutch (language),,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4bdeef12-745e-51ab-ac0f-7190aab45d2f,tg:rubdoc:4081,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

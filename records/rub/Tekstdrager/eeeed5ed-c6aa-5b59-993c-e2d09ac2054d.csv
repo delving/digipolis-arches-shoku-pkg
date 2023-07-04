@@ -1,29 +1,37 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3998,https://data.rubenianum.be//ark:/86530/eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,Documentatiemappen,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c5e37652-d9b7-4b62-96bd-95d93c5faaec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36a4c102-00de-45f9-8832-d422cc960f3c"", ""inverseOntologyProperty"": """"}]"
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens, Schäfer - und - Schäferinnen (ehemals Dulwich)"" addressed to ""Herrn Prof. Dr. Hans-Gerhard Evers Waldstrasse 43 D - 6101 Traisa bei Darmstadt"" and dated 15.06.1971
-
-- First subfolder (Annotation: ""Rubens"") addressed to ""Herrn Professor Dr. H. G. Evers Technische Hochschule Darmstadt Institut für Kunstgeschichte"" and dated 21.03.1961:
-    - Correspondence with the Museum of Koblenz dated 1961
-    - Photocopy of a reproduction of 'Sheperds'
-- Correspondence with Kurt Meissner dated 1971
-- Notes about the painting 'Shepherd and Shepherdess' in Zurich (dated 1971)
-- Draft text of the letter for Meissner
-- Second subfolder (Annotation: ""Justus Müller-Hofstede zwei Hirtenidyllen des späten Rubens Pantheon 24, 1966""):
-    - Essay: 'Zwei Hirtenidyllen des späten Rubens', in ""Pantheon"", n.24, 1966
-- Extracts from different publications  
-  
-Loose documentation reunited with the folder:   
-     
-- Clear envelope with 3 photos of 'Shepherd and Shepherdes'
-- Clear envelope with 2 photos of 'Shepherd and Shepherdes'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000126,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3998,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3998/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c0c1583f-713b-552f-a359-9288d515bb15"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ff9d66f-2012-44b7-8899-fc8068dc8c78"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 083,repository numbers,,,,,,,,,,,,,,
-eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 4,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3998,record identifiers,https://data.rubenianum.be//ark:/86530/eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,object identifier,Documentatiemappen,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""474b7e93-6ef6-4ef6-9a44-a6cff0ce1066"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d9fb7256-5ad7-414b-887f-e67d7b31d730"", ""inverseOntologyProperty"": """"}]"
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens, Schäfer - und - Schäferinnen (ehemals Dulwich)&quot; addressed to &quot;Herrn Prof. Dr. Hans-Gerhard Evers Waldstrasse 43 D - 6101 Traisa bei Darmstadt&quot; and dated 15.06.1971</p>
+<ul>
+<li>First subfolder (Annotation: &quot;Rubens&quot;) addressed to &quot;Herrn Professor Dr. H. G. Evers Technische Hochschule Darmstadt Institut für Kunstgeschichte&quot; and dated 21.03.1961:
+<ul>
+<li>Correspondence with the Museum of Koblenz dated 1961</li>
+<li>Photocopy of a reproduction of 'Sheperds'</li>
+</ul>
+</li>
+<li>Correspondence with Kurt Meissner dated 1971</li>
+<li>Notes about the painting 'Shepherd and Shepherdess' in Zurich (dated 1971)</li>
+<li>Draft text of the letter for Meissner</li>
+<li>Second subfolder (Annotation: &quot;Justus Müller-Hofstede zwei Hirtenidyllen des späten Rubens Pantheon 24, 1966&quot;):
+<ul>
+<li>Essay: 'Zwei Hirtenidyllen des späten Rubens', in &quot;Pantheon&quot;, n.24, 1966</li>
+</ul>
+</li>
+<li>Extracts from different publications</li>
+</ul>
+<p>Loose documentation reunited with the folder:</p>
+<ul>
+<li>Clear envelope with 3 photos of 'Shepherd and Shepherdes'</li>
+<li>Clear envelope with 2 photos of 'Shepherd and Shepherdes'</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000126,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3998,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3998/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c0c1583f-713b-552f-a359-9288d515bb15"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f3636a53-e48b-4ba7-818b-d0f6bce5783f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 083,repository numbers,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 4,titles proper,Dutch (language),,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eeeed5ed-c6aa-5b59-993c-e2d09ac2054d,tg:rubdoc:3998,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

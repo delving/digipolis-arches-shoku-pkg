@@ -1,24 +1,25 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:3521_#1,https://data.letterenhuis.be/ark:/24970/88590e8a-7c43-51b0-922d-ac2645caa0aa,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_AcquisitionNumbers,1,,,,199429,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:3521_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/88590e8a-7c43-51b0-922d-ac2645caa0aa,object identifier,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_AcquisitionNumbers,1,,,,199429,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_AnnotationsMaterial,1,,,,,,adm.note,"Geadresseerd:
 
 "" Aan Jan Wouters / ter herinnering aan mijn / echtgenote Nelly Degouy en /
-aan onze oude vriendschap / Désiré Acket","Geadresseerd:
+aan onze oude vriendschap / Désiré Acket""","Geadresseerd:
 
 "" Aan Jan Wouters / ter herinnering aan mijn / echtgenote Nelly Degouy en /
-aan onze oude vriendschap / Désiré Acket",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aan onze oude vriendschap / Désiré Acket""",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Conditions,2,,,,,,note.lhconditie,"<p>matig</p>
 ",,,,,,,,,,,"<p>matig</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,21.4 x 13.7,,,,,,,,,,,,,,,,,"21.4 x 13.7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,214,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,137,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:3521_#1,199429,,D 2645 / I,88590e8a-7c43-51b0-922d-ac2645caa0aa,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,21.4 x 13.7,,,,,,,,,,,,,,,,,"21.4 x 13.7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,214,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,137,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:3521_#1,199429,,D 2645 / I,88590e8a-7c43-51b0-922d-ac2645caa0aa,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechts onder: _NDegouy,</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,phg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wood engraving (process),,,,,,
-88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,phg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wood engraving (process),,,,,,,,,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required,,,,,,,,
+88590e8a-7c43-51b0-922d-ac2645caa0aa,tg:lhpr:3521_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,QfL8NR3gSTar4YOOUWmqZSQM,lhpr,https://dams.antwerpen.be/iiif/QfL8NR3gSTar4YOOUWmqZSQM/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/QfL8NR3gSTar4YOOUWmqZSQM,DAMS Image,lh,Iconografie

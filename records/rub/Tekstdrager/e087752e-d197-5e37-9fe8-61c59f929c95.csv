@@ -1,36 +1,43 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3970,https://data.rubenianum.be//ark:/86530/e087752e-d197-5e37-9fe8-61c59f929c95,Documentatiemappen,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6cb7144a-a0b4-4286-9ccb-e11cf5b559e6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cee188bf-beb9-488a-86ea-bdc9ea69bffb"", ""inverseOntologyProperty"": """"}]"
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Eberjagd – Dresden Zeichnung zur Eberjagd (Berlin KK 593)""
-
-- First subfolder (Annotation: ""Rubens Zeichnung zur Eberjagd Berlin K.K.593"") addressed (inside) to ""Herrn Prof. Dr. Evers Darmstadt Kunstgeschichtliches Institut der T. H. Hochschulstr. 1"" and dated 04.08.1960:
-    - Notes about the drawings of 'The Boar Hunt'
-- Invoices and other documents 
-- Correspondence with Pantheon and E. Ruhmer (dated 1961), with the Kunsthistorisches Institut der Universität des Saarlandes (dated 1961), with Hermann Phleps (dated 1961), with Eberhard Hanfstaengl, with Fedja Anzelewsky (dated 1960), with Lugt (dated 1949), with Santo Bey de Semo (dated 1943), with Hans Latteier (dated 1968), with H. B. Trevor Cox Esq. (dated 1968) and with Bruno Lohse (dated 1968)
-- Bibliographic references
-- Draft text: ""Zu einem Blatt mit Zeichnungen, von Rubens, im Berliner Kupferstichkabinett""
-- Extracts from different publications
-- Second subfolder:
-    - Correspondence with Eberhard Ruhmer dated 1960
-    - Draft text: ""Zu einem Blatt mit Zeichnungen, von Rubens, im Berliner Kupferstichkabinett"" 
-    - Photos of sketches (caryatids, horsemen, horn blower, etc.)
-- Reproductions of the 'Landscape at the Sunset' and 'The Boar Hunt'
-- Article: 'Landschaftsrapport von P. P. Rubens. Unbekannter Brief zum ""Blick auf den Escorial"" ' in ""Die Neue Zeitung"" dated 1950
-- Various notes
-- Photocopies of a 'Madonna and Child'
- 
-  
-Loose documentation in the Rubensdocumentation of the Rubenianum:   
-     
-- 2 photos of Mary with the Child (Rubenianum ""Evers 1993"" stamp on the back)
-- Photo with a sketch of a greek temple and statues",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000104,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3970,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3970/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""801cce78-23ad-577d-ad0d-2790f51095f8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""85f37491-8243-449d-9005-bf0c92f87d42"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 061,repository numbers,,,,,,,,,,,,,,
-e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3970,record identifiers,https://data.rubenianum.be//ark:/86530/e087752e-d197-5e37-9fe8-61c59f929c95,object identifier,Documentatiemappen,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ae8225f-5a54-4f97-9e99-7fed256b30b8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e12c33e5-c0fa-4000-9fc9-fb98ed85fa45"", ""inverseOntologyProperty"": """"}]"
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Eberjagd – Dresden Zeichnung zur Eberjagd (Berlin KK 593)&quot;</p>
+<ul>
+<li>First subfolder (Annotation: &quot;Rubens Zeichnung zur Eberjagd Berlin K.K.593&quot;) addressed (inside) to &quot;Herrn Prof. Dr. Evers Darmstadt Kunstgeschichtliches Institut der T. H. Hochschulstr. 1&quot; and dated 04.08.1960:
+<ul>
+<li>Notes about the drawings of 'The Boar Hunt'</li>
+</ul>
+</li>
+<li>Invoices and other documents</li>
+<li>Correspondence with Pantheon and E. Ruhmer (dated 1961), with the Kunsthistorisches Institut der Universität des Saarlandes (dated 1961), with Hermann Phleps (dated 1961), with Eberhard Hanfstaengl, with Fedja Anzelewsky (dated 1960), with Lugt (dated 1949), with Santo Bey de Semo (dated 1943), with Hans Latteier (dated 1968), with H. B. Trevor Cox Esq. (dated 1968) and with Bruno Lohse (dated 1968)</li>
+<li>Bibliographic references</li>
+<li>Draft text: &quot;Zu einem Blatt mit Zeichnungen, von Rubens, im Berliner Kupferstichkabinett&quot;</li>
+<li>Extracts from different publications</li>
+<li>Second subfolder:
+<ul>
+<li>Correspondence with Eberhard Ruhmer dated 1960</li>
+<li>Draft text: &quot;Zu einem Blatt mit Zeichnungen, von Rubens, im Berliner Kupferstichkabinett&quot;</li>
+<li>Photos of sketches (caryatids, horsemen, horn blower, etc.)</li>
+</ul>
+</li>
+<li>Reproductions of the 'Landscape at the Sunset' and 'The Boar Hunt'</li>
+<li>Article: 'Landschaftsrapport von P. P. Rubens. Unbekannter Brief zum &quot;Blick auf den Escorial&quot; ' in &quot;Die Neue Zeitung&quot; dated 1950</li>
+<li>Various notes</li>
+<li>Photocopies of a 'Madonna and Child'</li>
+</ul>
+<p>Loose documentation in the Rubensdocumentation of the Rubenianum:</p>
+<ul>
+<li>2 photos of Mary with the Child (Rubenianum &quot;Evers 1993&quot; stamp on the back)</li>
+<li>Photo with a sketch of a greek temple and statues</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000104,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3970,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3970/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""801cce78-23ad-577d-ad0d-2790f51095f8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5024e2a2-6dc4-4a5f-a694-f5f484cffca1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 061,repository numbers,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e087752e-d197-5e37-9fe8-61c59f929c95,tg:rubdoc:3970,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,30 +1,32 @@
-ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,AA,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:76,https://data.museumplantinmoretus.be/ark:/11975/dcc9188a-6856-50f7-b147-658bdb097ba6,Foto's,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_ChangeHistoryRelations,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""97af5527-1a77-47f0-958a-39f309e2666b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""765b3d03-43fe-4927-b0da-e3157b6b7a82"", ""inverseOntologyProperty"": """"}]"
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,mpm,mpmph,Foto,e73_CreationActors,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""isCapacity"":false}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,0,id/date.exposure/so,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_Descriptions,,,,,,,,,,,id.desc,,,,,,,,,,,,,"Prints van diverse dragers die (zo goed als allemaal) getrokken zijn door de fotograaf O.V. Geen duidelijke volgorde. Een aantal van de transparenten lijken eerder als scheidingsmateriaal gebruikt te zijn, dan als onderzoeksmateriaal. En allemaal fragmenten van de werken in kwestie. De getrokken werken zijn: 
-1) *Den Bibel. Inhoudende het oude en de nieuwe Testament* (A'pen, H. de Laet, 1560, 79mm textura, MPM)   
-2) Politianus, A., *Epistolae* (A'pen, Th. Martens van Aalst, 1510, 105mm romein, MPM)   
-3) Richardus de Sancto Victore, *In beati Joannis Apocalpysim libri septem* (Leuven, Th. Martens van Aalst, [1513], 105mm romein, MPM)    
-4) tekening  borstbeeld J. Lipsius (PK)    
-5) *Liber primus sacrarum cantionum quinque vocum ...* (A'pen, T. Susato, 1546, MPM)   
-6) specifiek archiefstuk (MPM)    
-7) *missale traiectense* (A'pen, Christophorus Ruremundesis voor Willem Vorstermand en Godfried van der haghen 1527, Nijhoff-Kronenberg 1530, EHC)   
-8) *Chansons a cincq et six parties. Second livre* (Leuven, P. Phalesius & M. Rotaire, 1553, MPM)    
-9) Orlando de Lassus, *La fleur des chansons* (A'pen, P. Phalesius, 1596, MPM)     
-10) *Premier livre des chansons a quatre et cincq parties, composées par Orlando de Lassus, Cyprian de Rore* (Leuven, P. Phalesius, 1570, EHC)    
-11) *Liber secundus sacrarum cantionum* (A'pen, T. Susato, 1546, MPM)    
-12) Burgundia, *Des wereldts proef-steen ...* (1892, MPM)      
-13) *Souter Liedekens* (A'pen, Jan de Laet, 1559)     
-14) *Hortus Musarum* (Leuven, P. Phalesius, 1532?, Muziekconservatorium Brussel)     
-15) Cellarius Joannes, *Opuscula quatuor* (Deventer, Th. de Borne, 1517, Münster Universiteitsbibliotheek     
-16) *Chansons nouvelles van B. Beaulaigne* (Lyon, 1558)     
-17) Valla, Laurent, *De linguae Latinae elegantia libri sex* (Paris, S. Colinaeus, 1535, 110m cursief, MPM)
-",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000065,referentienummer,False,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:76,brocade id,False,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:76/N,brocade url,False,,,,,,,,,,,,,,
-dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_MaterialRecords,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""192f248d-5931-5938-864c-9627fc72eee7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""680167e7-c19c-46d9-b76c-1f127ee58f71"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+ResourceID,brocade.id,museum,dataset,resource_model,card,ire.isaar.uuid,source_ire_type,Creation Actor Role,source_code,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,place_au_code,Creation Place Widget,Start Date,Start Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Transactions
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,AA,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,Museum Plantin-Moretus,tg:mpmph:76,record identifiers,https://data.museumplantinmoretus.be/ark:/11975/dcc9188a-6856-50f7-b147-658bdb097ba6,object identifier,Foto's,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_ChangeHistoryRelations,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""523c09b7-e78c-4f14-88a0-71a0bba7c76f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4caa4474-ee02-4cde-9d2f-d3bcbf1f6c7f"", ""inverseOntologyProperty"": """"}]"
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,2075,In Copyright,
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_CreationTimeSpanSourceNotes,,,,,,,,,,,0,id/date.exposure/so,,,,,,,,19600000,,,,,,,,,,,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1960,circa,,,,,,,,,,,,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_Descriptions,,,,,,,,,,,,id.desc,,,,,,,,,,,,,"<p>Prints van diverse dragers die (zo goed als allemaal) getrokken zijn door de fotograaf O.V. Geen duidelijke volgorde. Een aantal van de transparenten lijken eerder als scheidingsmateriaal gebruikt te zijn, dan als onderzoeksmateriaal. En allemaal fragmenten van de werken in kwestie. De getrokken werken zijn:</p>
+<ol>
+<li><em>Den Bibel. Inhoudende het oude en de nieuwe Testament</em> (A'pen, H. de Laet, 1560, 79mm textura, MPM)</li>
+<li>Politianus, A., <em>Epistolae</em> (A'pen, Th. Martens van Aalst, 1510, 105mm romein, MPM)</li>
+<li>Richardus de Sancto Victore, <em>In beati Joannis Apocalpysim libri septem</em> (Leuven, Th. Martens van Aalst, [1513], 105mm romein, MPM)</li>
+<li>tekening  borstbeeld J. Lipsius (PK)</li>
+<li><em>Liber primus sacrarum cantionum quinque vocum ...</em> (A'pen, T. Susato, 1546, MPM)</li>
+<li>specifiek archiefstuk (MPM)</li>
+<li><em>missale traiectense</em> (A'pen, Christophorus Ruremundesis voor Willem Vorstermand en Godfried van der haghen 1527, Nijhoff-Kronenberg 1530, EHC)</li>
+<li><em>Chansons a cincq et six parties. Second livre</em> (Leuven, P. Phalesius &amp; M. Rotaire, 1553, MPM)</li>
+<li>Orlando de Lassus, <em>La fleur des chansons</em> (A'pen, P. Phalesius, 1596, MPM)</li>
+<li><em>Premier livre des chansons a quatre et cincq parties, composées par Orlando de Lassus, Cyprian de Rore</em> (Leuven, P. Phalesius, 1570, EHC)</li>
+<li><em>Liber secundus sacrarum cantionum</em> (A'pen, T. Susato, 1546, MPM)</li>
+<li>Burgundia, <em>Des wereldts proef-steen ...</em> (1892, MPM)</li>
+<li><em>Souter Liedekens</em> (A'pen, Jan de Laet, 1559)</li>
+<li><em>Hortus Musarum</em> (Leuven, P. Phalesius, 1532?, Muziekconservatorium Brussel)</li>
+<li>Cellarius Joannes, <em>Opuscula quatuor</em> (Deventer, Th. de Borne, 1517, Münster Universiteitsbibliotheek</li>
+<li><em>Chansons nouvelles van B. Beaulaigne</em> (Lyon, 1558)</li>
+<li>Valla, Laurent, <em>De linguae Latinae elegantia libri sex</em> (Paris, S. Colinaeus, 1535, 110m cursief, MPM)</li>
+</ol>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,,0,id.objectNumber,,,,,,,,,,,,,,,,BE-ANN00/ph/000000065,referentienummer,False,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.id,,,,,,,,,,,,,,,,tg:mpmph:76,brocade id,False,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,,,,,e73_LegacyInformation,,,,,,,,,,,1,brocade.url,,,,,,,,,,,,,,,,https://anet.be/record/opacmpmobj/tg:mpmph:76/N,brocade url,False,,,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,,,,e73_MaterialRecords,,,,,,,,,,,1,materialRecords,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""192f248d-5931-5938-864c-9627fc72eee7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""025c006c-40f9-4dcd-bdfc-cf780ac1fed5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
+dcc9188a-6856-50f7-b147-658bdb097ba6,tg:mpmph:76,mpm,mpmph,Foto,e73_Titles,0a7be828-2e65-544a-be43-c17268c049de,av,originators (administrative),au::19884,au::19884:1,au::19884g:1,,"dlod={""suggest"":[""/agents/people/2127588"",""au::19884"",""au::19884:1"",""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""Hendrik Vervliet"",""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa""],""name"":""Hendrik Vervliet"",""ark"":""ark:/83110/x0/22bf5763-1bac-557b-a0b8-16ae53d560fa"",""uri"":""/agents/people/2127588"",""id"":""au::19884:1"",""resourceArk"":""ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/0a7be828-2e65-544a-be43-c17268c049de,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,25 +1,27 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Documented Event Type,Creation Time Span Source Note,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_uuid,match_id,record_id,Documented Event Place Name Widget,Documented Event Place Note,Documented Event Place Note Language,Documented Event Place Note Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:12822,https://data.letterenhuis.be/ark:/24970/aae5bd4a-5d23-504f-9bd1-1eb297af6f56,Affiches,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19730526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19730617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10 kunstenaars van de  
-Nieuwe Beelding  
-Antonio Asis  
-Nino Calos  
-Renato Carnevale  
-Ivan Contreras-Brunet  
-Hugo demarco  
-Armando Durante  
-Horacio Garcia-Rossi  
-Francois Morellet  
-Francisco Sobrino  
-Joel Stein  
-ICC",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,1973-05-26,1973-06-17,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822_#1,e73_DocumentedEventsPlaces_lhps,,place_csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Antwerpen,,au::100141:1,tg:lhps:12822_#1,"dlod={""name"":""Antwerpen (Arrondissement Antwerpen)"",""ark"":""ark:/83110/x0/81ac4db9-1e25-55a3-9b28-97c03f96b4ab"",""uri"":""/subjects/10715087"",""id"":""au::100141"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012363,referentienummer,False,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:12822,brocade id,False,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:12822/N,brocade url,False,,,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8b717a0d-dd77-5e80-899c-9d22a21db83f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""83835932-791e-4d1d-a14b-4ff8a226363b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
-aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_OriginalBrocade,,,au::9404,,,,lhps,,,4db910fe-44ce-59d7-adc5-772150ef4877,kw,,au::9404:1,au::9404g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1006228"",""au::9404"",""au::9404:1"",""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""Internationaal Cultureel Centrum""],""name"":""Internationaal Cultureel Centrum"",""ark"":""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""uri"":""/agents/corporate_entities/1006228"",""id"":""au::9404:1"",""isCapacity"":false}",ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877,agent,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:12822,record identifiers,https://data.letterenhuis.be/ark:/24970/aae5bd4a-5d23-504f-9bd1-1eb297af6f56,object identifier,Affiches,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""18e714a9-9e84-4e1a-8513-7cf87102db75"", ""ontologyProperty"": """", ""resourceXresourceId"": ""61d6251e-61a6-4813-8506-2b3431ff5dc8"", ""inverseOntologyProperty"": """"}]"
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19730526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,19730617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>10 kunstenaars van de<br />
+Nieuwe Beelding<br />
+Antonio Asis<br />
+Nino Calos<br />
+Renato Carnevale<br />
+Ivan Contreras-Brunet<br />
+Hugo demarco<br />
+Armando Durante<br />
+Horacio Garcia-Rossi<br />
+Francois Morellet<br />
+Francisco Sobrino<br />
+Joel Stein<br />
+ICC</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,1973-05-26,1973-06-17,,,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822_#1,e73_DocumentedEventsPlaces_lhps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Antwerpen,,,Antwerpen (Antwerpen),au::100139,5eba8578-9f35-5e2e-a844-9bfdea6f5119,Antwerpen (Arrondissement Antwerpen),au::100141,81ac4db9-1e25-55a3-9b28-97c03f96b4ab,au::100139,5eba8578-9f35-5e2e-a844-9bfdea6f5119,au::100141,au::100141,remarks,Nederlands,"dlod={""name"":""Antwerpen (Arrondissement Antwerpen)"",""ark"":""ark:/83110/x0/81ac4db9-1e25-55a3-9b28-97c03f96b4ab"",""uri"":""/subjects/10715087"",""id"":""au::100141"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012363,referentienummer,False,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:12822,brocade id,False,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:12822/N,brocade url,False,,,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8b717a0d-dd77-5e80-899c-9d22a21db83f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""18fb0512-62c1-4ae7-908d-8f0eab964fc3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,
+aae5bd4a-5d23-504f-9bd1-1eb297af6f56,tg:lhps:12822,e73_Titles,,,au::9404,,,,lhps,lhps,Affiche,4db910fe-44ce-59d7-adc5-772150ef4877,kw,,au::9404:1,au::9404g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/12220352"",""au::9404"",""au::9404:1"",""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""Internationaal Cultureel Centrum"",""ark:/83110/x0/54bb8d88-f37e-5891-a8f2-264db99b6eb7""],""name"":""Internationaal Cultureel Centrum"",""ark"":""ark:/83110/x0/54bb8d88-f37e-5891-a8f2-264db99b6eb7"",""uri"":""/agents/corporate_entities/12220352"",""id"":""au::9404:1"",""resourceArk"":""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877,,,,,,,,,,,,

@@ -38,5 +38,13 @@ mkdir lh/Affiche
 mkdir lh/Affiche_material
 mkdir lh/Foto
 mkdir lh/Foto_material
-mkdir lh/Brief
-mkdir lh/Brief_material
+mkdir lh/Brief_1
+mkdir lh/Brief_material_1
+mkdir lh/Brief_2
+mkdir lh/Brief_material_2
+mkdir lh/Brief_3
+mkdir lh/Brief_material_3
+mkdir lh/Brief_4
+mkdir lh/Brief_material_4
+mkdir lh/Brief_5
+mkdir lh/Brief_material_5

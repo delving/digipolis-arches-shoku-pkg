@@ -1,20 +1,24 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,source_date,Copyright Revision Date,Copyright Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,db,source_place_name,source_au_uuid,match_id,record_id,Creation Place Widget,Creation Place Note,Creation Place Note Language,Creation Place Note Type,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Code,Legacy Information Value,Legacy Information Type, card,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Original Entity Relation,ISAAR Brocade ID,Keeper,Object Number,Object Identifier,Record Type
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhph:53577,https://data.letterenhuis.be/ark:/24970/c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,Foto's
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,source_date,Copyright Revision Date,Copyright Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,db,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Creation Place Widget,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,End Date Note,End Date Note Type,End Date Note Language,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,Legacy Information Code,Legacy Information Value,Legacy Information Type, card,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Relation,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Transactions
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhph:53577,record identifiers,https://data.letterenhuis.be/ark:/24970/c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,object identifier,Foto's,
 c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Reeks van 29 opnames</p>
 ","<p>Reeks van 29 opnames</p>
-",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_Copyrights,,,,,,,1937.0,2052,In Copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_CreationActors,,,au::17799,,,,,,,lhph,lhph,Foto,247e719e-494a-57ff-9807-6ae2f352503b,fo,photographers,au::17799:1,au::17799g:1,,"dlod={""suggest"":[""/agents/people/1904493"",""au::17799"",""au::17799:1"",""ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b"",""Stijn Streuvels""],""name"":""Stijn Streuvels"",""ark"":""ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b"",""uri"":""/agents/people/1904493"",""id"":""au::17799:1"",""isCapacity"":false}",ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_CreationTimeSpanSourceNotes,0,id/date.exposure/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19370000,,,,,,,,,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Film 38  
-- Anneke Demeyere (Minnehandel)  
-- Veldkapel  
-- Gaston Martens met zijn familie  
-- Portretten Isa en Streuvels  
-- Landse kinderen uit Ingooigem  
-- Godelieven (uit Levensbloesem)",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ph/000051684,referentienummer,,False,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhph:53577,brocade id,,False,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhph:53577/N,brocade url,,False,,,,,,,,,,,,
-c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bbfdde01-3740-5e5a-9350-d3f1fa2c6818"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ed886022-0b67-4ddb-bf38-b4cb6a1a6df3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8f813006-905c-4b74-99a0-0cfff640a051"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bd8b71b1-5505-47ff-9eaf-332e11ae44da"", ""inverseOntologyProperty"": """"}]"
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_Copyrights,,,,,,,1937.0,2052,In Copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_CreationTimeSpanSourceNotes,0,id/date.exposure/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19370000,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Film 38</p>
+<ul>
+<li>Anneke Demeyere (Minnehandel)</li>
+<li>Veldkapel</li>
+<li>Gaston Martens met zijn familie</li>
+<li>Portretten Isa en Streuvels</li>
+<li>Landse kinderen uit Ingooigem</li>
+<li>Godelieven (uit Levensbloesem)</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ph/000051684,referentienummer,,False,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhph:53577,brocade id,,False,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhph:53577/N,brocade url,,False,,,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bbfdde01-3740-5e5a-9350-d3f1fa2c6818"", ""ontologyProperty"": """", ""resourceXresourceId"": ""530c7d68-508c-4a07-8540-a60f7f0950f7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,
+c4ac5f8c-6e31-53e1-b246-cc6bc09f0452,tg:lhph:53577,e73_Titles,,,au::17799,,,,,,,lhph,lhph,Foto,247e719e-494a-57ff-9807-6ae2f352503b,fo,photographers,au::17799:1,au::17799g:1,,"dlod={""suggest"":[""/agents/people/1904493"",""au::17799"",""au::17799:1"",""ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b"",""Stijn Streuvels"",""ark:/83110/x0/efb4d463-cba5-5d40-b2f0-a231edcf9eec""],""name"":""Stijn Streuvels"",""ark"":""ark:/83110/x0/efb4d463-cba5-5d40-b2f0-a231edcf9eec"",""uri"":""/agents/people/1904493"",""id"":""au::17799:1"",""resourceArk"":""ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/247e719e-494a-57ff-9807-6ae2f352503b,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

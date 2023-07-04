@@ -1,66 +1,46 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:990,https://data.rubenianum.be//ark:/86530/25c9f0c8-00bd-59b6-8ef0-877db4ed215f,Handschriften,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""15eb7de5-55aa-4498-a949-873e1d21a73a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9db5bd87-5389-4946-9d9e-04c2f6792407"", ""inverseOntologyProperty"": """"}]"
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2 bladen][blad 1, recto] 
-[Joseph Alexander] Raczynski, Landschaftsmalerei [= Die flämische Landschaft vor Rubens. Beiträge zur Entwicklungsgeschichte der flämischen Landschaftsmalerei in der Zeit von Brueghel bis zu Rubens, (Veröffentlichungen zur Kunstgeschichte; 1), Frankfurt: Prestel-Verlag, 1937]; 
-
-Joseph Rosa, Gemälde der k[aiserlich]- k[önigliche Bilder] Gallerie. II. Abth: Niederländische Schulen, 1796; III. Nachtrag zum Kataloge der k. k. Bildergallerie, [Wien: Matthias Andreas Schmidt], 1804 (ohne Autor); 
-
-Albrecht KRAFFT, Verzeichniss [der kais. kön. Gemälde Gallerie im Belvedere zu Wien, Wien: H.F. Müller], 1837 (5 weitere Auflagen bis 1855); 
-
-[René van] Bastelaer, Les estampes de Bruegel, [Bruxelles: Oest], 1908 (not in VAL); 
-
-53.G. A.H. [Arthur H.] CORNETTE, Iconographie van Antwerpen, [Antwerpen: Sikkel], 1933; 
-
-In [Eduard Ritter von] Engerth, Katalog: Gesch. der Slgen [= Kunsthistorische Sammlungen des Allerhöchsten Kaiserhauses Wien. Gemälde. Beschreibendes Verzeichniss. 2. Band : Niederländische Schulen,  Wien: Holzhausen, 1884] (year 1809); 
-
-[F. Jos van den ] v.d. Branden, Gesch. [=Geschiedenis der Antwerpsche schilderschool, Antwerpen: Buschmann, 1883] 182/33, 308; 
-
-A.J.J. Delen, Iconographie van Antwerpen, Brussel [Kryn], 1930; 
-
-Krit. Berichte [= Kritische Berichte zur kunstgeschichtliche Literatur 1], 1927/28, Heft 3, S. 83-86, Burchard zu Tolnais Breugelzeichnungen; 
-
-[blad 1, verso] To be looked up: 
-40.A. Bastelaer-Hulin de Loo: Bruegel: engravings of the seasons; 
-
-38.F.F. Tolnai, Die Zeichnungen Pieter Bruegels: drawings of the seasons; Annuaire des Musées Royaux Bruxelles: I. Tolnai; 
-
-65.C. D. Teniers, Theatrum Pictorum, Le Théâtre des Peintures; 
-
-P.P.76D Tolnai, Jb. N.F. VIII (1934) [= Karl von Tolnai, Studien zu den Gemälden P. Bruegels d.Ä., in: Jahrbuch der Kunsthistorischen Sammlungen in Wien, N.F. VIII (1934), pp. 105-134]; 
-
-38 N 41 [Charles de] Tolnay, Pierre B. [l'ancien, Bruxelles: Nouvelle société d'éditions],1935 p. 84; 
-
-Denucé: Genaue Text; 
-
-Thieme-Becker: Jonghelinck both!; 
-
-Erzherzog Ernst, Blasius Hütter, 5 Juli 1594, in Jb. Regesten; 
-
-Louvre Catalogue, (Musée Napoléon) 1809:not in VAL; 
-
-22 H10 Engerth for 1809; 
-
-[Frits] Lugt, Bruegel & Italien, in: Friedländer Festschrift [= Festschrift für Max J. Friedländer zum 60. Geburtstage, Leipzig: Seemann], 1927 [pp. 111-129]; 
-
-[blad 2, recto] 
-Stundenbücher, Chantilly [=Très Riches Heures du Duc de Berry, Chantilly, Musée Condé Ms 65];
-
-Romdahl, Jahrb. XXV, 85ff. [= Alex L. Romdahl, Pieter Brueghel der Ältere und sein Kunstschaffen, in: Jahrbuch der kunsthistorischen Sammlungen des allerhöchsten Kaiserhauses], XXV [1905, 3], 85 ff [pp. 85-169].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:965440,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:206782,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13267107,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:151741,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:152564,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14745353,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257359,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257385,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:991463,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14747668,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jongelinck, Niclaes",,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ernst van Oostenrijk (aartshertog),,,,,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000990,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:990,record identifiers,https://data.rubenianum.be//ark:/86530/25c9f0c8-00bd-59b6-8ef0-877db4ed215f,object identifier,Handschriften,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5ae112f4-c895-4f3e-a443-fb184122f816"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e1661133-5625-43ba-b0b8-1c9d382309de"", ""inverseOntologyProperty"": """"}]"
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>[2 bladen][blad 1, recto]<br />
+[Joseph Alexander] Raczynski, Landschaftsmalerei [= Die flämische Landschaft vor Rubens. Beiträge zur Entwicklungsgeschichte der flämischen Landschaftsmalerei in der Zeit von Brueghel bis zu Rubens, (Veröffentlichungen zur Kunstgeschichte; 1), Frankfurt: Prestel-Verlag, 1937];</p>
+<p>Joseph Rosa, Gemälde der k[aiserlich]- k[önigliche Bilder] Gallerie. II. Abth: Niederländische Schulen, 1796; III. Nachtrag zum Kataloge der k. k. Bildergallerie, [Wien: Matthias Andreas Schmidt], 1804 (ohne Autor);</p>
+<p>Albrecht KRAFFT, Verzeichniss [der kais. kön. Gemälde Gallerie im Belvedere zu Wien, Wien: H.F. Müller], 1837 (5 weitere Auflagen bis 1855);</p>
+<p>[René van] Bastelaer, Les estampes de Bruegel, [Bruxelles: Oest], 1908 (not in VAL);</p>
+<p>53.G. A.H. [Arthur H.] CORNETTE, Iconographie van Antwerpen, [Antwerpen: Sikkel], 1933;</p>
+<p>In [Eduard Ritter von] Engerth, Katalog: Gesch. der Slgen [= Kunsthistorische Sammlungen des Allerhöchsten Kaiserhauses Wien. Gemälde. Beschreibendes Verzeichniss. 2. Band : Niederländische Schulen,  Wien: Holzhausen, 1884] (year 1809);</p>
+<p>[F. Jos van den ] v.d. Branden, Gesch. [=Geschiedenis der Antwerpsche schilderschool, Antwerpen: Buschmann, 1883] 182/33, 308;</p>
+<p>A.J.J. Delen, Iconographie van Antwerpen, Brussel [Kryn], 1930;</p>
+<p>Krit. Berichte [= Kritische Berichte zur kunstgeschichtliche Literatur 1], 1927/28, Heft 3, S. 83-86, Burchard zu Tolnais Breugelzeichnungen;</p>
+<p>[blad 1, verso] To be looked up:<br />
+40.A. Bastelaer-Hulin de Loo: Bruegel: engravings of the seasons;</p>
+<p>38.F.F. Tolnai, Die Zeichnungen Pieter Bruegels: drawings of the seasons; Annuaire des Musées Royaux Bruxelles: I. Tolnai;</p>
+<p>65.C. D. Teniers, Theatrum Pictorum, Le Théâtre des Peintures;</p>
+<p>P.P.76D Tolnai, Jb. N.F. VIII (1934) [= Karl von Tolnai, Studien zu den Gemälden P. Bruegels d.Ä., in: Jahrbuch der Kunsthistorischen Sammlungen in Wien, N.F. VIII (1934), pp. 105-134];</p>
+<p>38 N 41 [Charles de] Tolnay, Pierre B. [l'ancien, Bruxelles: Nouvelle société d'éditions],1935 p. 84;</p>
+<p>Denucé: Genaue Text;</p>
+<p>Thieme-Becker: Jonghelinck both!;</p>
+<p>Erzherzog Ernst, Blasius Hütter, 5 Juli 1594, in Jb. Regesten;</p>
+<p>Louvre Catalogue, (Musée Napoléon) 1809:not in VAL;</p>
+<p>22 H10 Engerth for 1809;</p>
+<p>[Frits] Lugt, Bruegel &amp; Italien, in: Friedländer Festschrift [= Festschrift für Max J. Friedländer zum 60. Geburtstage, Leipzig: Seemann], 1927 [pp. 111-129];</p>
+<p>[blad 2, recto]<br />
+Stundenbücher, Chantilly [=Très Riches Heures du Duc de Berry, Chantilly, Musée Condé Ms 65];</p>
+<p>Romdahl, Jahrb. XXV, 85ff. [= Alex L. Romdahl, Pieter Brueghel der Ältere und sein Kunstschaffen, in: Jahrbuch der kunsthistorischen Sammlungen des allerhöchsten Kaiserhauses], XXV [1905, 3], 85 ff [pp. 85-169].</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:965440,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:206782,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13267107,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:151741,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:152564,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14745353,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257359,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13257385,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:991463,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_ExternalRelations,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14747668,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jongelinck, Niclaes",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ernst van Oostenrijk (aartshertog),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000000990,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
 25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 <priref>3243</priref>
 <number>AFG_022_023</number>
@@ -257,10 +237,10 @@ Romdahl, Jahrb. XXV, 85ff. [= Alex L. Romdahl, Pieter Brueghel der Ältere und s
 <documentation.title.article/>
 </record>
 
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:990,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:990/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d13765e5-5185-5fe0-9208-5225b9150e55"", ""ontologyProperty"": """", ""resourceXresourceId"": ""32187c05-a770-41cb-81df-497135a4245b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_OriginalBrocade,,,au::18139,,,,,,,,,,,,,,rub,255184a8-df8e-5816-9baa-a373b28a9f77,kw,,au::18139:1,au::18139g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1940873"",""au::18139"",""au::18139:1"",""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""David Teniers de Jonge""],""name"":""David Teniers de Jonge"",""ark"":""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""uri"":""/agents/people/1940873"",""id"":""au::18139:1"",""isCapacity"":false}",ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77,agent,,,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_023,repository numbers,,,,,,,,,,,,,,
-25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_023,titles proper,Dutch (language),,,,,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:990,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:990/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d13765e5-5185-5fe0-9208-5225b9150e55"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36a7a25a-9d55-46ec-8db6-61f54b65b43c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_023,repository numbers,,,,,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_022_023,titles proper,Dutch (language),,,,,,,,,,,,,,
+25c9f0c8-00bd-59b6-8ef0-877db4ed215f,tg:rubgr:990,e73_Titles,,,au::18139,,,,,,,rubgr_tekstdrager,,,,,,,rub,Tekstdrager,255184a8-df8e-5816-9baa-a373b28a9f77,kw,,au::18139:1,au::18139g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1940873"",""au::18139"",""au::18139:1"",""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""David Teniers de Jonge"",""ark:/83110/x0/bcfb5c1b-a823-5bd1-835c-fd47d2ed6b18""],""name"":""David Teniers de Jonge"",""ark"":""ark:/83110/x0/bcfb5c1b-a823-5bd1-835c-fd47d2ed6b18"",""uri"":""/agents/people/1940873"",""id"":""au::18139:1"",""resourceArk"":""ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/255184a8-df8e-5816-9baa-a373b28a9f77,,,,,,,,,,,,,,,,,,,

@@ -1,27 +1,35 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3924,https://data.rubenianum.be//ark:/86530/73cd3a96-3d2b-5171-9d1f-e230a2288f10,Documentatiemappen,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7b9106e1-224c-49f5-8365-093238b27849"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8740f3e-041d-4432-81a7-38d6644ec2db"", ""inverseOntologyProperty"": """"}]"
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Demokrit, Heraklit, Diogenes""
-
-- Notes about artworks in Madrid
-- Photocopies of reproductions of 'Democritus and Heraclitus'
-
-Loose documentation reunited with the folder: 
-   
-- Annotation on the envelope: ""Tomyris, Louvre""    
-    - Notes about Tomyris in the Louvre
-
-- Annotation on the envelope: ""Diogenes Louvre""
-
-    - Notes about Diogenes in the Louvre
-    - Photocopies of a reproduction of the Diogenes",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000065,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3924,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3924/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7aa24a3d-7eda-5a58-8dbe-339febe7436e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0a2f6cd6-6d41-43f4-a3a6-0257a8ce8f53"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 022,repository numbers,,,,,,,,,,,,,,
-73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 22,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3924,record identifiers,https://data.rubenianum.be//ark:/86530/73cd3a96-3d2b-5171-9d1f-e230a2288f10,object identifier,Documentatiemappen,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""69a94fe6-cafd-4837-a7c0-a6e594b5ce08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""959f0cad-04b0-4192-b985-ea78bd383ce8"", ""inverseOntologyProperty"": """"}]"
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Demokrit, Heraklit, Diogenes&quot;</p>
+<ul>
+<li>Notes about artworks in Madrid</li>
+<li>Photocopies of reproductions of 'Democritus and Heraclitus'</li>
+</ul>
+<p>Loose documentation reunited with the folder:</p>
+<ul>
+<li>
+<p>Annotation on the envelope: &quot;Tomyris, Louvre&quot;</p>
+<ul>
+<li>Notes about Tomyris in the Louvre</li>
+</ul>
+</li>
+<li>
+<p>Annotation on the envelope: &quot;Diogenes Louvre&quot;</p>
+<ul>
+<li>Notes about Diogenes in the Louvre</li>
+<li>Photocopies of a reproduction of the Diogenes</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000065,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3924,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3924/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7aa24a3d-7eda-5a58-8dbe-339febe7436e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""86ba3a4c-bafc-46fd-9b57-92d4a0ea0f2e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 022,repository numbers,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 22,titles proper,Dutch (language),,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73cd3a96-3d2b-5171-9d1f-e230a2288f10,tg:rubdoc:3924,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

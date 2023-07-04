@@ -1,33 +1,36 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3972,https://data.rubenianum.be//ark:/86530/712315fa-957f-5957-bba9-872100041f32,Documentatiemappen,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""50657128-87fe-4c1f-a0d0-cd46f1c7ff32"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a0a5f628-70d8-46f2-831f-509072de42f7"", ""inverseOntologyProperty"": """"}]"
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Mantua - Abresch Zu den Selbst-bildnissen von Rubens""
-
-- Subfolder (Annotation: ""Rubens zu den Selbstbildnissen""):
-    - Extracts from different publications about Rubens' self-portraits
-- Reproductions of Rubens' self-portraits and 'Rubens, Helene Fourment and their son Frans in the Garden'
-- Extracts from different publications
-- Bibliographic references
-- Transcriptions of letters written by Burchard to Mr. Abresch
-- Essay: 'Zu den Selbstbildnissen und Bildnissen von Rubens' by Evers, in ""Jahrbuch der preussischen Kunstsammlungen"", 1943
- 
-  
-Loose documentation reunited with the folder:   
-     
-- Photo of Rubens' portrait  
-  
-Loose documentation in the Rubensdocumentation of the Rubenianum:  
-        
-- Photo of a Rubens self-portrait engraving (Rubenianum ""Evers 1993"" stamp on the back)
-- Photo of the detail of Helene's dress 
-",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000105,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3972,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3972/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d0c0b49d-8776-55dc-a824-dd536584638d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ffc7633f-e635-4543-8abe-2ae043eafddf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 062,repository numbers,,,,,,,,,,,,,,
-712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 10,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:3972,record identifiers,https://data.rubenianum.be//ark:/86530/712315fa-957f-5957-bba9-872100041f32,object identifier,Documentatiemappen,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1752d63b-5167-4717-8cc7-3fcab50faf18"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b84bfda5-095f-4c56-bd7f-7a07dbfe2439"", ""inverseOntologyProperty"": """"}]"
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Mantua - Abresch Zu den Selbst-bildnissen von Rubens&quot;</p>
+<ul>
+<li>Subfolder (Annotation: &quot;Rubens zu den Selbstbildnissen&quot;):
+<ul>
+<li>Extracts from different publications about Rubens' self-portraits</li>
+</ul>
+</li>
+<li>Reproductions of Rubens' self-portraits and 'Rubens, Helene Fourment and their son Frans in the Garden'</li>
+<li>Extracts from different publications</li>
+<li>Bibliographic references</li>
+<li>Transcriptions of letters written by Burchard to Mr. Abresch</li>
+<li>Essay: 'Zu den Selbstbildnissen und Bildnissen von Rubens' by Evers, in &quot;Jahrbuch der preussischen Kunstsammlungen&quot;, 1943</li>
+</ul>
+<p>Loose documentation reunited with the folder:</p>
+<ul>
+<li>Photo of Rubens' portrait</li>
+</ul>
+<p>Loose documentation in the Rubensdocumentation of the Rubenianum:</p>
+<ul>
+<li>Photo of a Rubens self-portrait engraving (Rubenianum &quot;Evers 1993&quot; stamp on the back)</li>
+<li>Photo of the detail of Helene's dress</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000105,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:3972,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:3972/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d0c0b49d-8776-55dc-a824-dd536584638d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c14890bf-ced9-4a5a-9b0a-aeda881f18d5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 062,repository numbers,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 10,titles proper,Dutch (language),,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712315fa-957f-5957-bba9-872100041f32,tg:rubdoc:3972,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

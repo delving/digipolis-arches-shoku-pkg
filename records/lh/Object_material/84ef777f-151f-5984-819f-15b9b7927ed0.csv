@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:1007_#1,https://data.letterenhuis.be/ark:/24970/84ef777f-151f-5984-819f-15b9b7927ed0,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_AcquisitionNumbers,1,,,,62047,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:1007_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/84ef777f-151f-5984-819f-15b9b7927ed0,object identifier,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_AcquisitionNumbers,1,,,,62047,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Conditions,2,,,,,,note.lhconditie,"<ul>
 <li>
 <p>opp.vuil</p>
@@ -19,14 +19,14 @@ ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acqui
 </li>
 </ul>
 <p>(07/09/2001)</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 25  b 17 d 16,,,,,,,,,,,,,,,"h 25  b 17 d 16 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,250,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,170,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,160,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:1007_#1,K2 B 46 F,84ef777f-151f-5984-819f-15b9b7927ed0,,62047,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 25  b 17 d 16,,,,,,,,,,,,,,,"h 25  b 17 d 16 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,250,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,170,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,160,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:1007_#1,K2 B 46 F,84ef777f-151f-5984-819f-15b9b7927ed0,,62047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Onderaan: _Jan Anteunis _</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,kenmerken/lhtechbasissc.lhkleur,white (color),,,,,,,,,,,,,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gdm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,death masks,,
-84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,kenmerken/lhtechbasissc.lhkleur,white (color),,,,,,,,,,,,,,,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gdm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,death masks,,,,,,,,,,
+84ef777f-151f-5984-819f-15b9b7927ed0,tg:lhsc:1007_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957.0,permission required,,,,,,,,

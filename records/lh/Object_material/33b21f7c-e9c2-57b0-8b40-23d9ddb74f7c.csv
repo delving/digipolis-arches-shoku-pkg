@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:749_#1,https://data.letterenhuis.be/ark:/24970/33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_AcquisitionNumbers,1,,,,170556,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:749_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,object identifier,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_AcquisitionNumbers,1,,,,170556,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Conditions,3,,,,,,note.lhconditie,"<ul>
 <li>
 <p>opp.vuil</p>
@@ -25,18 +25,19 @@ ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acqui
 </li>
 </ul>
 <p>(11/09/2001)</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatvoetsc,"h 63,5 b 42,5 d 4,5",,,,,,,,,,,,,,,"h 63,5 b 42,5 d 4,5 - height, width, depth, kenmerken/lhformatsc.lhformatvoetsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 61 b 40 d ,,,,,,,,,,,,,,,"h 61 b 40 d  - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,635,hoogte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,425,breedte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,45,diepte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:749_#1,K2 B 17 C,33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,,170556,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatvoetsc,"h 63,5 b 42,5 d 4,5",,,,,,,,,,,,,,,"h 63,5 b 42,5 d 4,5 - height, width, depth, kenmerken/lhformatsc.lhformatvoetsc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,h 61 b 40 d ,,,,,,,,,,,,,,,"h 61 b 40 d  - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,635,hoogte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,425,breedte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatvoetsc,,,,,,,,,,,,,45,diepte van voetstuk,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:749_#1,K2 B 17 C,33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,,170556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_Marks,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Rechtsonder: <em>MACKEN M</em></p>
 <p>Onder: <em>HUIB.SERNEELS</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,green (color),,,,,,,,,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,
-33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,green (color),,,,,,,,,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,,,,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required,,,,,,,,
+33b21f7c-e9c2-57b0-8b40-23d9ddb74f7c,tg:lhsc:749_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SnTLNiCUWNCPTFF9OEnOgM2H,lhsc,https://dams.antwerpen.be/iiif/SnTLNiCUWNCPTFF9OEnOgM2H/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/SnTLNiCUWNCPTFF9OEnOgM2H,DAMS Image,lh,Object

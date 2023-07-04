@@ -1,19 +1,22 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1070,https://data.rubenianum.be//ark:/86530/9e905344-79ae-5653-947e-3051c7f3c13f,Handschriften,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1d9470cf-a3b2-4b2c-85da-3d98c6d3afba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7f8ce3a5-674a-4cf3-a173-9b33ecdc409b"", ""inverseOntologyProperty"": """"}]"
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Documents on the Months: 
-1) Jonghelinck: 12 Bruegel
-2) City of Antwerp buying 6 pictures, no name
-3) Ernst: Hütter's casch book: 6, no name
-4) Ernst: Inventory: 6 Bruegel
-5) Leop. Wilh.: 5 Bruegel
-6) Brussels 1659: 6, no name
-7) Brussels before 1692: 6 Bruegel
-? [sic] 8) Brussels 1731/32: 6, no name
-ex. [Marcel de] Maeyer [=Albrecht en Isabella en de schilderkunst : bijdrage tot de geschiedenis van de XVIIe-eeuwse schilderkunst in de Zuidelijke Nederlanden, Brussel: Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België, 1955].",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13260515,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001070,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1070,record identifiers,https://data.rubenianum.be//ark:/86530/9e905344-79ae-5653-947e-3051c7f3c13f,object identifier,Handschriften,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""71917599-fc61-490c-bf5b-ac5f241af2f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54bb1f62-61d2-4d9a-b95d-fab6ac9ceed3"", ""inverseOntologyProperty"": """"}]"
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Documents on the Months:</p>
+<ol>
+<li>Jonghelinck: 12 Bruegel</li>
+<li>City of Antwerp buying 6 pictures, no name</li>
+<li>Ernst: Hütter's casch book: 6, no name</li>
+<li>Ernst: Inventory: 6 Bruegel</li>
+<li>Leop. Wilh.: 5 Bruegel</li>
+<li>Brussels 1659: 6, no name</li>
+<li>Brussels before 1692: 6 Bruegel<br />
+? [sic] 8) Brussels 1731/32: 6, no name<br />
+ex. [Marcel de] Maeyer [=Albrecht en Isabella en de schilderkunst : bijdrage tot de geschiedenis van de XVIIe-eeuwse schilderkunst in de Zuidelijke Nederlanden, Brussel: Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België, 1955].</li>
+</ol>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:13260515,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001070,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
 9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 			<priref>3324</priref>
 			<number>AFG_023_018</number>
@@ -55,9 +58,9 @@ ex. [Marcel de] Maeyer [=Albrecht en Isabella en de schilderkunst : bijdrage tot
 			<documentation.title.article/>
 		</record>
 		
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1070,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1070/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8c4c5ea1-4406-577c-b3e3-b2847789113a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ae1c11a9-d55b-481d-a4bf-099e869c43d2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_018,repository numbers,,,,,,,,,,,,,,
-9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_018,titles proper,Dutch (language),,,,,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1070,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1070/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8c4c5ea1-4406-577c-b3e3-b2847789113a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c497d646-5c16-46a1-8781-9313504f6cb9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_018,repository numbers,,,,,,,,,,,,,,,,,
+9e905344-79ae-5653-947e-3051c7f3c13f,tg:rubgr:1070,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_018,titles proper,Dutch (language),,,,,,,,,,,,,,

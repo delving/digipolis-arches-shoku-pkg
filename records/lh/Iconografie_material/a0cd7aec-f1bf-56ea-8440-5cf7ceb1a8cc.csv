@@ -1,31 +1,31 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:8165_#2,https://data.letterenhuis.be/ark:/24970/a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_AcquisitionNumbers,2,,,,43546/4,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Acquisitions,2,tr:lh:2212,"dlod={""name"":""Oningeschreven gevonden in 1951"",""ark"":""ark:/24970/x0/9e40034b-2e40-58a0-a966-1e4e8d5a3db4"",""uri"":""/repositories/11/accessions/236687"",""id"":""tr:lh:2212"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/9e40034b-2e40-58a0-a966-1e4e8d5a3db4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:8165_#2,record identifiers,https://data.letterenhuis.be/ark:/24970/a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,object identifier,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_AcquisitionNumbers,2,,,,43546/4,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Acquisitions,2,tr:lh:2212,"dlod={""name"":""Oningeschreven gevonden in 1951"",""ark"":""ark:/24970/x0/9e40034b-2e40-58a0-a966-1e4e8d5a3db4"",""uri"":""/repositories/11/accessions/236687"",""id"":""tr:lh:2212"",""date"":""1951-01-18"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/9e40034b-2e40-58a0-a966-1e4e8d5a3db4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Conditions,2,,,,,,note.lhconditie,"<p>16/10/2007: Matig, schimmel droog verwijderd, licht vergeeld, enkele pigmentvlekken.</p>
 ",,,,,,,,,,,"<p>16/10/2007: Matig, schimmel droog verwijderd, licht vergeeld, enkele pigmentvlekken.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Conditions,5,,,,,,note.lhconditie,"<p>Bruine vochtvlekjes op het karton.</p>
 ",,,,,,,,,,,"<p>Bruine vochtvlekjes op het karton.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,24 x 18,,,,,,,,,,,,,,,,,"24 x 18 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,30 x 23,,,,,,,,,,,,,,,,,"30 x 23 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,240,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,180,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,300,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,230,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,tr:lh:2212,tg:lhpr:8165_#2,43546/4,,"Planex GT / VI,5",a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,24 x 18,,,,,,,,,,,,,,,,,"24 x 18 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,30 x 23,,,,,,,,,,,,,,,,,"30 x 23 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,240,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,180,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,300,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,230,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,tr:lh:2212,tg:lhpr:8165_#2,43546/4,,"Planex GT / VI,5",a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Onderaan van links naar rechts: <em>J.P. Vander Veken _ + onleesbare tekst en<br />
 handtekening:</em> Peter Benoit</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Marks,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Bij tweede exemplaar inschr.nr : 43546/4 staat links vooraan :<br />
 _GP.Vander Veken. aquaf. 1884.</p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_Marks,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Bij tweede exemplaar inschr.nr : 43546/4 staat onderaan :<br />
 <em>Peter Benoit</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,
-a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1890.0,open
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,,,,,,,,,,,
+a0cd7aec-f1bf-56ea-8440-5cf7ceb1a8cc,tg:lhpr:8165_#2,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1890.0,open,,,,,,,,

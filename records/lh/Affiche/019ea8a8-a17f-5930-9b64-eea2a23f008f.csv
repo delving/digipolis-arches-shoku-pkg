@@ -1,23 +1,24 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Documented Event Type,Creation Time Span Source Note,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_uuid,match_id,record_id,Documented Event Place Name Widget,Documented Event Place Note,Documented Event Place Note Language,Documented Event Place Note Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:21015,https://data.letterenhuis.be/ark:/24970/019ea8a8-a17f-5930-9b64-eea2a23f008f,Affiches,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00001004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00001031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Heemkundige kring Hobuechen 1135  
-Ontstaan uit  
-Viering 850 jaar Hoboken  
-met tenotoonstelling over  
-Hobo spelen 85...een wereldgebeuren  
-Akademische zitting  
-Nieuwe Generatie  
-Sport en dans  
-Hobokense roots  
-Stad Antwerpen  
-District Hoboken",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,uuuu-10-04,uuuu-10-31,circa,circa,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015_#1,e73_DocumentedEventsPlaces_lhps,,place_csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Antwerpen,,au::100141:1,tg:lhps:21015_#1,"dlod={""name"":""Antwerpen (Arrondissement Antwerpen)"",""ark"":""ark:/83110/x0/81ac4db9-1e25-55a3-9b28-97c03f96b4ab"",""uri"":""/subjects/10715087"",""id"":""au::100141"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000020385,referentienummer,False,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:21015,brocade id,False,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:21015/N,brocade url,False,,,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7f2a450-3e72-5b2c-88bd-b9aa39f4b1bc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7248e6cf-507b-42c5-a295-4c39bda4cf4b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,
-019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_OriginalBrocade,,,au::100150,,,,lhps,,,e5b6f87a-48a8-53a6-bcbe-e3cfad7e0475,kw,,au::100150:1,au::100150g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Hoboken (Antwerpen)"",""ark"":""ark:/83110/x0/e5b6f87a-48a8-53a6-bcbe-e3cfad7e0475"",""uri"":""/subjects/10716050"",""id"":""au::100150"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/e5b6f87a-48a8-53a6-bcbe-e3cfad7e0475,place,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,Event Start Date,Event End Date,Event Start Date Type,Event End Date Type,Event Start Date Note,Event Start Date Note Type,Event Start Date Note Language,Event End Date Note,Event End Date Note Type,Event End Date Note Language,Creation Time Span Source Note,Documented Event Type,Description,Description Type,Description Language,db,Documented Event Place Order,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Documented Event Place Name Widget,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:21015,record identifiers,https://data.letterenhuis.be/ark:/24970/019ea8a8-a17f-5930-9b64-eea2a23f008f,object identifier,Affiches,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6a4093f2-4b9c-4b7a-8677-00803a10c8b6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""16b2797e-bb82-4005-984b-5bb69f2d2987"", ""inverseOntologyProperty"": """"}]"
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00001004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,00001031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Heemkundige kring Hobuechen 1135<br />
+Ontstaan uit<br />
+Viering 850 jaar Hoboken<br />
+met tenotoonstelling over<br />
+Hobo spelen 85...een wereldgebeuren<br />
+Akademische zitting<br />
+Nieuwe Generatie<br />
+Sport en dans<br />
+Hobokense roots<br />
+Stad Antwerpen<br />
+District Hoboken</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_DocumentedEvents,,,,,,,,,,,,,,,,,,,uuuu-10-04,uuuu-10-31,circa,circa,,,,,,,,related events (relationship indicator),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015_#1,e73_DocumentedEventsPlaces_lhps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lhps,1.0,Antwerpen,,,Antwerpen (Antwerpen),au::100139,5eba8578-9f35-5e2e-a844-9bfdea6f5119,Antwerpen (Arrondissement Antwerpen),au::100141,81ac4db9-1e25-55a3-9b28-97c03f96b4ab,au::100139,5eba8578-9f35-5e2e-a844-9bfdea6f5119,au::100141,au::100141,remarks,Nederlands,"dlod={""name"":""Antwerpen (Arrondissement Antwerpen)"",""ark"":""ark:/83110/x0/81ac4db9-1e25-55a3-9b28-97c03f96b4ab"",""uri"":""/subjects/10715087"",""id"":""au::100141"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",,,,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000020385,referentienummer,False,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:21015,brocade id,False,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:21015/N,brocade url,False,,,,,,,,,,,,,,,,,
+019ea8a8-a17f-5930-9b64-eea2a23f008f,tg:lhps:21015,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7f2a450-3e72-5b2c-88bd-b9aa39f4b1bc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4cbcb49e-7175-41d8-97a6-987747fd44bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,

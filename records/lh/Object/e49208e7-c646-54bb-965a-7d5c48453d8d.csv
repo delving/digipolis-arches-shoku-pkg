@@ -1,0 +1,30 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,au_code,g_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,matched on,db,source_place_name,source_au_id,source_au_uuid,au_dump_name,au_dump_id,au_dump_uuid,old_cleanup_name,old_cleanup_id,old_cleanup_uuid,merged_id,merged_uuid,fixed_id,match_id,place_type,place_language,Creation Place Widget,Start Date,Start Date Type,End Date,End Date Type,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,Legacy Information Code, card,source_date,Copyright Revision Date,Copyright Type,Transactions
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhob:792,record identifiers,https://data.letterenhuis.be/ark:/24970/e49208e7-c646-54bb-965a-7d5c48453d8d,object identifier,Voorwerpen,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""47d6ee77-8748-4f39-880b-caffa933e29d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4aa8aa0a-770d-42c1-a169-b8377461bf6f"", ""inverseOntologyProperty"": """"}]"
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988.0,2103,In Copyright,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19880000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20010000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988,,2uu1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Berkhofs eerste laptop die hij meenam naar het buitenland. Hierop schreef hij de romans:</p>
+<ul>
+<li>Mandra Gorres</li>
+<li>Donnadieu</li>
+<li>Octopus Dei</li>
+<li>Happy Town</li>
+<li>Met Gods geweld</li>
+<li>Hoog spel</li>
+<li>Beminde schurken</li>
+<li>De winter komt</li>
+<li>Verborgen schade</li>
+</ul>
+<p>De novellen in:</p>
+<ul>
+<li>Over liefde gesproken</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ob/000000672,referentienummer,False,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhob:792,brocade id,False,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhob:792/N,brocade url,False,,,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""20fe5dd2-10e9-5995-ac90-d5701d5b19ca"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c922c553-c76f-4f51-bee1-33f8a067f06d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compaq laptop,titles proper,Dutch (language),,,,,,,,,,,,
+e49208e7-c646-54bb-965a-7d5c48453d8d,tg:lhob:792,e73_Titles,,,au::1655,,,,lh,lhob,Object,5588d6e5-0e47-5ce2-b76d-68e0f6bf2b6c,vb,,au::1655:1,au::1655g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/177085"",""au::1655"",""au::1655:1"",""ark:/83110/x0/5588d6e5-0e47-5ce2-b76d-68e0f6bf2b6c"",""Aster Berkhof"",""ark:/83110/x0/b5fd533f-77bd-5ea0-b75a-d30fd2b244b1""],""name"":""Aster Berkhof"",""ark"":""ark:/83110/x0/b5fd533f-77bd-5ea0-b75a-d30fd2b244b1"",""uri"":""/agents/people/177085"",""id"":""au::1655:1"",""resourceArk"":""ark:/83110/x0/5588d6e5-0e47-5ce2-b76d-68e0f6bf2b6c"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/5588d6e5-0e47-5ce2-b76d-68e0f6bf2b6c,,,,,,,,,,,,,,,

@@ -1,11 +1,11 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:1063_#1,https://data.letterenhuis.be/ark:/24970/86bbe803-b393-5da1-9acc-36d370b272d6,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_AcquisitionNumbers,1,,,,136724,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:1063_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/86bbe803-b393-5da1-9acc-36d370b272d6,object identifier,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_AcquisitionNumbers,1,,,,136724,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_AnnotationsMaterial,1,,,,,,adm.note,"De datering is afkomstig van het bijschrift bij een foto van Lode Vleeshouwers, die aan de kop van Gijsen werkt.
 
 Vanaf 2 mei 2022 op de kast in de leeszaal.","De datering is afkomstig van het bijschrift bij een foto van Lode Vleeshouwers, die aan de kop van Gijsen werkt.
 
-Vanaf 2 mei 2022 op de kast in de leeszaal.",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vanaf 2 mei 2022 op de kast in de leeszaal.",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Conditions,2,,,,,,note.lhconditie,"<ul>
 <li>
 <p>opp.vuil</p>
@@ -28,17 +28,18 @@ Vanaf 2 mei 2022 op de kast in de leeszaal.",Nederlands,remarks,,,,,,,,,,,,,,,,,
 <p>boven op hoofd sticker</p>
 </li>
 </ul>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 35,5 b 21 d 23",,,,,,,,,,,,,,,"h 35,5 b 21 d 23 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,355,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,210,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,230,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:1063_#1,K2 B 52 A,86bbe803-b393-5da1-9acc-36d370b272d6,,136724,,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 35,5 b 21 d 23",,,,,,,,,,,,,,,"h 35,5 b 21 d 23 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,355,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,210,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,230,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:1063_#1,K2 B 52 A,86bbe803-b393-5da1-9acc-36d370b272d6,,136724,,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Links achter: <em>BATARDY / CIRE PERDUE / BRUXELLES</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,bronze (metal),kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,brown (color),,,,,,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gkp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,heads (representations),,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ProductionActors,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24051867-3ddb-58b7-b9ad-e9ff61fa38af,au::54809,gt,casters (people),,,,,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,
-86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1933.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,bronze (metal),kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,brown (color),,,,,,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gkp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,heads (representations),,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ProductionActors,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24051867-3ddb-58b7-b9ad-e9ff61fa38af,au::54809,gt,casters (people),,,,,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,,,,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1933.0,permission required,,,,,,,,
+86bbe803-b393-5da1-9acc-36d370b272d6,tg:lhsc:1063_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pdR2VRlEbrWmcbaYeH90JgX4,lhsc,https://dams.antwerpen.be/iiif/pdR2VRlEbrWmcbaYeH90JgX4/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/pdR2VRlEbrWmcbaYeH90JgX4,DAMS Image,lh,Object

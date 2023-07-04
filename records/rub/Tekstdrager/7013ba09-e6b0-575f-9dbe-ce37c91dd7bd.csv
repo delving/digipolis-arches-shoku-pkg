@@ -1,24 +1,25 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1093,https://data.rubenianum.be//ark:/86530/7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,Handschriften,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d67d4018-05c3-4823-99d1-854050a165b4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""45ea955d-2cca-4223-859b-aeb917c00fa1"", ""inverseOntologyProperty"": """"}]"
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3 vouwbladen, 1 los blad]
-[vouwblad 1]:
-Rijksbureau (Photographs received from Stichting Nederlandsch Kunstbezit). Haymaking already used for blocks. Details (used 93?[sic]) 
-I. Hay Wain in to two parts [beschrijving]; 
-II. Mill on Hill with man on horseback below [beschrijving]; 
-III. (used 94?[sic]) Das obere Ende des [onleesbaar] way side shrine: Madonna mit Kind im Holzgehäuse [beschrijving]; 
-IV. (92) Wald am linken Bildrand mit Durchblick auf Wiese beschrijving]; 
-V. Wald einblick beschrijving]; 
-[vouwblad 2]:
- Rijksbureau photographs: 
-Haymaking VI. upper half of the three women walking to left, white impasto [beschrijving]; 
-VII. (not used) Detail of centre Girl's head [beschrijving]; 
-[vouwblad 3]:
-Details Rijksbureau [onleesbaar] Heuernte. 'Reine Lebensfreude. 1) Sensendengler. Links unten Ecke [beschrijving]; 2) 2 Details vom Baum [beschrijving]; 3) Das eindeutig alpenlandische [onleesbaar]; 4) Stadt in der Ferne [...]; 5) Detail des Flusses mit Segelboot und Hügel [...]; 6) Dorfplatz am [onleesbaar] [...]; Ad 6) Wollen sie die berumter fallender [Pferde?] auffangen?[sic]; 7) Die Mohnblumen in der Mitte - alles reine unmittelbar mit den Pinsel auf die Flache geworfen. Rein malerisch; 8) Detail der nach rechts gehender Frau mit Henkelkorb an Arm [...]; 
-[los blad]:
-Details Rijksbureau (Photos A. Vorenkamp 1933) Cornharvest, New York: Yellow 1) Hill on left [beschrijving]; 2) Detail Rechter Bildrand beschrijving]; 3) Detail mit Cock throwing beschrijving]; [verso] 4) Die kleine Stadt am Meer [beschrijving]; 5) Linke untere Eche mit den drei Mähern [...]; 6) Obenes Ende des Vordergrund [...][scan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001093,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1093,record identifiers,https://data.rubenianum.be//ark:/86530/7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,object identifier,Handschriften,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7e37a14-561a-4c50-8c83-39fa761a79d9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""49ac63fd-adda-42a4-b358-0119fe81fa2b"", ""inverseOntologyProperty"": """"}]"
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>[3 vouwbladen, 1 los blad]<br />
+[vouwblad 1]:<br />
+Rijksbureau (Photographs received from Stichting Nederlandsch Kunstbezit). Haymaking already used for blocks. Details (used 93?[sic])<br />
+I. Hay Wain in to two parts [beschrijving];<br />
+II. Mill on Hill with man on horseback below [beschrijving];<br />
+III. (used 94?[sic]) Das obere Ende des [onleesbaar] way side shrine: Madonna mit Kind im Holzgehäuse [beschrijving];<br />
+IV. (92) Wald am linken Bildrand mit Durchblick auf Wiese beschrijving];<br />
+V. Wald einblick beschrijving];<br />
+[vouwblad 2]:<br />
+Rijksbureau photographs:<br />
+Haymaking VI. upper half of the three women walking to left, white impasto [beschrijving];<br />
+VII. (not used) Detail of centre Girl's head [beschrijving];<br />
+[vouwblad 3]:<br />
+Details Rijksbureau [onleesbaar] Heuernte. 'Reine Lebensfreude. 1) Sensendengler. Links unten Ecke [beschrijving]; 2) 2 Details vom Baum [beschrijving]; 3) Das eindeutig alpenlandische [onleesbaar]; 4) Stadt in der Ferne [...]; 5) Detail des Flusses mit Segelboot und Hügel [...]; 6) Dorfplatz am [onleesbaar] [...]; Ad 6) Wollen sie die berumter fallender [Pferde?] auffangen?[sic]; 7) Die Mohnblumen in der Mitte - alles reine unmittelbar mit den Pinsel auf die Flache geworfen. Rein malerisch; 8) Detail der nach rechts gehender Frau mit Henkelkorb an Arm [...];<br />
+[los blad]:<br />
+Details Rijksbureau (Photos A. Vorenkamp 1933) Cornharvest, New York: Yellow 1) Hill on left [beschrijving]; 2) Detail Rechter Bildrand beschrijving]; 3) Detail mit Cock throwing beschrijving]; [verso] 4) Die kleine Stadt am Meer [beschrijving]; 5) Linke untere Eche mit den drei Mähern [...]; 6) Obenes Ende des Vordergrund [...][scan]</p>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001093,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
 7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 			<priref>3347</priref>
 			<number>AFG_023_041</number>
@@ -115,10 +116,10 @@ Details Rijksbureau (Photos A. Vorenkamp 1933) Cornharvest, New York: Yellow 1) 
 			<edit.source>archive</edit.source>
 		</record>
 		
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1093,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1093/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bb59a95f-9b85-5f09-8537-9b854ada98ef"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cc3bd093-fc83-4704-ada8-2b9bd101f182"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_OriginalBrocade,,,au::31138,,,,,,,,,,,,,,rub,fab9c8af-c93f-53b3-aa3f-4cea006fe809,kw,,au::31138:1,au::31138g:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3331766"",""au::31138"",""au::31138:1"",""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]""],""name"":""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]"",""ark"":""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""uri"":""/agents/corporate_entities/3331766"",""id"":""au::31138:1"",""isCapacity"":false}",ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809,agent,,,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_041,repository numbers,,,,,,,,,,,,,,
-7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_041,titles proper,Dutch (language),,,,,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1093,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1093/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bb59a95f-9b85-5f09-8537-9b854ada98ef"", ""ontologyProperty"": """", ""resourceXresourceId"": ""de4bce83-6c43-46c3-83b8-947a1faac008"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_041,repository numbers,,,,,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_041,titles proper,Dutch (language),,,,,,,,,,,,,,
+7013ba09-e6b0-575f-9dbe-ce37c91dd7bd,tg:rubgr:1093,e73_Titles,,,au::31138,,,,,,,rubgr_tekstdrager,,,,,,,rub,Tekstdrager,fab9c8af-c93f-53b3-aa3f-4cea006fe809,kw,,au::31138:1,au::31138g:1,,,,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/3331766"",""au::31138"",""au::31138:1"",""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]"",""ark:/83110/x0/decf9df5-2572-5a59-b8f0-5018b0ae451d""],""name"":""Rijksbureau voor Kunsthistorische Documentatie ['s-Gravenhage (NL)]"",""ark"":""ark:/83110/x0/decf9df5-2572-5a59-b8f0-5018b0ae451d"",""uri"":""/agents/corporate_entities/3331766"",""id"":""au::31138:1"",""resourceArk"":""ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/fab9c8af-c93f-53b3-aa3f-4cea006fe809,,,,,,,,,,,,,,,,,,,

@@ -1,37 +1,48 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4098,https://data.rubenianum.be//ark:/86530/bd841385-076a-5420-a906-1085e3c98798,Documentatiemappen,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""da8a6215-1533-482f-a361-2d40dc799cec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0933f81b-f8e9-4e9f-8935-d1357041d314"", ""inverseOntologyProperty"": """"}]"
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Italien 1600-1608""
-
-- Notes about S. Croce in Gerusalemme dated 1944
-- Bibliographic references
-- Extracts from different publications
-- Photos of part of 'The Gonzaga Family in Adoration of the Holy Trinity'
-- First subfolder (Annotation: ""Mantua""):
-    - Reproductions of 'The Gonzaga Family in Adoration of the Holy Trinity' and 'The transfiguration'
-    - Photos of the Holy Trinity church in Mantua and sketches
-    - Extracts from different publications
-    - Draft text about the Holy Trinity church in Mantua and 'The Gonzaga Family in Adoration of the Holy Trinity'
-    - Correspondence with Nino Giannantonj (Palazzo Ducale di Mantova) (dated 1937), with L. Burchard (dated 1937), with Hofrat (dated 1936)
-- Photos of ""Die Altarbilder von Rubens für Il Gesú in Rom"" by L. Burchard
-- Munich Library loan forms
-- Second subfolder (Annotation: ""Italien Einzelbilder""):
-    - Extracts from different publications
-    - Reproductions of engravings of 'Saint George and the Dragon' and 'The Circumcision'
-    - Brochure about Lodovico Caracci by H. Bodmer
-- Third subfolder (Annotation: ""Kopien Italien 1600-1608""):
-    - Reproduction of 'Isabella d'Este'
-    - Extracts from different publications
-    - Bibliographic references
-    - Draft text about Rubens in Italy
-- Exams of the seminary about the 'Disputa of the Holy Sacrament'",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000218,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4098,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4098/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73b67e55-6e64-50bc-aebe-1cd699a487fb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d7efa519-9416-4f39-9e55-3fddacd867c9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 175,repository numbers,,,,,,,,,,,,,,
-bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4098,record identifiers,https://data.rubenianum.be//ark:/86530/bd841385-076a-5420-a906-1085e3c98798,object identifier,Documentatiemappen,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""baa121f1-d9d2-4a7c-b6b4-6c3001d2e365"", ""ontologyProperty"": """", ""resourceXresourceId"": ""84202e82-4fd4-42fe-aa5f-6cbf814e3704"", ""inverseOntologyProperty"": """"}]"
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Italien 1600-1608&quot;</p>
+<ul>
+<li>Notes about S. Croce in Gerusalemme dated 1944</li>
+<li>Bibliographic references</li>
+<li>Extracts from different publications</li>
+<li>Photos of part of 'The Gonzaga Family in Adoration of the Holy Trinity'</li>
+<li>First subfolder (Annotation: &quot;Mantua&quot;):
+<ul>
+<li>Reproductions of 'The Gonzaga Family in Adoration of the Holy Trinity' and 'The transfiguration'</li>
+<li>Photos of the Holy Trinity church in Mantua and sketches</li>
+<li>Extracts from different publications</li>
+<li>Draft text about the Holy Trinity church in Mantua and 'The Gonzaga Family in Adoration of the Holy Trinity'</li>
+<li>Correspondence with Nino Giannantonj (Palazzo Ducale di Mantova) (dated 1937), with L. Burchard (dated 1937), with Hofrat (dated 1936)</li>
+</ul>
+</li>
+<li>Photos of &quot;Die Altarbilder von Rubens für Il Gesú in Rom&quot; by L. Burchard</li>
+<li>Munich Library loan forms</li>
+<li>Second subfolder (Annotation: &quot;Italien Einzelbilder&quot;):
+<ul>
+<li>Extracts from different publications</li>
+<li>Reproductions of engravings of 'Saint George and the Dragon' and 'The Circumcision'</li>
+<li>Brochure about Lodovico Caracci by H. Bodmer</li>
+</ul>
+</li>
+<li>Third subfolder (Annotation: &quot;Kopien Italien 1600-1608&quot;):
+<ul>
+<li>Reproduction of 'Isabella d'Este'</li>
+<li>Extracts from different publications</li>
+<li>Bibliographic references</li>
+<li>Draft text about Rubens in Italy</li>
+</ul>
+</li>
+<li>Exams of the seminary about the 'Disputa of the Holy Sacrament'</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000218,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4098,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4098/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73b67e55-6e64-50bc-aebe-1cd699a487fb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0fd7997a-ad47-4f7e-9b6b-5e3f7e52896a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 175,repository numbers,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 9,titles proper,Dutch (language),,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bd841385-076a-5420-a906-1085e3c98798,tg:rubdoc:4098,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

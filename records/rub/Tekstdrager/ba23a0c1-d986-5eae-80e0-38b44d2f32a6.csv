@@ -1,41 +1,43 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4128,https://data.rubenianum.be//ark:/86530/ba23a0c1-d986-5eae-80e0-38b44d2f32a6,Documentatiemappen,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""78131a2a-fe06-44c3-8527-67a7d58cbfcd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e8a6012b-39b7-4c7f-93a2-8cc779a88db7"", ""inverseOntologyProperty"": """"}]"
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Fremde Zeitungsaufsätze zu Rubens""
-
-- Advert about Evers' conferences in Brussels (15/19/26.02.1943)
-- Article: 'Museum im Gildhaus. Fortschrittliche Initiative der Provinz Antwerpen'
-- Article: 'E. E.' in ""Brüsseler Zeitung"" dated 17.07.1941
-- Article: 'Rubens und seine Schüler. Austellung in der Pariser Orangerie - Deutschlands Beteiltigung' dated 04.12.1936
-- Article: 'Der Rubens vielgeprüfte Mutter' in "" ""Die Frau"", Blätter der Frankfurter Zeitung"" dated 18.08.1941
-- Article: 'P. P. Rubens. Inleiding tot de tentoonstelling bij J. Goudstikker te Amsterdam' in ""Nieuwe Rotterdamsch Courant""
-- Article: 'De schitterend geslaagde Rubensfeesten te Siegen' in ""Volk en Staat"" dated July 1941
-- Article: 'Peter Paul Rubens' Daimonion' in ""Westdeutscher Beobachter"" dated 26.01.1944
-- Article: 'Mythos von Rubens' in ""Kölnische Zeitung"" dated 23.11.1943
-- Article: 'Rubens oder Die Freude zu leben' in ""Berliner Börsen - Zeitung"" dated 08.01.1944
-- Article: 'Finanzpolitiker Rubens. Aus Briefen des Malers' in ""Deutschen Allgemeinen Zeitung"" dated 29.09.1944
-- Article: 'Rubens, der Maler flanderns'
-- Article: 'A Siegen ville natale de Rubens' in ""Le soir"" dated 15.07.1941
-- Article: 'De grootsche Rubens-feesten te Siegen' in ""De Dag"" dated 15.07.1941
-- Article: 'De schitterend geslaagde Rubensfeesten te Siegen' in ""Volk en Staat"" dated 17.07.1941
-- Article: 'Die Rubensfeier in Siegen. Stiftung eines Rubens-Preises für niederdeutsche oder flämische Künstler' in ""Brüsseler Zeitung"" dated 16.07.1941
-- Article: 'Huldigung an einen grossen Europäer. Zum 300. Todestage des Peter Paul Rubens' in ""Brüsseler Zeitung""
-- Article: 'Die Landschaften des Rubens'
-- Article: 'Auferstehung des Rubenshauses in Antwerpen' in ""Frankfurter Zeitung"" dated 27.04.1940
-- Article: 'Rubens. Zur 300. Wiederkehr seines Todestages am 30. Mai. I.'
-- Article: 'Rubens. II.'
-- Article: 'Rätsel um ein Rubens-Gemälde' in ""Frankfurter Zeitung"" dated 04.07.1940
-- Article: 'Der hauptmeister des flämischen Barocks. Zum 300. Todestag des Peter Paul Rubens'
-- Article: 'Die skizzen des Rubens.'
-- Article: 'Zeitenwende: Rubens. Aus Anlass seines 300. Todestages'
-- Article: 'Der edelste Bürger der Stadt Antwerpen. Zum Rubensjahr 1940 - Ausstellung von kupferstichen Rubens'scher Werke. Die Renovirung des Wohnhuses des Malers in Antwerpen' in ""Brüsseler Zeitung"" dated 18.07.1940",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000245,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4128,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4128/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d88b5d3d-718f-5a57-ab25-1b1188391dcd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a0703cdb-95bf-4a31-a300-ba368b301321"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 202,repository numbers,,,,,,,,,,,,,,
-ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 15,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4128,record identifiers,https://data.rubenianum.be//ark:/86530/ba23a0c1-d986-5eae-80e0-38b44d2f32a6,object identifier,Documentatiemappen,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a27be76-d2a9-4cb8-b38c-0d0a791d0d6a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a49d85f6-a63c-4f5d-8457-4c2b2cff241b"", ""inverseOntologyProperty"": """"}]"
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Fremde Zeitungsaufsätze zu Rubens&quot;</p>
+<ul>
+<li>Advert about Evers' conferences in Brussels (15/19/26.02.1943)</li>
+<li>Article: 'Museum im Gildhaus. Fortschrittliche Initiative der Provinz Antwerpen'</li>
+<li>Article: 'E. E.' in &quot;Brüsseler Zeitung&quot; dated 17.07.1941</li>
+<li>Article: 'Rubens und seine Schüler. Austellung in der Pariser Orangerie - Deutschlands Beteiltigung' dated 04.12.1936</li>
+<li>Article: 'Der Rubens vielgeprüfte Mutter' in &quot; &quot;Die Frau&quot;, Blätter der Frankfurter Zeitung&quot; dated 18.08.1941</li>
+<li>Article: 'P. P. Rubens. Inleiding tot de tentoonstelling bij J. Goudstikker te Amsterdam' in &quot;Nieuwe Rotterdamsch Courant&quot;</li>
+<li>Article: 'De schitterend geslaagde Rubensfeesten te Siegen' in &quot;Volk en Staat&quot; dated July 1941</li>
+<li>Article: 'Peter Paul Rubens' Daimonion' in &quot;Westdeutscher Beobachter&quot; dated 26.01.1944</li>
+<li>Article: 'Mythos von Rubens' in &quot;Kölnische Zeitung&quot; dated 23.11.1943</li>
+<li>Article: 'Rubens oder Die Freude zu leben' in &quot;Berliner Börsen - Zeitung&quot; dated 08.01.1944</li>
+<li>Article: 'Finanzpolitiker Rubens. Aus Briefen des Malers' in &quot;Deutschen Allgemeinen Zeitung&quot; dated 29.09.1944</li>
+<li>Article: 'Rubens, der Maler flanderns'</li>
+<li>Article: 'A Siegen ville natale de Rubens' in &quot;Le soir&quot; dated 15.07.1941</li>
+<li>Article: 'De grootsche Rubens-feesten te Siegen' in &quot;De Dag&quot; dated 15.07.1941</li>
+<li>Article: 'De schitterend geslaagde Rubensfeesten te Siegen' in &quot;Volk en Staat&quot; dated 17.07.1941</li>
+<li>Article: 'Die Rubensfeier in Siegen. Stiftung eines Rubens-Preises für niederdeutsche oder flämische Künstler' in &quot;Brüsseler Zeitung&quot; dated 16.07.1941</li>
+<li>Article: 'Huldigung an einen grossen Europäer. Zum 300. Todestage des Peter Paul Rubens' in &quot;Brüsseler Zeitung&quot;</li>
+<li>Article: 'Die Landschaften des Rubens'</li>
+<li>Article: 'Auferstehung des Rubenshauses in Antwerpen' in &quot;Frankfurter Zeitung&quot; dated 27.04.1940</li>
+<li>Article: 'Rubens. Zur 300. Wiederkehr seines Todestages am 30. Mai. I.'</li>
+<li>Article: 'Rubens. II.'</li>
+<li>Article: 'Rätsel um ein Rubens-Gemälde' in &quot;Frankfurter Zeitung&quot; dated 04.07.1940</li>
+<li>Article: 'Der hauptmeister des flämischen Barocks. Zum 300. Todestag des Peter Paul Rubens'</li>
+<li>Article: 'Die skizzen des Rubens.'</li>
+<li>Article: 'Zeitenwende: Rubens. Aus Anlass seines 300. Todestages'</li>
+<li>Article: 'Der edelste Bürger der Stadt Antwerpen. Zum Rubensjahr 1940 - Ausstellung von kupferstichen Rubens'scher Werke. Die Renovirung des Wohnhuses des Malers in Antwerpen' in &quot;Brüsseler Zeitung&quot; dated 18.07.1940</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000245,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4128,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4128/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d88b5d3d-718f-5a57-ab25-1b1188391dcd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7878efe7-5c91-48d2-ad2f-e31c129977f9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 202,repository numbers,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 15,titles proper,Dutch (language),,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ba23a0c1-d986-5eae-80e0-38b44d2f32a6,tg:rubdoc:4128,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,30 +1,30 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:6909_#2,https://data.letterenhuis.be/ark:/24970/3ed08327-088b-5a03-8b89-a1a7b5e9bedf,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_AcquisitionNumbers,2,,,,216199,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:6909_#2,record identifiers,https://data.letterenhuis.be/ark:/24970/3ed08327-088b-5a03-8b89-a1a7b5e9bedf,object identifier,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_AcquisitionNumbers,2,,,,216199,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_AnnotationsMaterial,2,,,,,,adm.note,"**Publicatie:** Willekens, Emiel, _Hendrik Conscience en zijn tijd_.
 Antwerpen: Stichting Mercator-Plantijn, 1983, 246 pp., nr. 415. Voor een
 beschrijving van de viering, zie p.187.","**Publicatie:** Willekens, Emiel, _Hendrik Conscience en zijn tijd_.
 Antwerpen: Stichting Mercator-Plantijn, 1983, 246 pp., nr. 415. Voor een
-beschrijving van de viering, zie p.187.",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+beschrijving van de viering, zie p.187.",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Conditions,2,,,,,,note.lhconditie,"<p>Licht beschadigde originele lijst</p>
 ",,,,,,,,,,,"<p>Licht beschadigde originele lijst</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatkaderic,"43,1 x 34,7",,,,,,,,,,,,,,,,,"43,1 x 34,7 - height, width, depth, kenmerken/lhformatic.lhformatkaderic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"30 x 22,5",,,,,,,,,,,,,,,,,"30 x 22,5 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatkaderic,,,,,,,,,,,,,,,350,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatkaderic,,,,,,,,,,,,,,,258,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,300,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,225,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:6909_#2,216199,,SC 12 A 2,3ed08327-088b-5a03-8b89-a1a7b5e9bedf,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatkaderic,"43,1 x 34,7",,,,,,,,,,,,,,,,,"43,1 x 34,7 - height, width, depth, kenmerken/lhformatic.lhformatkaderic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"30 x 22,5",,,,,,,,,,,,,,,,,"30 x 22,5 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatkaderic,,,,,,,,,,,,,,,350,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatkaderic,,,,,,,,,,,,,,,258,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,300,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,225,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:6909_#2,216199,,SC 12 A 2,3ed08327-088b-5a03-8b89-a1a7b5e9bedf,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Midden boven de prent gedrukt: <em>L'ILLUSTRATION BELGE</em>;</p>
 <p>rechts boven de prent gedrukt: <em>523</em>;</p>
 <p>midden onder de prent met potlood: <em>25-7bre-1881</em>;</p>
 <p>midden onder de prent gedrukt: <em>Les Fètes Conscience / 1. La cantate au Musée<br />
 Wiertz. - 2. Le concert à la Bourse. - 3. Au raout de l'Hòtel de Ville /<br />
 Dessin de BULENS</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,
-3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1881.0,open
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lithography,,,,,,,,,,,,,,,,
+3ed08327-088b-5a03-8b89-a1a7b5e9bedf,tg:lhpr:6909_#2,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1881.0,open,,,,,,,,

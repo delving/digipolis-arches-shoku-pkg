@@ -1,20 +1,23 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1114,https://data.rubenianum.be//ark:/86530/1b62d3ff-06c1-5a17-9657-96c1fd122fcf,Handschriften,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5c2d44d6-ca05-4e52-bbe3-7890e7e8c134"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5b998cc2-03b9-4fe5-b7a2-ff12f70585df"", ""inverseOntologyProperty"": """"}]"
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ad [Addendum] Months (& costumes): Warburg Institute
-Ernst Buchner, Monats- und Jahreszeitenbilder Hans Wertingers, Zeitschrift für bildende Kunst 61, 1927/28, pp. 106-112:
-He reproduces p. 110 
-1) Frühlingsbild in Ermitage
-2) 'März', Slg. Henkell, Wiesbaden, repr. p. 106
-3) Juni: Germ[anisches] Nationalmus[eum] Nürnberg, repr. p. 108
-4) 'August', Nürnberg, repr. 109 (Cornharvest) - 'Frühling' Ermitage, repr. 110 (first published by [Jakob] Rosenberg, [Die Gemäldesammlung der Ermitage (2)], 'Kunst & Künstler [Illustrierte Monatsschrift für Bildende Kunst und Kunstgewerbe], XXV, [1927], [Heft 6, pp. 217- 223], p. 217) adest
-5) Winter, Nürnberg Germanisches National, repr. p. 110
-6) The 'October' in Ermitage (\*) not mentioned by Buchner or Rosenberg (\*) Cat. 1958, II, p. 305 and repr. in colourplate in [M. Liebmann], Deutsche Malerei im Museen in Sowjet Rusland [= der Sowjetunion, Leningrad: Aurora Verlag], 1972, N° 17.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14747183,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wertinger, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, The Warburg Institute Library",,,,,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001114,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubgr:1114,record identifiers,https://data.rubenianum.be//ark:/86530/1b62d3ff-06c1-5a17-9657-96c1fd122fcf,object identifier,Handschriften,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d40075ca-f7cf-4810-a5ce-958ba3780471"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7aa6b440-f296-4cee-86e4-51db828b218b"", ""inverseOntologyProperty"": """"}]"
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Ad [Addendum] Months (&amp; costumes): Warburg Institute<br />
+Ernst Buchner, Monats- und Jahreszeitenbilder Hans Wertingers, Zeitschrift für bildende Kunst 61, 1927/28, pp. 106-112:<br />
+He reproduces p. 110</p>
+<ol>
+<li>Frühlingsbild in Ermitage</li>
+<li>'März', Slg. Henkell, Wiesbaden, repr. p. 106</li>
+<li>Juni: Germ[anisches] Nationalmus[eum] Nürnberg, repr. p. 108</li>
+<li>'August', Nürnberg, repr. 109 (Cornharvest) - 'Frühling' Ermitage, repr. 110 (first published by [Jakob] Rosenberg, [Die Gemäldesammlung der Ermitage (2)], 'Kunst &amp; Künstler [Illustrierte Monatsschrift für Bildende Kunst und Kunstgewerbe], XXV, [1927], [Heft 6, pp. 217- 223], p. 217) adest</li>
+<li>Winter, Nürnberg Germanisches National, repr. p. 110</li>
+<li>The 'October' in Ermitage (*) not mentioned by Buchner or Rosenberg (*) Cat. 1958, II, p. 305 and repr. in colourplate in [M. Liebmann], Deutsche Malerei im Museen in Sowjet Rusland [= der Sowjetunion, Leningrad: Aurora Verlag], 1972, N° 17.</li>
+</ol>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_ExternalRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gepubliceerd in /als,c:lvd:14747183,https://anet.be/record/rub/opacrub/,Bibliotheekcatalogus van het Rubenianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Keywords,1,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wertinger, Hans",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Keywords,2,kenmerken.rubkeyword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Londen, The Warburg Institute Library",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/gr/000001114,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
 1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,1,if.rawcontent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<record>
 			<priref>3368</priref>
 			<number>AFG_023_062</number>
@@ -106,9 +109,9 @@ He reproduces p. 110
 			<documentation.title.article/>
 		</record>
 		
-",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1114,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1114/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bde2d79f-a266-5fb9-9a15-fa7828653c6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3400c82d-82df-4e64-bd9b-9366b8133d1f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_062,repository numbers,,,,,,,,,,,,,,
-1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_062,titles proper,Dutch (language),,,,,,,,,,,
+",commentaar gebruiker,False,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubgr:1114,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubgr:1114/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bde2d79f-a266-5fb9-9a15-fa7828653c6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2ec75e78-9a7d-4c0b-980f-3998a48fec36"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_062,repository numbers,,,,,,,,,,,,,,,,,
+1b62d3ff-06c1-5a17-9657-96c1fd122fcf,tg:rubgr:1114,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AFG_023_062,titles proper,Dutch (language),,,,,,,,,,,,,,

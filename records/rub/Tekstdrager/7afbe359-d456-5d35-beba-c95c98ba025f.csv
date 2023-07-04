@@ -1,45 +1,59 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,ire.isaar.uuid,source_ire_type,Connected Subject Role,ire.isaar.id,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Identifier,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,Documented Place Name Widget,Creation Place Widget,Transactions
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4096,https://data.rubenianum.be//ark:/86530/7afbe359-d456-5d35-beba-c95c98ba025f,Documentatiemappen,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d6c9de68-dc6f-400b-a74f-eea3cbb554f1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""665a18d8-512b-4e2a-9a18-05afb7d627b6"", ""inverseOntologyProperty"": """"}]"
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_ConnectedSubjects,,,au::16151,,,,,,,,,,,,,,rub,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""isCapacity"":false}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_CreationActors,,,au::6492,,,,,,,rubdoc,,,,,,,rub,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,,Tekstdrager,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""isCapacity"":false}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annotation on the envelope: ""Rubens Zeichnungen""
-
-- First subfolder (Annotation: ""Rubens-Zeichnung Bekehrung des Paulus"") addressed (inside) to ""Herrn Dr. Hans Gerhard Evers Heidelberg Bismarckstr. 17"":
-    - Draft text: ""Eine Zeichnung zur ""Bekehrung des Paulus"" von Rubens"" by Evers
-    - Extracts from different publications
-    - Notes of the seminary about 'Callisto' drawing (dated 1949)
-- Reproductions of drawings
-- List of Rubens' drawings
-- Paper about Leonardo's studies of tree by E. Schalkhauβer
-- Extracts from different publications about drawings
-- Text: ""Zwei Zeichnungen zur Antwerpener Kreuzaufrichtung""
-- Second subfolder:
-    - Photos of the essays 'Eine neuerworbene Skizze aus dem Rubens-Kreise' by W. v. Bode and 'Van Dycks Zeichnung 'Abladen der Jagdbeute' by L. Burchard in ""Amtliche Berichte aus den preusz. Staatssammlungen"" (1917 and 1919)
-    - Photos of the essay 'Rubens ähnliche van - Dyck - Zeichnungen' by L. Burchard in ""Berliner Kunstgeschichtliche Gesellschaft"" 1932
-    - Extracts from different publications
-    - Photos of 'Rubens Drawings' by L. van Puyvelde in ""Burlington Magazine"" 77? 1941?
-    - Photos of 'Rubens as a Draughtsman' by Regteren-Altena, in ""Burlington Magazine""
-    - Photos of drawings
-    - Photos of 'Nyerhvervede Rubens tegninger' by J. Sthyr, in ""Kunstmuseets Aarscrift"" n.23, 1936
-    - Photos of 'Zu Peter Paul Rubens als Zeichner' by F. Thöny, in ""Berliner Amtl. Berichte"" n.61, 1940
-- Correspondence with the director of the Albertina (dated 1949), with Friedrich von Artus (dated 1944), with Julius Böhler (dated 1942), 
-- Bibliographic references
-- Article: 'Zeichnungen von Rubens. Austellung in Brüssel'
-- Third subfolder (Annotation: ""Rubens Zeichnungen: Landschaft""):
-    - Photos of landscapes
-    - Draft text: ""Die Landschaftszeichnungen des P. P. Rubens""
-    - Extracts from different publications
-- Fourth subfolder (Annotation: ""Bekehrung des Paulus""):
-    - Reproductions of 'The Conversion of Saint Paul' and its sketch
-    - Draft text: ""Eine Zeichnung zur ""Bekehrung des Paulus"" von Rubens"" by Evers
-    - Correspondence with Gustav Grote (dated 1945), with Hannema, with Hofrat (dated 1943), with E. Trautscholdt (dated 1943), with Hans Boerner (dated 1943)
-    - Photos of 'Die Bekehrung des Paulus bei Rubens' by E. Kieser, in ""Cicerone XIX"", 2, 1927",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000216,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4096,brocade id,False,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4096/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""38a5690d-abf8-5175-b43c-2703aac092e3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ab9acc22-dcd9-402a-b450-e6177bf0fd29"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 173,repository numbers,,,,,,,,,,,,,,
-7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 7,titles proper,Dutch (language),,,,,,,,,,,
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,kenmerken.rubobjnrgr,isaad,Associated Archive,dataset,Associated Record Relation,Associated Brocade ID,Associated Record URL Type,Associated Record Note,related_uuid,Associated Record,museum,resource_model,ire.isaar.uuid,source_ire_type,Connected Subject Role,au_code,g_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,matched on,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation URL,External Relation URL Prefix,External Relation URL Type,External Relation Note,External Relation Note Language,External Relation Note Type,Keyword,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Other Identifier,Other Identifier Type,Title,Title Type,Title Language,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Record Type,source_date,Copyright Revision Date,Copyright Type,Documented Place Order,place_au_code,Documented Place Name Widget,Creation Place Widget,Transactions
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rubenianum,tg:rubdoc:4096,record identifiers,https://data.rubenianum.be//ark:/86530/7afbe359-d456-5d35-beba-c95c98ba025f,object identifier,Documentatiemappen,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,,e73_ChangeHistoryRelations,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e15a86e6-fde8-4202-89cb-0f332301a2da"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f8722d76-fdf4-414f-9024-20eb14908c05"", ""inverseOntologyProperty"": """"}]"
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zonder datum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>Annotation on the envelope: &quot;Rubens Zeichnungen&quot;</p>
+<ul>
+<li>First subfolder (Annotation: &quot;Rubens-Zeichnung Bekehrung des Paulus&quot;) addressed (inside) to &quot;Herrn Dr. Hans Gerhard Evers Heidelberg Bismarckstr. 17&quot;:
+<ul>
+<li>Draft text: &quot;Eine Zeichnung zur &quot;Bekehrung des Paulus&quot; von Rubens&quot; by Evers</li>
+<li>Extracts from different publications</li>
+<li>Notes of the seminary about 'Callisto' drawing (dated 1949)</li>
+</ul>
+</li>
+<li>Reproductions of drawings</li>
+<li>List of Rubens' drawings</li>
+<li>Paper about Leonardo's studies of tree by E. Schalkhauβer</li>
+<li>Extracts from different publications about drawings</li>
+<li>Text: &quot;Zwei Zeichnungen zur Antwerpener Kreuzaufrichtung&quot;</li>
+<li>Second subfolder:
+<ul>
+<li>Photos of the essays 'Eine neuerworbene Skizze aus dem Rubens-Kreise' by W. v. Bode and 'Van Dycks Zeichnung 'Abladen der Jagdbeute' by L. Burchard in &quot;Amtliche Berichte aus den preusz. Staatssammlungen&quot; (1917 and 1919)</li>
+<li>Photos of the essay 'Rubens ähnliche van - Dyck - Zeichnungen' by L. Burchard in &quot;Berliner Kunstgeschichtliche Gesellschaft&quot; 1932</li>
+<li>Extracts from different publications</li>
+<li>Photos of 'Rubens Drawings' by L. van Puyvelde in &quot;Burlington Magazine&quot; 77? 1941?</li>
+<li>Photos of 'Rubens as a Draughtsman' by Regteren-Altena, in &quot;Burlington Magazine&quot;</li>
+<li>Photos of drawings</li>
+<li>Photos of 'Nyerhvervede Rubens tegninger' by J. Sthyr, in &quot;Kunstmuseets Aarscrift&quot; n.23, 1936</li>
+<li>Photos of 'Zu Peter Paul Rubens als Zeichner' by F. Thöny, in &quot;Berliner Amtl. Berichte&quot; n.61, 1940</li>
+</ul>
+</li>
+<li>Correspondence with the director of the Albertina (dated 1949), with Friedrich von Artus (dated 1944), with Julius Böhler (dated 1942),</li>
+<li>Bibliographic references</li>
+<li>Article: 'Zeichnungen von Rubens. Austellung in Brüssel'</li>
+<li>Third subfolder (Annotation: &quot;Rubens Zeichnungen: Landschaft&quot;):
+<ul>
+<li>Photos of landscapes</li>
+<li>Draft text: &quot;Die Landschaftszeichnungen des P. P. Rubens&quot;</li>
+<li>Extracts from different publications</li>
+</ul>
+</li>
+<li>Fourth subfolder (Annotation: &quot;Bekehrung des Paulus&quot;):
+<ul>
+<li>Reproductions of 'The Conversion of Saint Paul' and its sketch</li>
+<li>Draft text: &quot;Eine Zeichnung zur &quot;Bekehrung des Paulus&quot; von Rubens&quot; by Evers</li>
+<li>Correspondence with Gustav Grote (dated 1945), with Hannema, with Hofrat (dated 1943), with E. Trautscholdt (dated 1943), with Hans Boerner (dated 1943)</li>
+<li>Photos of 'Die Bekehrung des Paulus bei Rubens' by E. Kieser, in &quot;Cicerone XIX&quot;, 2, 1927</li>
+</ul>
+</li>
+</ul>
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN14/doc/000000216,referentienummer,False,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:rubdoc:4096,brocade id,False,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opacrubobj/tg:rubdoc:4096/N,brocade url,False,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_MaterialRecords,1,materialRecords,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""38a5690d-abf8-5175-b43c-2703aac092e3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cffcfe6d-e181-4f19-8d28-57b1f42684ac"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_OtherIdentifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA 010 / 173,repository numbers,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Titles,1,id.title/ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Akte 7,titles proper,Dutch (language),,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Titles,,,au::16151,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,256eaded-a15e-57cd-83e0-8cf4eba910ee,vb,keywords,au::16151:1,au::16151g:1,,"dlod={""suggest"":[""/agents/people/1728157"",""au::16151"",""au::16151:1"",""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""Peter Paul Rubens"",""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b""],""name"":""Peter Paul Rubens"",""ark"":""ark:/83110/x0/75e8dc90-c086-592c-91bc-60f1a308095b"",""uri"":""/agents/people/1728157"",""id"":""au::16151:1"",""resourceArk"":""ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/256eaded-a15e-57cd-83e0-8cf4eba910ee,au_code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7afbe359-d456-5d35-beba-c95c98ba025f,tg:rubdoc:4096,e73_Titles,,,au::6492,,,,,,,rubdoc,,,,,,,rub,Tekstdrager,d4999de7-b3bf-5c35-905e-4c5c6224b032,au,,au::6492:1,au::6492g:1,,,,au_code,authors,,"dlod={""suggest"":[""/agents/people/694644"",""au::6492"",""au::6492:1"",""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""Hans Gerhard Evers"",""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58""],""name"":""Hans Gerhard Evers"",""ark"":""ark:/83110/x0/fbfdfc02-a194-5577-9731-dc0c6da95d58"",""uri"":""/agents/people/694644"",""id"":""au::6492:1"",""resourceArk"":""ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/d4999de7-b3bf-5c35-905e-4c5c6224b032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:2325_#2,https://data.letterenhuis.be/ark:/24970/6b825cb3-f7e9-5566-9334-468b0625879b,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_AcquisitionNumbers,2,,,,11888,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_type_source_field,Carrier Type,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Warehouse Location (begin),Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,mat_source_field,Material,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhpr:2325_#2,record identifiers,https://data.letterenhuis.be/ark:/24970/6b825cb3-f7e9-5566-9334-468b0625879b,object identifier,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_AcquisitionNumbers,2,,,,11888,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_AnnotationsMaterial,2,,,,,,adm.note,"(4) _Aan Mevrouw A. de Weert, de begaafde Kunstschilderes, met mijn beste
 hulde._;(5) _""Houdt u recht en ziet niet omme!"" / ""Rust roest!"" / Aan de
 wakkere jongens van ""De Vlaamse Wacht"" volgaarne, op hun vereerend verlangen,
@@ -9,24 +9,24 @@ de hulde : aan Vader de Beucker._","(4) _Aan Mevrouw A. de Weert, de begaafde Ku
 hulde._;(5) _""Houdt u recht en ziet niet omme!"" / ""Rust roest!"" / Aan de
 wakkere jongens van ""De Vlaamse Wacht"" volgaarne, op hun vereerend verlangen,
 voor hun nationaal ""pantheon"" geschonken / 27 Februari '94-den tweede dag na
-de hulde : aan Vader de Beucker._",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),kenmerken/lhdragerico.lhkleur,cream (color),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+de hulde : aan Vader de Beucker._",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Carrier,1,,,,,,,,,,,,,,kenmerken/lhdragerico.lhdragertypeico,paper (fiber product),kenmerken/lhdragerico.lhkleur,cream (color),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Conditions,2,,,,,,note.lhconditie,"<p>Prent is vergeeld door lichtinval.</p>
 ",,,,,,,,,,,"<p>Prent is vergeeld door lichtinval.</p>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"12,2 x 8,7",,,,,,,,,,,,,,,,,"12,2 x 8,7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"27,6 x 18,2",,,,,,,,,,,,,,,,,"27,6 x 18,2 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,122,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,87,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,276,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,182,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:2325_#2,11888,,Planex KP / M 762,6b825cb3-f7e9-5566-9334-468b0625879b,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatwerkic,"12,2 x 8,7",,,,,,,,,,,,,,,,,"12,2 x 8,7 - height, width, kenmerken/lhformatic.lhformatwerkic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatic.lhformatrandic,"27,6 x 18,2",,,,,,,,,,,,,,,,,"27,6 x 18,2 - height, width, kenmerken/lhformatic.lhformatrandic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,122,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatwerkic,,,,,,,,,,,,,,,87,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,276,hoogte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Dimensions,,,,,,,kenmerken/lhformatic.lhformatrandic,,,,,,,,,,,,,,,182,breedte met rand,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Items,2,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,tg:lhpr:2325_#2,11888,,Planex KP / M 762,6b825cb3-f7e9-5566-9334-468b0625879b,,,,remarks,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>r.o.: <em>JVF</em></p>
 <p>m.o.: <em>Pol de Mont</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionActors,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beaf8f23-a392-5888-8a00-83be39687d1e,au::1754,op,dedicatees,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionActors,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a2aae2fd-ed5d-5321-afbc-0a859e536cdf,au::21142,op,dedicatees,,,,,,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pku,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,copper engraving (printing process),,,,,,
-6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,,,lhpr,,,,,,,,,,,,,,,kenmerken/lhtechbasispr.lhtechpr,ink,,,,,,,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ObjectTypes,1,,,,,,default_object_type,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drawings (visual works),,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionActors,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beaf8f23-a392-5888-8a00-83be39687d1e,au::1754,op,dedicatees,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionActors,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a2aae2fd-ed5d-5321-afbc-0a859e536cdf,au::21142,op,dedicatees,,,,,,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechbasispr.lhtechpr,pku,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,copper engraving (printing process),,,,,,,,,,,,,,,,
+6b825cb3-f7e9-5566-9334-468b0625879b,tg:lhpr:2325_#2,e22_UsageRestrictions,,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required,,,,,,,,

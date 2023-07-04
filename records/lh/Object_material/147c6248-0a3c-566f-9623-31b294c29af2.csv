@@ -1,5 +1,5 @@
-ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:9404_#1,https://data.letterenhuis.be/ark:/24970/147c6248-0a3c-566f-9623-31b294c29af2,,,
+ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,carrier_colour_source_field,Carrier Colour,Condition State Note,Condition State Notes Language,Condition State Notes Type,Dimension Value,Dimension Type,Dimension Measurement Unit,Dimension Source Note,dataset,adm.id_mat,Plaatsingsnummer,adm.uuid_mat,adm.acquiredVia,mpm_place_holder,Warehouse Location (begin),adm.isadPartOf,Volgnummer,Warehouse Location (end),Source Note Type,Source Note Language,Mark Note,Mark Type,Mark Language,Material,mat_source_field,col_source_field,Material Colour,ire.isaar.uuid,ire.isaar.id,source role,Production Actor Role,Production Actor Widget,Production Actor Identifier,Production Technique Note,Production Technique Type,Keeper,Object Number,Object Number Type,Object Identifier,Object Identifier Type,Object Type,source_date,Restriction Type,dams_uuid,db,Image Manifest,Image Manifest Type,Image URL,Image URL Type,museum,model
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhsc:9404_#1,record identifiers,https://data.letterenhuis.be/ark:/24970/147c6248-0a3c-566f-9623-31b294c29af2,object identifier,,,,,,,,,,,
 147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Conditions,2,,,,,,note.lhconditie,"<ul>
 <li>
 <p>opp.vuil</p>
@@ -16,17 +16,18 @@ ResourceID,brocade.id,card,order,Acquisition Brocade ID,Acquisition Widget,Acqui
 <p>lacunes in de afwerkingslaag.</p>
 </li>
 </ul>
-",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 32,5 b 24,5 d 3,5",,,,,,,,,,,,,,,"h 32,5 b 24,5 d 3,5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,325,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,245,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,35,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:9404_#1,K2 B 24 C,147c6248-0a3c-566f-9623-31b294c29af2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",Nederlands,condition/examination description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_DimensionSourceNotes,1,,,,,,kenmerken/lhformatsc.lhformatwerksc,"h 32,5 b 24,5 d 3,5",,,,,,,,,,,,,,,"h 32,5 b 24,5 d 3,5 - height, width, depth, kenmerken/lhformatsc.lhformatwerksc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,325,hoogte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,245,breedte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Dimensions,,,,,,,kenmerken/lhformatsc.lhformatwerksc,,,,,,,,,,,,,35,diepte,millimeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Items,1,,,,,,,,,,,,,,,,,,,,,,,lhsc,tg:lhsc:9404_#1,K2 B 24 C,147c6248-0a3c-566f-9623-31b294c29af2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_Marks,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<p>R-onder: <em>L.Sebregts</em></p>
 <p>Onder: <em>Dr.J.O.DE GRUYTER</em></p>
-",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,bronze (color),,,,,,,,,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,
-147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1935.0,permission required
+",inscriptions,Nederlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,gypsum,kenmerken/lhtechbasissc.lhtechsc,,,,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_MaterialColour,,,,,,,,,,,,,,,,,,,,,,,,lhsc,,,,,,,,,,,,,,,paint (coating),kenmerken/lhtechaanvsc.lhtechtaddsc,kenmerken/lhtechaanvsc.lhkleur,bronze (color),,,,,,,,,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_ObjectTypes,1,,,,,,kenmerken.lhgenresc,gpl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plaques (flat objects),,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_ProductionTechniques,1,,,,,,kenmerken/lhtechaanvsc.lhtechtaddsc,xpa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,artificial patina,,,,,,,,,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,e22_UsageRestrictions,,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1935.0,permission required,,,,,,,,
+147c6248-0a3c-566f-9623-31b294c29af2,tg:lhsc:9404_#1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mli5KgEYTMWm6oGeuL7l9dho,lhsc,https://dams.antwerpen.be/iiif/Mli5KgEYTMWm6oGeuL7l9dho/manifest,DAMS Manifest,https://dams.antwerpen.be/asset/Mli5KgEYTMWm6oGeuL7l9dho,DAMS Image,lh,Object
