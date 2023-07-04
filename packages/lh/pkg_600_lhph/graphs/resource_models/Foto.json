@@ -3919,7 +3919,7 @@
             "name": "Foto",
             "nodegroups": [
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "0a6137ea-b4f2-11ec-9349-9cf387da2c40",
                     "parentnodegroup_id": "397e446e-ac0f-11ec-b19f-9cf387da2c40"
@@ -3997,7 +3997,7 @@
                     "parentnodegroup_id": "397e2c18-ac0f-11ec-b19f-9cf387da2c40"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "397e1d5e-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": "397e2c18-ac0f-11ec-b19f-9cf387da2c40"
