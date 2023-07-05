@@ -1,6 +1,9 @@
 {
   "permitted_resource_relationships": [],
-  "business_data_load_order": [
+  "FULL_business_data_load_order": [
+    "Iconografie.csv"
+  ],
+  "FULL_business_data_load_order": [
     "Change History Log.csv",
     "Iconografie_material.csv",
     "Iconografie.csv",

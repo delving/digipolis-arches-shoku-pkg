@@ -2534,6 +2534,23 @@
                     "sortorder": 3,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4a8f4a3c-ac0f-11ec-b19f-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Creation Time Span Source Note",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ff4ba262-1b78-11ee-9982-960000f945b2",
+                    "label": "Creation Time Span Source Note",
+                    "node_id": "4a8efcda-ac0f-11ec-b19f-9cf387da2c40",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 }
             ],
             "color": "rgba(68,214,44,1)",
@@ -3993,7 +4010,7 @@
                     "parentnodegroup_id": "4a8f45d2-ac0f-11ec-b19f-9cf387da2c40"
                 },
                 {
-                    "cardinality": "n",
+                    "cardinality": "1",
                     "legacygroupid": null,
                     "nodegroupid": "4a8f45d2-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -4429,7 +4446,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "Creation Time Span Source Note",
+                    "name": "Creation Time Span Source Note_NOPE_TW",
                     "nodegroup_id": "4a8f45d2-ac0f-11ec-b19f-9cf387da2c40",
                     "nodeid": "4a8efcda-ac0f-11ec-b19f-9cf387da2c40",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
@@ -7041,9 +7058,9 @@
         }
     ],
     "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "db": "PostgreSQL 13.3 (Debian 13.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit",
         "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
+        "os": "Linux",
+        "os version": "4.19.0-17-amd64"
     }
 }
