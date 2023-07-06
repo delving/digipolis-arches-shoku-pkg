@@ -3943,7 +3943,7 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "n",
+                    "cardinality": "1",
                     "legacygroupid": null,
                     "nodegroupid": "397de37a-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3955,7 +3955,7 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "n",
+                    "cardinality": "1",
                     "legacygroupid": null,
                     "nodegroupid": "397df7a2-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -3973,7 +3973,7 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "n",
+                    "cardinality": "1",
                     "legacygroupid": null,
                     "nodegroupid": "397e08be-ac0f-11ec-b19f-9cf387da2c40",
                     "parentnodegroup_id": null
@@ -4210,7 +4210,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "Creation Time Span Source Note",
+                    "name": "Creation Time Span Source Note_NOPE_TW",
                     "nodegroup_id": "397e2c18-ac0f-11ec-b19f-9cf387da2c40",
                     "nodeid": "397ddd80-ac0f-11ec-b19f-9cf387da2c40",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
